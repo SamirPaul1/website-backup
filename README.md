@@ -1,60 +1,46 @@
-<div align="center">
-<h1> 
-<a href="https://samir.pages.dev"> samir.pages.dev </a>
-</h1>
-<p align="center">
-<a href="https://dash.cloudflare.com/ce79fafa3d6e75765323fc6e81b2b93e/pages/view/samir">Build and deploy</a>
-</p>
-</div>
+## samir.pages.dev
 
- 
-Live Demo:  **https://samir.pages.dev** 
+Live Demo: \
+👉 **https://samir.pages.dev/** 
 
 
-Modification of: [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
+Created using [Hugo](https://gohugo.io/getting-started/installing/) and [PaperMod](https://github.com/SamirPaulb/hugo-PaperMod).
 
 Steps:
-1. Install [Jekyll](https://jekyllrb.com/docs/installation/windows/).
-2. Make new post ```thor jekyll:new New Post Title```.
-3. Run ```bundle``` to build static codes inside ```/_site``` directory.
-4. Run ```bundle exec jekyll s``` to preview the site. 
-5. Use GitHub Actions to deploy on GitHub Pages and **Delete Gemfile.lock**.
+1. Install Hugo ```choco install hugo-extended -confirm```.
+2. Make new post ```hugo new posts/name-of-post.md```.
+3. Run ```hugo``` to build static codes inside public directory for deploying on Netlify/Vercel.
+4. Run ```hugo server``` to preview the site. 
+5. Use GitHub Actions to deploy on GitHub Pages.
+6. Update theme: Change [SamirPaulb/hugo-PaperMod](https://github.com/SamirPaulb/hugo-PaperMod) -> delete ```themes/PaperMod``` directory -> run ```git clone https://github.com/SamirPaulb/hugo-PaperMod themes/PaperMod --depth=1```
 
-
+---
+### TODO:
+https://github.com/adityatelange/hugo-PaperMod/compare/master...SamirPaulb:hugo-PaperMod:master
+1. Image zoom in effect
+2. Hugo watermark on images
+3. Button to show disqus comments
+4. Decrease the size of H1, H2, H3 tags in blog posts ```/assets/css/common/post-single.css```
+5. About in homepage and 5 paginations.
+6. Open external links in new tab
+7. Code block colour ```assets/css/extended/dracula.css```
+8. Progressive Web App: https://ruddra.com/hugo-implement-pwa/  and  https://discourse.gohugo.io/t/simple-implementation-of-progressive-web-apps-pwa-on-hugo-website/39952
+9. Remove Powered by Hugo on footer
+10. Add p:domain_verify and norton-safeweb-site-verification on ```layouts/partials/head.html```
+11. Refer sitemaps link, rss feed link and  manifest.json on ```layouts/partials/head.html```
+12. Change Links colour https://www.w3schools.com/html/html_links_colors.asp  ```/assets/css/common/post-single.css```
 
 ---
 
-
-
 More instructions:
-1. [Theme's Documentation](https://github.com/cotes2020/jekyll-theme-chirpy#documentation)
-2. [Getting Started](https://chirpy.cotes.page/posts/getting-started/)
-3. [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
-4. In ```_config.toml``` change ```url: https://samir.pages.dev```.
-5. Add all images to ```/assets/img``` and refer as ```/assets/img/File_Name```.
-6. [overriding-theme-defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
-7. [CREATE JEKYLL POSTS FROM THE COMMAND LINE](https://gist.github.com/ichadhr/0b4e35174c7e90c0b31b)
-8. https://github.com/keithmifsud/jekyll-target-blank
-9. [Comma Separator for Tags](https://delim.co/#)
-10. For better performance use [jekyll-responsive-image](https://github.com/wildlyinaccurate/jekyll-responsive-image)
-11. https://github.com/lavas-project/jekyll-pwa
-12. https://planetjekyll.github.io/plugins/top
-13. https://github.com/planetjekyll/awesome-jekyll-plugins
-14. https://github.com/cotes2020/jekyll-theme-chirpy/issues/739#issuecomment-1316300007
-15. https://github.com/cotes2020/jekyll-theme-chirpy/issues/created_by/SamirPaul1
-16. https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=is%3Aissue+author%3Asbkv1+is%3Aclosed
-17. https://github.com/nshidqi/nshidqi.github.io
-
-
-
-
-
-<p align="center">
-  <a href="#"> <img src="/assets/img/long-banner-breck-img-readme-unnamed.png" width="100%"/> </a>
-</p>
-
-#### PageSpeed Insights
-
-<p align="center">
-  <a href="https://samir.pages.dev/"> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/samirpaul1-github-io-report-pagespeed-web-dev.png"/> </a>
-</p>
+1. https://github.com/SamirPaulb/hugo-PaperMod
+2. [Theme Basic Documentation](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)
+3. [Theme Content Documentation](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/)
+4. For local development first install [Chocolatey](https://docs.chocolatey.org/en-us/choco/setup#install-from-powershell-v3) as administrator then install hugo ```choco install hugo-extended -confirm```.
+5. For deploying on Vercel add environment variable ```0.92.0``` [read more](https://github.com/vercel/vercel/discussions/5834#discussioncomment-2544322).
+6. Use GitHub Actions for deploying on GitHub Pages.
+7. For deploying on Netlify add netlify.toml and in config.toml give baseURL to Netlify domain.
+8. Store resources in the ```/static/assets``` directory and refer it by ```/assets/File_Name```.
+9. To deploy on Netlify/Vercel change the baseURL of config.toml to Netlify domain.
+10. Button to show disqus comments: https://discourse.gohugo.io/t/button-to-show-disqus-comments/17418/4
+11. Progressive Web App: **https://blog.jeremylikness.com/blog/implement-progressive-web-app-hugo/**   and  https://ruddra.com/hugo-implement-pwa/  and  https://discourse.gohugo.io/t/simple-implementation-of-progressive-web-apps-pwa-on-hugo-website/39952 
