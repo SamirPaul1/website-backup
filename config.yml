@@ -1,6 +1,6 @@
 baseURL: "https://samir.pages.dev/" 
 title: Samir Paul
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
