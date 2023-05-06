@@ -64,13 +64,13 @@ params:
     TocOpen: false
     hidemeta: false
     comments: false
-    images: ["https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"]
+    images: ["https://spcdn.pages.dev/blog-featured-image-samirpaul-in-blog.webp"]
 
     profileMode:
         enabled: true
         title: Samir Paul
-        subtitle: <a href="#"><img  alt="Welcome" src="https://samirpaulb.github.io/assets/samirpaul-blog-welcome.svg" width="345px" height="29px" loading="lazy" /></a>
-        imageUrl: "https://samirpaulb.github.io/assets/profile-image-SamirPaul-website.webp"
+        subtitle: <a href="#"><img  alt="Welcome" src="/samirpaul-blog-welcome.svg" width="345px" height="29px" loading="lazy" /></a>
+        imageUrl: "/avatar.webp"
         imageTitle: Samir Paul
         # imageWidth: 120
         # imageHeight: 120
@@ -81,10 +81,10 @@ params:
               url: posts
 
     socialIcons:
-        - name: GitHub
-          url: "https://github.com/SamirPaul1"
         - name: LinkedIn
           url: "https://linkedin.com/in/SamirPaul"
+        - name: GitHub
+          url: "https://github.com/SamirPaul1"
         - name: Twitter
           url: "https://twitter.com/SamirPaulb"
         - name: Instagram
