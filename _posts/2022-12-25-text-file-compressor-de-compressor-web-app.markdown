@@ -17,7 +17,7 @@ pin: false
 
 - This webapp uses Huffman Coding for Text Compression and De-compression.
 - Made with ```JavaScript```, ```HTML5``` and ```CSS3```.
-- Live Demo: [**samirpaul1.github.io/txt-compressor**](https://samirpaul1.github.io/txt-compressor/)
+- Live Demo: [**samir.pages.dev/txt-compressor**](https://samir.pages.dev/txt-compressor/)
 - Repository: [github.com/SamirPaul1/txt-compressor](https://github.com/SamirPaul1/txt-compressor)
 
 
@@ -31,7 +31,7 @@ pin: false
 * With the decoding feature, the user can decode the encoded file and get back the original file of the previous size. 
 * I have used JavaScript to implement the algorithms so that browser can compile the code and HTML, CSS to make the website responsive. 
 * Additional instructions and warnings are provided if steps are not followed correctly. 
-* An [Info page](https://samirpaul1.github.io/txt-compressor/info.html) is added to give more information about tecnique of **Lossless Data Compression** with Huffman coding.
+* An [Info page](https://samir.pages.dev/txt-compressor/info.html) is added to give more information about tecnique of **Lossless Data Compression** with Huffman coding.
 
 
 
