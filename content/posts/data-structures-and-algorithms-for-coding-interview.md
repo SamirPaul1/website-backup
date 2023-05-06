@@ -35,8 +35,18 @@ draft: false
 
 
 
+<b> Repository Link: [https://github.com/SamirPaul1/DSAlgo](https://github.com/SamirPaul1/DSAlgo) </b>
+> In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python in a structured manner.
 
-> In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python3 in a structured manner.
+<p align="center">
+<a href="https://github.com/SamirPaul1/DSAlgo"> 
+<img alt="Stars" loading="lazy" src="https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=for-the-badge"> 
+<img alt="Forks" loading="lazy" src="https://img.shields.io/github/forks/SamirPaul1/DSAlgo?style=for-the-badge"> 
+<img alt="Size" loading="lazy" src="https://img.shields.io/github/repo-size/SamirPaul1/DSAlgo?style=for-the-badge"> 
+<img alt="Lines" loading="lazy" src="https://img.shields.io/tokei/lines/github/SamirPaul1/DSAlgo?style=for-the-badge"> 
+</a>
+</p>
+
 
 ### ***Topics Covered***:
 - [x]  [**Dynamic Programming**](https://github.com/SamirPaul1/DSAlgo/tree/main/02_Dynamic-Programming)
@@ -73,15 +83,21 @@ In various folders of the above topics, you can find questions and concepts rela
 - There is a collection of books and pdfs on various important computer science fundamentals in the [**BOOKS-and-PDFs**](https://github.com/SamirPaul1/DSAlgo/tree/main/BOOKS-and-PDFs) directory.📚
 
 
-![DSAlgo repo](https://samirpaulb.github.io/assets/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg "DSAlgo repository")
+![DSAlgo repo](/assets/img/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg "DSAlgo repository")
+
+---
+
+<p align="center">
+<b>View this repository in online VS Code: <a href="https://samirpaul1.github.io/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
+</a></b>
+</p>
+
+
+![DSA Online VSCode](/assets/img/samirpaul.in-DSAlgo-demo.png "DSA Online VSCode")
+
+---
 
 I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻
-
-<div align="center">
-<b>View this repository with improved user experience▶️<a href="https://samirpaul1.github.io/DSAlgo">https://samirpaul.in/DSAlgo</a></b>🚀
-</div>
-
-![DSA Online VSCode](https://samirpaulb.github.io/assets/samirpaul.in-DSAlgo-demo.png "DSA Online VSCode")
 
 **Things you can contribute to:**
 - Update the existing solution with a better one (better complexity).
@@ -89,6 +105,14 @@ I am continuously trying to improve this repository by adding new questions and 
 - Add new resources to [BOOKS-and-PDFs](https://github.com/SamirPaul1/DSAlgo/tree/main/BOOKS-and-PDFs) & [Questions-Sheet](https://github.com/SamirPaul1/DSAlgo/tree/main/Questions-Sheet).
 - Solve issues raised by other people or yourself.
 - Provide well-documented source code with detailed explanations.
+
+
+---
+
+
+### Stargazers over time
+
+<a href="https://github.com/SamirPaul1/DSAlgo"><img alt="Star History" loading="lazy"  src="https://api.star-history.com/svg?repos=SamirPaul1/DSAlgo&type=Date"></a>
 
 
 ---
@@ -1000,10 +1024,13 @@ Day30:
 ### System Design – Concepts📚
     
 
-1. https://github.com/SamirPaul1/system-design-primer
+1. [https://samirpaul.in/posts/system-design-course](https://samir.pages.dev/posts/system-design-course)
 
-2. https://www.freecodecamp.org/news/systems-design-for-interviews/
+2. https://github.com/SamirPaul1/system-design
 
-3. https://github.com/shashank88/system_design
+3. https://www.freecodecamp.org/news/systems-design-for-interviews
 
+4. https://www.geeksforgeeks.org/system-design-tutorial
+
+5. https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 
