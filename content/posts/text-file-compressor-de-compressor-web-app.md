@@ -5,13 +5,12 @@ date: 2022-10-04T15:58:26+08:00
 description: "Text File Compressor De-compressor Web App"
 tags: [blog, coding, computer-science, javascript, project, css, html, encoding, encoder, huffman, huffman-coding, huffman-compression-algorithm, txt, lossless-compression-algorithm, file-compression, huffman-encoder, huffman-decoder, huffman-encoding, txt-encode, txt-decode, lossless-compression, github, projects, web-development, lossless-data-compression, online-file-compressor, txt-compressor, algorithm]
 cover:
-  image: "https://samirpaulb.github.io/assets/blog/text-file-compressor-de-compressor-web-app-preview.webp"
+  image: "/assets/img/text-file-compressor-de-compressor-web-app-preview.webp"
   alt: "Text File Compressor De-compressor Web App"
   caption: "Text File Compressor De-compressor Web App"
 
 images:
-  - https://samirpaulb.github.io/assets/blog/text-file-compressor-de-compressor-web-app-preview.webp
-  - https://samirpaulb.github.io/assets/blog/text-file-compressor-de-compressor-web-app-preview.webp
+  - /assets/img/text-file-compressor-de-compressor-web-app-preview.webp
 
 # videos:
 #   - filename01.mov
@@ -31,7 +30,6 @@ draft: false
 #   appendFilePath: true # to append file path to Edit link
 
 ---
-
 
 
 
@@ -58,22 +56,22 @@ draft: false
 
 ## Video Demo: 
 
-<iframe title="Video Demo" src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" width="100%" height = "380" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
+<iframe title="Video Demo" src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" loading="lazy" width="100%" height = "380" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
 
 
 
-- [x] Landing Page: 
+- [x] Landing Page:
 
-![landing-page](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-landing-page.png) 
+![landing-page](/assets/img/text-file-compressor-de-compressor-web-app-landing-page.png) 
 
 - [x] Upload File
 
-![step1](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step1.png) 
+![step1](/assets/img/text-file-compressor-de-compressor-web-app-step1.png) 
 
 
 - [x] Select Action (Compress / De-compress)
 
-![step2](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step2.png) 
+![step2](/assets/img/text-file-compressor-de-compressor-web-app-step2.png) 
 
 
 - [x] Wait for File Download
@@ -81,20 +79,20 @@ draft: false
 
     * Compression - Compression Ratio is also displayed 
 
-    ![compression](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step3.png)
+    ![compression](/assets/img/text-file-compressor-de-compressor-web-app-step3.png)
     
     * De-compression
 
-    ![decompression](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-decompression.png)
+    ![decompression](/assets/img/text-file-compressor-de-compressor-web-app-decompression.png)
 
-* Additional Instructions and Warnings are provided if the above steps are not followed correctly
+- Additional Instructions and Warnings are provided if the above steps are not followed correctly
 
-![noFile](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-nofile.png) 
+![noFile](/assets/img/text-file-compressor-de-compressor-web-app-nofile.png) 
 
-![smallFile](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-verysmallfile.png)
+![smallFile](/assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png)
 
 
 
-* About the tecnique of Lossless Data Compression with Huffman coding.
+- About the tecnique of Lossless Data Compression with Huffman coding.
 
-![info1](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-info.jpeg) 
+![info1](/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 

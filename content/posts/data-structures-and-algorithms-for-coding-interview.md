@@ -5,12 +5,12 @@ date: 2022-10-04T15:58:26+08:00
 description: "Data Structures and Algorithms for Coding Interview"
 tags: [blog, coding, computer-science, data-structures-and-algorithms-for-coding-interview,data-structures,algorithms,interview,coding-interview,dsalgo,leetcode,gfg,geeksforgeeks,dynamic-programming,sorting-algorithms,linkedList,object-oriented-programming,binary-trees,graph-algorithms,heap,matrix,trie,binary-search,backtracking,stack,queue,greedy,string,bit-manipulation,array,hashmap,dfs,bfs,two-pointers,math,recursion,codechef,codeforces,hackerrank,dsa]
 cover:
-  image: "https://samirpaulb.github.io/assets/blog/dsa-in-python.jpg"
+  image: "/assets/img/dsa-in-python.jpg"
   alt: "Data Structures and Algorithms for Coding Interview"
   caption: "Data Structures and Algorithms for Coding Interview"
 
 images:
-  - https://samirpaulb.github.io/assets/blog/dsa-in-python.jpg
+  - /assets/img/dsa-in-python.jpg
 
 # videos:
 #   - filename01.mov

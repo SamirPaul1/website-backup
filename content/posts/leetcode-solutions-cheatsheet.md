@@ -5,12 +5,12 @@ date: 2022-10-04T15:58:26+08:00
 description: "Leetcode Solutions Cheatsheet"
 tags: [blog, coding, computer-science,leetcode,leetcode-solutions,leetcode-solutions-cheetsheet,leetcode-cheetsheet,important-leetcode-solutions-markdown,markdown,important-leetcode-questions,java,python,cpp]
 cover:
-  image: "https://samirpaulb.github.io/assets/blog/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp"
+  image: "/assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp"
   alt: "Leetcode Solutions Cheatsheet"
   caption: "Leetcode Solutions Cheatsheet"
 
 images:
-  - https://samirpaulb.github.io/assets/blog/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
+  - /assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
 
 # videos:
 #   - filename01.mov
@@ -2333,7 +2333,7 @@ letter combination and the next digits to check.
 
 **Visual Representation** 
 
-![Visual Representation](https://raw.githubusercontent.com/SamirPaulb/assets/main/Screenshot-2022-10-26-180426.png)
+![Visual Representation](https://github.com/github/docs/assets/132539454/d64a445f-aac0-44fd-a59f-2b8f4634b04e)
 
 
 ```java 

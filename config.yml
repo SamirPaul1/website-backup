@@ -64,7 +64,7 @@ params:
     TocOpen: false
     hidemeta: false
     comments: false
-    images: ["https://spcdn.pages.dev/blog-featured-image-samirpaul-in-blog.webp"]
+    images: ["/blog-featured-image-samirpaul-in-blog.webp"]
 
     profileMode:
         enabled: true
@@ -75,9 +75,7 @@ params:
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: About Me
-              url: about
-            - name: Blog
+            - name: Blog Posts
               url: posts
 
     socialIcons:
@@ -131,7 +129,7 @@ params:
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: false # hide on single page
         linkFullImages: false
-        image: "https://spcdn.pages.dev/blog-featured-image-samirpaul-in-blog.webp"
+        image: "/blog-featured-image-samirpaul-in-blog.webp"
         alt: "blog-featured-image"
         caption: "Technical blog"
 
