@@ -15,11 +15,11 @@ pin: false
 ---
 
 
-Embed [<b>samirpaul.in/music/embed</b>](https://samir.pages.dev/music/embed) music player(Lofi Study Music) to any website:
+Embed [<b>samirpaul.in/music/embed</b>](https://samirpaul1.github.io/music/embed) music player(Lofi Study Music) to any website:
 
 ### Demo:
 
-<iframe src="https://samir.pages.dev/music/embed/index.html"
+<iframe src="https://samirpaul1.github.io/music/embed/index.html"
   title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"
@@ -34,7 +34,7 @@ Embed [<b>samirpaul.in/music/embed</b>](https://samir.pages.dev/music/embed) mus
 ### Code:
 
 ```html
-<iframe src="https://samir.pages.dev/music/embed"
+<iframe src="https://samirpaul1.github.io/music/embed"
   title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"

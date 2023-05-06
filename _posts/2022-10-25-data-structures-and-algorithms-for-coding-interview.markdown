@@ -67,7 +67,7 @@ In various folders of the above topics, you can find questions and concepts rela
 ---
 
 <p align="center">
-<b>View this repository in online VS Code: <a href="https://samir.pages.dev/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
+<b>View this repository in online VS Code: <a href="https://samirpaul1.github.io/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
 </a></b>
 </p>
 
