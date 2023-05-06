@@ -131,7 +131,7 @@ params:
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: false # hide on single page
         linkFullImages: false
-        image: "https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"
+        image: "https://spcdn.pages.dev/blog-featured-image-samirpaul-in-blog.webp"
         alt: "blog-featured-image"
         caption: "Technical blog"
 
