@@ -9,7 +9,7 @@ order: 1
 </p>
 <p style="font-family:Tinos"> I am an undergraduate student at the National Institute of Technology Durgapur. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I am passionate about developing complex applications that solve real-world problems impacting millions of users. </p>
 
-<p align="center"><a class="btn-lang" href="https://samirpaul1.github.io/resume" target = "_blank">Download CV</a></p>
+<p align="center"><a class="btn-lang" href="https://samir.pages.dev/resume" target = "_blank">Download CV</a></p>
 
 <hr>
 
@@ -171,3 +171,4 @@ order: 1
     <td><img  alt="certificate" src="/assets/img/portfolio-18.jpg" width=325 height=250></td>
   </tr>
  </table>
+

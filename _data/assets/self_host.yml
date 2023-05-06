@@ -11,9 +11,9 @@ bootstrap:
   css: /assets/lib/bootstrap/bootstrap.min.css
   js: /assets/lib/bootstrap/bootstrap.bundle.min.js
 
-toc:
-  css: /assets/lib/tocbot/tocbot.min.css
-  js: /assets/lib/tocbot/tocbot.min.js
+bootstrap-toc:
+  css: /assets/lib/bootstrap-toc/bootstrap-toc.min.css
+  js: /assets/lib/bootstrap-toc/bootstrap-toc.min.js
 
 fontawesome:
   css: /assets/lib/fontawesome-free/css/all.min.css
@@ -38,8 +38,8 @@ magnific-popup:
   css: /assets/lib/magnific-popup/magnific-popup.css
   js: /assets/lib/magnific-popup/jquery.magnific-popup.min.js
 
-lazysizes:
-  js: /assets/lib/lazysizes/lazysizes.min.js
+lozad:
+  js: /assets/lib/lozad/lozad.min.js
 
 clipboard:
   js: /assets/lib/clipboard/clipboard.min.js
@@ -48,4 +48,4 @@ polyfill:
   js: /assets/lib/polyfill/polyfill.min.js
 
 mathjax:
-  js: /assets/lib/mathjax/tex-chtml.js
+  js: "#"  # /assets/lib/mathjax/tex-chtml.js

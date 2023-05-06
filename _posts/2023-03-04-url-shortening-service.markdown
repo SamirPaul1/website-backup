@@ -18,8 +18,8 @@ pin: false
 # URL Shortening Service
 
 ## Summary
-![overview](/assets/img/system-design/short-url-overview.png)
-![summary](/assets/img/system-design/short-url-detail.png)
+![overview](https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-overview.png)
+![summary](https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-detail.png)
 
 ## Requirements
 - Functional Requirements
