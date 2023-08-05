@@ -3,30 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Samir Paul
-subtitle: 'Software Engineer'
-description: 'Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep.'
-keywords: About, Experience, Education, Resume, Projects, SamirPaul, SamirPaul1, SamirPaulb, Samir Paul NIT Durgapur, Samir Paul Website, samirpaul.in, samirpaul.com, samir.com, paulsamir.com, samirp.com, Samir Paul GitHub, .in, SamirPaul.in, Coding Profiles, Contact, Coding, Python, Problem-Solving, Data Structure, Algorithms, Software Engineer, Software Developer, NIT Durgapur, LinkedIn, GitHub, Portfolio, Website, Profile, Links, SamirPaul, SamirPaul1, SamirPaulb, Samir Paul, SamirPll, samirpaul1, smrpb, Samir Paul twitter, MACHINE LEARNING, OPENSOURCE, MYSQL, PYTHON3, LeetCode, CodeChef, HackerRank, GFG, competitive coding, programming, internship, SEO, projects, git, tech,  tech news,  github, portfolio, personal website, NIT Durgapur, National Institute of Technology Durgapur, IIT, West Bengal, India, software developer, coaching, coding, google, amazon, meta, faang, maangm, maang, project management, microsoft, netflix, apple, usa, seattle, blog, personal blog, tech article, new technology, student, B.Tech, ECE, electronics and communication technology, Samir Paul, SamirPaul1, samirpaul.com, samirpaul.net, samir paul linkedin, samirpaul, personal branding, graduation, backend, fullstack, development, SDE, SWE, Samir, SamirP
-author: Samir Paul
+title: Hexo
+subtitle: ''
+description: ''
+keywords:
+author: John Doe
 language: en
-timezone: 'Asia/Kolkata'
-
-social:
-  fab fa-github: https://github.com/SamirPaul1 || Github || "#hdhfbb"
-  fas fa-envelope: mailto:hi@samirpaul.in || Email || "#000000"
-
-avatar:
-  img: https://avatars.githubusercontent.com/u/77569653
-  effect: true # spinning effect for the avatar
-
-nav:
-  logo: #image
-  display_title: true
-  fixed: false # fixed navigation bar
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://samirpaul1.github.io
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -112,197 +99,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
-# A simple 404 page
-error_404:
-  enable: true
-  subtitle: "Page not found"
-  background: 
-
-Home: / || fas fa-home
-Archives: /archives/ || fas fa-archive
-Tags: /tags/ || fas fa-tags
-Categories: /categories/ || fas fa-folder-open
-List||fas fa-list:
-  Music: /music/ || fas fa-music
-  Movie: /movies/ || fas fa-video
-Link: /link/ || fas fa-link
-About: /about/ || fas fa-heart
-
-highlight_copy: true
-
-highlight_shrink: false # Code blocks are not expanded, need to click '>' to open.
-
-code_word_wrap: false
-
-highlight_height_limit: true
-
-disable_top_img: true
-top_img: false
-
-cover:
-  # Whether to display the article cover on the homepage
-  index_enable: true
-  aside_enable: true
-  archives_enable: true
-  # The position of the cover display on the homepage
-  # Three possible values: left, right, both
-  position: both
-  # Default cover to display when no specific cover is configured
-  default_cover: 
-
-default_cover:
-  - /assets/img/1.webp
-  - /assets/img/2.webp
-  - /assets/img/3.webp
-  - /assets/img/4.webp
-  - /assets/img/5.webp
-
-post_meta:
-  page:
-    date_type: both # created or updated or both, display creation date or update date or both on the homepage
-    date_format: relative # date/relative, display the date or relative date
-    categories: true # true or false, whether to display categories on the homepage
-    tags: true # true or false, whether to display tags on the homepage
-    label: true # true or false, whether to display descriptive text
-  post:
-    date_type: both # created or updated or both, display creation date or update date or both on the article page
-    date_format: relative # date/relative, display the date or relative date
-    categories: true # true or false, whether to display categories on the article page
-    tags: true # true or false, whether to display tags on the article page
-    label: true # true or false, whether to display descriptive text
-
-index_post_content:
-  method: 3
-  length: 500 # If you set the method to 2 or 3, you need to configure the length
-
-# anchor
-# When you scroll in a post, the URL will update according to the header ID.
-anchor:
-  button:
-    enable: true
-    always_show: false
-    icon: # the Unicode value of the Font Awesome icon, such as '\3423'
-  auto_update: true # when you scroll in post, the URL will update according to header id.
-
-photofigcaption: true
-
-# copy settings
-# copyright: Add the copyright information after copied content
-copy:
-  enable: true
-  copyright:
-    enable: false
-    limit_count: 50
-
-post_copyright:
-  enable: true
-  decode: false
-  author_href:
-  license: CC BY-NC-SA 4.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-toc:
-  post: true
-  page: true
-  number: true
-  expand: false
-  style_simple: false # for post
-  scroll_percent: true
-
-related_post:
-  enable: true
-  limit: 6 # Number of recommended posts to display
-  date_type: created # or created or updated to show the creation date or update date of the article
-
-post_pagination: 2
-
-footer:
-  owner:
-    enable: true
-    since: 
-
-aside:
-  enable: true
-  hide: false
-  button: true
-  mobile: true # display on mobile
-  position: right # left or right
-  display:
-    archive: true
-    tag: true
-    category: true
-  card_author:
-    enable: true
-    description:
-    button:
-      enable: false
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/SamirPaul1
-  card_announcement:
-    enable: true
-    content: This is my Blog
-  card_recent_post:
-    enable: true
-    limit: 5 # if set 0 will show all
-    sort: date # date or updated
-    sort_order: # Don't modify the setting unless you know how it works
-  card_categories:
-    enable: true
-    limit: 8 # if set 0 will show all
-    expand: none # none/true/false
-    sort_order: # Don't modify the setting unless you know how it works
-  card_tags:
-    enable: true
-    limit: 40 # if set 0 will show all
-    color: true
-    orderby: random # Order of tags, random/name/length
-    order: 1 # Sort of order. 1, asc for ascending; -1, desc for descending
-    sort_order: # Don't modify the setting unless you know how it works
-  card_archives:
-    enable: true
-    type: monthly # yearly or monthly
-    format: MMMM YYYY # eg: YYYY年MM月
-    order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
-    limit: 8 # if set 0 will show all
-    sort_order: # Don't modify the setting unless you know how it works
-  card_webinfo:
-    enable: true
-    post_count: true
-    last_push_date: true
-    sort_order: # Don't modify the setting unless you know how it works
-
-busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
-
-runtimeshow:
-  enable: true
-  publish_date: 6/7/2018 00:00:00  
-  ## Website launch date
-  # Format: MM/DD/YYYY HH:mm:ss
-  # It can also be written as YYYY/MM/DD HH:mm:ss
-
-readmode: true
-
-# dark mode
-darkmode:
-  enable: true
-  # Display the dark mode toggle button in the bottom right corner
-  button: true
-  autoChangeMode: false
-  # Set the light mode time. The value is between 0 and 24. If not set, the default value is 6 and 18
-  start: # 8
-  end: # 22
-
-# show scroll percent in scroll-to-top button
-rightside_scroll_percent: true
-
-
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
