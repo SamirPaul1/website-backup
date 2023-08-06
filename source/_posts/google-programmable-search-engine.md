@@ -8,7 +8,7 @@ image:
   height: 132
   alt: "Google Programmable Search Engine"
 categories: [Blog]
-tags: [blog, coding, computer-science, google, google-search-withing-webpage, google-programmable-search-engine, programmable-search-engine]
+tags: [blog, coding, computer-science, programmable-search]
 published: true
 sitemap: true
 pin: false

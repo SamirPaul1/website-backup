@@ -2,7 +2,7 @@
 layout: post
 title: Data Structures and Algorithms for Coding Interview
 description: Data Structures and Algorithms for Coding Interview
-cover: /assets/img/dsalgo.gif 
+cover: /assets/img/dsalgo.webp 
 categories: [Data Structures and Algorithms]
 tags: [DSAlgo, dsa-in-python, data-structures-and-algorithms]
 date: 2023-08-15 09:55:52
