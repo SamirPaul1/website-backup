@@ -11,13 +11,16 @@ nav:
 menu:
   Home: / || fas fa-home
   Archives: /archives/ || fas fa-archive
-  Tags: /tags/ || fas fa-tags
-  Categories: /categories/ || fas fa-folder-open
-  List||fas fa-list:
-    Music: /music/ || fas fa-music
-    Movie: /movies/ || fas fa-video
-  Link: /link/ || fas fa-link
-  About: /about/ || fas fa-heart
+  # Tags: /tags/ || fas fa-tags
+  # Categories: /categories/ || fas fa-folder-open
+  About: /about/ || fa-solid fa-user
+  Let's Connect||fas fa-heart:
+    LinkedIn: https://www.linkedin.com/in/samirpaul || fab fa-linkedin
+    GitHub: https://github.com/SamirPaul1 || fab fa-github
+    Instagram: https://instagram.com/SamirPaulb || fab fa-instagram
+    Twitter: https://twitter.com/SamirPaulb || fab fa-twitter
+  # Link: /link/ || fas fa-link
+
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -33,11 +36,11 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/SamirPaul1 || Github || '#24292e'
-  fas fa-envelope: mailto:hi@samirpaul.in || Email || '#4a7dbe'
-  fab fa-linkedin: https://www.linkedin.com/in/SamirPaul || LinkedIn || '#24292e'
-  fab fa-twitter: https://twitter.com/SamirPaulb || Twitter || '#24292e'
-  fab fa-instagram: https://instagram.com/SamirPaulb || Instagram || '#24292e'
+  fab fa-linkedin: https://www.linkedin.com/in/SamirPaul || LinkedIn || '#4a7dbe'
+  fab fa-github: https://github.com/SamirPaul1 || Github || '#4a7dbe'
+  fab fa-instagram: https://instagram.com/SamirPaulb || Instagram || '#4a7dbe'
+  fab fa-facebook: https://www.facebook.com/SamirPaulb || Facebook || '#4a7dbe'
+  fab fa-twitter: https://twitter.com/SamirPaulb || Twitter || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -47,8 +50,8 @@ favicon: /assets/img/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: https://samirpaul.in/assets/img/avatar.webp
-  effect: true
+  img: /assets/img/avatar.webp
+  effect: false
 
 # Disable all banner image
 disable_top_img: true
@@ -139,7 +142,7 @@ anchor:
   auto_update: true # when you scroll in post, the URL will update according to header id.
 
 # figcaption (圖片描述文字)
-photofigcaption: true
+photofigcaption: false
 
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
@@ -215,7 +218,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
+  custom_text: <a href="/sitemap.xml"><i class="fa fa-sitemap"></i> Sitemap</a>&nbsp;&nbsp;<a href="/index.xml"><i class="fa fa-rss"></i> Feed</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/SamirPaul"><i class="fab fa-linkedin"></i> LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/SamirPaul1"><i class="fab fa-github"></i> GitHub</a>&nbsp;&nbsp;<a href="https://twitter.com/SamirPaulb"><i class="fab fa-twitter"></i> Twitter</a>&nbsp;&nbsp;<a href="https://instagram.com/SamirPaulb"><i class="fab fa-instagram"></i> Instagram</a></p>
   copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
@@ -279,9 +282,9 @@ aside:
 # busuanzi count for PV / UV in site
 # 訪問人數
 busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
+  site_uv: false 
+  site_pv: false 
+  page_pv: false 
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
@@ -653,15 +656,15 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: '#A1FFCE,#FAFFD1'
+background: 'linear-gradient(0deg, #007aa9 0%, #0de583 11%, #d2fa88 34%, #eef6bb 44%, #fcffda 71%, #ffffff 100%)'
 
 # Footer Background
-footer_bg: true
+footer_bg: $#ffffff
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
   header: true
-  footer: true
+  footer: false
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside_bottom:
@@ -672,7 +675,7 @@ enter_transitions: true
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: true
+  enable: false
   colorful: true # open particle animation (冒光特效)
   shake: true #  open shake (抖動特效)
   mobile: false
@@ -683,17 +686,17 @@ activate_power_mode:
 # canvas_ribbon (靜止彩帶背景)
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: true
+  enable: false
   size: 150
   alpha: 0.6
   zIndex: -1
-  click_to_change: true
-  mobile: true
+  click_to_change: false
+  mobile: false
 
 # Fluttering Ribbon (動態彩帶)
 canvas_fluttering_ribbon:
-  enable: true
-  mobile: true
+  enable: false 
+  mobile: false
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
@@ -718,11 +721,12 @@ click_heart:
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: false 
   text:
-    # - I
-    # - LOVE
-    # - YOU
+    - Eat
+    - Sleep
+    - Code
+    - Repeat
   fontSize: 15px
   random: false
   mobile: false
@@ -762,7 +766,7 @@ hr_icon:
 subtitle:
   enable: true
   # Typewriter Effect (打字效果)
-  effect: true
+  effect: false 
   # Customize typed.js (配置typed.js)
   # https://github.com/mattboldt/typed.js/#customization
   typed_option:
@@ -895,11 +899,11 @@ lazyload:
 # ---------------
 pwa:
   enable: true
-  manifest: /pwa/manifest.json
-  apple_touch_icon: /pwa/apple-touch-icon.png
-  favicon_32_32: /pwa/32.png
-  favicon_16_16: /pwa/16.png
-  mask_icon: /pwa/safari-pinned-tab.svg
+  manifest: /manifest.json
+  apple_touch_icon: /assets/img/favicons/apple-touch-icon.png
+  favicon_32_32: /assets/img/favicons/favicon-32x32.png
+  favicon_16_16: /assets/img/favicons/favicon-16x16.png
+  mask_icon: /assets/img/favicons/safari-pinned-tab.svg
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
