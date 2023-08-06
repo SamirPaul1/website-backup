@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://samirpaul1.github.io</id>
+    <title>Samir Paul • Posts by &#34;url-shortner&#34; tag</title>
+    <link href="https://samirpaul1.github.io" />
+    <updated>2023-08-05T20:52:53.888Z</updated>
+    <category term="LeetCode" />
+    <category term="GeeksforGeeks" />
+    <category term="blog" />
+    <category term="coding" />
+    <category term="computer-science" />
+    <category term="Binary Search" />
+    <category term="caching" />
+    <category term="system-design" />
+    <category term="design-interview" />
+    <category term="preparation" />
+    <category term="study-plan" />
+    <category term="computer-networks" />
+    <category term="computer-networks-notes" />
+    <category term="projects" />
+    <category term="tutorials" />
+    <category term="list-of-project-based-tutorials" />
+    <category term="curated-list" />
+    <category term="DSAlgo" />
+    <category term="dsa-in-python" />
+    <category term="data-structures-and-algorithms" />
+    <category term="Dynamic Programming" />
+    <category term="Patterns" />
+    <category term="dp" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="google" />
+    <category term="google-search-withing-webpage" />
+    <category term="google-programmable-search-engine" />
+    <category term="programmable-search-engine" />
+    <category term="Graph" />
+    <category term="distributed-systems" />
+    <category term="two pointers problems" />
+    <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="leetcode" />
+    <category term="leetcode-solutions" />
+    <category term="leetcode-solutions-cheetsheet" />
+    <category term="leetcode-cheetsheet" />
+    <category term="important-leetcode-solutions" />
+    <category term="python3" />
+    <category term="file-compressor" />
+    <category term="flask-application" />
+    <category term="python-server" />
+    <category term="pdfnet" />
+    <category term="pdf-compression" />
+    <category term="online-pdf-compressor" />
+    <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
+    <category term="Operating System" />
+    <category term="Placements" />
+    <category term="OS" />
+    <category term="project" />
+    <category term="pygame" />
+    <category term="python-game" />
+    <category term="pyshooter" />
+    <category term="shooter-game" />
+    <category term="Python Cheat Sheet" />
+    <category term="Leetcode" />
+    <category term="sql" />
+    <category term="nosql" />
+    <category term="sharding" />
+    <category term="data-partitioning" />
+    <category term="certificates" />
+    <category term="udemy" />
+    <category term="coursera" />
+    <category term="datacamp" />
+    <category term="INNER JOIN" />
+    <category term="RIGHT JOIN" />
+    <category term="FULL JOIN" />
+    <category term="SQL" />
+    <category term="SQL Joins" />
+    <category term="web-development" />
+    <category term="lossless-data-compression" />
+    <category term="online-file-compressor" />
+    <category term="txt-compressor" />
+    <category term="algorithm" />
+    <category term="databases" />
+    <category term="short-url" />
+    <category term="url-shortner" />
+    <category term="networking" />
+    <entry>
+        <id>https://samirpaul1.github.io/posts/url-shortening-service/</id>
+        <title>URL Shortening Service</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/url-shortening-service/"/>
+        <content type="html">&lt;h1 id=&#34;URL-Shortening-Service&#34;&gt;&lt;a href=&#34;#URL-Shortening-Service&#34; class=&#34;headerlink&#34; title=&#34;URL Shortening Service&#34;&gt;&lt;/a&gt;URL Shortening Service&lt;/h1&gt;&lt;h2 id=&#34;Summary&#34;&gt;&lt;a href=&#34;#Summary&#34; class=&#34;headerlink&#34; title=&#34;Summary&#34;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-overview.png&#34; alt=&#34;overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-detail.png&#34; alt=&#34;summary&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Requirements&#34;&gt;&lt;a href=&#34;#Requirements&#34; class=&#34;headerlink&#34; title=&#34;Requirements&#34;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Functional Requirements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Given a URL, generate a shorter and unique alias (short link).&lt;/li&gt;
+&lt;li&gt;When users access a short link, redirect to the original link.&lt;/li&gt;
+&lt;li&gt;Users should optionally be able to pick a custom short link for their URL.&lt;/li&gt;
+&lt;li&gt;Links will expire after a standard default timespan. Users should also be able to specify the expiration time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Non-Functional Requirements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The system should be highly available. This is required because, if our service is down, all the URL redirections will start failing.&lt;/li&gt;
+&lt;li&gt;URL redirection should happen in real-time with minimal latency.&lt;/li&gt;
+&lt;li&gt;Shortened links should not be guessable (not predictable).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Extended Requirements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analytics; e.g., how many times a redirection happened?&lt;/li&gt;
+&lt;li&gt;Be accessible through REST APIs by other services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Capacity-Estimation-and-Constraints&#34;&gt;&lt;a href=&#34;#Capacity-Estimation-and-Constraints&#34; class=&#34;headerlink&#34; title=&#34;Capacity Estimation and Constraints&#34;&gt;&lt;/a&gt;Capacity Estimation and Constraints&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Assumption&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read-heavy. More redirection requests compared to new URL shortenings.&lt;/li&gt;
+&lt;li&gt;Assume &lt;strong&gt;100:1&lt;/strong&gt; ratio between read and write.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Traffic estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;500M&lt;/strong&gt; new URL shortenings per month, 100 * 500M &amp;#x3D;&amp;gt; 50B redirections per month.&lt;/li&gt;
+&lt;li&gt;New URL shortenings per second&lt;ul&gt;
+&lt;li&gt;500 million &amp;#x2F; (30 days * 24 hours * 3600 seconds) &amp;#x3D; &lt;strong&gt;~200 URLs&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;URLs redirections per second&lt;ul&gt;
+&lt;li&gt;50 billion &amp;#x2F; (30 days * 24 hours * 3600 sec) &amp;#x3D; &lt;strong&gt;~19K&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Storage estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assume storing every URL shortening request for 5 years, each object takes &lt;strong&gt;500 bytes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Total objects: 500 million * 5 years * 12 months &amp;#x3D; &lt;strong&gt;30 billion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Total storage: 30 billion * 500 bytes &amp;#x3D; &lt;strong&gt;15 TB&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bandwidth estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write: 200 URL&amp;#x2F;s * 500 bytes&amp;#x2F;URL &amp;#x3D; &lt;strong&gt;100 KB&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Read: 19K URL&amp;#x2F;s * 500 bytes&amp;#x2F;URL &amp;#x3D; &lt;strong&gt;~9 MB&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cache memory estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the 80-20 rule, assuming 20% of URLs generate 80% of traffic, cache 20% hot URLs&lt;/li&gt;
+&lt;li&gt;Requests per day: 19K * 3600 seconds * 24 hours &amp;#x3D; &lt;strong&gt;~1.7 billion&amp;#x2F;day&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Cache 20%: 0.2 * 1.7 billion * 500 bytes &amp;#x3D; &lt;strong&gt;~170GB&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Summary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assuming 500 million new URLs per month and 100:1 read:write ratio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;th&gt;Calculation&lt;/th&gt;
+&lt;th&gt;Estimate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;New URLs&lt;/td&gt;
+&lt;td&gt;500 million &amp;#x2F; (30 days * 24 hours * 3600 seconds)&lt;/td&gt;
+&lt;td&gt;200 &amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;URL redirections&lt;/td&gt;
+&lt;td&gt;500 million * 100 &amp;#x2F; (30 days * 24 hours * 3600 seconds)&lt;/td&gt;
+&lt;td&gt;19 K&amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Incoming data&lt;/td&gt;
+&lt;td&gt;500 bytes&amp;#x2F;URL * 200 URL&amp;#x2F;s&lt;/td&gt;
+&lt;td&gt;100 KB&amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Outgoing data&lt;/td&gt;
+&lt;td&gt;500 bytes&amp;#x2F;URL * 19K URL&amp;#x2F;s&lt;/td&gt;
+&lt;td&gt;9 MB&amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Storage for 5 years&lt;/td&gt;
+&lt;td&gt;500 bytes&amp;#x2F;URL * 500 million * 60 months&lt;/td&gt;
+&lt;td&gt;15 TB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Memory for cache&lt;/td&gt;
+&lt;td&gt;19K URL * 3600 seconds * 24 hours * 500 bytes * 20%&lt;/td&gt;
+&lt;td&gt;170 GB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;System-APIs&#34;&gt;&lt;a href=&#34;#System-APIs&#34; class=&#34;headerlink&#34; title=&#34;System APIs&#34;&gt;&lt;/a&gt;System APIs&lt;/h2&gt;&lt;h3 id=&#34;createUrl&#34;&gt;&lt;a href=&#34;#createUrl&#34; class=&#34;headerlink&#34; title=&#34;createUrl&#34;&gt;&lt;/a&gt;&lt;code&gt;createUrl&lt;/code&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Parameters&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Note&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;api_dev_key&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The API developer key of a registered account. This will be used to, among other things, throttle users based on their allocated quota.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;original_url&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Original URL to be shortened.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;custom_alias&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Optional custom key for the URL.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;user_name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Optional user name to be used in encoding.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;expire_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Optional expiration date for the shortened URL.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;Return&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;string&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;A successful insertion returns the shortened URL; otherwise, it returns an error code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;deleteUrl&#34;&gt;&lt;a href=&#34;#deleteUrl&#34; class=&#34;headerlink&#34; title=&#34;deleteUrl&#34;&gt;&lt;/a&gt;&lt;code&gt;deleteUrl&lt;/code&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Parameters&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Note&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;api_dev_key&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The API developer key of a registered account. This will be used to, among other things, throttle users based on their allocated quota.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;url_key&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Short URL.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;Return&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;string&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;A successful deletion returns ‘URL Removed’.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Database-design&#34;&gt;&lt;a href=&#34;#Database-design&#34; class=&#34;headerlink&#34; title=&#34;Database design&#34;&gt;&lt;/a&gt;Database design&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Observations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Need to store billions of records.&lt;/li&gt;
+&lt;li&gt;Each object is small (less than 1K).&lt;/li&gt;
+&lt;li&gt;No relationships between records—other than storing which user created a URL.&lt;/li&gt;
+&lt;li&gt;Read-heavy.&lt;/li&gt;
+&lt;li&gt;A NoSQL choice would also be easier to scale.&lt;/li&gt;
+&lt;li&gt;Comment: SQL with sharding should also work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Schema&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;URL&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Column&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hash&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(16)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;original_url&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(512)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;creation_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;expiration_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;user_id&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;int&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;User&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Column&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(20)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;email&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(32)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;creation_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;last_login&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Basic-System-Design-and-Algorithm&#34;&gt;&lt;a href=&#34;#Basic-System-Design-and-Algorithm&#34; class=&#34;headerlink&#34; title=&#34;Basic System Design and Algorithm&#34;&gt;&lt;/a&gt;Basic System Design and Algorithm&lt;/h2&gt;&lt;h3 id=&#34;Encoding-actual-URL&#34;&gt;&lt;a href=&#34;#Encoding-actual-URL&#34; class=&#34;headerlink&#34; title=&#34;Encoding actual URL&#34;&gt;&lt;/a&gt;Encoding actual URL&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Compute unique hash&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;base64&lt;/code&gt;: A-Z, a-z, 0-9, &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;6 letters: 64 ^ 6 &amp;#x3D; ~68.7 billion&lt;/li&gt;
+&lt;li&gt;8 letters: 64 ^ 8 &amp;#x3D; ~281 trillion&lt;/li&gt;
+&lt;li&gt;Use 6 letters&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MD5&lt;/code&gt; generates 128 bit hash value&lt;/li&gt;
+&lt;li&gt;Each &lt;code&gt;base64&lt;/code&gt; character encodes 6 bits&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;base64&lt;/code&gt; encoding generates 22 characters&lt;/li&gt;
+&lt;li&gt;Select 8 characters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Issues with this approach&lt;ul&gt;
+&lt;li&gt;Same URL from multiple users&lt;/li&gt;
+&lt;li&gt;URL-encoded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Workaround&lt;ul&gt;
+&lt;li&gt;Append an increasing sequence number to each input URL, and generate a hash for it&lt;/li&gt;
+&lt;li&gt;Append user id to input URL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Generating-keys-offline&#34;&gt;&lt;a href=&#34;#Generating-keys-offline&#34; class=&#34;headerlink&#34; title=&#34;Generating keys offline&#34;&gt;&lt;/a&gt;Generating keys offline&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Standalone Key Generation Service (KGS)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generate random 6 letter strings and store them in a database (key DB)&lt;/li&gt;
+&lt;li&gt;When a short URL is needed, take one from the key DB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Key DB size&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 characters&amp;#x2F;key * 68.7B unique keys &amp;#x3D; 412 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Concurrency issue&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If there are multiple servers reading keys concurrently, two or more servers try to read the same key from the database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Workaround&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Servers can use KGS to read&amp;#x2F;mark keys in the database.&lt;/li&gt;
+&lt;li&gt;KGS can use two tables to store keys: one for keys that are not used yet, and one for all the used keys.&lt;/li&gt;
+&lt;li&gt;KGS can always keep some keys in memory so that it can quickly provide them whenever a server needs them.&lt;/li&gt;
+&lt;li&gt;KGS needs to make sure not to give the same key to multiple servers.&lt;/li&gt;
+&lt;li&gt;Comment: keys are sharded. Each KGS server only serves one application server.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Key lookup&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When a key is found, issue an “HTTP 302 Redirect” status and passing the stored URL.&lt;/li&gt;
+&lt;li&gt;When a key is not found, issue an “HTTP 404 Not Found”, or redirect to homepage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;UUID&#34;&gt;&lt;a href=&#34;#UUID&#34; class=&#34;headerlink&#34; title=&#34;UUID&#34;&gt;&lt;/a&gt;UUID&lt;/h3&gt;&lt;p&gt;Replace KGS with UUID.&lt;/p&gt;
+&lt;h2 id=&#34;Data-Partitioning-and-Replication&#34;&gt;&lt;a href=&#34;#Data-Partitioning-and-Replication&#34; class=&#34;headerlink&#34; title=&#34;Data Partitioning and Replication&#34;&gt;&lt;/a&gt;Data Partitioning and Replication&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Range Based Partitioning&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Store URLs in separate partitions based on the first letter of the URL or the hash key.&lt;/li&gt;
+&lt;li&gt;Combine certain less frequently occurring letters into one database partition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Problem with this approach&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unbalanced servers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hash-Based Partitioning&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take a hash of the short URL we are storing, and calculate which partition to use based upon the hash.&lt;/li&gt;
+&lt;li&gt;Use consistent hashing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Cache&#34;&gt;&lt;a href=&#34;#Cache&#34; class=&#34;headerlink&#34; title=&#34;Cache&#34;&gt;&lt;/a&gt;Cache&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Eviction policy&lt;ul&gt;
+&lt;li&gt;LRU: discard the least recently used URL first&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cache update&lt;ul&gt;
+&lt;li&gt;Cache miss: hit backend database and pass new entry to all cache replicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Load-Balancer-LB&#34;&gt;&lt;a href=&#34;#Load-Balancer-LB&#34; class=&#34;headerlink&#34; title=&#34;Load Balancer (LB)&#34;&gt;&lt;/a&gt;Load Balancer (LB)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;LB locations&lt;ul&gt;
+&lt;li&gt;Between Clients and Application servers&lt;/li&gt;
+&lt;li&gt;Between Application Servers and database servers&lt;/li&gt;
+&lt;li&gt;Between Application Servers and Cache servers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;DB-Sweeping&#34;&gt;&lt;a href=&#34;#DB-Sweeping&#34; class=&#34;headerlink&#34; title=&#34;DB Sweeping&#34;&gt;&lt;/a&gt;DB Sweeping&lt;/h2&gt;&lt;p&gt;A separate Cleanup service can run periodically to remove expired links from our storage and cache.&lt;/p&gt;
+&lt;h2 id=&#34;Telemetry&#34;&gt;&lt;a href=&#34;#Telemetry&#34; class=&#34;headerlink&#34; title=&#34;Telemetry&#34;&gt;&lt;/a&gt;Telemetry&lt;/h2&gt;&lt;p&gt;Statistics about the system: how many times a short URL has been used&lt;/p&gt;
+&lt;h2 id=&#34;Security-and-Permissions&#34;&gt;&lt;a href=&#34;#Security-and-Permissions&#34; class=&#34;headerlink&#34; title=&#34;Security and Permissions&#34;&gt;&lt;/a&gt;Security and Permissions&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Store permission level (public&amp;#x2F;private) with each URL in the database&lt;/li&gt;
+&lt;li&gt;Send an error (HTTP 401) for unauthorized access&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <category term="short-url" />
+        <category term="url-shortner" />
+        <updated>2023-08-05T20:52:53.888Z</updated>
+    </entry>
+</feed>

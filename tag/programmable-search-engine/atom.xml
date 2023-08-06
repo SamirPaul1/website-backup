@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://samirpaul1.github.io</id>
+    <title>Samir Paul • Posts by &#34;programmable-search-engine&#34; tag</title>
+    <link href="https://samirpaul1.github.io" />
+    <updated>2023-08-05T20:52:53.852Z</updated>
+    <category term="LeetCode" />
+    <category term="GeeksforGeeks" />
+    <category term="blog" />
+    <category term="coding" />
+    <category term="computer-science" />
+    <category term="Binary Search" />
+    <category term="caching" />
+    <category term="system-design" />
+    <category term="design-interview" />
+    <category term="preparation" />
+    <category term="study-plan" />
+    <category term="computer-networks" />
+    <category term="computer-networks-notes" />
+    <category term="projects" />
+    <category term="tutorials" />
+    <category term="list-of-project-based-tutorials" />
+    <category term="curated-list" />
+    <category term="DSAlgo" />
+    <category term="dsa-in-python" />
+    <category term="data-structures-and-algorithms" />
+    <category term="Dynamic Programming" />
+    <category term="Patterns" />
+    <category term="dp" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="google" />
+    <category term="google-search-withing-webpage" />
+    <category term="google-programmable-search-engine" />
+    <category term="programmable-search-engine" />
+    <category term="Graph" />
+    <category term="distributed-systems" />
+    <category term="two pointers problems" />
+    <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="leetcode" />
+    <category term="leetcode-solutions" />
+    <category term="leetcode-solutions-cheetsheet" />
+    <category term="leetcode-cheetsheet" />
+    <category term="important-leetcode-solutions" />
+    <category term="python3" />
+    <category term="file-compressor" />
+    <category term="flask-application" />
+    <category term="python-server" />
+    <category term="pdfnet" />
+    <category term="pdf-compression" />
+    <category term="online-pdf-compressor" />
+    <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
+    <category term="Operating System" />
+    <category term="Placements" />
+    <category term="OS" />
+    <category term="project" />
+    <category term="pygame" />
+    <category term="python-game" />
+    <category term="pyshooter" />
+    <category term="shooter-game" />
+    <category term="Python Cheat Sheet" />
+    <category term="Leetcode" />
+    <category term="sql" />
+    <category term="nosql" />
+    <category term="sharding" />
+    <category term="data-partitioning" />
+    <category term="certificates" />
+    <category term="udemy" />
+    <category term="coursera" />
+    <category term="datacamp" />
+    <category term="INNER JOIN" />
+    <category term="RIGHT JOIN" />
+    <category term="FULL JOIN" />
+    <category term="SQL" />
+    <category term="SQL Joins" />
+    <category term="web-development" />
+    <category term="lossless-data-compression" />
+    <category term="online-file-compressor" />
+    <category term="txt-compressor" />
+    <category term="algorithm" />
+    <category term="databases" />
+    <category term="short-url" />
+    <category term="url-shortner" />
+    <category term="networking" />
+    <entry>
+        <id>https://samirpaul1.github.io/posts/google-programmable-search-engine/</id>
+        <title>Google Programmable Search Engine</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/google-programmable-search-engine/"/>
+        <content type="html">&lt;p&gt;Google Programmable Search Engine lets you include a search engine on your website to help your visitors find the information they’re looking for. Because Programmable Search Engine is based on Google’s core search technology, you can be confident that your users are getting high quality, relevant results. You can customize a lot of your search engine, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply your site’s look and feel to the search box and results page&lt;/li&gt;
+&lt;li&gt;Use search features such as refinements, autocomplete, and promotions to enhance your users’ search experience&lt;/li&gt;
+&lt;li&gt;Understand your users’ behavior by linking your search engine with  &lt;a href=&#34;https://google.com/analytics/&#34;&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Make money from your search engine with  &lt;a href=&#34;https://google.com/adsense&#34;&gt;Google AdSense&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;script async src=&#34;https://cse.google.com/cse.js?cx=4269bf6b77dbf4cae&#34;&gt;
+&lt;/script&gt;
+&lt;div class=&#34;gcse-search&#34;&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;How-is-Programmable-Search-Engine-different-from-Google-Web-Search&#34;&gt;&lt;a href=&#34;#How-is-Programmable-Search-Engine-different-from-Google-Web-Search&#34; class=&#34;headerlink&#34; title=&#34;How is Programmable Search Engine different from Google Web Search?&#34;&gt;&lt;/a&gt;How is Programmable Search Engine different from Google Web Search?&lt;/h3&gt;&lt;p&gt;You have the option to set your custom search engine to search the entire web, similar to a normal search on Google.com. However, you might notice some differences. Your custom search engine:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emphasizes your results over anything else on the web&lt;/li&gt;
+&lt;li&gt;Doesn’t include some  &lt;a href=&#34;https://support.google.com/websearch#topic=3378866&#34;&gt;Google Web Search features&lt;/a&gt;, such as personalized results&lt;/li&gt;
+&lt;li&gt;May have a subset of results from the Google index if you include more than ten sites&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="google" />
+        <category term="google-search-withing-webpage" />
+        <category term="google-programmable-search-engine" />
+        <category term="programmable-search-engine" />
+        <updated>2023-08-05T20:52:53.852Z</updated>
+    </entry>
+</feed>

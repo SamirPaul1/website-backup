@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://samirpaul1.github.io</id>
+    <title>Samir Paul • Posts by &#34;open-external-links&#34; tag</title>
+    <link href="https://samirpaul1.github.io" />
+    <updated>2023-08-05T20:52:53.780Z</updated>
+    <category term="LeetCode" />
+    <category term="GeeksforGeeks" />
+    <category term="blog" />
+    <category term="coding" />
+    <category term="computer-science" />
+    <category term="Binary Search" />
+    <category term="caching" />
+    <category term="system-design" />
+    <category term="design-interview" />
+    <category term="preparation" />
+    <category term="study-plan" />
+    <category term="computer-networks" />
+    <category term="computer-networks-notes" />
+    <category term="projects" />
+    <category term="tutorials" />
+    <category term="list-of-project-based-tutorials" />
+    <category term="curated-list" />
+    <category term="DSAlgo" />
+    <category term="dsa-in-python" />
+    <category term="data-structures-and-algorithms" />
+    <category term="Dynamic Programming" />
+    <category term="Patterns" />
+    <category term="dp" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="google" />
+    <category term="google-search-withing-webpage" />
+    <category term="google-programmable-search-engine" />
+    <category term="programmable-search-engine" />
+    <category term="Graph" />
+    <category term="distributed-systems" />
+    <category term="two pointers problems" />
+    <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="leetcode" />
+    <category term="leetcode-solutions" />
+    <category term="leetcode-solutions-cheetsheet" />
+    <category term="leetcode-cheetsheet" />
+    <category term="important-leetcode-solutions" />
+    <category term="python3" />
+    <category term="file-compressor" />
+    <category term="flask-application" />
+    <category term="python-server" />
+    <category term="pdfnet" />
+    <category term="pdf-compression" />
+    <category term="online-pdf-compressor" />
+    <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
+    <category term="Operating System" />
+    <category term="Placements" />
+    <category term="OS" />
+    <category term="project" />
+    <category term="pygame" />
+    <category term="python-game" />
+    <category term="pyshooter" />
+    <category term="shooter-game" />
+    <category term="Python Cheat Sheet" />
+    <category term="Leetcode" />
+    <category term="sql" />
+    <category term="nosql" />
+    <category term="sharding" />
+    <category term="data-partitioning" />
+    <category term="certificates" />
+    <category term="udemy" />
+    <category term="coursera" />
+    <category term="datacamp" />
+    <category term="INNER JOIN" />
+    <category term="RIGHT JOIN" />
+    <category term="FULL JOIN" />
+    <category term="SQL" />
+    <category term="SQL Joins" />
+    <category term="web-development" />
+    <category term="lossless-data-compression" />
+    <category term="online-file-compressor" />
+    <category term="txt-compressor" />
+    <category term="algorithm" />
+    <category term="databases" />
+    <category term="short-url" />
+    <category term="url-shortner" />
+    <category term="networking" />
+    <entry>
+        <id>https://samirpaul1.github.io/posts/open-external-links-in-a-new-window-using-javascript/</id>
+        <title>Open External Links in a New Window Using JavaScript</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/open-external-links-in-a-new-window-using-javascript/"/>
+        <content type="html">&lt;p&gt;This is a quick post showing how to use JavaScript to make links to external websites open in a new window (or tab) instead of in the current window. This is useful for &lt;code&gt;Jekyll&lt;/code&gt; blogs because the Markdown converters don’t do this for you. I included two versions: one that uses straight JavaScript, and one that requires &lt;code&gt;jQuery&lt;/code&gt; but is shorter.&lt;/p&gt;
+&lt;p&gt;Both versions work basically the same way: grab all anchor tags &lt;code&gt;&amp;lt;a href=&amp;quot;#&amp;quot;&amp;gt;&lt;/code&gt; that are linking to somewhere other than your development environment or a page on your site and then attribute &lt;code&gt;target=&amp;quot;_blank&amp;quot;&lt;/code&gt; to those tags. Because this is JavaScript, users with JavaScript disabled will still experience the old behavior, but otherwise won’t be adversely affected.&lt;/p&gt;
+&lt;h3 id=&#34;Straight-JavaScript&#34;&gt;&lt;a href=&#34;#Straight-JavaScript&#34; class=&#34;headerlink&#34; title=&#34;Straight JavaScript&#34;&gt;&lt;/a&gt;Straight JavaScript&lt;/h3&gt;&lt;p&gt;This version does not require any jQuery (or any other libraries):&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;ready&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;fn&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;readyState&lt;/span&gt; != &lt;span class=&#34;string&#34;&gt;&amp;#x27;loading&amp;#x27;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;title function_&#34;&gt;fn&lt;/span&gt;();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;addEventListener&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;addEventListener&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;DOMContentLoaded&amp;#x27;&lt;/span&gt;, fn);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;attachEvent&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;onreadystatechange&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;readyState&lt;/span&gt; != &lt;span class=&#34;string&#34;&gt;&amp;#x27;loading&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;title function_&#34;&gt;fn&lt;/span&gt;();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;title function_&#34;&gt;ready&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; website = &lt;span class=&#34;variable language_&#34;&gt;window&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;location&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;hostname&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; internalLinkRegex = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;RegExp&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;^((((http:\\/\\/|https:\\/\\/)(www\\.)?)?&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                     + website&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                     + &lt;span class=&#34;string&#34;&gt;&amp;#x27;)|(localhost:\\d&amp;#123;4&amp;#125;)|(\\/.*))(\\/.*)?$&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; anchorEls = &lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;querySelectorAll&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;a&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; anchorElsLength = anchorEls.&lt;span class=&#34;property&#34;&gt;length&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; (&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; i = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;; i &amp;lt; anchorElsLength; i++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; anchorEl = anchorEls[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; href = anchorEl.&lt;span class=&#34;title function_&#34;&gt;getAttribute&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;href&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (!internalLinkRegex.&lt;span class=&#34;title function_&#34;&gt;test&lt;/span&gt;(href)) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      anchorEl.&lt;span class=&#34;title function_&#34;&gt;setAttribute&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;target&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;_blank&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;jQuery&#34;&gt;&lt;a href=&#34;#jQuery&#34; class=&#34;headerlink&#34; title=&#34;jQuery&#34;&gt;&lt;/a&gt;jQuery&lt;/h3&gt;&lt;p&gt;This version requires jQuery in order to work, but if you’re using jQuery on your site anyway, it avoids reinventing the wheel:&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$(&lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;).&lt;span class=&#34;title function_&#34;&gt;ready&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; website = &lt;span class=&#34;variable language_&#34;&gt;window&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;location&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;hostname&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; internalLinkRegex = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;RegExp&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;^((((http:\\/\\/|https:\\/\\/)(www\\.)?)?&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                     + website&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                     + &lt;span class=&#34;string&#34;&gt;&amp;#x27;)|(localhost:\\d&amp;#123;4&amp;#125;)|(\\/.*))(\\/.*)?$&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  $(&lt;span class=&#34;string&#34;&gt;&amp;#x27;a&amp;#x27;&lt;/span&gt;).&lt;span class=&#34;title function_&#34;&gt;filter&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; href = $(&lt;span class=&#34;variable language_&#34;&gt;this&lt;/span&gt;).&lt;span class=&#34;title function_&#34;&gt;attr&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;href&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; !internalLinkRegex.&lt;span class=&#34;title function_&#34;&gt;test&lt;/span&gt;(href);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  .&lt;span class=&#34;title function_&#34;&gt;each&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    $(&lt;span class=&#34;variable language_&#34;&gt;this&lt;/span&gt;).&lt;span class=&#34;title function_&#34;&gt;attr&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;target&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;_blank&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;My-Implementation-for-Jekyll-Blog&#34;&gt;&lt;a href=&#34;#My-Implementation-for-Jekyll-Blog&#34; class=&#34;headerlink&#34; title=&#34;My Implementation for Jekyll Blog&#34;&gt;&lt;/a&gt;My Implementation for Jekyll Blog&lt;/h3&gt;&lt;p&gt;I have created a file called &lt;a href=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/external-links-new-window.html&#34;&gt;external-links-new-window.html&lt;/a&gt; inside &lt;code&gt;_includes&lt;/code&gt; directory and referred it from &lt;code&gt;_layouts/default.html&lt;/code&gt; as &lt;a href=&#34;#&#34;&gt;&lt;img src=&#34;/assets/img/include-external-links-new-window.html-code.png&#34; alt=&#34;external-links-new-window&#34;  width=&#34;370px&#34; height=&#34;22px&#34;&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+        <category term="open-external-links" />
+        <category term="javascript" />
+        <updated>2023-08-05T20:52:53.780Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;networking&#34; tag</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/why-does-the-osi-model-matter/</guid>
+            <title>Why Does The OSI Model Matter?</title>
+            <link>https://samirpaul1.github.io/posts/why-does-the-osi-model-matter/</link>
+            <category>blog</category>
+            <category>coding</category>
+            <category>computer-science</category>
+            <category>networking</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;p&gt;The OSI (Open Systems Interconnection) model matters because it provides a standard way of describing and understanding the different functions and components involved in a network communication. The OSI model is a seven-layer abstraction of the network communication process, and it defines the tasks and responsibilities of each layer.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Standardization: The OSI model provides a standard reference model that is widely used and accepted in the industry. This standardization helps to ensure that different systems and components can communicate with each other, even if they were developed by different vendors or organizations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Improved troubleshooting: The OSI model provides a systematic and organized approach to understanding network communication issues. By breaking down network communication into its component parts, it becomes easier to diagnose and fix problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Design and development: The OSI model can help with the design and development of network systems by providing a common understanding of the different layers and their responsibilities. This can facilitate communication and collaboration between different teams and stakeholders.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Education: The OSI model is a useful tool for teaching and learning about network communication. It provides a simple and visual way to understand the complex process of network communication.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

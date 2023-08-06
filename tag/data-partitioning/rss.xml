@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;data-partitioning&#34; tag</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/sharding-or-data-partitioning/</guid>
+            <title>Sharding or Data Partitioning</title>
+            <link>https://samirpaul1.github.io/posts/sharding-or-data-partitioning/</link>
+            <category>blog</category>
+            <category>coding</category>
+            <category>computer-science</category>
+            <category>system-design</category>
+            <category>design-interview</category>
+            <category>sql</category>
+            <category>nosql</category>
+            <category>sharding</category>
+            <category>data-partitioning</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Sharding-Data-Partitioning&#34;&gt;&lt;a href=&#34;#Sharding-Data-Partitioning&#34; class=&#34;headerlink&#34; title=&#34;Sharding &amp;#x2F; Data Partitioning&#34;&gt;&lt;/a&gt;Sharding &amp;#x2F; Data Partitioning&lt;/h1&gt;&lt;h2 id=&#34;Partitioning-methods&#34;&gt;&lt;a href=&#34;#Partitioning-methods&#34; class=&#34;headerlink&#34; title=&#34;Partitioning methods&#34;&gt;&lt;/a&gt;Partitioning methods&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Horizontal partitioning&lt;ul&gt;
+&lt;li&gt;Range based sharding.&lt;/li&gt;
+&lt;li&gt;Put different rows into different tables.&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;If the value whose range is used for sharding isn’t chosen carefully, the partitioning scheme will lead to unbalanced servers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vertical partitioning&lt;ul&gt;
+&lt;li&gt;Divide data for a specific feature to their own server.&lt;/li&gt;
+&lt;li&gt;Pro&lt;ul&gt;
+&lt;li&gt;Straightforward to implement.&lt;/li&gt;
+&lt;li&gt;Low impact on the application.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;To support growth of the application, a database may need further partitioning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Directory-based partitioning&lt;ul&gt;
+&lt;li&gt;A lookup service that knows the partitioning scheme and abstracts it away from the database access code.&lt;/li&gt;
+&lt;li&gt;Allow addition of db servers or change of partitioning schema without impacting application.&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;Can be a single point of failure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Partitioning-criteria&#34;&gt;&lt;a href=&#34;#Partitioning-criteria&#34; class=&#34;headerlink&#34; title=&#34;Partitioning criteria&#34;&gt;&lt;/a&gt;Partitioning criteria&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Key or hash-based partitioning&lt;ul&gt;
+&lt;li&gt;Apply a hash function to some key attribute of the entry to get the partition number.&lt;/li&gt;
+&lt;li&gt;Problem&lt;ul&gt;
+&lt;li&gt;Adding new servers may require changing the hash function, which would need redistribution of data and downtime for the service.&lt;/li&gt;
+&lt;li&gt;Workaround: &lt;a href=&#34;https://en.wikipedia.org/wiki/Consistent_hashing&#34;&gt;consistent hashing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;List partitioning&lt;ul&gt;
+&lt;li&gt;Each partition is assigned a list of values.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Round-robin partitioning&lt;ul&gt;
+&lt;li&gt;With &lt;code&gt;n&lt;/code&gt; partitions, the &lt;code&gt;i&lt;/code&gt; tuple is assigned to partition &lt;code&gt;i % n&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Composite partitioning&lt;ul&gt;
+&lt;li&gt;Combine any of above partitioning schemes to devise a new scheme.&lt;/li&gt;
+&lt;li&gt;Consistent hashing is a composite of hash and list partitioning.&lt;ul&gt;
+&lt;li&gt;Key -&amp;gt; reduced key space through hash -&amp;gt; list -&amp;gt; partition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Common-problems-of-sharding&#34;&gt;&lt;a href=&#34;#Common-problems-of-sharding&#34; class=&#34;headerlink&#34; title=&#34;Common problems of sharding&#34;&gt;&lt;/a&gt;Common problems of sharding&lt;/h2&gt;&lt;p&gt;Most of the constraints are due to the fact that operations across multiple tables or multiple rows in the same table will no longer run on the same server.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joins and denormalization&lt;ul&gt;
+&lt;li&gt;Joins will not be performance efficient since data has to be compiled from multiple servers.&lt;/li&gt;
+&lt;li&gt;Workaround: denormalize the database so that queries can be performed from a single table. But this can lead to data inconsistency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Referential integrity&lt;ul&gt;
+&lt;li&gt;Difficult to enforce data integrity constraints (e.g. foreign keys).&lt;/li&gt;
+&lt;li&gt;Workaround&lt;ul&gt;
+&lt;li&gt;Referential integrity is enforced by application code.&lt;/li&gt;
+&lt;li&gt;Applications can run SQL jobs to clean up dangling references.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rebalancing&lt;ul&gt;
+&lt;li&gt;Necessity of rebalancing&lt;ul&gt;
+&lt;li&gt;Data distribution is not uniform.&lt;/li&gt;
+&lt;li&gt;A lot of load on one shard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create more db shards or rebalance existing shards changes partitioning scheme and requires data movement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

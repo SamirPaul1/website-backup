@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;caching&#34; tag</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/caching/</guid>
+            <title>Caching</title>
+            <link>https://samirpaul1.github.io/posts/caching/</link>
+            <category>blog</category>
+            <category>coding</category>
+            <category>computer-science</category>
+            <category>caching</category>
+            <category>system-design</category>
+            <category>design-interview</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;p&gt;Caching&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Take advantage of the locality of reference principle: recently requested data is likely to be requested again.&lt;/li&gt;
+&lt;li&gt;Exist at all levels in architecture, but often found at the level nearest to the front end.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Application-server-cache&#34;&gt;&lt;a href=&#34;#Application-server-cache&#34; class=&#34;headerlink&#34; title=&#34;Application server cache&#34;&gt;&lt;/a&gt;Application server cache&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Cache placed on a request layer node.&lt;/li&gt;
+&lt;li&gt;When a request layer node is expanded to many nodes&lt;ul&gt;
+&lt;li&gt;Load balancer randomly distributes requests across the nodes.&lt;/li&gt;
+&lt;li&gt;The same request can go to different nodes.&lt;/li&gt;
+&lt;li&gt;Increase cache misses.&lt;/li&gt;
+&lt;li&gt;Solutions:&lt;ul&gt;
+&lt;li&gt;Global caches&lt;/li&gt;
+&lt;li&gt;Distributed caches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Distributed-cache&#34;&gt;&lt;a href=&#34;#Distributed-cache&#34; class=&#34;headerlink&#34; title=&#34;Distributed cache&#34;&gt;&lt;/a&gt;Distributed cache&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Each request layer node owns part of the cached data.&lt;/li&gt;
+&lt;li&gt;Entire cache is divided up using a consistent hashing function.&lt;/li&gt;
+&lt;li&gt;Pro&lt;ul&gt;
+&lt;li&gt;Cache space can be increased easily by adding more nodes to the request pool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;A missing node leads to cache lost.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Global-cache&#34;&gt;&lt;a href=&#34;#Global-cache&#34; class=&#34;headerlink&#34; title=&#34;Global cache&#34;&gt;&lt;/a&gt;Global cache&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;A server or file store that is faster than original store, and accessible by all request layer nodes.&lt;/li&gt;
+&lt;li&gt;Two common forms&lt;ul&gt;
+&lt;li&gt;Cache server handles cache miss.&lt;ul&gt;
+&lt;li&gt;Used by most applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Request nodes handle cache miss.&lt;ul&gt;
+&lt;li&gt;Have a large percentage of the hot data set in the cache.&lt;/li&gt;
+&lt;li&gt;An architecture where the files stored in the cache are static and shouldn’t be evicted.&lt;/li&gt;
+&lt;li&gt;The application logic understands the eviction strategy or hot spots better than the cache&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Content-distributed-network-CDN&#34;&gt;&lt;a href=&#34;#Content-distributed-network-CDN&#34; class=&#34;headerlink&#34; title=&#34;Content distributed network (CDN)&#34;&gt;&lt;/a&gt;Content distributed network (CDN)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;For sites serving large amounts of static media.&lt;/li&gt;
+&lt;li&gt;Process&lt;ul&gt;
+&lt;li&gt;A request first asks the CDN for a piece of static media.&lt;/li&gt;
+&lt;li&gt;CDN serves that content if it has it locally available.&lt;/li&gt;
+&lt;li&gt;If content isn’t available, CDN will query back-end servers for the file, cache it locally and serve it to the requesting user.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If the system is not large enough for CDN, it can be built like this:&lt;ul&gt;
+&lt;li&gt;Serving static media off a separate subdomain using lightweight HTTP server (e.g. Nginx).&lt;/li&gt;
+&lt;li&gt;Cutover the DNS from this subdomain to a CDN later.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Cache-invalidation&#34;&gt;&lt;a href=&#34;#Cache-invalidation&#34; class=&#34;headerlink&#34; title=&#34;Cache invalidation&#34;&gt;&lt;/a&gt;Cache invalidation&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Keep cache coherent with the source of truth. Invalidate cache when source of truth has changed.&lt;/li&gt;
+&lt;li&gt;Write-through cache&lt;ul&gt;
+&lt;li&gt;Data is written into the cache and permanent storage at the same time.&lt;/li&gt;
+&lt;li&gt;Pro&lt;ul&gt;
+&lt;li&gt;Fast retrieval, complete data consistency, robust to system disruptions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;Higher latency for write operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Write-around cache&lt;ul&gt;
+&lt;li&gt;Data is written to permanent storage, not cache.&lt;/li&gt;
+&lt;li&gt;Pro&lt;ul&gt;
+&lt;li&gt;Reduce the cache that is no used.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;Query for recently written data creates a cache miss and higher latency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Write-back cache&lt;ul&gt;
+&lt;li&gt;Data is only written to cache.&lt;/li&gt;
+&lt;li&gt;Write to the permanent storage is done later on.&lt;/li&gt;
+&lt;li&gt;Pro&lt;ul&gt;
+&lt;li&gt;Low latency, high throughput for write-intensive applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;Risk of data loss in case of system disruptions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Cache-eviction-policies&#34;&gt;&lt;a href=&#34;#Cache-eviction-policies&#34; class=&#34;headerlink&#34; title=&#34;Cache eviction policies&#34;&gt;&lt;/a&gt;Cache eviction policies&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FIFO: first in first out&lt;/li&gt;
+&lt;li&gt;LIFO: last in first out&lt;/li&gt;
+&lt;li&gt;LRU: least recently used&lt;/li&gt;
+&lt;li&gt;MRU: most recently used&lt;/li&gt;
+&lt;li&gt;LFU: least frequently used&lt;/li&gt;
+&lt;li&gt;RR: random replacement&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

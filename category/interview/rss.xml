@@ -1,0 +1,695 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;interview&#34; category</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/lists-of-technical-interview-questions/</guid>
+            <title>Lists of Technical Interview Questions</title>
+            <link>https://samirpaul1.github.io/posts/lists-of-technical-interview-questions/</link>
+            <category>technical-interview</category>
+            <category>interview-questions</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;A curated list of lists of technical interview questions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;Table-of-Contents&#34;&gt;&lt;a href=&#34;#Table-of-Contents&#34; class=&#34;headerlink&#34; title=&#34;Table of Contents&#34;&gt;&lt;/a&gt;Table of Contents&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#programming-languagesframeworksplatforms&#34;&gt;Programming Languages&amp;#x2F;Frameworks&amp;#x2F;Platforms&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#android&#34;&gt;Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#angularjs&#34;&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#angular&#34;&gt;Angular&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#backbonejs&#34;&gt;BackboneJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#c&#34;&gt;C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#c-1&#34;&gt;C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#c-2&#34;&gt;C♯&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#net&#34;&gt;.NET&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clojure&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#css&#34;&gt;CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cucumber&#34;&gt;Cucumber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#django&#34;&gt;Django&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#docker&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#elastic&#34;&gt;Elastic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#emberjs&#34;&gt;EmberJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#erlang&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#golang&#34;&gt;Golang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#graphql&#34;&gt;GraphQl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#html&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ionic&#34;&gt;Ionic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ios&#34;&gt;iOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#java&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#javascript&#34;&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#jquery&#34;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#front-end-build-tools&#34;&gt;Front-end build tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#knockoutjs&#34;&gt;KnockoutJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#less&#34;&gt;Less&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lisp&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#nodejs&#34;&gt;NodeJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objective-c&#34;&gt;Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#php&#34;&gt;PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#python&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#reactjs&#34;&gt;ReactJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ruby-on-rails&#34;&gt;Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ruby&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#rust&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sass&#34;&gt;Sass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scala&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#shell&#34;&gt;Shell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#spark&#34;&gt;Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#swift&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vuejs&#34;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#wordpress&#34;&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#typescript&#34;&gt;TypeScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#database-technologies&#34;&gt;Database technologies&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#cassandra&#34;&gt;Cassandra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#microsoft-access&#34;&gt;Microsoft Access&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mongodb&#34;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mysql&#34;&gt;MySQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#neo4j&#34;&gt;Neo4j&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#oracle&#34;&gt;Oracle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#postgres&#34;&gt;Postgres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sql&#34;&gt;SQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SQL Lite&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#caching-technologies&#34;&gt;Caching technologies&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#memcached&#34;&gt;Memcached&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#redis&#34;&gt;Redis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#os&#34;&gt;OS&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#linux&#34;&gt;Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#windows&#34;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#algorithms&#34;&gt;Algorithms&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#blockchain&#34;&gt;Blockchain&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#coding-exercises&#34;&gt;Coding exercises&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#comprehensive-lists&#34;&gt;Comprehensive lists&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#design-patterns&#34;&gt;Design patterns&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#data-structures&#34;&gt;Data structures&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#networks&#34;&gt;Networks&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#security&#34;&gt;Security&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#data-science&#34;&gt;Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Programming-Languages-Frameworks-Platforms&#34;&gt;&lt;a href=&#34;#Programming-Languages-Frameworks-Platforms&#34; class=&#34;headerlink&#34; title=&#34;Programming Languages&amp;#x2F;Frameworks&amp;#x2F;Platforms&#34;&gt;&lt;/a&gt;Programming Languages&amp;#x2F;Frameworks&amp;#x2F;Platforms&lt;/h2&gt;&lt;h3 id=&#34;Android&#34;&gt;&lt;a href=&#34;#Android&#34; class=&#34;headerlink&#34; title=&#34;Android&#34;&gt;&lt;/a&gt;Android&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/android-interview-questions.aspx&#34;&gt;10 Android interview question answers for Freshers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/android/interview-questions&#34;&gt;20 Essential Android Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adevait.com/android/interview-questions&#34;&gt;25 Essential Android Interview Questions from Adeva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer&#34;&gt;A couple of Android questions posted by Quora users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/android/android_interview_questions.htm&#34;&gt;A great list of Android interview questions covering all the aspects of this career&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/derekargueta/Android-Interview-Questions&#34;&gt;Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec&#34;&gt;Collection of Android and Java questions divided by experience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mindash/android-structured-interview&#34;&gt;RocketSkill App Android Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/anitaa1990/Android-Cheat-sheet&#34;&gt;Android cheat sheet: Coding program, Data structure, Android and Java interview questions with answers and categorized by topics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.andreasschrade.com/2017/02/23/android-interview-questions/&#34;&gt;Android Interview Questions And Answers From Beginner To Advanced&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mohsenoid/Android-Interview-Questions&#34;&gt;Interview Questions for Senior Android Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/android-interview-questions/&#34;&gt;35+ Android Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;AngularJS&#34;&gt;&lt;a href=&#34;#AngularJS&#34; class=&#34;headerlink&#34; title=&#34;AngularJS&#34;&gt;&lt;/a&gt;AngularJS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/angular-js/interview-questions&#34;&gt;12 Essential AngularJS Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gdi2290/ngExam&#34;&gt;An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/angularjs/tutorial/angularjs-interview-questions-sample-answers&#34;&gt;29 AngularJS Interview Questions – Can You Answer Them All? Great Article from Codementor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html&#34;&gt;AngularJS interview questions and answers for experienced developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm&#34;&gt;AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers&#34;&gt;This article discusses the top 50 Most occurred AngularJS interview question with answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-25-angular-js-interview-questions/&#34;&gt;Top 25 Angularjs Interview Questions and Quiz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/latest-angularjs-interview-questions-answers/&#34;&gt;100 AngularJS Interview Questions - Quick Refresher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Angular&#34;&gt;&lt;a href=&#34;#Angular&#34; class=&#34;headerlink&#34; title=&#34;Angular&#34;&gt;&lt;/a&gt;Angular&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Yonet/Angular-Interview-Questions&#34;&gt;A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.onlineinterviewquestions.com/angular2-interview-questions/&#34;&gt;Angular 2 Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sudheerj/angular-interview-questions&#34;&gt;List of 300 Angular Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/angular-interview-questions/&#34;&gt;Angular Interview Questions (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackr.io/blog/angular-interview-questions&#34;&gt;Top Angular Interview Questions and Answers in 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;BackboneJS&#34;&gt;&lt;a href=&#34;#BackboneJS&#34; class=&#34;headerlink&#34; title=&#34;BackboneJS&#34;&gt;&lt;/a&gt;BackboneJS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/backbone-js/interview-questions&#34;&gt;8 Essential Backbonejs Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.web-technology-experts-notes.in/2015/01/backbone-js-interview-questions-and-answers.html&#34;&gt;Backbonejs Interview Questions And Answers from web technology experts notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-25-backbone-js-interview-questions/&#34;&gt;Top 25 Backbone.js interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;C&#34;&gt;&lt;a href=&#34;#C&#34; class=&#34;headerlink&#34; title=&#34;C++&#34;&gt;&lt;/a&gt;C++&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sanfoundry.com/cplusplus-interview-questions-answers/&#34;&gt;1000+ Multiple Choice Questions &amp;amp; Answers in C++ with explanations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/C++-Interview-questions-Answer.aspx&#34;&gt;200 C++ interview questions and answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/c-plus-plus/interview-questions&#34;&gt;24 Essential C++ Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus&#34;&gt;C++ Interview Questions from GeekInterview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geeksforgeeks.org/c-plus-plus/&#34;&gt;C++ Programming Q&amp;amp;A and quizzes from computer science portal for geeks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiabix.com/cpp-programming/questions-and-answers/&#34;&gt;C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/haoel/leetcode&#34;&gt;LeetCode Problems’ Solutions written in C++&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;C-1&#34;&gt;&lt;a href=&#34;#C-1&#34; class=&#34;headerlink&#34; title=&#34;C&#34;&gt;&lt;/a&gt;C&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html&#34;&gt;Basic C language technical frequently asked interview questions and answers It includes data structures, pointers interview questions and answers for experienced&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiabix.com/technical/c/&#34;&gt;C Programming Interview Questions and Answers for such topics as Bits and Bytes, Preprocessors, Functions, Strings, Language basics and etc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm&#34;&gt;C Programming Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of C Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/&#34;&gt;First set of commonly asked C programming interview questions from computer science portal for geeks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/&#34;&gt;Second set of commonly asked C programming interview questions from computer science portal for geeks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.toptal.com/c/interview-questions&#34;&gt;9 Essential C Interview Questions with answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/c-interview-questions/&#34;&gt;Top C Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;C-2&#34;&gt;&lt;a href=&#34;#C-2&#34; class=&#34;headerlink&#34; title=&#34;C#&#34;&gt;&lt;/a&gt;C#&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/c-sharp/interview-questions&#34;&gt;15 Essential C# Interview Question from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dotnetfunda.com/interviews/cat/6/csharp&#34;&gt;C# interview questions from dotnetfunda.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-50-c-sharp-interview-questions-answers/&#34;&gt;Top 50 C# Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/csharp-coding-interview-questions-developers/&#34;&gt;50 C# Coding Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/csharp-oops-interview-questions-answers/&#34;&gt;20 C# OOPS Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/c-sharp-interview-questions/&#34;&gt;30+ C# Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;NET&#34;&gt;&lt;a href=&#34;#NET&#34; class=&#34;headerlink&#34; title=&#34;.NET&#34;&gt;&lt;/a&gt;.NET&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/ASPNet-Questions.aspx&#34;&gt;300 ASPNET interview questions and answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.talkingdotnet.com/asp-net-core-interview-questions/&#34;&gt;ASP.NET Core Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiabix.com/technical/dotnet/&#34;&gt;Great list of NET interview questions covering all the NET platform topics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners&#34;&gt;NET Interview Questions and Answers for Beginners which consists of the most frequently asked questions in NET This list of 100+ questions and answers gauge your familiarity with the NET platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer&#34;&gt;Questions gathered by community of the StackOverflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx&#34;&gt;What Great NET Developers Ought To Know (More NET Interview Questions)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Clojure&#34;&gt;&lt;a href=&#34;#Clojure&#34; class=&#34;headerlink&#34; title=&#34;Clojure&#34;&gt;&lt;/a&gt;Clojure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html&#34;&gt;Classic ‘Fizz Buzz’ interview question for Clojure developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ita2zguide.blogspot.com.by/p/cc.html&#34;&gt;Clojure Interview Questions for experienced devs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dpetrovics/coding-exercises&#34;&gt;Coding exercises in Clojure, handy practice for technical interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/&#34;&gt;Experience and questions from Clojure developer interview collected by Reddit users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DerekCuevas/interview-cake-clj&#34;&gt;Interview cake Clojure solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;CSS&#34;&gt;&lt;a href=&#34;#CSS&#34; class=&#34;headerlink&#34; title=&#34;CSS&#34;&gt;&lt;/a&gt;CSS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/Interview-Questions-CSS.aspx&#34;&gt;CSS interview questions and answers for freshers and experienced candidates Also there you can find CSS online practice tests to fight written tests and certification exams on CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/&#34;&gt;Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&amp;amp;As and code snippets useful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://css-tricks.com/interview-questions-css/&#34;&gt;Interview Questions and Exercises About CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/&#34;&gt;Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://frontendinterviewhandbook.com/css-questions/&#34;&gt;Front End Interview Handbook - CSS Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Cucumber&#34;&gt;&lt;a href=&#34;#Cucumber&#34; class=&#34;headerlink&#34; title=&#34;Cucumber&#34;&gt;&lt;/a&gt;Cucumber&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ratedr05.wordpress.com/2017/09/22/cucumber-interview-questions/&#34;&gt;Cucumber Web Application BDD Sample Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://watir.com/simple-cucumber-watir-page-object-pattern-framework/&#34;&gt;Guide to building a simple Cucumber + Watir page object pattern framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Django&#34;&gt;&lt;a href=&#34;#Django&#34; class=&#34;headerlink&#34; title=&#34;Django&#34;&gt;&lt;/a&gt;Django&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/&#34;&gt;Some abstract interview questions for Python&amp;#x2F;Django developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ilian.io/django-interview-questions/&#34;&gt;Some Django basic interview questions to establish the basic level of the candidates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-16-django-interview-questions/&#34;&gt;Top 16 Django Interview Questions for both freshers and experienced developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Docker&#34;&gt;&lt;a href=&#34;#Docker&#34; class=&#34;headerlink&#34; title=&#34;Docker&#34;&gt;&lt;/a&gt;Docker&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mindmajix.com/docker-interview-questions&#34;&gt;Docker Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edureka.co/blog/interview-questions/docker-interview-questions/&#34;&gt;Top Docker Interview Questions You Must Prepare In 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intellipaat.com/interview-question/docker-interview-questions/&#34;&gt;Top Docker Interview Questions And Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wisdomjobs.com/e-university/docker-software-interview-questions.html&#34;&gt;DOCKER (SOFTWARE) INTERVIEW QUESTIONS &amp;amp; ANSWERS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fullstack.cafe/blog/docker-interview-questions-and-answers&#34;&gt;30 Docker Interview Questions and Answers in 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/docker-interview-questions/&#34;&gt;Docker Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers&#34;&gt;Top 50 Docker Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techgeekbuzz.com/top-docker-interview-questions/&#34;&gt;Top 50+ Docker Interview Questions and Answers in 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Elastic&#34;&gt;&lt;a href=&#34;#Elastic&#34; class=&#34;headerlink&#34; title=&#34;Elastic&#34;&gt;&lt;/a&gt;Elastic&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions&#34;&gt;Top Elastic Stack Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;EmberJS&#34;&gt;&lt;a href=&#34;#EmberJS&#34; class=&#34;headerlink&#34; title=&#34;EmberJS&#34;&gt;&lt;/a&gt;EmberJS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/emberjs/interview-questions&#34;&gt;8 Essential Emberjs Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-25-ember-js-interview-questions/&#34;&gt;Top 25 Emberjs Interview Questions for both freshers and experienced developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Erlang&#34;&gt;&lt;a href=&#34;#Erlang&#34; class=&#34;headerlink&#34; title=&#34;Erlang&#34;&gt;&lt;/a&gt;Erlang&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-22-erlang-interview-questions/&#34;&gt;Top 22 Erlang Interview Questions for both freshers and experienced developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Golang&#34;&gt;&lt;a href=&#34;#Golang&#34; class=&#34;headerlink&#34; title=&#34;Golang&#34;&gt;&lt;/a&gt;Golang&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mrekucci/epi&#34;&gt;Solutions for Elements of Programming Interviews problems written in Golang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/efischer19/golang_ctci&#34;&gt;Solutions for some basic coding interview tasks written in Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-20-go-programming-interview-questions/&#34;&gt;Top 20 GO Programming Interview Questions for both freshers and experienced developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;GraphQl&#34;&gt;&lt;a href=&#34;#GraphQl&#34; class=&#34;headerlink&#34; title=&#34;GraphQl&#34;&gt;&lt;/a&gt;GraphQl&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know&#34;&gt;8 GraphQl Interview Questions To Know&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.howtographql.com/advanced/5-common-questions/&#34;&gt;How to GraphQl - Common Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;HTML&#34;&gt;&lt;a href=&#34;#HTML&#34; class=&#34;headerlink&#34; title=&#34;HTML&#34;&gt;&lt;/a&gt;HTML&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sitepoint.com/10-typical-html-interview-exercises/&#34;&gt;10 Typical HTML Interview Exercises from SitePoint.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/html5/interview-questions&#34;&gt;16 Essential HTML5 Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe&#34;&gt;40 important HTML 5 Interview questions with answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/Interview-Questions-HTML.aspx&#34;&gt;HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-50-html-interview-questions/&#34;&gt;Top 50 HTML Interview Questions for both freshers and experienced developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javatpoint.com/html-interview-questions&#34;&gt;Common HTML interview questions for freshers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://frontendinterviewhandbook.com/html-questions/&#34;&gt;Front End Interview Handbook - HTML Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/latest-html-interview-questions/&#34;&gt;30 HTML Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/html-interview-questions/&#34;&gt;30+ HTML Interview Questions (2021)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Ionic&#34;&gt;&lt;a href=&#34;#Ionic&#34; class=&#34;headerlink&#34; title=&#34;Ionic&#34;&gt;&lt;/a&gt;Ionic&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codeandyou.com/p/ionic-interview-questions.html&#34;&gt;23 Beginner Level Ionic Framework Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.toptal.com/ionic/interview-questions&#34;&gt;12 Essential Ionic Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.javatpoint.com/ionic-interview-questions&#34;&gt;45 Ionic Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.maheshbhusanoor.com/article/ionic-interview-questions-answers.html&#34;&gt;Most Asked Ionic Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;iOS&#34;&gt;&lt;a href=&#34;#iOS&#34; class=&#34;headerlink&#34; title=&#34;iOS&#34;&gt;&lt;/a&gt;iOS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/ios/interview-questions&#34;&gt;14 Essential iOS Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/ios/tutorial/ios-interview-tips-questions-answers-objective-c&#34;&gt;20 iOS Developer Interview Questions and Answers for getting you ready for your interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adevait.com/ios/interview-questions&#34;&gt;25 Essential iOS Interview Questions from Adeva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions&#34;&gt;A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you’re looking to keep current or practice for your own interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.raywenderlich.com/53962/ios-interview-questions&#34;&gt;All you need to know about iOS technical interview including some tips for preparing, questions and some coding exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html&#34;&gt;Interview Questions for iOS and Mac Developers from the CEO of Black Pixel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geekinterview.com/Interview-Questions/iOS&#34;&gt;iOS Interview Questions and Answers including such topics as Development Basics, App states and multitasking, App states, Core app objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://m.smartcloud.io/ios-interview-questions-for-senior-developers-in-2017-a94cc81c8205&#34;&gt;iOS Interview Questions For Senior Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a&#34;&gt;50 iOS Interview Questions And Answers 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-2-45f952230b9f&#34;&gt;50 iOS Interview Questions And Answers Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d&#34;&gt;50 iOS Interview Questions And Answers Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a&#34;&gt;50 iOS Interview Questions And Answers Part 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f&#34;&gt;50 iOS Interview Questions And Answers Part 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.upwork.com/i/interview-questions/ios/&#34;&gt;10 iOS interview questions and answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech&#34;&gt;iOS Developer and Designer Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html&#34;&gt;IOS Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html&#34;&gt;iOS Interview Questions For Beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md&#34;&gt;Babylon iOS Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mindash/iOS-structured-interview&#34;&gt;RocketSkill App iOS Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d&#34;&gt;iOS Static vs Dynamic Dispatch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Java&#34;&gt;&lt;a href=&#34;#Java&#34; class=&#34;headerlink&#34; title=&#34;Java&#34;&gt;&lt;/a&gt;Java&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://onurdesk.com/category/interview/interview-program-java/&#34;&gt;List of Java programs for interview Categoriwise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html&#34;&gt;115 Java Interview Questions and Answers – The ULTIMATE List&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers&#34;&gt;37 Java Interview Questions to Practice With from Codementor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/java/interview-questions&#34;&gt;21 Essential Java Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janbasktraining.com/blog/core-java-interview-questions-answers/&#34;&gt;Top 30 Core Java Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adevait.com/java/interview-questions&#34;&gt;29 Essential Java Interview Questions from Adeva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/svozniuk/java-interviews&#34;&gt;A collection of Java interview questions and answers to them&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/donbeave/interview&#34;&gt;Data Structures and Algorithms in Java which can be useful in interview process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.udemy.com/java-interview-questions/&#34;&gt;Java Interview Questions: How to crack the TOP 15 questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javatpoint.com/corejava-interview-questions&#34;&gt;300 Core Java Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html&#34;&gt;Top 10 Tricky Java interview questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html&#34;&gt;Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html&#34;&gt;Top 40 Core Java Interview Questions Answers from Telephonic Round&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edureka.co/blog/interview-questions/spring-interview-questions/&#34;&gt;Top 50 Spring Interview Questions You Must Prepare For In 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.journaldev.com/2696/spring-interview-questions-and-answers&#34;&gt;Spring Interview Questions And Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewcake.com/java-interview-questions&#34;&gt;Interview Cake Java Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/java-interview-questions/&#34;&gt;Java Interview Questions &amp;amp; Quizzes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fdk.codes/some-java-interview-questions/&#34;&gt;Essetial Java Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/java-interview-questions/&#34;&gt;Fundamental Java Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;JavaScript&#34;&gt;&lt;a href=&#34;#JavaScript&#34; class=&#34;headerlink&#34; title=&#34;JavaScript&#34;&gt;&lt;/a&gt;JavaScript&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript&#34;&gt;Practice common algorithms using JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95&#34;&gt;10 Interview Questions Every JavaScript Developer Should Know&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers&#34;&gt;21 Essential JavaScript Interview Questions from best mentors all over the world&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adevait.com/javascript-developers/interview-questions&#34;&gt;20 Essential JavaScript Interview Questions from Adeva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/javascript/interview-questions&#34;&gt;37 Essential JavaScript Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sitepoint.com/5-javascript-interview-exercises/&#34;&gt;5 More JavaScript Interview Exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sitepoint.com/5-typical-javascript-interview-exercises/&#34;&gt;5 Typical JavaScript Interview Exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/&#34;&gt;Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&amp;amp;As and code snippets useful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question&#34;&gt;123 Essential JavaScript Interview Question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm&#34;&gt;JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thatjsdude.com/interview/js2.html&#34;&gt;JS: Basics and Tricky Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://thatjsdude.com/interview/js1.html&#34;&gt;JS: Interview Algorithm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kolodny/exercises&#34;&gt;Some basic javascript coding challenges and interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/csvenja/javascript-exercises&#34;&gt;Some JavaScript interview exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once&#34;&gt;Ten Questions I’ve Been Asked, Most More Than Once, Over Six Technical JavaScript &amp;#x2F; Front-End Engineer Job Interviews.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-85-javascript-interview-questions/&#34;&gt;Top 85 JavaScript Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewcake.com/javascript-interview-questions&#34;&gt;Interview Cake JavaScript Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)&#34;&gt;The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews&#34;&gt;10 JavaScript Concepts You Need to Know for Interviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://frontendinterviewhandbook.com/javascript-questions/&#34;&gt;Front End Interview Handbook - JavaScript Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/javascript-interview-questions-answers/&#34;&gt;JavaScript Interview Questions - Quick Refresher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/danieldelcore/mega-interview-guide&#34;&gt;The MEGA Interview Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/javascript-interview-questions/&#34;&gt;Javascript Interview Questions and Answers (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sadanandpai/javascript-code-challenges&#34;&gt;JavaScript Modern Interview Code Challenges 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/macmacky/70-javascript-interview-questions-5gfi&#34;&gt;70 JavaScript Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;jQuery&#34;&gt;&lt;a href=&#34;#jQuery&#34; class=&#34;headerlink&#34; title=&#34;jQuery&#34;&gt;&lt;/a&gt;jQuery&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://career.guru99.com/top-50-jquery-interview-questions/&#34;&gt;Top 50 jquery interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.toptal.com/jquery/interview-questions&#34;&gt;17 Essential jQuery Interview Questions From Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techgeekbuzz.com/top-jquery-interview-questions/&#34;&gt;Top JQuery Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Front-end-build-tools&#34;&gt;&lt;a href=&#34;#Front-end-build-tools&#34; class=&#34;headerlink&#34; title=&#34;Front-end build tools&#34;&gt;&lt;/a&gt;Front-end build tools&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/styopdev/webpack-interview-questions&#34;&gt;Webpack interview questions &amp;amp; answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codeproject.com/Articles/1065184/Latest-Gulp-js-interview-questions&#34;&gt;Gulp js interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.talkingdotnet.com/grunt-js-interview-questions/&#34;&gt;Grunt js interview questions for beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mindmajix.com/grunt-interview-questions&#34;&gt;Grunt js interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;KnockoutJS&#34;&gt;&lt;a href=&#34;#KnockoutJS&#34; class=&#34;headerlink&#34; title=&#34;KnockoutJS&#34;&gt;&lt;/a&gt;KnockoutJS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.code-sample.com/2014/01/knockout-js-interview-questions-and.html&#34;&gt;15 interview questions from CodeSample.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codeproject.com/Articles/987899/KnockoutJS-interview-questions&#34;&gt;20 questions you might be asked about KnockoutJS in an interview for both freshers and experienced developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Less&#34;&gt;&lt;a href=&#34;#Less&#34; class=&#34;headerlink&#34; title=&#34;Less&#34;&gt;&lt;/a&gt;Less&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-25-less-interview-questions/&#34;&gt;Top 25 LESS Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Lisp&#34;&gt;&lt;a href=&#34;#Lisp&#34; class=&#34;headerlink&#34; title=&#34;Lisp&#34;&gt;&lt;/a&gt;Lisp&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sanfoundry.com/lisp-mcqs-class/&#34;&gt;10 LISP Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-18-lisp-interview-questions/&#34;&gt;Top 18 Lisp Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;NodeJS&#34;&gt;&lt;a href=&#34;#NodeJS&#34; class=&#34;headerlink&#34; title=&#34;NodeJS&#34;&gt;&lt;/a&gt;NodeJS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://adevait.com/nodejs/interview-questions&#34;&gt;25 Essential Node.js Interview Questions from Adeva&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/nodejs/interview-questions&#34;&gt;8 Essential Nodejs Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm&#34;&gt;Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.risingstack.com/node-js-interview-questions/&#34;&gt;Node.js Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-25-interview-questions-on-node-js/&#34;&gt;Top 25 Nodejs Interview Questions &amp;amp; Answers from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/top-30-node-js-interview-questions-answers/&#34;&gt;Top 30 Node.Js Interview Questions With Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/node-js-interview-questions/&#34;&gt;Top Nodejs Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md&#34;&gt;Node.js Interview Questions in Chinese&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/learning-zone/nodejs-interview-questions&#34;&gt;Node.js Interview Questions by learning-zone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Objective-C&#34;&gt;&lt;a href=&#34;#Objective-C&#34; class=&#34;headerlink&#34; title=&#34;Objective-C&#34;&gt;&lt;/a&gt;Objective-C&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/&#34;&gt;Interview Qs for Objective-C and Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html&#34;&gt;iOS Interview Questions For Beginners&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;PHP&#34;&gt;&lt;a href=&#34;#PHP&#34; class=&#34;headerlink&#34; title=&#34;PHP&#34;&gt;&lt;/a&gt;PHP&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/PHP-Interview-Questions.aspx&#34;&gt;100 PHP interview questions and answers from CareerRide.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/php/interview-questions&#34;&gt;21 Essential PHP Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.woodstitch.com/resources/php-interview-questions.php&#34;&gt;20 Common PHP Job Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adevait.com/php/interview-questions&#34;&gt;25 Essential PHP Interview Questions from Adeva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://phpinterviewquestions.co.in/&#34;&gt;PHP interview questions and answers for freshers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-100-php-interview-questions-answers/&#34;&gt;Top 100 PHP Interview Questions &amp;amp; Answers from CareerGuru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers&#34;&gt;25 PHP Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pangara.com/blog/php-interview-questions&#34;&gt;26 Essential PHP Interview Questions for 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bootsity.com/books&#34;&gt;Cracking PHP Interviews Questions ebook 300+ Q&amp;amp;A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/latest-php-interview-questions-answers/&#34;&gt;PHP Interview Questions - Quick Refresher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/php-interview-questions/&#34;&gt;30+ PHP Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Python&#34;&gt;&lt;a href=&#34;#Python&#34; class=&#34;headerlink&#34; title=&#34;Python&#34;&gt;&lt;/a&gt;Python&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://adevait.com/python/interview-questions&#34;&gt;26 Essential Python Interview Questions from Adeva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/python-interview-questions.aspx&#34;&gt;20 Python interview questions and answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/python/interview-questions&#34;&gt;11 Essential Python Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sigmavirus24/python-interview-questions&#34;&gt;A listing of questions that could potentially be asked for a python job listing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bogotobogo.com/python/python_interview_questions.php&#34;&gt;Interview Questions for both beginners and experts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewcake.com/python-interview-questions&#34;&gt;Interview Cake Python Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/faq/programming.html&#34;&gt;Python Frequently Asked Questions (Programming)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions&#34;&gt;Python interview questions collected by Reddit users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-25-python-interview-questions/&#34;&gt;Top 25 Python Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DEwgZNC-KyE&#34;&gt;Python Interview 10 questions from Corey Schafer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://luminousmen.com/post/6&#34;&gt;Python interview questions. Part I. Junior&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://luminousmen.com/post/7&#34;&gt;Python interview questions. Part II. Middle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://luminousmen.com/post/8&#34;&gt;Python interview questions. Part III. Senior&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/python-interview-questions/&#34;&gt;Python Interview Questions and Answers (2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/python-interview-questions-programmers/&#34;&gt;100 Python Interview Questions - Quick Refresher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edureka.co/blog/interview-questions/python-interview-questions/&#34;&gt;Top 100 Python Interview Questions from Edureka (2021)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Ruby-on-Rails&#34;&gt;&lt;a href=&#34;#Ruby-on-Rails&#34; class=&#34;headerlink&#34; title=&#34;Ruby on Rails&#34;&gt;&lt;/a&gt;Ruby on Rails&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/ruby-on-rails-interview-questions.aspx&#34;&gt;20 Ruby on Rails interview questions and answers from CareerRide.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/ruby-on-rails/interview-questions&#34;&gt;9 Essential Ruby on Rails Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rishiip/ruby-on-rails-interview-questions&#34;&gt;High-level Ruby on Rails Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers&#34;&gt;Ruby And Ruby On Rails interview Q&amp;amp;A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/&#34;&gt;Some of the most frequently asked Ruby on Rails questions and how to answer them confidently&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions&#34;&gt;11 Ruby on Rails Interview Practice Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://career.guru99.com/top-34-ruby-on-rail-interview-questions/&#34;&gt;Top 53 Ruby on Rails Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.upwork.com/i/interview-questions/ruby-on-rails/&#34;&gt;10 Ruby on Rails interview questions and answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ReactJS&#34;&gt;&lt;a href=&#34;#ReactJS&#34; class=&#34;headerlink&#34; title=&#34;ReactJS&#34;&gt;&lt;/a&gt;ReactJS&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/reactjs/comments/3m5equ/react_what_interview_questions_to_expect/&#34;&gt;Reddit users share their expectations from ReactJS interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions&#34;&gt;5 Essential React.js Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tylermcginnis.com/react-interview-questions/&#34;&gt;React Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.toptal.com/react/interview-questions&#34;&gt;Toptal’s 21 Essential React.js Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.educba.com/reactjs-interview-questions/&#34;&gt;19 Essential ReactJs Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sudheerj/reactjs-interview-questions&#34;&gt;React Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Ruby&#34;&gt;&lt;a href=&#34;#Ruby&#34; class=&#34;headerlink&#34; title=&#34;Ruby&#34;&gt;&lt;/a&gt;Ruby&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/ruby/interview-questions&#34;&gt;21 Essential Ruby Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/ryansobol/5252653&#34;&gt;15 Questions to Ask During a Ruby Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/undr/ruby-trivia&#34;&gt;A list of questions about Ruby programming you can use to quiz yourself&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/&#34;&gt;The Art of Ruby Technical Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewcake.com/ruby-interview-questions&#34;&gt;Interview Cake Ruby Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.javatpoint.com/ruby-interview-questions&#34;&gt;Frequently Asked Ruby Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Rust&#34;&gt;&lt;a href=&#34;#Rust&#34; class=&#34;headerlink&#34; title=&#34;Rust&#34;&gt;&lt;/a&gt;Rust&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wisdomjobs.com/e-university/rust-programming-language-interview-questions.html&#34;&gt;Top 250+ Rust Programming Language Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.code-sample.com/2018/02/rust-programming-interview-questions.html&#34;&gt;Rust Programming Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jean553/rust-exam&#34;&gt;rust-exam: A set of questions about the Rust programming language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bestinterviewquestion.com/rust-programming-language-interview-questions&#34;&gt;Best Rust Programming Language Interview Questions and answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Sass&#34;&gt;&lt;a href=&#34;#Sass&#34; class=&#34;headerlink&#34; title=&#34;Sass&#34;&gt;&lt;/a&gt;Sass&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-17-sass-interview-questions/&#34;&gt;Top 17 Sass Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.educba.com/sass-interview-questions/&#34;&gt;Top 10 Sass Interview Questions from educba&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Scala&#34;&gt;&lt;a href=&#34;#Scala&#34; class=&#34;headerlink&#34; title=&#34;Scala&#34;&gt;&lt;/a&gt;Scala&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/&#34;&gt;4 Interview Questions for Scala Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scala-lang.org/old/faq&#34;&gt;A list of Frequently Asked Questions and their answers, sorted by category&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Jarlakxen/Scala-Interview-Questions&#34;&gt;A list of helpful Scala related questions you can use to interview potential candidates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed&#34;&gt;How Scala Developers Are Being Interviewed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-25-interview-questions-on-scala/&#34;&gt;Top 25 Scala Interview Questions &amp;amp; Answers from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;SharePoint&#34;&gt;&lt;a href=&#34;#SharePoint&#34; class=&#34;headerlink&#34; title=&#34;SharePoint&#34;&gt;&lt;/a&gt;SharePoint&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rajeshg.me/2013/05/sharepoint-developer-2010-interview.html&#34;&gt;Sharepoint Interview Question For Developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intellipaat.com/blog/interview-question/sharepoint-interview-questions/&#34;&gt;Top SharePoint Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Shell&#34;&gt;&lt;a href=&#34;#Shell&#34; class=&#34;headerlink&#34; title=&#34;Shell&#34;&gt;&lt;/a&gt;Shell&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/shell-scripting-interview-questions/&#34;&gt;Top 50 Shell Scripting Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Spark&#34;&gt;&lt;a href=&#34;#Spark&#34; class=&#34;headerlink&#34; title=&#34;Spark&#34;&gt;&lt;/a&gt;Spark&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ankurchavda/SparkLearning#spark-learning-guide&#34;&gt;Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Swift&#34;&gt;&lt;a href=&#34;#Swift&#34; class=&#34;headerlink&#34; title=&#34;Swift&#34;&gt;&lt;/a&gt;Swift&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/swift/interview-questions&#34;&gt;10 Essential Swift Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/diwu/LeetCode-Solutions-in-Swift&#34;&gt;Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raywenderlich.com/762435-swift-interview-questions-and-answers&#34;&gt;Swift Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html&#34;&gt;Swift Programming Language Interview Questions And Answers from mycodetips.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html&#34;&gt;Your top 10 Swift questions answered&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raywenderlich.com/762435-swift-interview-questions-and-answers&#34;&gt;Swift interview questions and answers on Swift 5 by Raywenderlich&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3&#34;&gt;Dynamic keyword in Swift&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Vue-js&#34;&gt;&lt;a href=&#34;#Vue-js&#34; class=&#34;headerlink&#34; title=&#34;Vue.js&#34;&gt;&lt;/a&gt;Vue.js&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sudheerj/vuejs-interview-questions&#34;&gt;List of 300 VueJS Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;WordPress&#34;&gt;&lt;a href=&#34;#WordPress&#34; class=&#34;headerlink&#34; title=&#34;WordPress&#34;&gt;&lt;/a&gt;WordPress&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/&#34;&gt;Top 45 WordPress interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.toptal.com/wordpress/interview-questions&#34;&gt;10 Essential WordPress Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;TypeScript&#34;&gt;&lt;a href=&#34;#TypeScript&#34; class=&#34;headerlink&#34; title=&#34;TypeScript&#34;&gt;&lt;/a&gt;TypeScript&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.onlineinterviewquestions.com/typescript-interview-questions&#34;&gt;Typescript Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.positronx.io/typescript-interview-questions-answers-2109/&#34;&gt;Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Database-technologies&#34;&gt;&lt;a href=&#34;#Database-technologies&#34; class=&#34;headerlink&#34; title=&#34;Database technologies&#34;&gt;&lt;/a&gt;Database technologies&lt;/h2&gt;&lt;h3 id=&#34;Cassandra&#34;&gt;&lt;a href=&#34;#Cassandra&#34; class=&#34;headerlink&#34; title=&#34;Cassandra&#34;&gt;&lt;/a&gt;Cassandra&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-23-cassandra-interview-questions/&#34;&gt;Top 23 Cassandra Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Microsoft-Access&#34;&gt;&lt;a href=&#34;#Microsoft-Access&#34; class=&#34;headerlink&#34; title=&#34;Microsoft Access&#34;&gt;&lt;/a&gt;Microsoft Access&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-16-ms-access-database-interview-questions/&#34;&gt;Top 16 Microsoft Access Database Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;MongoDB&#34;&gt;&lt;a href=&#34;#MongoDB&#34; class=&#34;headerlink&#34; title=&#34;MongoDB&#34;&gt;&lt;/a&gt;MongoDB&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://theprofessionalspoint.blogspot.com.by/2014/01/28-mongodb-nosql-database-interview.html&#34;&gt;28 MongoDB NoSQL Database Interview Questions and Answers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.globalguideline.com/interview_questions/Questions.php?sc=MongoDB&#34;&gt;MongoDB frequently Asked Questions by expert members with experience in MongoDB These questions and answers will help you strengthen your technical skills, prepare for the new job test and quickly revise the concepts&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.javatpoint.com/mongodb-interview-questions&#34;&gt;MongoDB Interview Questions from JavaTPointcom&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm&#34;&gt;MongoDB Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of MongoDB&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://career.guru99.com/top-20-mongodb-interview-questions/&#34;&gt;Top 20 MongoDB interview questions from Career Guru&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;MySQL&#34;&gt;&lt;a href=&#34;#MySQL&#34; class=&#34;headerlink&#34; title=&#34;MySQL&#34;&gt;&lt;/a&gt;MySQL&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tecmint.com/10-mysql-database-interview-questions-for-beginners-and-intermediates/&#34;&gt;10 MySQL Database Interview Questions for Beginners and Intermediates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.careerride.com/MySQL-Interview-Questions.aspx&#34;&gt;100 MySQL interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tecmint.com/basic-mysql-interview-questions-for-database-administrators/&#34;&gt;15 Basic MySQL Interview Questions for Database Administrators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javatpoint.com/mysql-interview-questions&#34;&gt;28 MySQL interview questions from JavaTPoint.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.testingbrain.com/interview/mysql-interview-questions.html&#34;&gt;40 Basic MySQL Interview Questions with Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-50-mysql-interview-questions-answers/&#34;&gt;Top 50 MySQL Interview Questions &amp;amp; Answers from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Neo4j&#34;&gt;&lt;a href=&#34;#Neo4j&#34; class=&#34;headerlink&#34; title=&#34;Neo4j&#34;&gt;&lt;/a&gt;Neo4j&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-20-ne04j-interview-questions/&#34;&gt;Top 20 Neo4j Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Oracle&#34;&gt;&lt;a href=&#34;#Oracle&#34; class=&#34;headerlink&#34; title=&#34;Oracle&#34;&gt;&lt;/a&gt;Oracle&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.coolinterview.com/type.asp?iType=57&#34;&gt;General Oracle Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Postgres&#34;&gt;&lt;a href=&#34;#Postgres&#34; class=&#34;headerlink&#34; title=&#34;Postgres&#34;&gt;&lt;/a&gt;Postgres&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dotnetfunda.com/interviews/cat/208/postgresql&#34;&gt;13 PostgreSQL Interview Q&amp;amp;A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html&#34;&gt;Frequently Asked Basic PostgreSQL Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_&#34;&gt;PostgreSQL Interview Preparation Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.coolinterview.com/type.asp?iType=411&#34;&gt;PostgreSQL Interview Q&amp;amp;A from CoolInterview.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;SQL&#34;&gt;&lt;a href=&#34;#SQL&#34; class=&#34;headerlink&#34; title=&#34;SQL&#34;&gt;&lt;/a&gt;SQL&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html&#34;&gt;10 Frequently asked SQL Query Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/sql/interview-questions&#34;&gt;45 Essential SQL Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiabix.com/technical/sql-server-common-questions/&#34;&gt;Common Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiabix.com/technical/sql-server-general-questions/&#34;&gt;General Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/XD-DENG/SQL-exercise&#34;&gt;Schema, Questions &amp;amp; Solutions for SQL Exercising&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/sql/sql_interview_questions.htm&#34;&gt;SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/sql-interview-questions/&#34;&gt;SQL Interview Questions CHEAT SHEET&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;SQLite&#34;&gt;&lt;a href=&#34;#SQLite&#34; class=&#34;headerlink&#34; title=&#34;SQLite&#34;&gt;&lt;/a&gt;SQLite&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-20-sql-lite-interview-questions/&#34;&gt;Top 20 SQLITE  Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Caching-technologies&#34;&gt;&lt;a href=&#34;#Caching-technologies&#34; class=&#34;headerlink&#34; title=&#34;Caching technologies&#34;&gt;&lt;/a&gt;Caching technologies&lt;/h2&gt;&lt;h3 id=&#34;Memcached&#34;&gt;&lt;a href=&#34;#Memcached&#34; class=&#34;headerlink&#34; title=&#34;Memcached&#34;&gt;&lt;/a&gt;Memcached&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.javatpoint.com/memcached-interview-questions-and-answers&#34;&gt;Memcached Interview Questions from Javapoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wisdomjobs.com/e-university/memcached-interview-questions.html&#34;&gt;Memcached Interview Questions from Wisdomjobs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Redis&#34;&gt;&lt;a href=&#34;#Redis&#34; class=&#34;headerlink&#34; title=&#34;Redis&#34;&gt;&lt;/a&gt;Redis&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.javatpoint.com/redis-interview-questions-and-answers&#34;&gt;Redis Interview Questions from Javapoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html&#34;&gt;Redis Interview Questions from Wisdomjobs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://career.guru99.com/top-10-redis-interview-questions/&#34;&gt;Redis Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;OS&#34;&gt;&lt;a href=&#34;#OS&#34; class=&#34;headerlink&#34; title=&#34;OS&#34;&gt;&lt;/a&gt;OS&lt;/h2&gt;&lt;h3 id=&#34;Linux&#34;&gt;&lt;a href=&#34;#Linux&#34; class=&#34;headerlink&#34; title=&#34;Linux&#34;&gt;&lt;/a&gt;Linux&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linuxfoundation.org/blog/2015/07/10-job-interview-questions-for-linux-system-administrators/&#34;&gt;10 Job Interview Questions for Linux System Administrators from Linux.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tecmint.com/useful-random-linux-interview-questions-and-answers/&#34;&gt;10 Useful Random Linux Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tecmint.com/basic-linux-interview-questions-and-answers/&#34;&gt;11 Basic Linux Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toptal.com/linux/interview-questions&#34;&gt;11 Essential Linux Interview Questions from Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linuxtechi.com/experience-linux-admin-interview-questions/&#34;&gt;Top 30 Linux System Admin Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-50-linux-interview-questions/&#34;&gt;Top 50 Linux Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/trimstray/test-your-sysadmin-skills&#34;&gt;278 Test Questions and Answers for *nix System Administrators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techbeamers.com/essential-linux-questions-answers/&#34;&gt;Linux Interview Questions - Quick Refresher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Windows&#34;&gt;&lt;a href=&#34;#Windows&#34; class=&#34;headerlink&#34; title=&#34;Windows&#34;&gt;&lt;/a&gt;Windows&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.brentozar.com/archive/2009/07/top-10-interview-questions-for-windows-sysadmins/&#34;&gt;Top 10 Interview Questions for Windows Administrators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-22-windows-server-interview-questions/&#34;&gt;Top 22 Windows Server Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.01world.in/p/windows.html&#34;&gt;Windows Admin Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;DevOps&#34;&gt;&lt;a href=&#34;#DevOps&#34; class=&#34;headerlink&#34; title=&#34;DevOps&#34;&gt;&lt;/a&gt;DevOps&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/chassing/linux-sysadmin-interview-questions&#34;&gt;Linux System Administrator&amp;#x2F;DevOps Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/&#34;&gt;Top DevOps Interview Questions You Must Prepare In 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intellipaat.com/interview-question/devops-interview-questions/&#34;&gt;Top 60+ DevOps Interview Questions &amp;amp; Answers in 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/devops-interview-questions/&#34;&gt;DevOps Interview Questions &amp;amp; Answers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Algorithms&#34;&gt;&lt;a href=&#34;#Algorithms&#34; class=&#34;headerlink&#34; title=&#34;Algorithms&#34;&gt;&lt;/a&gt;Algorithms&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rishabh115/Interview-Questions&#34;&gt;Comprehensive list of interview questions of top tech companies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://java2novice.com/java-interview-programs/&#34;&gt;A great list of Java interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sagivo/algorithms&#34;&gt;Algorithms playground for common interview questions written in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/EvgenyKarkan/EKAlgorithms&#34;&gt;EKAlgorithms contains some well known CS algorithms &amp;amp; data structures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/&#34;&gt;Top 10 Algorithms for Coding Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html&#34;&gt;Top 15 Data Structures and Algorithm Interview Questions for Java programmer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techinterviewhandbook.org/best-practice-questions/&#34;&gt;Tech Interview Handbook Best Practice Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techseries.dev/daily&#34;&gt;Daily Coding Interview Practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Blockchain&#34;&gt;&lt;a href=&#34;#Blockchain&#34; class=&#34;headerlink&#34; title=&#34;Blockchain&#34;&gt;&lt;/a&gt;Blockchain&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/&#34;&gt;Top 55 Blockchain Interview Questions You Must Prepare In 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mindmajix.com/blockchain-interview-questions&#34;&gt;Blockchain Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intellipaat.com/interview-question/blockchain-interview-questions/&#34;&gt;Top Blockchain Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://applicature.com/blog/blockchain-interview-questions&#34;&gt;Blockchain Developer Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.toptal.com/blockchain/interview-questions&#34;&gt;10 Essential Blockchain Interview Questions &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://data-flair.training/blogs/blockchain-interview-questions/&#34;&gt;Top 30 Blockchain Interview Questions – For Freshers to Experienced&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalvidya.com/blog/blockchain-interview-questions/&#34;&gt;Most Frequently Asked Blockchain Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Coding-exercises&#34;&gt;&lt;a href=&#34;#Coding-exercises&#34; class=&#34;headerlink&#34; title=&#34;Coding exercises&#34;&gt;&lt;/a&gt;Coding exercises&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mre/the-coding-interview&#34;&gt;Common interview questions and puzzles solved in several languages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/donnemartin/interactive-coding-challenges&#34;&gt;Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/roseperrone/interview-questions&#34;&gt;Interview questions solved in python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.makeuseof.com/tag/swift-coding-challenges/&#34;&gt;7 Swift Coding Challenges to Practice Your Skills&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Comprehensive-lists&#34;&gt;&lt;a href=&#34;#Comprehensive-lists&#34; class=&#34;headerlink&#34; title=&#34;Comprehensive lists&#34;&gt;&lt;/a&gt;Comprehensive lists&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/h5bp/Front-end-Developer-Interview-Questions&#34;&gt;A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html&#34;&gt;Front End Developer Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://frontendinterviewhandbook.com/&#34;&gt;Front End Interview Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/starandtina/backend-interview-questions&#34;&gt;Some simple questions to interview potential backend candidates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Design-Patterns&#34;&gt;&lt;a href=&#34;#Design-Patterns&#34; class=&#34;headerlink&#34; title=&#34;Design Patterns&#34;&gt;&lt;/a&gt;Design Patterns&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm&#34;&gt;Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kamranahmedse/design-patterns-for-humans&#34;&gt;Design Patterns for Humans™ - An ultra-simplified explanation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/iluwatar/java-design-patterns&#34;&gt;Design Patterns implemented in Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dofactory.com/net/design-patterns&#34;&gt;Design Patterns implemented in DotNet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Data-structures&#34;&gt;&lt;a href=&#34;#Data-structures&#34; class=&#34;headerlink&#34; title=&#34;Data structures&#34;&gt;&lt;/a&gt;Data structures&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html&#34;&gt;Top 15 Data Structures and Algorithm Interview Questions for Java programmer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-50-data-structure-interview-questions/&#34;&gt;Top 50 Data Structure Interview Questions from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/data-structure-interview-questions/&#34;&gt;What is Data Structure? | Top 40 Data Structure Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Networks&#34;&gt;&lt;a href=&#34;#Networks&#34; class=&#34;headerlink&#34; title=&#34;Networks&#34;&gt;&lt;/a&gt;Networks&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://career.guru99.com/top-100-networking-interview-questions-answers/&#34;&gt;Top 100 Networking Interview Questions &amp;amp; Answers from Career Guru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/networking-interview-questions/&#34;&gt;Networking Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Security&#34;&gt;&lt;a href=&#34;#Security&#34; class=&#34;headerlink&#34; title=&#34;Security&#34;&gt;&lt;/a&gt;Security&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://careers.simplicable.com/careers/new/101-IT-security-interview-questions&#34;&gt;101 IT Security Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview&#34;&gt;How to prepare for an information security job interview?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmiessler.com/study/infosec_interview_questions/&#34;&gt;Information Security Interview Questions from Daniel Miessler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://resources.infosecinstitute.com/top-50-information-security-interview-questions/&#34;&gt;Top 50 Information Security Interview Questions for freshers and experts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Data-Science&#34;&gt;&lt;a href=&#34;#Data-Science&#34; class=&#34;headerlink&#34; title=&#34;Data Science&#34;&gt;&lt;/a&gt;Data Science&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189&#34;&gt;Data Science Interview Questions for Top Tech Companies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists&#34;&gt;66 Job Interview Questions for Data Scientists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edureka.co/blog/interview-questions/data-science-interview-questions/&#34;&gt;Top 45 Data Science Interview Questions You Must Prepare In 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c&#34;&gt;Top 30 data science interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j&#34;&gt;Top 100 Data science interview questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackr.io/blog/data-science-interview-questions&#34;&gt;Data Science Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/160-data-science-interview-questions-415s3y2a&#34;&gt;160+ Data Science Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/data-science-interview-questions/&#34;&gt;Top Data Science Interview Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

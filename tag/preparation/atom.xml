@@ -1,0 +1,975 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://samirpaul1.github.io</id>
+    <title>Samir Paul • Posts by &#34;preparation&#34; tag</title>
+    <link href="https://samirpaul1.github.io" />
+    <updated>2023-08-05T20:52:53.888Z</updated>
+    <category term="LeetCode" />
+    <category term="GeeksforGeeks" />
+    <category term="blog" />
+    <category term="coding" />
+    <category term="computer-science" />
+    <category term="Binary Search" />
+    <category term="caching" />
+    <category term="system-design" />
+    <category term="design-interview" />
+    <category term="preparation" />
+    <category term="study-plan" />
+    <category term="computer-networks" />
+    <category term="computer-networks-notes" />
+    <category term="projects" />
+    <category term="tutorials" />
+    <category term="list-of-project-based-tutorials" />
+    <category term="curated-list" />
+    <category term="DSAlgo" />
+    <category term="dsa-in-python" />
+    <category term="data-structures-and-algorithms" />
+    <category term="Dynamic Programming" />
+    <category term="Patterns" />
+    <category term="dp" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="google" />
+    <category term="google-search-withing-webpage" />
+    <category term="google-programmable-search-engine" />
+    <category term="programmable-search-engine" />
+    <category term="Graph" />
+    <category term="distributed-systems" />
+    <category term="two pointers problems" />
+    <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="leetcode" />
+    <category term="leetcode-solutions" />
+    <category term="leetcode-solutions-cheetsheet" />
+    <category term="leetcode-cheetsheet" />
+    <category term="important-leetcode-solutions" />
+    <category term="python3" />
+    <category term="file-compressor" />
+    <category term="flask-application" />
+    <category term="python-server" />
+    <category term="pdfnet" />
+    <category term="pdf-compression" />
+    <category term="online-pdf-compressor" />
+    <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
+    <category term="Operating System" />
+    <category term="Placements" />
+    <category term="OS" />
+    <category term="project" />
+    <category term="pygame" />
+    <category term="python-game" />
+    <category term="pyshooter" />
+    <category term="shooter-game" />
+    <category term="Python Cheat Sheet" />
+    <category term="Leetcode" />
+    <category term="sql" />
+    <category term="nosql" />
+    <category term="sharding" />
+    <category term="data-partitioning" />
+    <category term="certificates" />
+    <category term="udemy" />
+    <category term="coursera" />
+    <category term="datacamp" />
+    <category term="INNER JOIN" />
+    <category term="RIGHT JOIN" />
+    <category term="FULL JOIN" />
+    <category term="SQL" />
+    <category term="SQL Joins" />
+    <category term="web-development" />
+    <category term="lossless-data-compression" />
+    <category term="online-file-compressor" />
+    <category term="txt-compressor" />
+    <category term="algorithm" />
+    <category term="databases" />
+    <category term="short-url" />
+    <category term="url-shortner" />
+    <category term="networking" />
+    <entry>
+        <id>https://samirpaul1.github.io/posts/url-shortening-service/</id>
+        <title>URL Shortening Service</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/url-shortening-service/"/>
+        <content type="html">&lt;h1 id=&#34;URL-Shortening-Service&#34;&gt;&lt;a href=&#34;#URL-Shortening-Service&#34; class=&#34;headerlink&#34; title=&#34;URL Shortening Service&#34;&gt;&lt;/a&gt;URL Shortening Service&lt;/h1&gt;&lt;h2 id=&#34;Summary&#34;&gt;&lt;a href=&#34;#Summary&#34; class=&#34;headerlink&#34; title=&#34;Summary&#34;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-overview.png&#34; alt=&#34;overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-detail.png&#34; alt=&#34;summary&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Requirements&#34;&gt;&lt;a href=&#34;#Requirements&#34; class=&#34;headerlink&#34; title=&#34;Requirements&#34;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Functional Requirements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Given a URL, generate a shorter and unique alias (short link).&lt;/li&gt;
+&lt;li&gt;When users access a short link, redirect to the original link.&lt;/li&gt;
+&lt;li&gt;Users should optionally be able to pick a custom short link for their URL.&lt;/li&gt;
+&lt;li&gt;Links will expire after a standard default timespan. Users should also be able to specify the expiration time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Non-Functional Requirements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The system should be highly available. This is required because, if our service is down, all the URL redirections will start failing.&lt;/li&gt;
+&lt;li&gt;URL redirection should happen in real-time with minimal latency.&lt;/li&gt;
+&lt;li&gt;Shortened links should not be guessable (not predictable).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Extended Requirements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analytics; e.g., how many times a redirection happened?&lt;/li&gt;
+&lt;li&gt;Be accessible through REST APIs by other services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Capacity-Estimation-and-Constraints&#34;&gt;&lt;a href=&#34;#Capacity-Estimation-and-Constraints&#34; class=&#34;headerlink&#34; title=&#34;Capacity Estimation and Constraints&#34;&gt;&lt;/a&gt;Capacity Estimation and Constraints&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Assumption&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read-heavy. More redirection requests compared to new URL shortenings.&lt;/li&gt;
+&lt;li&gt;Assume &lt;strong&gt;100:1&lt;/strong&gt; ratio between read and write.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Traffic estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;500M&lt;/strong&gt; new URL shortenings per month, 100 * 500M &amp;#x3D;&amp;gt; 50B redirections per month.&lt;/li&gt;
+&lt;li&gt;New URL shortenings per second&lt;ul&gt;
+&lt;li&gt;500 million &amp;#x2F; (30 days * 24 hours * 3600 seconds) &amp;#x3D; &lt;strong&gt;~200 URLs&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;URLs redirections per second&lt;ul&gt;
+&lt;li&gt;50 billion &amp;#x2F; (30 days * 24 hours * 3600 sec) &amp;#x3D; &lt;strong&gt;~19K&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Storage estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assume storing every URL shortening request for 5 years, each object takes &lt;strong&gt;500 bytes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Total objects: 500 million * 5 years * 12 months &amp;#x3D; &lt;strong&gt;30 billion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Total storage: 30 billion * 500 bytes &amp;#x3D; &lt;strong&gt;15 TB&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bandwidth estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write: 200 URL&amp;#x2F;s * 500 bytes&amp;#x2F;URL &amp;#x3D; &lt;strong&gt;100 KB&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Read: 19K URL&amp;#x2F;s * 500 bytes&amp;#x2F;URL &amp;#x3D; &lt;strong&gt;~9 MB&amp;#x2F;s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cache memory estimates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the 80-20 rule, assuming 20% of URLs generate 80% of traffic, cache 20% hot URLs&lt;/li&gt;
+&lt;li&gt;Requests per day: 19K * 3600 seconds * 24 hours &amp;#x3D; &lt;strong&gt;~1.7 billion&amp;#x2F;day&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Cache 20%: 0.2 * 1.7 billion * 500 bytes &amp;#x3D; &lt;strong&gt;~170GB&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Summary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assuming 500 million new URLs per month and 100:1 read:write ratio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;th&gt;Calculation&lt;/th&gt;
+&lt;th&gt;Estimate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;New URLs&lt;/td&gt;
+&lt;td&gt;500 million &amp;#x2F; (30 days * 24 hours * 3600 seconds)&lt;/td&gt;
+&lt;td&gt;200 &amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;URL redirections&lt;/td&gt;
+&lt;td&gt;500 million * 100 &amp;#x2F; (30 days * 24 hours * 3600 seconds)&lt;/td&gt;
+&lt;td&gt;19 K&amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Incoming data&lt;/td&gt;
+&lt;td&gt;500 bytes&amp;#x2F;URL * 200 URL&amp;#x2F;s&lt;/td&gt;
+&lt;td&gt;100 KB&amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Outgoing data&lt;/td&gt;
+&lt;td&gt;500 bytes&amp;#x2F;URL * 19K URL&amp;#x2F;s&lt;/td&gt;
+&lt;td&gt;9 MB&amp;#x2F;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Storage for 5 years&lt;/td&gt;
+&lt;td&gt;500 bytes&amp;#x2F;URL * 500 million * 60 months&lt;/td&gt;
+&lt;td&gt;15 TB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Memory for cache&lt;/td&gt;
+&lt;td&gt;19K URL * 3600 seconds * 24 hours * 500 bytes * 20%&lt;/td&gt;
+&lt;td&gt;170 GB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;System-APIs&#34;&gt;&lt;a href=&#34;#System-APIs&#34; class=&#34;headerlink&#34; title=&#34;System APIs&#34;&gt;&lt;/a&gt;System APIs&lt;/h2&gt;&lt;h3 id=&#34;createUrl&#34;&gt;&lt;a href=&#34;#createUrl&#34; class=&#34;headerlink&#34; title=&#34;createUrl&#34;&gt;&lt;/a&gt;&lt;code&gt;createUrl&lt;/code&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Parameters&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Note&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;api_dev_key&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The API developer key of a registered account. This will be used to, among other things, throttle users based on their allocated quota.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;original_url&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Original URL to be shortened.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;custom_alias&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Optional custom key for the URL.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;user_name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Optional user name to be used in encoding.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;expire_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Optional expiration date for the shortened URL.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;Return&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;string&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;A successful insertion returns the shortened URL; otherwise, it returns an error code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;deleteUrl&#34;&gt;&lt;a href=&#34;#deleteUrl&#34; class=&#34;headerlink&#34; title=&#34;deleteUrl&#34;&gt;&lt;/a&gt;&lt;code&gt;deleteUrl&lt;/code&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Parameters&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Note&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;api_dev_key&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The API developer key of a registered account. This will be used to, among other things, throttle users based on their allocated quota.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;url_key&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;string&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Short URL.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;Return&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;string&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;A successful deletion returns ‘URL Removed’.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Database-design&#34;&gt;&lt;a href=&#34;#Database-design&#34; class=&#34;headerlink&#34; title=&#34;Database design&#34;&gt;&lt;/a&gt;Database design&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Observations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Need to store billions of records.&lt;/li&gt;
+&lt;li&gt;Each object is small (less than 1K).&lt;/li&gt;
+&lt;li&gt;No relationships between records—other than storing which user created a URL.&lt;/li&gt;
+&lt;li&gt;Read-heavy.&lt;/li&gt;
+&lt;li&gt;A NoSQL choice would also be easier to scale.&lt;/li&gt;
+&lt;li&gt;Comment: SQL with sharding should also work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Schema&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;URL&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Column&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hash&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(16)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;original_url&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(512)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;creation_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;expiration_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;user_id&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;int&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;User&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Column&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(20)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;email&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;varchar(32)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;creation_date&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;last_login&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;datetime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Basic-System-Design-and-Algorithm&#34;&gt;&lt;a href=&#34;#Basic-System-Design-and-Algorithm&#34; class=&#34;headerlink&#34; title=&#34;Basic System Design and Algorithm&#34;&gt;&lt;/a&gt;Basic System Design and Algorithm&lt;/h2&gt;&lt;h3 id=&#34;Encoding-actual-URL&#34;&gt;&lt;a href=&#34;#Encoding-actual-URL&#34; class=&#34;headerlink&#34; title=&#34;Encoding actual URL&#34;&gt;&lt;/a&gt;Encoding actual URL&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Compute unique hash&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;base64&lt;/code&gt;: A-Z, a-z, 0-9, &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;6 letters: 64 ^ 6 &amp;#x3D; ~68.7 billion&lt;/li&gt;
+&lt;li&gt;8 letters: 64 ^ 8 &amp;#x3D; ~281 trillion&lt;/li&gt;
+&lt;li&gt;Use 6 letters&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MD5&lt;/code&gt; generates 128 bit hash value&lt;/li&gt;
+&lt;li&gt;Each &lt;code&gt;base64&lt;/code&gt; character encodes 6 bits&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;base64&lt;/code&gt; encoding generates 22 characters&lt;/li&gt;
+&lt;li&gt;Select 8 characters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Issues with this approach&lt;ul&gt;
+&lt;li&gt;Same URL from multiple users&lt;/li&gt;
+&lt;li&gt;URL-encoded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Workaround&lt;ul&gt;
+&lt;li&gt;Append an increasing sequence number to each input URL, and generate a hash for it&lt;/li&gt;
+&lt;li&gt;Append user id to input URL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Generating-keys-offline&#34;&gt;&lt;a href=&#34;#Generating-keys-offline&#34; class=&#34;headerlink&#34; title=&#34;Generating keys offline&#34;&gt;&lt;/a&gt;Generating keys offline&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Standalone Key Generation Service (KGS)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generate random 6 letter strings and store them in a database (key DB)&lt;/li&gt;
+&lt;li&gt;When a short URL is needed, take one from the key DB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Key DB size&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 characters&amp;#x2F;key * 68.7B unique keys &amp;#x3D; 412 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Concurrency issue&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If there are multiple servers reading keys concurrently, two or more servers try to read the same key from the database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Workaround&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Servers can use KGS to read&amp;#x2F;mark keys in the database.&lt;/li&gt;
+&lt;li&gt;KGS can use two tables to store keys: one for keys that are not used yet, and one for all the used keys.&lt;/li&gt;
+&lt;li&gt;KGS can always keep some keys in memory so that it can quickly provide them whenever a server needs them.&lt;/li&gt;
+&lt;li&gt;KGS needs to make sure not to give the same key to multiple servers.&lt;/li&gt;
+&lt;li&gt;Comment: keys are sharded. Each KGS server only serves one application server.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Key lookup&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When a key is found, issue an “HTTP 302 Redirect” status and passing the stored URL.&lt;/li&gt;
+&lt;li&gt;When a key is not found, issue an “HTTP 404 Not Found”, or redirect to homepage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;UUID&#34;&gt;&lt;a href=&#34;#UUID&#34; class=&#34;headerlink&#34; title=&#34;UUID&#34;&gt;&lt;/a&gt;UUID&lt;/h3&gt;&lt;p&gt;Replace KGS with UUID.&lt;/p&gt;
+&lt;h2 id=&#34;Data-Partitioning-and-Replication&#34;&gt;&lt;a href=&#34;#Data-Partitioning-and-Replication&#34; class=&#34;headerlink&#34; title=&#34;Data Partitioning and Replication&#34;&gt;&lt;/a&gt;Data Partitioning and Replication&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Range Based Partitioning&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Store URLs in separate partitions based on the first letter of the URL or the hash key.&lt;/li&gt;
+&lt;li&gt;Combine certain less frequently occurring letters into one database partition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Problem with this approach&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unbalanced servers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hash-Based Partitioning&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take a hash of the short URL we are storing, and calculate which partition to use based upon the hash.&lt;/li&gt;
+&lt;li&gt;Use consistent hashing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Cache&#34;&gt;&lt;a href=&#34;#Cache&#34; class=&#34;headerlink&#34; title=&#34;Cache&#34;&gt;&lt;/a&gt;Cache&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Eviction policy&lt;ul&gt;
+&lt;li&gt;LRU: discard the least recently used URL first&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cache update&lt;ul&gt;
+&lt;li&gt;Cache miss: hit backend database and pass new entry to all cache replicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Load-Balancer-LB&#34;&gt;&lt;a href=&#34;#Load-Balancer-LB&#34; class=&#34;headerlink&#34; title=&#34;Load Balancer (LB)&#34;&gt;&lt;/a&gt;Load Balancer (LB)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;LB locations&lt;ul&gt;
+&lt;li&gt;Between Clients and Application servers&lt;/li&gt;
+&lt;li&gt;Between Application Servers and database servers&lt;/li&gt;
+&lt;li&gt;Between Application Servers and Cache servers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;DB-Sweeping&#34;&gt;&lt;a href=&#34;#DB-Sweeping&#34; class=&#34;headerlink&#34; title=&#34;DB Sweeping&#34;&gt;&lt;/a&gt;DB Sweeping&lt;/h2&gt;&lt;p&gt;A separate Cleanup service can run periodically to remove expired links from our storage and cache.&lt;/p&gt;
+&lt;h2 id=&#34;Telemetry&#34;&gt;&lt;a href=&#34;#Telemetry&#34; class=&#34;headerlink&#34; title=&#34;Telemetry&#34;&gt;&lt;/a&gt;Telemetry&lt;/h2&gt;&lt;p&gt;Statistics about the system: how many times a short URL has been used&lt;/p&gt;
+&lt;h2 id=&#34;Security-and-Permissions&#34;&gt;&lt;a href=&#34;#Security-and-Permissions&#34; class=&#34;headerlink&#34; title=&#34;Security and Permissions&#34;&gt;&lt;/a&gt;Security and Permissions&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Store permission level (public&amp;#x2F;private) with each URL in the database&lt;/li&gt;
+&lt;li&gt;Send an error (HTTP 401) for unauthorized access&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <category term="short-url" />
+        <category term="url-shortner" />
+        <updated>2023-08-05T20:52:53.888Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/system-design-interview-for-it-companies/</id>
+        <title>System design interview for IT companies</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/system-design-interview-for-it-companies/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/systemcycle.png&#34; alt=&#34;system development life cycle&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How to prepare system design questions for an IT company&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Original source and Credit: &lt;a href=&#34;https://github.com/checkcheckzz/system-design-interview&#34;&gt;https://github.com/checkcheckzz/system-design-interview&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.&lt;/p&gt;
+&lt;p&gt;This repository only teaches you how to handle the system design interview with a systematic approach in a short time. You can dive into each topic if you have time. Of course, welcome to add your thoughts!&lt;/p&gt;
+&lt;h2 id=&#34;Table-of-Contents&#34;&gt;&lt;a href=&#34;#Table-of-Contents&#34; class=&#34;headerlink&#34; title=&#34;Table of Contents&#34;&gt;&lt;/a&gt;&lt;a name=&#39;toc&#39;&gt;Table of Contents&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#tips&#34;&gt;System Design Interview Tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#intro&#34;&gt;Basic Knowledge about System Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#blog&#34;&gt;Company Engineering Blogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#system&#34;&gt;Products and Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#qs&#34;&gt;Hot Questions and Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#bk&#34;&gt;Good Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#ood&#34;&gt;Object Oriented Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;⬆-System-Design-Interview-Tips&#34;&gt;&lt;a href=&#34;#⬆-System-Design-Interview-Tips&#34; class=&#34;headerlink&#34; title=&#34;[⬆] System Design Interview Tips:&#34;&gt;&lt;/a&gt;&lt;a href=&#34;#toc&#34;&gt;[⬆]&lt;/a&gt; &lt;a name=&#39;tips&#39;&gt;System Design Interview Tips:&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Clarify the constraints and identify the user cases&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spend a few minutes questioning the interviewer and agreeing on the scope of the system.&lt;br&gt;Remember to make sure you know all the requirements the interviewer didn’t tell you about in the beginning.&lt;/p&gt;
+&lt;p&gt;User cases indicate the main functions of the system, and constraints list the scale of the system such as requests&lt;br&gt;per second, requests types, data written per second, data read per second.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High-level architecture design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sketch the important components and the connections between them, but don’t go into some details.&lt;br&gt;Usually, a scalable system includes webserver (load balancer), service (service partition), database (primary&amp;#x2F;secondary database cluster plug cache).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Component design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For each component, you need to write the specific APIs for each component. You may need to finish&lt;br&gt;the detailed OOD design for a particular function. You may also need to design the database schema for the database.&lt;/p&gt;
+&lt;h3 id=&#34;⬆-Basic-Knowledge-about-System-Design&#34;&gt;&lt;a href=&#34;#⬆-Basic-Knowledge-about-System-Design&#34; class=&#34;headerlink&#34; title=&#34;[⬆] Basic Knowledge about System Design:&#34;&gt;&lt;/a&gt;&lt;a href=&#34;#toc&#34;&gt;[⬆]&lt;/a&gt; &lt;a name=&#39;intro&#39;&gt;Basic Knowledge about System Design:&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Here are some articles about system design related topics.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.pramp.com/system-design-interview-process-e91aae2dbe83&#34;&gt;The Anatomy Of A System Design Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26&#34;&gt;How to Succeed in a System Design Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/&#34;&gt;How to Rock a Systems Design Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hiredintech.com/app#system-design&#34;&gt;System Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lecloud.net/tagged/scalability&#34;&gt;Scalability for Dummies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aosabook.org/en/distsys.html&#34;&gt;Scalable Web Architecture and Distributed Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/&#34;&gt;Numbers Everyone Should Know&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf&#34;&gt;Fallacies of distributed systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html&#34;&gt;Scalable System Design Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lethain.com/introduction-to-architecting-systems-for-scale/&#34;&gt;Introduction to Architecting Systems for Scale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://snarfed.org/transactions_across_datacenters_io.html&#34;&gt;Transactions Across Datacenters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ksat.me/a-plain-english-introduction-to-cap-theorem&#34;&gt;A Plain English Introduction to CAP Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/henryr/cap-faq&#34;&gt;The CAP FAQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf&#34;&gt;Paxos Made Simple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tom-e-white.com/2007/11/consistent-hashing.html&#34;&gt;Consistent Hashing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://horicky.blogspot.com/2009/11/nosql-patterns.html&#34;&gt;NOSQL Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/jboner/scalability-availability-stability-patterns&#34;&gt;Scalability, Availability &amp;amp; Stability Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, if you want to dive into system related topics, here is a good collection of reading list about &lt;a href=&#34;https://github.com/mmcgrana/services-engineering&#34;&gt;services-engineering&lt;/a&gt;, and&lt;br&gt;a good collection of material about &lt;a href=&#34;http://dancres.github.io/Pages/&#34;&gt;distributed systems&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;⬆-Company-Engineering-Blogs&#34;&gt;&lt;a href=&#34;#⬆-Company-Engineering-Blogs&#34; class=&#34;headerlink&#34; title=&#34;[⬆] Company Engineering Blogs:&#34;&gt;&lt;/a&gt;&lt;a href=&#34;#toc&#34;&gt;[⬆]&lt;/a&gt; &lt;a name=&#39;blog&#39;&gt;Company Engineering Blogs:&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;If you are going to have an onsite with a company, you should read their engineering blog. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/&#34;&gt;High Scalability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blog/category/engineering&#34;&gt;The GitHub Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.quora.com/&#34;&gt;Engineering at Quora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineeringblog.yelp.com/&#34;&gt;Yelp Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.twitter.com/&#34;&gt;Twitter Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/Engineering&#34;&gt;Facebook Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eng.yammer.com/blog/&#34;&gt;Yammer Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codeascraft.com/&#34;&gt;Etsy Code as Craft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.foursquare.com/&#34;&gt;Foursquare Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/airbnb-engineering&#34;&gt;Airbnb Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.webengage.com/&#34;&gt;WebEngage Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.linkedin.com/blog&#34;&gt;LinkedIn Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techblog.netflix.com/&#34;&gt;The Netflix Tech Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simple.com/engineering/&#34;&gt;BankSimple Simple Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://corner.squareup.com/&#34;&gt;Square The Corner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.soundcloud.com/blog/&#34;&gt;SoundCloud Backstage Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.flickr.net/&#34;&gt;Flickr Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://instagram-engineering.tumblr.com/&#34;&gt;Instagram Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.dropbox.com/&#34;&gt;Dropbox Tech Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.cloudera.com/&#34;&gt;Cloudera Developer Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bandcamptech.wordpress.com/&#34;&gt;Bandcamp Tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tech.oyster.com/&#34;&gt;Oyster Tech Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.redditblog.com/&#34;&gt;THE REDDIT BLOG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.groupon.com/&#34;&gt;Groupon Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://devblog.songkick.com/&#34;&gt;Songkick Technology Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ai.googleblog.com/&#34;&gt;Google AI Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.googleblog.com/&#34;&gt;Google Developers Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.pinterest.com/&#34;&gt;Pinterest Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twilio.com/engineering&#34;&gt;Twilio Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://word.bitly.com/&#34;&gt;Bitly Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eng.uber.com/&#34;&gt;Uber Engineering Blog &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.godaddy.com/&#34;&gt;Godaddy Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.splunk.com/&#34;&gt;Splunk Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://building.coursera.org/&#34;&gt;Coursera Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paypal-engineering.com/&#34;&gt;PayPal Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engblog.nextdoor.com/&#34;&gt;Nextdoor Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.booking.com/&#34;&gt;Booking.com Development Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.microsoft.com/&#34;&gt;Microsoft Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.scalyr.com/&#34;&gt;Scalyr Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/myntra-engineering&#34;&gt;Myntra Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fastly.com/blog/&#34;&gt;Fastly Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/architecture/&#34;&gt;AWS Architecture Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eng.lyft.com/&#34;&gt;Lyft Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/wish-engineering&#34;&gt;Wish Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doordash.engineering/&#34;&gt;Doordash Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.snowflake.com/s/blog&#34;&gt;SnowFlake Blog&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/palantir/tech/home&#34;&gt;Palantir Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;⬆-Products-and-Systems&#34;&gt;&lt;a href=&#34;#⬆-Products-and-Systems&#34; class=&#34;headerlink&#34; title=&#34;[⬆] Products and Systems:&#34;&gt;&lt;/a&gt;&lt;a href=&#34;#toc&#34;&gt;[⬆]&lt;/a&gt; &lt;a name=&#39;system&#39;&gt;Products and Systems:&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The following papers&amp;#x2F;articles&amp;#x2F;slides can help you to understand the general design idea of different real products and systems. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/mapreduce-osdi04.pdf&#34;&gt;MapReduce: Simplified Data Processing on Large Clusters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf&#34;&gt;Bigtable: A Distributed Storage System for Structured Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/gfs-sosp2003.pdf&#34;&gt;The Google File System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf&#34;&gt;The Chubby lock service for loosely-coupled distributed systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf&#34;&gt;Dynamo: Amazon’s Highly Available Key-value Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/oemebamo/introduction-to-memcached&#34;&gt;Introduction to Memcached&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/planetcassandra/cassandra-introduction-features-30103666&#34;&gt;Cassandra Introduction Features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/alexbaranau/intro-to-hbase&#34;&gt;Introduction to HBase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/mdirolf/introduction-to-mongodb&#34;&gt;Introduction to MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/dvirsky/introduction-to-redis&#34;&gt;Introduction to Redis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/previa/storm-16094009&#34;&gt;Storm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper&#34;&gt;Introduction to Zookeeper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/mumrah/kafka-talk-tri-hug&#34;&gt;Kafka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/youtube-architecture&#34;&gt;YouTube Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html&#34;&gt;Scaling Pinterest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/google-architecture&#34;&gt;Google Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster&#34;&gt;Scaling Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html&#34;&gt;The WhatsApp Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/flickr-architecture&#34;&gt;Flickr Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/amazon-architecture&#34;&gt;Amazon Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2009/8/5/stack-overflow-architecture.html&#34;&gt;Stack Overflow Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2012/5/21/pinterest-architecture-update-18-million-visitors-10x-growth.html&#34;&gt;Pinterest Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html&#34;&gt;Tumblr Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html&#34;&gt;Instagram Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2011/6/27/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view.html&#34;&gt;TripAdvisor Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/6/18/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1.html&#34;&gt;Scaling Mailbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html&#34;&gt;Salesforce Architecture &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html&#34;&gt;ESPN Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html&#34;&gt;Uber Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PE4gwstWhmc&#34;&gt;DropBox Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.splunk.com/view/SP-CAAABF9&#34;&gt;Splunk Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;⬆-Hot-Questions-and-Reference&#34;&gt;&lt;a href=&#34;#⬆-Hot-Questions-and-Reference&#34; class=&#34;headerlink&#34; title=&#34;[⬆] Hot Questions and Reference:&#34;&gt;&lt;/a&gt;&lt;a href=&#34;#toc&#34;&gt;[⬆]&lt;/a&gt; &lt;a name=&#39;qs&#39;&gt;Hot Questions and Reference:&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There are some good references for each question. The references here are slides and articles. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design a CDN network&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kilthub.cmu.edu/articles/journal_contribution/Globally_distributed_content_delivery/6605972&#34;&gt;Globally Distributed Content Delivery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a Google document system&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/google-mobwrite/&#34;&gt;google-mobwrite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://neil.fraser.name/writing/sync/&#34;&gt;Differential Synchronization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a random ID generation system&lt;/strong&gt;&lt;br&gt;Reference: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.twitter.com/2010/announcing-snowflake&#34;&gt;Announcing Snowflake&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/twitter/snowflake/&#34;&gt;snowflake&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a key-value database&lt;/strong&gt;&lt;br&gt;Reference:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/dvirsky/introduction-to-redis&#34;&gt;Introduction to Redis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design the Facebook news feed function&lt;/strong&gt;&lt;br&gt;Reference:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed&#34;&gt;What are best practices for building something like a News Feed?&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed&#34;&gt;What are the scaling issues to keep in mind while developing a social network feed?&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture&#34;&gt;Activity Feeds Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design the Facebook timeline function&lt;/strong&gt;&lt;br&gt;Reference: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/note.php?note_id=10150468255628920&#34;&gt;Building Timeline&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html&#34;&gt;Facebook Timeline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a function to return the top k requests during past time interval&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf&#34;&gt;Efficient Computation of Frequent and Top-k Elements in Data Streams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf&#34;&gt;An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design an online multiplayer card game&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html&#34;&gt;How to Create an Asynchronous Multiplayer Game&lt;/a&gt;   &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indieflashblog.com/how-to-create-async-part2.html&#34;&gt;How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indieflashblog.com/how-to-create-async-part3.html&#34;&gt;How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indieflashblog.com/how-to-create-async-part4-html.html#comment-4447&#34;&gt;How to Create an Asynchronous Multiplayer Game Part 4: Matchmaking&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://buildnewgames.com/real-time-multiplayer/&#34;&gt;Real Time Multiplayer in HTML5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a graph search function&lt;/strong&gt;&lt;br&gt;Reference:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920&#34;&gt;Building out the infrastructure for Graph Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920&#34;&gt;Indexing and ranking in Graph Search&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-natural-language-interface-of-graph-search/10151432733048920&#34;&gt;The natural language interface of Graph Search&lt;/a&gt; and &lt;a href=&#34;http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf&#34;&gt;Erlang at Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a picture sharing system&lt;/strong&gt;&lt;br&gt;Reference:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/flickr-architecture&#34;&gt;Flickr Architecture&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html&#34;&gt;Instagram Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a search engine&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search&#34;&gt;How would you implement Google Search?&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ardendertat.com/2012/01/11/implementing-search-engines/&#34;&gt;Implementing Search Engines&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a recommendation system&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tech.hulu.com/blog/2011/09/19/recommendation-system.html&#34;&gt;Hulu’s Recommendation System&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ijcai13.org/files/tutorial_slides/td3.pdf&#34;&gt;Recommender Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a tinyurl system&lt;/strong&gt;&lt;br&gt;Reference: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://n00tc0d3r.blogspot.com/&#34;&gt;System Design for Big Data-tinyurl&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/url-shortener/?csw=1&#34;&gt;URL Shortener API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a garbage collection system&lt;/strong&gt;&lt;br&gt;Reference:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/&#34;&gt;Baby’s First Garbage Collector&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a scalable web crawling system&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch&#34;&gt;How can I build a web crawler from scratch?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design the Facebook chat function&lt;/strong&gt;&lt;br&gt;Reference:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf&#34;&gt;Erlang at Facebook&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/note.php?note_id=14218138919&amp;id=9445547199&amp;index=0&#34;&gt;Facebook Chat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a trending topic system&lt;/strong&gt;&lt;br&gt;Reference:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/&#34;&gt;Implementing Real-Time Trending Topics With a Distributed Rolling Count Algorithm in Storm&lt;/a&gt;   &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://snikolov.wordpress.com/2012/11/14/early-detection-of-twitter-trends/&#34;&gt;Early detection of Twitter trends explained&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Design a cache system&lt;/strong&gt;&lt;br&gt;Reference:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/oemebamo/introduction-to-memcached&#34;&gt;Introduction to Memcached&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;⬆-Good-Books&#34;&gt;&lt;a href=&#34;#⬆-Good-Books&#34; class=&#34;headerlink&#34; title=&#34;[⬆] Good Books:&#34;&gt;&lt;/a&gt;&lt;a href=&#34;#toc&#34;&gt;[⬆]&lt;/a&gt; &lt;a name=&#39;bk&#39;&gt;Good Books:&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343&#34;&gt;Big Data: Principles and best practices of scalable realtime data systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Real-Time-Analytics-Techniques-Visualize-Streaming/dp/1118837916&#34;&gt;Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358&#34;&gt;Building Microservices: Designing Fine-Grained Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321&#34;&gt;Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;⬆-Object-Oriented-Design&#34;&gt;&lt;a href=&#34;#⬆-Object-Oriented-Design&#34; class=&#34;headerlink&#34; title=&#34;[⬆] Object Oriented Design:&#34;&gt;&lt;/a&gt;&lt;a href=&#34;#toc&#34;&gt;[⬆]&lt;/a&gt; &lt;a name=&#39;ood&#39;&gt;Object Oriented Design:&lt;/a&gt;&lt;/h3&gt;&lt;h4 id=&#34;Tips-for-OOD-Interview&#34;&gt;&lt;a href=&#34;#Tips-for-OOD-Interview&#34; class=&#34;headerlink&#34; title=&#34;Tips for OOD Interview&#34;&gt;&lt;/a&gt;Tips for OOD Interview&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Clarify the scenario, write out user cases&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use case is a description of sequences of events that, taken together, lead to a system doing something useful. Who is going to use it and how they are going to use it. The system may be very simple or very complicated.&lt;/p&gt;
+&lt;p&gt;Special system requirements such as multi-threading, read or write oriented.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Define objects&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Map identity to class: one scenario for one class, each core object in this scenario for one class.&lt;/p&gt;
+&lt;p&gt;Consider the relationships among classes: certain class must have unique instance, one object has many other objects (composition), one object is another object (inheritance).&lt;/p&gt;
+&lt;p&gt;Identify attributes for each class: change noun to variable and action to methods.&lt;/p&gt;
+&lt;p&gt;Use design patterns such that it can be reused in multiple applications.&lt;/p&gt;
+&lt;h4 id=&#34;Useful-Websites&#34;&gt;&lt;a href=&#34;#Useful-Websites&#34; class=&#34;headerlink&#34; title=&#34;Useful Websites&#34;&gt;&lt;/a&gt;Useful Websites&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourcemaking.com/design-patterns-and-tips&#34;&gt;101 Design Patterns &amp;amp; Tips for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <updated>2023-08-05T20:52:53.883Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</id>
+        <title>Steps how to approach the system design questions in interviews</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/steps-how-to-approach-the-system-design-questions-in-interviews/"/>
+        <content type="html">&lt;p&gt;These are the steps to go through mentally in the interviews, followed by actual interview experiences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a) &lt;strong&gt;Be absolutely sure you understand the problem being asked&lt;/strong&gt;, clarify on the onset rather than assuming anything &lt;/li&gt;
+&lt;li&gt;b) &lt;strong&gt;Use-cases&lt;/strong&gt;. This is critical, you MUST know what is the system going to be used for, what is the scale it is going to be used for. Also, constraints like requests per second, requests types, data written per second, data read per second.&lt;/li&gt;
+&lt;li&gt;c) Solve the problem for a &lt;strong&gt;very small set&lt;/strong&gt;, say, 100 users. This will broadly help you figure out the data structures, components, abstract design of the overall model.&lt;/li&gt;
+&lt;li&gt;d) Write down the various components figured out so far and how will they interact with each other.&lt;/li&gt;
+&lt;li&gt;e)  As a rule of thumb remember at least these :&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;processing and servers&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;storage&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;caching&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;concurrency and communication&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;security&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;load balancing and proxy&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;CDN&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Monetization: if relevant, how will you monetize?&lt;br&gt; eg. What kind of DB (Is Postgres enough, if not why?), do you need caching and how much, is security a prime concern?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;f) &lt;strong&gt;Special cases&lt;/strong&gt; for the question asked. Say designing a system for storing thumbnails, will a file system be enough? What if you have to scale for facebook or google? Will a nosql based database work?&lt;/li&gt;
+&lt;li&gt;g) After I have my components in place, what I generally try to do is look for minor optimization in various places according to the use-cases, various tradeoffs that will help in better scaling in 99% cases.&lt;/li&gt;
+&lt;li&gt;h) [Scaling out or up]  (&lt;a href=&#34;http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html&#34;&gt;http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;i) Check with the interviewer is there any other special case he is looking to solve? Also, it really helps if you know about the company you are interviewing with, what its architecture is, what will the interviewer have more interest in based on the company and what he works on?&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <updated>2023-08-05T20:52:53.878Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/high-level-design/</id>
+        <title>High-level design</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/high-level-design/"/>
+        <content type="html">&lt;h1 id=&#34;High-level-design-HLD&#34;&gt;&lt;a href=&#34;#High-level-design-HLD&#34; class=&#34;headerlink&#34; title=&#34;High-level design (HLD)&#34;&gt;&lt;/a&gt;High-level design (HLD)&lt;/h1&gt;&lt;hr&gt;
+&lt;h1 id=&#34;Ticketmaster&#34;&gt;&lt;a href=&#34;#Ticketmaster&#34; class=&#34;headerlink&#34; title=&#34;Ticketmaster&#34;&gt;&lt;/a&gt;Ticketmaster&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/ticketmaster-overview.png&#34; alt=&#34;ticketmaster-overview&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Pastebin&#34;&gt;&lt;a href=&#34;#Pastebin&#34; class=&#34;headerlink&#34; title=&#34;Pastebin&#34;&gt;&lt;/a&gt;Pastebin&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/pastebin-overview.png&#34; alt=&#34;pastebin-overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;/assets/img/system-design/pastebin-detail.png&#34; alt=&#34;pastebin-detail&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Instagram&#34;&gt;&lt;a href=&#34;#Instagram&#34; class=&#34;headerlink&#34; title=&#34;Instagram&#34;&gt;&lt;/a&gt;Instagram&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/instagram-overview.png&#34; alt=&#34;instagram-overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;/assets/img/system-design/instagram-detail.png&#34; alt=&#34;instagram-detail&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Dropbox&#34;&gt;&lt;a href=&#34;#Dropbox&#34; class=&#34;headerlink&#34; title=&#34;Dropbox&#34;&gt;&lt;/a&gt;Dropbox&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/dropbox-overview.png&#34; alt=&#34;dropbox-overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;/assets/img/system-design/dropbox-detail.png&#34; alt=&#34;dropbox-detail&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Twitter&#34;&gt;&lt;a href=&#34;#Twitter&#34; class=&#34;headerlink&#34; title=&#34;Twitter&#34;&gt;&lt;/a&gt;Twitter&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/twitter-overview.png&#34; alt=&#34;twitter-overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;/assets/img/system-design/twitter-detail.png&#34; alt=&#34;twitter-detail&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Twitter-Search&#34;&gt;&lt;a href=&#34;#Twitter-Search&#34; class=&#34;headerlink&#34; title=&#34;Twitter Search&#34;&gt;&lt;/a&gt;Twitter Search&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/twitter-search-overview.png&#34; alt=&#34;twitter-search-overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;/assets/img/system-design/twitter-search-detail.png&#34; alt=&#34;twitter-search-detail&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Youtube&#34;&gt;&lt;a href=&#34;#Youtube&#34; class=&#34;headerlink&#34; title=&#34;Youtube&#34;&gt;&lt;/a&gt;Youtube&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/youtube-overview.png&#34; alt=&#34;youtube-overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;/assets/img/system-design/youtube-detail.png&#34; alt=&#34;youtube-detail&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Web-Crawler&#34;&gt;&lt;a href=&#34;#Web-Crawler&#34; class=&#34;headerlink&#34; title=&#34;Web Crawler&#34;&gt;&lt;/a&gt;Web Crawler&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/web-crawler-overview.png&#34; alt=&#34;web-crawler-overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;/assets/img/system-design/web-crawler-detail.png&#34; alt=&#34;web-crawler-detail&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Facebook-Newsfeed&#34;&gt;&lt;a href=&#34;#Facebook-Newsfeed&#34; class=&#34;headerlink&#34; title=&#34;Facebook Newsfeed&#34;&gt;&lt;/a&gt;Facebook Newsfeed&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/facebook-newsfeed-overview.png&#34; alt=&#34;facebook-newsfeed-overview&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Yelp&#34;&gt;&lt;a href=&#34;#Yelp&#34; class=&#34;headerlink&#34; title=&#34;Yelp&#34;&gt;&lt;/a&gt;Yelp&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/yelp-overview.png&#34; alt=&#34;yelp-overview&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;Uber-Backend&#34;&gt;&lt;a href=&#34;#Uber-Backend&#34; class=&#34;headerlink&#34; title=&#34;Uber Backend&#34;&gt;&lt;/a&gt;Uber Backend&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/uber-backend-overview.png&#34; alt=&#34;uber-backend-overview&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <updated>2023-08-05T20:52:53.867Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/consistent-hashing/</id>
+        <title>Consistent Hashing</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/consistent-hashing/"/>
+        <content type="html">&lt;h1 id=&#34;Consistent-Hashing&#34;&gt;&lt;a href=&#34;#Consistent-Hashing&#34; class=&#34;headerlink&#34; title=&#34;Consistent Hashing&#34;&gt;&lt;/a&gt;Consistent Hashing&lt;/h1&gt;&lt;h2 id=&#34;Simple-hashing&#34;&gt;&lt;a href=&#34;#Simple-hashing&#34; class=&#34;headerlink&#34; title=&#34;Simple hashing&#34;&gt;&lt;/a&gt;Simple hashing&lt;/h2&gt;&lt;p&gt;Problems of simple hashing function &lt;code&gt;key % n&lt;/code&gt; (&lt;code&gt;n&lt;/code&gt; is the number of servers):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It is not horizontally scalable. Whenever a new cache host is added to the system, all existing mappings are broken.&lt;/li&gt;
+&lt;li&gt;It may not be load balanced, especially for non-uniformly distributed data. Some servers will become hot spots.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Consistent-Hashing-1&#34;&gt;&lt;a href=&#34;#Consistent-Hashing-1&#34; class=&#34;headerlink&#34; title=&#34;Consistent Hashing&#34;&gt;&lt;/a&gt;Consistent Hashing&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Consistent hashing maps a key to an integer.&lt;/li&gt;
+&lt;li&gt;Imagine that the integers in the range are placed on a ring such that the values are wrapped around.&lt;/li&gt;
+&lt;li&gt;Given a list of servers, hash them to integers in the range.&lt;/li&gt;
+&lt;li&gt;To map a key to a server:&lt;ul&gt;
+&lt;li&gt;Hash it to a single integer.&lt;/li&gt;
+&lt;li&gt;Move clockwise on the ring until finding the first cache it encounters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When the hash table is resized (a server is added or deleted), only &lt;code&gt;k/n&lt;/code&gt; keys need to be remapped (&lt;code&gt;k&lt;/code&gt; is the total number of keys, and &lt;code&gt;n&lt;/code&gt; is the total number of servers).&lt;/li&gt;
+&lt;li&gt;To handle hot spots, add “virtual replicas” for caches.&lt;ul&gt;
+&lt;li&gt;Instead of mapping each cache to a single point on the ring, map it to multiple points on the ring (replicas). This way, each cache is associated with multiple portions of the ring.&lt;/li&gt;
+&lt;li&gt;If the hash function is “mixes well,” as the number of replicas increases, the keys will be more balanced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <updated>2023-08-05T20:52:53.865Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/company-engineering-blog-links/</id>
+        <title>Company engineering blog links</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/company-engineering-blog-links/"/>
+        <content type="html">&lt;p&gt;courtesy &lt;a href=&#34;https://github.com/checkcheckzz/system-design-interview#toc&#34;&gt;checkcheckzz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Depending on where you are interviewing, go through the company blog. VERY USEFUL IN INTERVIEWS! It really helps if you have an idea of the architecture, as the questions asked will generally be of that domain and your prior knowledge will help out here.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nerds.airbnb.com/&#34;&gt;Airbnb Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.amazon.com/blogs&#34;&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/&#34;&gt;Amazon AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bandcamptech.wordpress.com/&#34;&gt;Bandcamp Tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simple.com/engineering/&#34;&gt;BankSimple Simple Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://word.bitly.com/&#34;&gt;Bitly Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.cloudera.com/blog/&#34;&gt;Cloudera Developer Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.dropbox.com/&#34;&gt;Dropbox Tech Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.quora.com/&#34;&gt;Engineering at Quora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codeascraft.com/&#34;&gt;Etsy Code as Craft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/Engineering&#34;&gt;Facebook Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.flickr.net/&#34;&gt;Flickr Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.foursquare.com/&#34;&gt;Foursquare Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googleresearch.blogspot.com/&#34;&gt;Google Research Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.groupon.com/&#34;&gt;Groupn Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/&#34;&gt;High Scalability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://instagram-engineering.tumblr.com/&#34;&gt;Instagram Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.linkedin.com/blog&#34;&gt;LinkedIn Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tech.oyster.com/&#34;&gt;Oyster Tech Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.pinterest.com/&#34;&gt;Pinterest Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://devblog.songkick.com/&#34;&gt;Songkick Technology Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.soundcloud.com/blog/&#34;&gt;SoundCloud Backstage Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://corner.squareup.com/&#34;&gt;Square The Corner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.redditblog.com/&#34;&gt;THE REDDIT BLOG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blog/category/engineering&#34;&gt;The GitHub Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techblog.netflix.com/&#34;&gt;The Netflix Tech Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twilio.com/engineering&#34;&gt;Twilio Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.twitter.com/&#34;&gt;Twitter Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eng.uber.com/&#34;&gt;Uber Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/walmartlabs&#34;&gt;Walmart Labs Tech Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.webengage.com/&#34;&gt;WebEngage Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eng.yammer.com/blog/&#34;&gt;Yammer Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineeringblog.yelp.com/&#34;&gt;Yelp Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smarketshq.com/&#34;&gt;Smarkets Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <updated>2023-08-05T20:52:53.862Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/common-design-questions/</id>
+        <title>Common Design questions</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/common-design-questions/"/>
+        <content type="html">&lt;p&gt;It generally depends what you are and you will be working on. Also what your level is but these are some of the more frequent interview questions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design amazon’s frequently viewed product page (eg. which shows the last 5 items you saw)&lt;/li&gt;
+&lt;li&gt;Design an online poker game for multiplayer. Solve for persistence, concurrency, scale. Draw the ER diagram for this &lt;/li&gt;
+&lt;li&gt;Design a [url compression system] (&lt;a href=&#34;http://www.hiredintech.com/system-design/the-system-design-process/&#34;&gt;http://www.hiredintech.com/system-design/the-system-design-process/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://infolab.stanford.edu/~backrub/google.html&#34;&gt;Search engine&lt;/a&gt; (generally asked with people who have some domain knowledge): basic crawling, collection, hashing etc. Depends on your expertise on this topic&lt;/li&gt;
+&lt;li&gt;Design dropbox’s architecture. &lt;a href=&#34;https://www.youtube.com/watch?v=PE4gwstWhmc&#34;&gt;good talk on this&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Design a &lt;a href=&#34;http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html&#34;&gt;picture sharing website&lt;/a&gt;. How will you store thumbnails, photos? Usage of CDNS? caching at various layers etc.&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;Design a news feed (eg. Facebook , Twitter): &lt;a href=&#34;http://www.quora.com/Software-Engineering-Best-Practices/What-are-best-practices-for-building-something-like-a-News-Feed&#34;&gt;news feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Design a product based on maps, eg hotel &amp;#x2F; ATM finder given a location. &lt;/li&gt;
+&lt;li&gt;Design malloc, free and &lt;a href=&#34;http://courses.cs.washington.edu/courses/csep521/07wi/prj/rick.pdf&#34;&gt;garbage collection system&lt;/a&gt;. What data structures to use? decorator pattern over malloc etc.&lt;/li&gt;
+&lt;li&gt;Design a site like &lt;a href=&#34;http://www.junglee.com/&#34;&gt;junglee.com&lt;/a&gt; i.e price comparision, availability on e-commerce websites. When and will you cache, how much to query, how to crawl efficiently over e-commerce sites, sharding of databases, basic database design&lt;/li&gt;
+&lt;li&gt;A web application for instant messaging, eg &lt;a href=&#34;http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html&#34;&gt;whatsapp&lt;/a&gt;, facebook chat. Issues of each, scaling problems, status and availability notification etc.&lt;/li&gt;
+&lt;li&gt;Design a system for collaborating over a document simultaneously (eg &lt;a href=&#34;https://neil.fraser.name/writing/sync/&#34;&gt;google docs&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;(very common:) top ‘n’ or most frequent items of a running stream of data&lt;/li&gt;
+&lt;li&gt;Design election commission architecture :&lt;br&gt; Let’s say we work with the Election Commission. On Counting day, we want to collate the votes received at the lakhs of voting booths all over the country. Each booth has a voting machine, which, when connected to the network, returns an array of the form {[party_id, num_votes],[party_id_2, num_votes_2],…}. We want to collect these and get the current scores in real time. The report we need continuously is how many seats is each party leading in. Please design a system for this.&lt;/li&gt;
+&lt;li&gt;Design a logging system&lt;br&gt; (For web applications, it is common to have a large number of servers running the same application, with a load balancer in front to distribute the incoming requests. In this scenario, we want to check and alarm in case an exception is thrown in any of the servers. We want a system that checks for the appearance of specific words, “Exception”, “Disk Full” etc. in the logs of any of the servers. How would you design this system?)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <updated>2023-08-05T20:52:53.859Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/client-server-communication/</id>
+        <title>Client-Server Communication</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/client-server-communication/"/>
+        <content type="html">&lt;h1 id=&#34;Client-Server-Communication&#34;&gt;&lt;a href=&#34;#Client-Server-Communication&#34; class=&#34;headerlink&#34; title=&#34;Client-Server Communication&#34;&gt;&lt;/a&gt;Client-Server Communication&lt;/h1&gt;&lt;h2 id=&#34;Standard-HTTP-Web-Request&#34;&gt;&lt;a href=&#34;#Standard-HTTP-Web-Request&#34; class=&#34;headerlink&#34; title=&#34;Standard HTTP Web Request&#34;&gt;&lt;/a&gt;Standard HTTP Web Request&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Client opens a connection and requests data from server.&lt;/li&gt;
+&lt;li&gt;Server calculates the response.&lt;/li&gt;
+&lt;li&gt;Server sends the response back to the client on the opened request.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;Ajax-Polling&#34;&gt;&lt;a href=&#34;#Ajax-Polling&#34; class=&#34;headerlink&#34; title=&#34;Ajax Polling&#34;&gt;&lt;/a&gt;Ajax Polling&lt;/h2&gt;&lt;p&gt;The client repeatedly polls (or requests) a server for data, and waits for the server to respond with data. If no data is available, an empty response is returned.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Client opens a connection and requests data from the server using regular HTTP.&lt;/li&gt;
+&lt;li&gt;The requested webpage sends requests to the server at regular intervals (e.g., 0.5 seconds).&lt;/li&gt;
+&lt;li&gt;The server calculates the response and sends it back, like regular HTTP traffic.&lt;/li&gt;
+&lt;li&gt;Client repeats the above three steps periodically to get updates from the server.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Problems&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Client has to keep asking the server for any new data.&lt;/li&gt;
+&lt;li&gt;A lot of responses are empty, creating HTTP overhead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;HTTP-Long-Polling&#34;&gt;&lt;a href=&#34;#HTTP-Long-Polling&#34; class=&#34;headerlink&#34; title=&#34;HTTP Long-Polling&#34;&gt;&lt;/a&gt;HTTP Long-Polling&lt;/h2&gt;&lt;p&gt;The client requests information from the server exactly as in normal polling, but with the expectation that the server may not respond immediately.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The client makes an initial request using regular HTTP and then waits for a response.&lt;/li&gt;
+&lt;li&gt;The server delays its response until an update is available, or until a timeout has occurred.&lt;/li&gt;
+&lt;li&gt;When an update is available, the server sends a full response to the client.&lt;/li&gt;
+&lt;li&gt;The client typically sends a new long-poll request, either immediately upon receiving a response or after a pause to allow an acceptable latency period.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each Long-Poll request has a timeout. The client has to reconnect periodically after the connection is closed, due to timeouts.&lt;/p&gt;
+&lt;h2 id=&#34;WebSockets&#34;&gt;&lt;a href=&#34;#WebSockets&#34; class=&#34;headerlink&#34; title=&#34;WebSockets&#34;&gt;&lt;/a&gt;WebSockets&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;A persistent full duplex communication channels over a single TCP connection. Both server and client can send data at any time.&lt;/li&gt;
+&lt;li&gt;A connection is established through WebSocket handshake.&lt;/li&gt;
+&lt;li&gt;Low communication overhead.&lt;/li&gt;
+&lt;li&gt;Real-time data transfer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Server-Sent-Event-SSE&#34;&gt;&lt;a href=&#34;#Server-Sent-Event-SSE&#34; class=&#34;headerlink&#34; title=&#34;Server-Sent Event (SSE)&#34;&gt;&lt;/a&gt;Server-Sent Event (SSE)&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Client requests data from a server using regular HTTP.&lt;/li&gt;
+&lt;li&gt;The requested webpage opens a connection to the server.&lt;/li&gt;
+&lt;li&gt;Server sends the data to the client whenever there’s new information available.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Use case:&lt;ul&gt;
+&lt;li&gt;When real-time traffic from server to client is needed.&lt;/li&gt;
+&lt;li&gt;When server generates data in a loop and sends multiple events to client.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="preparation" />
+        <updated>2023-08-05T20:52:53.857Z</updated>
+    </entry>
+</feed>

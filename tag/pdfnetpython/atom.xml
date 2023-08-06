@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://samirpaul1.github.io</id>
+    <title>Samir Paul • Posts by &#34;pdfnetpython&#34; tag</title>
+    <link href="https://samirpaul1.github.io" />
+    <updated>2023-08-05T20:52:53.769Z</updated>
+    <category term="LeetCode" />
+    <category term="GeeksforGeeks" />
+    <category term="blog" />
+    <category term="coding" />
+    <category term="computer-science" />
+    <category term="Binary Search" />
+    <category term="caching" />
+    <category term="system-design" />
+    <category term="design-interview" />
+    <category term="preparation" />
+    <category term="study-plan" />
+    <category term="computer-networks" />
+    <category term="computer-networks-notes" />
+    <category term="projects" />
+    <category term="tutorials" />
+    <category term="list-of-project-based-tutorials" />
+    <category term="curated-list" />
+    <category term="DSAlgo" />
+    <category term="dsa-in-python" />
+    <category term="data-structures-and-algorithms" />
+    <category term="Dynamic Programming" />
+    <category term="Patterns" />
+    <category term="dp" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="google" />
+    <category term="google-search-withing-webpage" />
+    <category term="google-programmable-search-engine" />
+    <category term="programmable-search-engine" />
+    <category term="Graph" />
+    <category term="distributed-systems" />
+    <category term="two pointers problems" />
+    <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="leetcode" />
+    <category term="leetcode-solutions" />
+    <category term="leetcode-solutions-cheetsheet" />
+    <category term="leetcode-cheetsheet" />
+    <category term="important-leetcode-solutions" />
+    <category term="python3" />
+    <category term="file-compressor" />
+    <category term="flask-application" />
+    <category term="python-server" />
+    <category term="pdfnet" />
+    <category term="pdf-compression" />
+    <category term="online-pdf-compressor" />
+    <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
+    <category term="Operating System" />
+    <category term="Placements" />
+    <category term="OS" />
+    <category term="project" />
+    <category term="pygame" />
+    <category term="python-game" />
+    <category term="pyshooter" />
+    <category term="shooter-game" />
+    <category term="Python Cheat Sheet" />
+    <category term="Leetcode" />
+    <category term="sql" />
+    <category term="nosql" />
+    <category term="sharding" />
+    <category term="data-partitioning" />
+    <category term="certificates" />
+    <category term="udemy" />
+    <category term="coursera" />
+    <category term="datacamp" />
+    <category term="INNER JOIN" />
+    <category term="RIGHT JOIN" />
+    <category term="FULL JOIN" />
+    <category term="SQL" />
+    <category term="SQL Joins" />
+    <category term="web-development" />
+    <category term="lossless-data-compression" />
+    <category term="online-file-compressor" />
+    <category term="txt-compressor" />
+    <category term="algorithm" />
+    <category term="databases" />
+    <category term="short-url" />
+    <category term="url-shortner" />
+    <category term="networking" />
+    <entry>
+        <id>https://samirpaul1.github.io/posts/online-pdf-compression-tool/</id>
+        <title>Online PDF Compression Tool</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/online-pdf-compression-tool/"/>
+        <content type="html">&lt;h3 id=&#34;About-The-Project&#34;&gt;&lt;a href=&#34;#About-The-Project&#34; class=&#34;headerlink&#34; title=&#34;About The Project:&#34;&gt;&lt;/a&gt;About The Project:&lt;/h3&gt;&lt;p&gt;An online PDF file compression tool to reduce the size of a .pdf file. Python Flask is used to upload the file to a temporary location on the server.&lt;br&gt;In the backend, using the &lt;code&gt;PDFNetPython&lt;/code&gt; library that file gets reduced and saved to its final location. After download, the files are automatically deleted from the server after 1 hour. Technologies used in this project: &lt;code&gt;Python3&lt;/code&gt;, &lt;code&gt;Flask&lt;/code&gt;, &lt;code&gt;C&lt;/code&gt;, &lt;code&gt;Shell&lt;/code&gt;, &lt;code&gt;Nix&lt;/code&gt;, &lt;code&gt;Replit&lt;/code&gt;, &lt;code&gt;Git&lt;/code&gt;, &lt;code&gt;HTML&lt;/code&gt;, &lt;code&gt;CSS&lt;/code&gt;, &lt;code&gt;JavaScript&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://filecompressor.samirpaul1.repl.co/&#34;&gt;Live Demo 🚀 &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Video-Demo&#34;&gt;&lt;a href=&#34;#Video-Demo&#34; class=&#34;headerlink&#34; title=&#34;Video Demo:&#34;&gt;&lt;/a&gt;Video Demo:&lt;/h2&gt;&lt;iframe title=&#34;Video Demo&#34; src=&#34;https://user-images.githubusercontent.com/77569653/172896703-9e4998c1-40da-46ae-810e-780e47a391f9.mp4&#34; loading=&#34;lazy&#34; width=&#34;100%&#34; height = &#34;380&#34; autoplay=&#34;autoplay&#34; loop=&#34;loop&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;ul&gt;
+&lt;li&gt;Landing Page:&lt;br&gt;&lt;img src=&#34;/assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp&#34; alt=&#34;Landing Page&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Flask-File-Uploading&#34;&gt;&lt;a href=&#34;#Flask-File-Uploading&#34; class=&#34;headerlink&#34; title=&#34;Flask File Uploading:&#34;&gt;&lt;/a&gt;Flask File Uploading:&lt;/h3&gt;&lt;p&gt; In HTML form, the enctype property is set to &lt;code&gt;&amp;quot;multipart/form-data&amp;quot;&lt;/code&gt; to publish the file to the URL.The URL handler extracts the file from the &lt;code&gt;request.files []&lt;/code&gt; object and saves it to the required location. The path to the upload folder is defined as &lt;code&gt;app.config[&amp;#39;UPLOAD_FOLDER&amp;#39;]&lt;/code&gt; and maximum size (in bytes) as &lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;size (in bytes)```.&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The server-side flask script fetches the file from the request object using ```name = request.files[&amp;#x27;file&amp;#x27;].filename```.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;On successfully uploading the file, it is saved to the desired location on the server.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Here’s the Python code for the Flask application.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;```python&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;from flask import Flask, render_template, request&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;from werkzeug import secure_filename&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;app = Flask(__name__)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;@app.route(&amp;#x27;/upload&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;def upload_file():&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   return render_template(&amp;#x27;upload.html&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;@app.route(&amp;#x27;/uploader&amp;#x27;, methods = [&amp;#x27;GET&amp;#x27;, &amp;#x27;POST&amp;#x27;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;def upload_file():&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   if request.method == &amp;#x27;POST&amp;#x27;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      f = request.files[&amp;#x27;file&amp;#x27;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      f.save(secure_filename(f.filename))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      return &amp;#x27;file uploaded successfully&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;if __name__ == &amp;#x27;__main__&amp;#x27;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   app.run(debug = True)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;How-PDF-is-compressed-in-backend&#34;&gt;&lt;a href=&#34;#How-PDF-is-compressed-in-backend&#34; class=&#34;headerlink&#34; title=&#34;How PDF is compressed in backend:&#34;&gt;&lt;/a&gt;How PDF is compressed in backend:&lt;/h3&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;from&lt;/span&gt; PDFNetPython3.PDFNetPython &lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; PDFDoc, Optimizer, SDFDoc, PDFNet&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;compress_file&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;input_file: &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;, output_file: &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; output_file:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        output_file = input_file&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;try&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        PDFNet.Initialize()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        doc = PDFDoc(input_file)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        doc.InitSecurityHandler()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Optimizer.Optimize(doc)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        doc.Save(output_file, SDFDoc.e_linearized)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        doc.Close()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;except&lt;/span&gt; Exception &lt;span class=&#34;keyword&#34;&gt;as&lt;/span&gt; e:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        doc.Close()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;False&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;True&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; __name__ == &lt;span class=&#34;string&#34;&gt;&amp;quot;__main__&amp;quot;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    input_file = sys.argv[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    output_file = sys.argv[&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    compress_file(input_file, output_file)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;File-Download&#34;&gt;&lt;a href=&#34;#File-Download&#34; class=&#34;headerlink&#34; title=&#34;File Download:&#34;&gt;&lt;/a&gt;File Download:&lt;/h3&gt;&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;downloadFile&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;filename&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(response !== &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		fname = response.&lt;span class=&#34;property&#34;&gt;filename&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; url = &lt;span class=&#34;string&#34;&gt;&amp;quot;static/resource/&amp;quot;&lt;/span&gt; + fname.&lt;span class=&#34;title function_&#34;&gt;toString&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	  &lt;span class=&#34;variable language_&#34;&gt;console&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;log&lt;/span&gt;(url);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	    &lt;span class=&#34;title function_&#34;&gt;fetch&lt;/span&gt;(url)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	    .&lt;span class=&#34;title function_&#34;&gt;then&lt;/span&gt;(&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;params&#34;&gt;response&lt;/span&gt; =&amp;gt;&lt;/span&gt; response.&lt;span class=&#34;title function_&#34;&gt;blob&lt;/span&gt;())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	    .&lt;span class=&#34;title function_&#34;&gt;then&lt;/span&gt;(&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;params&#34;&gt;blob&lt;/span&gt; =&amp;gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	      &lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; link = &lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;createElement&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	      link.&lt;span class=&#34;property&#34;&gt;href&lt;/span&gt; = &lt;span class=&#34;variable constant_&#34;&gt;URL&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;createObjectURL&lt;/span&gt;(blob);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	      link.&lt;span class=&#34;property&#34;&gt;download&lt;/span&gt; = fname;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	      link.&lt;span class=&#34;title function_&#34;&gt;click&lt;/span&gt;();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	  &amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	  .&lt;span class=&#34;title function_&#34;&gt;catch&lt;/span&gt;(&lt;span class=&#34;variable language_&#34;&gt;console&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;error&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;🤔-How-to-contribute&#34;&gt;&lt;a href=&#34;#🤔-How-to-contribute&#34; class=&#34;headerlink&#34; title=&#34;🤔 How to contribute&#34;&gt;&lt;/a&gt;🤔 How to contribute&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Fork this repository;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create a branch with your feature: &lt;code&gt;git checkout -b my-feature&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Commit your changes: &lt;code&gt;git commit -m &amp;quot;feat: my new feature&amp;quot;&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Push to your branch: &lt;code&gt;git push origin my-feature&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="python3" />
+        <category term="file-compressor" />
+        <category term="flask-application" />
+        <category term="python-server" />
+        <category term="pdfnet" />
+        <category term="pdf-compression" />
+        <category term="online-pdf-compressor" />
+        <category term="pdfnetpython" />
+        <updated>2023-08-05T20:52:53.769Z</updated>
+    </entry>
+</feed>

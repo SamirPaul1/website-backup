@@ -1,0 +1,804 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;tutorials&#34; tag</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Tue, 15 Aug 2023 09:54:51 +0530</pubDate>
+        <lastBuildDate>Tue, 15 Aug 2023 09:54:51 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/curated-list-of-project-based-tutorials/</guid>
+            <title>Curated List of Project Based Tutorials</title>
+            <link>https://samirpaul1.github.io/posts/curated-list-of-project-based-tutorials/</link>
+            <category>projects</category>
+            <category>tutorials</category>
+            <category>list-of-project-based-tutorials</category>
+            <category>curated-list</category>
+            <pubDate>Tue, 15 Aug 2023 09:54:51 +0530</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Project-Based-Learning&#34;&gt;&lt;a href=&#34;#Project-Based-Learning&#34; class=&#34;headerlink&#34; title=&#34;Project Based Learning&#34;&gt;&lt;/a&gt;Project Based Learning&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;Table-of-Contents&#34;&gt;&lt;a href=&#34;#Table-of-Contents&#34; class=&#34;headerlink&#34; title=&#34;Table of Contents:&#34;&gt;&lt;/a&gt;Table of Contents:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#c&#34;&gt;C#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cc&#34;&gt;C&amp;#x2F;C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clojure&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dart&#34;&gt;Dart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#elixir&#34;&gt;Elixir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#erlang&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#f&#34;&gt;F#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#go&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#haskell&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#html-and-css&#34;&gt;HTML&amp;#x2F;CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#java&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#javascript&#34;&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#kotlin&#34;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lua&#34;&gt;Lua&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ocaml&#34;&gt;OCaml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#php&#34;&gt;PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#python&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#r&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ruby&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#rust&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scala&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#swift&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#additional-resources&#34;&gt;Additional resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;C-C&#34;&gt;&lt;a href=&#34;#C-C&#34; class=&#34;headerlink&#34; title=&#34;C&amp;#x2F;C++:&#34;&gt;&lt;/a&gt;C&amp;#x2F;C++:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.craftinginterpreters.com/&#34;&gt;Build an Interpreter&lt;/a&gt; (Chapter 14 on is written in C)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory&#34;&gt;Memory Allocators 101 - Write a simple memory allocator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://brennan.io/2015/01/16/write-a-shell-in-c/&#34;&gt;Write a Shell in C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/&#34;&gt;Write a FUSE Filesystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://viewsourcecode.org/snaptoken/kilo/&#34;&gt;Build Your Own Text Editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.buildyourownlisp.com/&#34;&gt;Build Your Own Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nesdoug.com/&#34;&gt;How to Program an NES Game in C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tuhdo/os01&#34;&gt;Write an OS from scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cfenollosa/os-tutorial&#34;&gt;How to create an OS from scratch &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://austinmorlan.com/posts/chip8_emulator/&#34;&gt;Building a CHIP-8 Emulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lazyfoo.net/tutorials/SDL/&#34;&gt;Beginning Game Programming with C++ and SDL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/&#34;&gt;Implementing a Key-Value Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tiny 3D graphics projects&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ssloy/tinyrenderer/wiki&#34;&gt;Tiny Renderer or how OpenGL works: software rendering in 500 lines of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ssloy/tinyraytracer/wiki&#34;&gt;Understandable RayTracing in 256 lines of bare C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ssloy/tinykaboom/wiki&#34;&gt;KABOOM! in 180 lines of bare C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ssloy/tinyraycaster/wiki&#34;&gt;486 lines of C++: old-school FPS in a weekend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Writing a minimal x86-64 JIT compiler in C++&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://solarianprogrammer.com/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://howistart.org/posts/cpp/1/index.html&#34;&gt;Build a Live Code-reloader Library for C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jamesroutley/write-a-hash-table&#34;&gt;Write a hash table in C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cstack.github.io/db_tutorial/&#34;&gt;Let’s Build a Simple Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel&#34;&gt;Let’s Write a Kernel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://3zanders.co.uk/2017/10/13/writing-a-bootloader/&#34;&gt;Write a Bootloader in C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.lizzie.io/linux-containers-in-500-loc.html&#34;&gt;Linux Container in 500 Lines of Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justinmeiners.github.io/lc3-vm/&#34;&gt;Write Your Own Virtual Machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html&#34;&gt;Learning KVM - Implement Your Own Linux Kernel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Write a C compiler&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2017/11/29/Write-a-Compiler.html&#34;&gt;Part 1: Integers, Lexing and Code Generation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2017/12/05/Write-a-Compiler-2.html&#34;&gt;Part 2: Unary Operators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2017/12/15/Write-a-Compiler-3.html&#34;&gt;Part 3: Binary Operators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2017/12/28/Write-a-Compiler-4.html&#34;&gt;Part 4: Even More Binary Operators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2018/01/08/Write-a-Compiler-5.html&#34;&gt;Part 5: Local Variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2018/02/25/Write-a-Compiler-6.html&#34;&gt;Part 6: Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2018/03/14/Write-a-Compiler-7.html&#34;&gt;Part 7: Compound Statements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2018/04/10/Write-a-Compiler-8.html&#34;&gt;Part 8: Loops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2018/06/27/Write-a-Compiler-9.html&#34;&gt;Part 9: Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://norasandler.com/2019/02/18/Write-a-Compiler-10.html&#34;&gt;Part 10: Global Variables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm&#34;&gt;Implementing a Language with LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html&#34;&gt;Meta Crush Saga: a C++17 compile-time game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0&#34;&gt;High-Performance Matrix Multiplication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Space Invaders from Scratch&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html&#34;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html&#34;&gt;Part 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nicktasios.nl/posts/space-invaders-from-scratch-part-5.html&#34;&gt;Part 5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/&#34;&gt;Tetris Tutorial in C++ Platform Independent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Writing a Linux Debugger&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/&#34;&gt;Part 1: Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-breakpoints/&#34;&gt;Part 2: Breakpoints&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-registers/&#34;&gt;Part 3: Registers and memory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-elf-dwarf/&#34;&gt;Part 4: Elves and dwarves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-source-signal/&#34;&gt;Part 5: Source and signals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-dwarf-step/&#34;&gt;Part 6: Source-level stepping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-source-break/&#34;&gt;Part 7: Source-level breakpoints&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-unwinding/&#34;&gt;Part 8: Stack unwinding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-variables/&#34;&gt;Part 9: Handling variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tartanllama.xyz/writing-a-linux-debugger-advanced-topics/&#34;&gt;Part 10: Advanced topics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Let’s write a compiler&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210814.html&#34;&gt;Part 1: Introduction, selecting a language, and doing some planning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210815.html&#34;&gt;Part 2: A lexer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210816.html&#34;&gt;Part 3: A parser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210817.html&#34;&gt;Part 4: Testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210818.html&#34;&gt;Part 5: A code generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210819.html&#34;&gt;Part 6: Input and output&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210822.html&#34;&gt;Part 7: Arrays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://briancallahan.net/blog/20210826.html&#34;&gt;Part 8: Strings, forward references, and conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Network-programming&#34;&gt;&lt;a href=&#34;#Network-programming&#34; class=&#34;headerlink&#34; title=&#34;Network programming&#34;&gt;&lt;/a&gt;Network programming&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Let’s Code a TCP&amp;#x2F;IP Stack&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/&#34;&gt;Part 1: Ethernet &amp;amp; ARP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/&#34;&gt;Part 2: IPv4 &amp;amp; ICMPv4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/&#34;&gt;Part 3: TCP Basics &amp;amp; Handshake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/&#34;&gt;Part 4: TCP Data Flow &amp;amp; Socket API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/&#34;&gt;Part 5: TCP Retransmission&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Programming concurrent servers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/&#34;&gt;Part 1 - Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/&#34;&gt;Part 2 - Threads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/&#34;&gt;Part 3 - Event-driven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/&#34;&gt;Part 4 - libuv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/&#34;&gt;Part 5 - Redis case study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/&#34;&gt;Part 6 - Callbacks, Promises and async&amp;#x2F;await&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;MQTT Broker from scratch&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepr.github.io/posts/sol-mqtt-broker&#34;&gt;Part 1 - The protocol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepr.github.io/posts/sol-mqtt-broker-p2&#34;&gt;Part 2 - Networking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepr.github.io/posts/sol-mqtt-broker-p3&#34;&gt;Part 3 - Server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepr.github.io/posts/sol-mqtt-broker-p4&#34;&gt;Part 4 - Data structures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepr.github.io/posts/sol-mqtt-broker-p5&#34;&gt;Part 5 - Topic abstraction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepr.github.io/posts/sol-mqtt-broker-p6&#34;&gt;Part 6 - Handlers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepr.github.io/posts/sol-mqtt-broker-bonus&#34;&gt;Bonus - Multithreading&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;OpenGL&#34;&gt;&lt;a href=&#34;#OpenGL&#34; class=&#34;headerlink&#34; title=&#34;OpenGL:&#34;&gt;&lt;/a&gt;OpenGL:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Creating 2D Breakout game clone in C++ with OpenGL&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Breakout&#34;&gt;Breakout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Setting-up&#34;&gt;Setting up&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Rendering-Sprites&#34;&gt;Rendering Sprites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Levels&#34;&gt;Levels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collisions&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Collisions/Ball&#34;&gt;Ball&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection&#34;&gt;Collision detection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-resolution&#34;&gt;Collision resolution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Particles&#34;&gt;Particles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Postprocessing&#34;&gt;Postprocessing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Powerups&#34;&gt;Powerups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Audio&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Render-text&#34;&gt;Render text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnopengl.com/In-Practice/2D-Game/Final-thoughts&#34;&gt;Final thoughts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://handmadehero.org/&#34;&gt;Handmade Hero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_&#34;&gt;How to Make Minecraft in C++&amp;#x2F;OpenGL&lt;/a&gt; (video)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;C&#34;&gt;&lt;a href=&#34;#C&#34; class=&#34;headerlink&#34; title=&#34;C#:&#34;&gt;&lt;/a&gt;C#:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/&#34;&gt;Learn C# By Building a Simple RPG Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roguesharp.wordpress.com/&#34;&gt;Create a Rogue-like game in C#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/&#34;&gt;Create a Blank App with C# and Xamarin (work in progress)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio&#34;&gt;Build iOS Photo Library App with Xamarin and Visual Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p&#34;&gt;Building the CoreWiki&lt;/a&gt; This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code &lt;a href=&#34;https://github.com/csharpfritz/CoreWiki&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Clojure&#34;&gt;&lt;a href=&#34;#Clojure&#34; class=&#34;headerlink&#34; title=&#34;Clojure:&#34;&gt;&lt;/a&gt;Clojure:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://howistart.org/posts/clojure/1/index.html&#34;&gt;Build a Twitter Bot with Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bernhardwenzel.com/articles/clojure-spellchecker/&#34;&gt;Building a Spell-Checker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807&#34;&gt;Building a JIRA integration with Clojure &amp;amp; Atlassian Connect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aliaksandr-s/prototyping-with-clojure&#34;&gt;Prototyping with Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shaunlebron.github.io/t3tr0s-slides&#34;&gt;Tetris in ClojureScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Dart&#34;&gt;&lt;a href=&#34;#Dart&#34; class=&#34;headerlink&#34; title=&#34;Dart:&#34;&gt;&lt;/a&gt;Dart:&lt;/h2&gt;&lt;h3 id=&#34;Flutter&#34;&gt;&lt;a href=&#34;#Flutter&#34; class=&#34;headerlink&#34; title=&#34;Flutter:&#34;&gt;&lt;/a&gt;Flutter:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/O3nmP-lZAdg&#34;&gt;Amazon Clone with Admin Panel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/7dAt-JMSCVQ&#34;&gt;Food Delivery App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/0_GJ1w_iG44&#34;&gt;Google Docs Clone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/mEPm9w5QlJM&#34;&gt;Instagram Clone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/Aut-wfXacXg&#34;&gt;Multiplayer TicTacToe Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/4E4V9F3cbp4&#34;&gt;TikTok Clone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/71AsYo2q_0Y&#34;&gt;Ticket Booking App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/x4DydJKVvQk&#34;&gt;Travel App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/U9YKZrDX0CQ&#34;&gt;Twitch Clone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/yqwfP2vXWJQ&#34;&gt;WhatsApp Clone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/_W0RN_Cqhpg&#34;&gt;Wordle Clone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sMA1dKbv33Y&#34;&gt;Zoom Clone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Elixir&#34;&gt;&lt;a href=&#34;#Elixir&#34; class=&#34;headerlink&#34; title=&#34;Elixir&#34;&gt;&lt;/a&gt;Elixir&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sheharyar.me/blog/simple-chat-phoenix-elixir/&#34;&gt;Building a Simple Chat App With Elixir and Phoenix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c&#34;&gt;How to write a super fast link shortener with Elixir, Phoenix, and Mnesia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Erlang&#34;&gt;&lt;a href=&#34;#Erlang&#34; class=&#34;headerlink&#34; title=&#34;Erlang&#34;&gt;&lt;/a&gt;Erlang&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901&#34;&gt;ChatBus : build your first multi-user chat room app with Erlang&amp;#x2F;OTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html&#34;&gt;Making a Chat App with Erlang, Rebar, Cowboy and Bullet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;F&#34;&gt;&lt;a href=&#34;#F&#34; class=&#34;headerlink&#34; title=&#34;F#:&#34;&gt;&lt;/a&gt;F#:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tomasp.net/blog/2018/write-your-own-excel&#34;&gt;Write your own Excel in 100 lines of F#&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Java&#34;&gt;&lt;a href=&#34;#Java&#34; class=&#34;headerlink&#34; title=&#34;Java:&#34;&gt;&lt;/a&gt;Java:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.craftinginterpreters.com/&#34;&gt;Build an Interpreter&lt;/a&gt; (Chapter 4-13 is written in Java)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html&#34;&gt;Build a Simple HTTP Server with Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dhWL4DC7Krs&#34;&gt;Build an Android Flashlight App&lt;/a&gt; (video)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/securing-web/&#34;&gt;Build a Spring Boot App with User Authentication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;JavaScript&#34;&gt;&lt;a href=&#34;#JavaScript&#34; class=&#34;headerlink&#34; title=&#34;JavaScript:&#34;&gt;&lt;/a&gt;JavaScript:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://javascript30.com/&#34;&gt;Build 30 things in 30 days with 30 tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6&#34;&gt;Build an App in Pure JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.medium.com/wWUO7TN8SS&#34;&gt;Build a Jupyter Notebook Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc&#34;&gt;Build a TicTacToe Game with JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893&#34;&gt;Build a Simple Weather App With Vanilla JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dwyl/javascript-todo-list-tutorial&#34;&gt;Build a Todo List App in JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;HTML-and-CSS&#34;&gt;&lt;a href=&#34;#HTML-and-CSS&#34; class=&#34;headerlink&#34; title=&#34;HTML and CSS:&#34;&gt;&lt;/a&gt;HTML and CSS:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f&#34;&gt;Build A Loading Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98&#34;&gt;Build an HTML Calculator with JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/&#34;&gt;Build Snake using only JavaScript, HTML &amp;amp; CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Mobile-Application&#34;&gt;&lt;a href=&#34;#Mobile-Application&#34; class=&#34;headerlink&#34; title=&#34;Mobile Application:&#34;&gt;&lt;/a&gt;Mobile Application:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://egghead.io/courses/build-a-react-native-todo-application&#34;&gt;Build a React Native Todo Application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@alialhaddad/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0&#34;&gt;Build a React Native Application with Redux Thunk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Web-Applications&#34;&gt;&lt;a href=&#34;#Web-Applications&#34; class=&#34;headerlink&#34; title=&#34;Web Applications:&#34;&gt;&lt;/a&gt;Web Applications:&lt;/h3&gt;&lt;h4 id=&#34;React&#34;&gt;&lt;a href=&#34;#React&#34; class=&#34;headerlink&#34; title=&#34;React:&#34;&gt;&lt;/a&gt;React:&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://serverless-stack.com/&#34;&gt;Create Serverless React.js Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/&#34;&gt;Create a Trello Clone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio&#34;&gt;Create a Character Voting App with React, Node, MongoDB and SocketIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/&#34;&gt;React Tutorial: Cloning Yelp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html&#34;&gt;Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js&#34;&gt;Build a Twitter Stream with React and Node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@kris101/clone-medium-on-node-js-and-react-js-731cdfbb6878&#34;&gt;Build A Simple Medium Clone using React.js and Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f&#34;&gt;Integrate MailChimp in JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f&#34;&gt;Build A Chrome Extension with React + Parcel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a&#34;&gt;Build A ToDo App With React Native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a&#34;&gt;Make a Chat Application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627&#34;&gt;Create a News App with React Native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060&#34;&gt;Learn Webpack For React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59&#34;&gt;Testing React App With Puppeteer and Jest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f&#34;&gt;Build Your Own React Boilerplate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/create-gameoflife-with-react-in-one-hour-8e686a410174&#34;&gt;Code The Game Of Life With React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e&#34;&gt;A Basic React+Redux Introductory Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040&#34;&gt;Build an Appointment Scheduler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643&#34;&gt;Build A Chat App with Sentiment Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708&#34;&gt;Build A Full Stack Web Application Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hT3j87FMR6M&#34;&gt;Create Todoist clone with React and Firebase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build A Random Quote Machine&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3QngsWA9IEE&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XnoTmO06OYo&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=us51Jne67_I&#34;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iZx7hqHb5MU&#34;&gt;Part 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lpba9vBqXl0&#34;&gt;Part 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Jvp8j6zrFHE&#34;&gt;Part 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=M_hFfrN8_PQ&#34;&gt;Part 7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-edmQKcOW8s&#34;&gt;React Phone E-Commerce Project(video)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Angular&#34;&gt;&lt;a href=&#34;#Angular&#34; class=&#34;headerlink&#34; title=&#34;Angular:&#34;&gt;&lt;/a&gt;Angular:&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/&#34;&gt;Build an Instagram Clone with Angular 1.x&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Build an offline-capable Hacker News client with Angular 2+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://houssein.me/angular2-hacker-news&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://houssein.me/progressive-angular-applications&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://thinkster.io/django-angularjs-tutorial&#34;&gt;Build a Google+ clone with Django and AngularJS (Angular 1.x)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Build A Beautiful Real World App with Angular 8 :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e&#34;&gt;Part I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d&#34;&gt;Part II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b&#34;&gt;Build Responsive layout with BootStrap 4 and Angular 6&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ToDo App with Angular 5&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web&#34;&gt;Introduction to Angular&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Node&#34;&gt;&lt;a href=&#34;#Node&#34; class=&#34;headerlink&#34; title=&#34;Node:&#34;&gt;&lt;/a&gt;Node:&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scotch.io/tutorials/building-a-real-time-markdown-viewer&#34;&gt;Build a real-time Markdown Editor with NodeJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mherman.org/blog/2016/04/28/test-driven-development-with-node/&#34;&gt;Test-Driven Development with Node, Postgres and Knex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Write a Twitter Bot in Node.js&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1&#34;&gt;Build A Simple Search Bot in 30 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc&#34;&gt;Build A Job Scraping Web App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html&#34;&gt;Building a GitHub App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Vue&#34;&gt;&lt;a href=&#34;#Vue&#34; class=&#34;headerlink&#34; title=&#34;Vue&#34;&gt;&lt;/a&gt;Vue&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c&#34;&gt;Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://matthiashager.com/complete-vuejs-application-tutorial/&#34;&gt;Vue.js Application Tutorial – Creating a Simple Budgeting App with Vue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client&#34;&gt;Build a Blog with Vue, GraphQL and Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build a full stack web application using MEVN (MongoDB, Express, Vue, Node) stack&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=78tNYZUS-ps&#34;&gt;Vue.js To-Do List Tutorial (video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ably.io/tutorials/peer-to-peer-vue&#34;&gt;Vue 2 + Pub&amp;#x2F;Sub: Build a peer to peer multi-user platform for games&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Others-Hapi-Express…&#34;&gt;&lt;a href=&#34;#Others-Hapi-Express…&#34; class=&#34;headerlink&#34; title=&#34;Others (Hapi, Express…):&#34;&gt;&lt;/a&gt;Others (Hapi, Express…):&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Build a Progressive Web Application (PWA)&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/&#34;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/build-native-desktop-apps-with-javascript-a49ede90d8e9&#34;&gt;Build A Native Desktop App with JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build a Powerful API with NodeJs,GraphQL and Hapi&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649&#34;&gt;Part I&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;D3-js&#34;&gt;&lt;a href=&#34;#D3-js&#34; class=&#34;headerlink&#34; title=&#34;D3.js&#34;&gt;&lt;/a&gt;D3.js&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sitepoint.com/d3-js-data-visualizations/&#34;&gt;Learn D3 using examples&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b&#34;&gt;Learn To Make A Line Chart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Game-Development&#34;&gt;&lt;a href=&#34;#Game-Development&#34; class=&#34;headerlink&#34; title=&#34;Game Development:&#34;&gt;&lt;/a&gt;Game Development:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser&#34;&gt;Make 2D Breakout Game using Phaser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Make Flappy Bird in HTML5 and JavaScript with Phaser&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lessmilk.com/tutorial/flappy-bird-phaser-1&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lessmilk.com/tutorial/flappy-bird-phaser-2&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Desktop-Application&#34;&gt;&lt;a href=&#34;#Desktop-Application&#34; class=&#34;headerlink&#34; title=&#34;Desktop Application:&#34;&gt;&lt;/a&gt;Desktop Application:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f&#34;&gt;Build A Desktop Chat App with React and Electron&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Miscellaneous&#34;&gt;&lt;a href=&#34;#Miscellaneous&#34; class=&#34;headerlink&#34; title=&#34;Miscellaneous:&#34;&gt;&lt;/a&gt;Miscellaneous:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/&#34;&gt;How to Build a Web Framework in Less Than 20 Lines of Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zapier.com/engineering/how-to-build-redux/&#34;&gt;Build Yourself a Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060&#34;&gt;How to write your own Virtual DOM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/&#34;&gt;Build A Realtime Serverless GraphQL API with WebSockets on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Kotlin&#34;&gt;&lt;a href=&#34;#Kotlin&#34; class=&#34;headerlink&#34; title=&#34;Kotlin:&#34;&gt;&lt;/a&gt;Kotlin:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664&#34;&gt;Keddit - Learn Kotlin While Developing an Android Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Lua&#34;&gt;&lt;a href=&#34;#Lua&#34; class=&#34;headerlink&#34; title=&#34;Lua:&#34;&gt;&lt;/a&gt;Lua:&lt;/h2&gt;&lt;h3 id=&#34;LOVE&#34;&gt;&lt;a href=&#34;#LOVE&#34; class=&#34;headerlink&#34; title=&#34;LÖVE:&#34;&gt;&lt;/a&gt;LÖVE:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BYTEPATH: Creation of a Complete Game with Lua and LÖVE&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/30&#34;&gt;Part 0: Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/15&#34;&gt;Part 1: Game Loop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/16&#34;&gt;Part 2: Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/17&#34;&gt;Part 3: Rooms and Areas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/18&#34;&gt;Part 4: Exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/19&#34;&gt;Part 5: Game Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/20&#34;&gt;Part 6: Player Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/21&#34;&gt;Part 7: Player Stats and Attacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/22&#34;&gt;Part 8: Enemies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/23&#34;&gt;Part 9: Director and Gameplay Loop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/24&#34;&gt;Part 10: Coding Practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/25&#34;&gt;Part 11: Passives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/26&#34;&gt;Part 12: More Passives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/27&#34;&gt;Part 13: Skill Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/28&#34;&gt;Part 14: Console&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SSYGEN/blog/issues/29&#34;&gt;Part 15: Final&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Python&#34;&gt;&lt;a href=&#34;#Python&#34; class=&#34;headerlink&#34; title=&#34;Python:&#34;&gt;&lt;/a&gt;Python:&lt;/h2&gt;&lt;h3 id=&#34;Web-Scraping&#34;&gt;&lt;a href=&#34;#Web-Scraping&#34; class=&#34;headerlink&#34; title=&#34;Web Scraping:&#34;&gt;&lt;/a&gt;Web Scraping:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/&#34;&gt;Mining Twitter Data with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/&#34;&gt;Scrape a Website with Scrapy and MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/&#34;&gt;How To Scrape With Python and Selenium WebDriver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1&#34;&gt;Which Movie Should I Watch using BeautifulSoup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Web-Applications-1&#34;&gt;&lt;a href=&#34;#Web-Applications-1&#34; class=&#34;headerlink&#34; title=&#34;Web Applications:&#34;&gt;&lt;/a&gt;Web Applications:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&#34;&gt;Build a Microblog with Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorial.djangogirls.org/en/&#34;&gt;Create a Blog Web App In Django&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html&#34;&gt;Choose Your Own Adventure Presentations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/&#34;&gt;Build a Todo List with Flask and RethinkDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.obeythetestinggoat.com/&#34;&gt;Build a Todo List with Django and Test-Driven Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.skybert.net/python/developing-a-restful-micro-service-in-python/&#34;&gt;Build a RESTful Microservice in Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://testdriven.io/&#34;&gt;Microservices with Docker, Flask, and React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonspot.com/flask-web-app-with-python/&#34;&gt;Build A Simple Web App With Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3&#34;&gt;Create A Django API in under 20 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build a Community-driven delivery application with Django, Postgres and JavaScript&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://danidee10.github.io/2018/01/01/realtime-django-1.html&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danidee10.github.io/2018/01/03/realtime-django-2.html&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danidee10.github.io/2018/01/07/realtime-django-3.html&#34;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danidee10.github.io/2018/01/10/realtime-django-4.html&#34;&gt;Part 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danidee10.github.io/2018/01/13/realtime-django-5.html&#34;&gt;Part 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danidee10.github.io/2018/03/12/realtime-django-6.html&#34;&gt;Part 6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Bots&#34;&gt;&lt;a href=&#34;#Bots&#34; class=&#34;headerlink&#34; title=&#34;Bots:&#34;&gt;&lt;/a&gt;Bots:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonforengineers.com/build-a-reddit-bot-part-1/&#34;&gt;Build a Reddit Bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=krTUf7BpTc0&#34;&gt;How to Make a Reddit Bot - YouTube&lt;/a&gt; (video)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.hartleybrody.com/fb-messenger-bot/&#34;&gt;Build a Facebook Messenger Bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/&#34;&gt;Making a Reddit + Facebook Messenger Bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How To Create a Telegram Bot Using Python&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://khashtamov.com/en/how-to-deploy-telegram-bot-django/&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607&#34;&gt;Create a Twitter Bot In Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Data-Science&#34;&gt;&lt;a href=&#34;#Data-Science&#34; class=&#34;headerlink&#34; title=&#34;Data Science:&#34;&gt;&lt;/a&gt;Data Science:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Learn Python For Data Science by Doing Several Projects (video):&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=T5pRlIbr6gg&#34;&gt;Part 1: Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o_OZdbCzHUA&#34;&gt;Part 2: Twitter Sentiment Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9gBC9R-msAk&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&amp;index=3&#34;&gt;Part 3: Recommendation Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SSu00IRRraY&amp;index=4&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&#34;&gt;Part 4: Predicting Stock Prices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MrBzgvUNr4w&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&amp;index=5&#34;&gt;Part 5: Deep Dream in TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dSofAXnnFrY&amp;index=6&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&#34;&gt;Part 6: Genetic Algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Machine-Learning&#34;&gt;&lt;a href=&#34;#Machine-Learning&#34; class=&#34;headerlink&#34; title=&#34;Machine Learning:&#34;&gt;&lt;/a&gt;Machine Learning:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uwwWVAgJBcM&#34;&gt;Write Linear Regression From Scratch in Python&lt;/a&gt; (video)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://machinelearningmastery.com/machine-learning-in-python-step-by-step/&#34;&gt;Step-By-Step Machine Learning In Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d&#34;&gt;Predict Quality Of Wine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2&#34;&gt;Solving A Fruits Classification Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scikit-learn.org/stable/unsupervised_learning.html&#34;&gt;Learn Unsupervised Learning with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6&#34;&gt;Build Your Own Neural Net from Scratch in Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122&#34;&gt;Linear Regression in Python without sklearn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905&#34;&gt;Multivariate Linear Regression without sklearn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85&#34;&gt;Music Recommender using KNN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Find Similar Quora Questions-&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370&#34;&gt;Using BOW, TFIDF and Xgboost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d&#34;&gt;Using Word2Vec and Xgboost&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/&#34;&gt;Detecting Fake News with Python and Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;OpenCV&#34;&gt;&lt;a href=&#34;#OpenCV&#34; class=&#34;headerlink&#34; title=&#34;OpenCV:&#34;&gt;&lt;/a&gt;OpenCV:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/&#34;&gt;Build A Document Scanner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/&#34;&gt;Build A Face Detector using OpenCV and Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLKHYJbyeQ1a0oGzgRXy-QwAN1tSV4XZxg&#34;&gt;Build fastest custom object Detection system yusing YOLOv3(video playlist)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/&#34;&gt;Build a Face Recognition System using OpenCV, Python and Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection/&#34;&gt;Detect The Salient Features in an Image&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/&#34;&gt;Build A Barcode Scanner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/&#34;&gt;Learn Face Clustering with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/wp-content/uploads/2014/11/opencv_crash_course_camshift.pdf&#34;&gt;Object Tracking with Camshift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/&#34;&gt;Semantic Segmentation with OpenCV and Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/&#34;&gt;Text Detection in Images and Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/&#34;&gt;People Counter using OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/&#34;&gt;Tracking Multiple Objects with OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/&#34;&gt;Neural Style Transfer with OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/&#34;&gt;OpenCV OCR and Text Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/&#34;&gt;Text Skew Correction Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/&#34;&gt;Facial Landmark Detection Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/&#34;&gt;Object Detection using Mask-R-CNN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/&#34;&gt;Automatic Target Detection Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.learnopencv.com/eigenface-using-opencv-c-python/&#34;&gt;EigenFaces using OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/&#34;&gt;Faster(5-point) Facial Landmark Detection Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/&#34;&gt;Hand Keypoint Detection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dlib Correlation Object Tracking -&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/&#34;&gt;Single Object Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/&#34;&gt;Mutiple Object Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/&#34;&gt;Image Stitching with OpenCV and Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/11/26/instance-segmentation-with-opencv/&#34;&gt;Instance Segmentation with OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/&#34;&gt;Face mask detector&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Deep-Learning&#34;&gt;&lt;a href=&#34;#Deep-Learning&#34; class=&#34;headerlink&#34; title=&#34;Deep Learning:&#34;&gt;&lt;/a&gt;Deep Learning:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/&#34;&gt;Using Convolutional Neural Nets to Detect Facial Keypoints&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.learnopencv.com/average-face-opencv-c-python-tutorial/&#34;&gt;Generate an Average Face using Python and OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710&#34;&gt;Break A Captcha System using CNNs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058&#34;&gt;Use pre-trained Inception model to provide image predictions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2&#34;&gt;Create your first CNN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8&#34;&gt;Build A Facial Recognition Pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f&#34;&gt;Build An Image Caption Generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c&#34;&gt;Make your Own Face Recognition System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-i-trained-a-language-detection-ai-in-20-minutes-with-a-97-accuracy-fdeca0fb7724&#34;&gt;Train a Language Detection AI in 20 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491&#34;&gt;Object Detection With Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn Twitter Sentiment Analysis -&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90&#34;&gt;Part I - Data Cleaning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913&#34;&gt;Part II - EDA, Data Visualisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7&#34;&gt;Part III - Zipf’s Law, Data Visualisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5&#34;&gt;Part IV - Feature Extraction(count vectoriser)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd&#34;&gt;Part V - Feature Extraction(Tfidf vectoriser)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-6-doc2vec-603f11832504&#34;&gt;Part VI - Doc2Vec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-7-phrase-modeling-doc2vec-592a8a996867&#34;&gt;Part VII - Phrase Modeling + Doc2Vec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3&#34;&gt;Part VIII - Dimensionality Reduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-9-neural-networks-with-tfidf-vectors-using-d0b4af6be6d7&#34;&gt;Part IX - Neural Nets with Tfdif vectors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-10-neural-network-with-a6441269aa3c&#34;&gt;Part X - Neural Nets with word2vec&amp;#x2F;doc2vec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74&#34;&gt;Part XI - CNN with Word2Vec&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557&#34;&gt;Use Transfer Learning for custom image classification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iamtrask.github.io/2015/07/12/basic-python-network/&#34;&gt;Learn to Code a simple Neural Network in 11 lines of Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iamtrask.github.io/2015/07/27/python-network-part2/&#34;&gt;Build a Neural Network using Gradient Descent Approach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b&#34;&gt;Train a Keras Model To Generate Colors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/&#34;&gt;Get Started with Keras on a Custom Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicholastsmith.wordpress.com/2016/02/18/eigenfaces-versus-fisherfaces-on-the-faces94-database-with-scikit-learn/&#34;&gt;Use EigenFaces and FisherFaces on Faces94 dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@lvarruda/how-to-get-top-2-position-on-kaggles-mnist-digit-recognizer-48185d80a2d4&#34;&gt;Kaggle MNIST Digit Recognizer Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a&#34;&gt;Fashion MNIST tutorial with tf.keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/10/15/deep-learning-hydroponics-and-medical-marijuana/&#34;&gt;CNN using Keras to automatically classify root health&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/&#34;&gt;Keras vs Tensorflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/&#34;&gt;Deep Learning and Medical Image Analysis for Malaria Detection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8&#34;&gt;Transfer Learning for Image Classification using Keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kylemcdonald/SmileCNN&#34;&gt;Code a Smile Classifier using CNNS in Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e&#34;&gt;Natural Language Processing using scikit-learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e&#34;&gt;Code a Taylor Swift Lyrics Generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61&#34;&gt;Mask detection using PyTorch Lightning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Miscellaneous-1&#34;&gt;&lt;a href=&#34;#Miscellaneous-1&#34; class=&#34;headerlink&#34; title=&#34;Miscellaneous:&#34;&gt;&lt;/a&gt;Miscellaneous:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ruslanspivak.com/lsbasi-part1/&#34;&gt;Build a Simple Interpreter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/learn-blockchains-by-building-one-117428612f46&#34;&gt;Build a Simple Blockchain in Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/&#34;&gt;Write a NoSQL Database in Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b&#34;&gt;Building a Gas Pump Scanner with OpenCV&amp;#x2F;Python&amp;#x2F;iOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python&#34;&gt;Build a Distributed Streaming System with Python and Kafka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://csl.name/post/python-jit/&#34;&gt;Writing a basic x86-64 JIT compiler from scratch in stock Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Making a low level (Linux) debugger&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.asrpo.com/making_a_low_level_debugger&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.asrpo.com/making_a_low_level_debugger_part_2&#34;&gt;Part 2: C&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Implementing a Search Engine&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/&#34;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robertheaton.com/2018/07/20/project-2-game-of-life/&#34;&gt;Build the Game of Life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/&#34;&gt;Create terminal ASCII art&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/&#34;&gt;Write a Tic-Tac-Toe AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/&#34;&gt;Create photomosaic art&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robertheaton.com/2018/12/02/programming-project-5-snake/&#34;&gt;Build the game “Snake” in the terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wyag.thb.lt/&#34;&gt;Write yourself a Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html&#34;&gt;A Python implementation of a Python bytecode runner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.geeksforgeeks.org/voice-assistant-using-python/&#34;&gt;Create a Voice assistant using Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Go&#34;&gt;&lt;a href=&#34;#Go&#34; class=&#34;headerlink&#34; title=&#34;Go:&#34;&gt;&lt;/a&gt;Go:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/&#34;&gt;Create a Real Time Chat App with Golang, Angular 2, and WebSocket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin&#34;&gt;Building Go Web Applications and Microservices Using Gin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go&#34;&gt;How to Use Godog for Behavior-driven Development in Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Building Blockchain in Go&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeiwan.net/posts/building-blockchain-in-go-part-1/&#34;&gt;Part 1: Basic Prototype&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeiwan.net/posts/building-blockchain-in-go-part-2/&#34;&gt;Part 2: Proof of Work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeiwan.net/posts/building-blockchain-in-go-part-3/&#34;&gt;Part 3: Persistence and CLI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeiwan.net/posts/building-blockchain-in-go-part-4/&#34;&gt;Part 4: Transactions 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeiwan.net/posts/building-blockchain-in-go-part-5/&#34;&gt;Part 5: Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeiwan.net/posts/building-blockchain-in-go-part-6/&#34;&gt;Part 6: Transactions 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeiwan.net/posts/building-blockchain-in-go-part-7/&#34;&gt;Part 7: Network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8fi7uSYlOdc&#34;&gt;Building a container from scratch in Go - Liz Rice (Microscaling Systems)(video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/&#34;&gt;Build Web Application with GoLang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Building a Chat Application in Go with ReactJS&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorialedge.net/projects/chat-system-in-go-and-react/part-1-initial-setup/&#34;&gt;Part 1: Initial Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorialedge.net/projects/chat-system-in-go-and-react/part-2-simple-communication/&#34;&gt;Part 2: Simple Communication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorialedge.net/projects/chat-system-in-go-and-react/part-3-designing-our-frontend/&#34;&gt;Part 3: Designing our Frontend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorialedge.net/projects/chat-system-in-go-and-react/part-4-handling-multiple-clients/&#34;&gt;Part 4: Handling Multiple Clients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorialedge.net/projects/chat-system-in-go-and-react/part-5-improved-frontend/&#34;&gt;Part 5: Improving the Frontend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorialedge.net/projects/chat-system-in-go-and-react/part-6-dockerizing-your-backend/&#34;&gt;Part 6: Dockerizing your Backend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorialedge.net/golang/go-webassembly-tutorial/&#34;&gt;Go WebAssembly Tutorial - Building a Calculator Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;REST Servers in Go&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/&#34;&gt;Part 1 - standard library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2021/rest-servers-in-go-part-2-using-a-router-package/&#34;&gt;Part 2 - using a router package&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2021/rest-servers-in-go-part-3-using-a-web-framework/&#34;&gt;Part 3 - using a web framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/&#34;&gt;Part 4 - using OpenAPI and Swagger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2021/rest-servers-in-go-part-5-middleware/&#34;&gt;Part 5 - middleware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2021/rest-servers-in-go-part-6-authentication/&#34;&gt;Part 6 - authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/2021/rest-servers-in-go-part-7-graphql/&#34;&gt;Part 7 - GraphQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Let’s build a URL shortener in Go - with Gin &amp;amp; Redis&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eddywm.com/lets-build-a-url-shortener-in-go/&#34;&gt;Part 1 - Project setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eddywm.com/lets-build-a-url-shortener-in-go-with-redis-part-2-storage-layer/&#34;&gt;Part 2 - Storage Layer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-3-short-link-generation/&#34;&gt;Part 3 - Short Link Generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-iv-forwarding/&#34;&gt;Part 4 - Forwarding&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Sphme0BqJiY&#34;&gt;Building a TCP Chat in Go(video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.jse.li/posts/torrent/&#34;&gt;Building a BitTorrent client from the ground up in Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rx6CPDK_5mU&amp;list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE&#34;&gt;REST API masterclass with Go, PostgreSQL and Docker(video playlist)&lt;code&gt;in progress&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;PHP&#34;&gt;&lt;a href=&#34;#PHP&#34; class=&#34;headerlink&#34; title=&#34;PHP:&#34;&gt;&lt;/a&gt;PHP:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx&#34;&gt;How To Build A Blog With Laravel&lt;/a&gt; (video)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog&#34;&gt;Make Your Own Blog (in Pure PHP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.silverstripe.org/learn/lessons/&#34;&gt;Build A Real Estate Website Example with SilverStripe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv&#34;&gt;Building Realtime Chat App with Laravel 5.4 and VueJS&lt;/a&gt; (video)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLfdtiltiRHWGGxaR6uFtwZnnbcXqyq8JD&#34;&gt;Build A Social Network: Laravel 5 - Youtube&lt;/a&gt; (video)&lt;/li&gt;
+&lt;li&gt;Build a full-featured multi-tenant app with Laravel&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/writing-a-full-featured-multi-tenant-laravel-app-from-scratch-a0e1a7350d9d&#34;&gt;Part 0: Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-1-4049a3cc229d&#34;&gt;Part 1: Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-roles-and-permissions-d9a5bfe5d525&#34;&gt;Part 2: Roles and Permissinos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-3-invitation-c982dca55eb9&#34;&gt;Part 3: Invitation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-4-tenancy-aware-authentication-e0ee37270bc8&#34;&gt;Part 4: Authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-unit-tests-96d6dfbf0617&#34;&gt;Part 5: Testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a&#34;&gt;Part 6: User Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627&#34;&gt;Part 7: Deployment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/&#34;&gt;Build a Laravel CRUD Application From Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;OCaml&#34;&gt;&lt;a href=&#34;#OCaml&#34; class=&#34;headerlink&#34; title=&#34;OCaml:&#34;&gt;&lt;/a&gt;OCaml:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml&#34;&gt;Implement a Language with LLVM in OCaml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Ruby&#34;&gt;&lt;a href=&#34;#Ruby&#34; class=&#34;headerlink&#34; title=&#34;Ruby:&#34;&gt;&lt;/a&gt;Ruby:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b&#34;&gt;Build a Network Stack with Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build your own Redis&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rohitpaulk.com/articles/redis-0&#34;&gt;Part 0: Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rohitpaulk.com/articles/redis-1&#34;&gt;Part 1: Barebones TCP Server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rohitpaulk.com/articles/redis-2&#34;&gt;Part 2: PING &amp;lt;-&amp;gt; PONG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rohitpaulk.com/articles/redis-3&#34;&gt;Part 3: Concurrent Clients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rohitpaulk.com/articles/redis-4&#34;&gt;Part 4: ECHO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://thoughtbot.com/blog/rebuilding-git-in-ruby&#34;&gt;Rebuilding Git in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Ruby-on-Rails&#34;&gt;&lt;a href=&#34;#Ruby-on-Rails&#34; class=&#34;headerlink&#34; title=&#34;Ruby on Rails:&#34;&gt;&lt;/a&gt;Ruby on Rails:&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.railstutorial.org/book&#34;&gt;The Ruby on Rails Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0&#34;&gt;Build Instagram From Scratch with Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233&#34;&gt;Build a Social Network using Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application&#34;&gt;How To Build a Ruby on Rails Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Haskell&#34;&gt;&lt;a href=&#34;#Haskell&#34; class=&#34;headerlink&#34; title=&#34;Haskell:&#34;&gt;&lt;/a&gt;Haskell:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dev.stephendiehl.com/fun/&#34;&gt;Write You a Haskell - Build a modern functional compiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours&#34;&gt;Write Yourself a Scheme in 48 hours&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/write-you-a-scheme-v2/scheme&#34;&gt;Write You A Scheme, Version 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.haskell.org/Roll_your_own_IRC_bot&#34;&gt;Roll Your Own IRC Bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lettier.github.io/posts/2016-08-15-making-movie-monad.html&#34;&gt;Making Movie Monad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html&#34;&gt;Making a Website with Haskell &lt;strong&gt;(outdated)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;R&#34;&gt;&lt;a href=&#34;#R&#34; class=&#34;headerlink&#34; title=&#34;R:&#34;&gt;&lt;/a&gt;R:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://shiny.rstudio.com/tutorial/&#34;&gt;Build Web Apps with Shiny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1&#34;&gt;Build A Cryptocurrency Bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50&#34;&gt;Learn Associate Rule Mining in R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Rust&#34;&gt;&lt;a href=&#34;#Rust&#34; class=&#34;headerlink&#34; title=&#34;Rust:&#34;&gt;&lt;/a&gt;Rust:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;A Simple Web App in Rust&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/&#34;&gt;Part 2a&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/&#34;&gt;Part 2b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.phil-opp.com/&#34;&gt;Write an OS in pure Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html&#34;&gt;Build a browser engine in Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/&#34;&gt;Write a Microservice in Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html&#34;&gt;Learning Rust with Too Many Linked Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rust in Detail: Writing Scalable Chat Service from Scratch&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html&#34;&gt;Part 1: Implementing WebSocket. Introduction.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html&#34;&gt;Part 2: Sending and Receiving Messages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/&#34;&gt;Writing a Rust Roguelike for the Desktop and the Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/&#34;&gt;Single Page Applications using Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bugzmanov.github.io/nes_ebook/&#34;&gt;Writing NES Emulator in Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Create a simulation of evolution using neural network and genetic algorithm, and compile the application to WebAssembly&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pwy.io/en/posts/learning-to-fly-pt1/&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pwy.io/en/posts/learning-to-fly-pt2/&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pwy.io/en/posts/learning-to-fly-pt3/&#34;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pwy.io/en/posts/learning-to-fly-pt4/&#34;&gt;Part 4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Scala&#34;&gt;&lt;a href=&#34;#Scala&#34; class=&#34;headerlink&#34; title=&#34;Scala:&#34;&gt;&lt;/a&gt;Scala:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/&#34;&gt;Simple actor-based blockchain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rcoh.svbtle.com/no-magic-regular-expressions&#34;&gt;No Magic: Regular Expressions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Swift&#34;&gt;&lt;a href=&#34;#Swift&#34; class=&#34;headerlink&#34; title=&#34;Swift:&#34;&gt;&lt;/a&gt;Swift:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hackingwithswift.com/read&#34;&gt;Hacking with Swift - Learn Swift by doing 39 projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nicklockwood/RetroRampage&#34;&gt;Retro first-person shooter from scratch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Additional-Resources&#34;&gt;&lt;a href=&#34;#Additional-Resources&#34; class=&#34;headerlink&#34; title=&#34;Additional Resources&#34;&gt;&lt;/a&gt;Additional Resources&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/markerikson/react-redux-links&#34;&gt;React Redux Links&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/&#34;&gt;Udemy.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fullstackpython.com/&#34;&gt;Full Stack Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodeschool.io/&#34;&gt;Node School&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scotch.io/&#34;&gt;ScotchIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.exercism.io/&#34;&gt;Exercism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.egghead.io/&#34;&gt;Egghead.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mherman.org/&#34;&gt;Michael Herman’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://thinkster.io/&#34;&gt;Thinkster.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://enlight.nyc/&#34;&gt;Enlight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackclub.com/workshops/&#34;&gt;Hack Club Workshops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codecrafters.io/&#34;&gt;CodeCrafters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

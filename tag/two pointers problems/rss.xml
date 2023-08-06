@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;two pointers problems&#34; tag</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/leetcode-all-two-pointers-problems/</guid>
+            <title>LeetCode all two pointers problems</title>
+            <link>https://samirpaul1.github.io/posts/leetcode-all-two-pointers-problems/</link>
+            <category>LeetCode</category>
+            <category>blog</category>
+            <category>coding</category>
+            <category>computer-science</category>
+            <category>two pointers problems</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;1. Running from both ends of an array&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705317-e62636ef-7fac-4897-a7d0-4625cd71826f.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2 Sum problem&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/&#34;&gt;https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/3sum/&#34;&gt;https://leetcode.com/problems/3sum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/4sum/&#34;&gt;https://leetcode.com/problems/4sum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/&#34;&gt;https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/two-sum-iv-input-is-a-bst/&#34;&gt;https://leetcode.com/problems/two-sum-iv-input-is-a-bst/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sum-of-square-numbers/&#34;&gt;https://leetcode.com/problems/sum-of-square-numbers/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/boats-to-save-people/&#34;&gt;https://leetcode.com/problems/boats-to-save-people/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/&#34;&gt;https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/3sum-with-multiplicity/&#34;&gt;https://leetcode.com/problems/3sum-with-multiplicity/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Trapping Water&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/trapping-rain-water/&#34;&gt;https://leetcode.com/problems/trapping-rain-water/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/container-with-most-water/&#34;&gt;https://leetcode.com/problems/container-with-most-water/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Next Permutation&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/next-permutation/&#34;&gt;https://leetcode.com/problems/next-permutation/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/next-greater-element-iii/&#34;&gt;https://leetcode.com/problems/next-greater-element-iii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/&#34;&gt;https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Reversing &amp;#x2F; Swapping&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/valid-palindrome/&#34;&gt;https://leetcode.com/problems/valid-palindrome/&lt;/a&gt;&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/reverse-string/&#34;&gt;https://leetcode.com/problems/reverse-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-vowels-of-a-string/&#34;&gt;https://leetcode.com/problems/reverse-vowels-of-a-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/valid-palindrome-ii/&#34;&gt;https://leetcode.com/problems/valid-palindrome-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-only-letters/&#34;&gt;https://leetcode.com/problems/reverse-only-letters/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-element/&#34;&gt;https://leetcode.com/problems/remove-element/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sort-colors/&#34;&gt;https://leetcode.com/problems/sort-colors/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/flipping-an-image/&#34;&gt;https://leetcode.com/problems/flipping-an-image/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/squares-of-a-sorted-array/&#34;&gt;https://leetcode.com/problems/squares-of-a-sorted-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sort-array-by-parity/&#34;&gt;https://leetcode.com/problems/sort-array-by-parity/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sort-array-by-parity-ii/&#34;&gt;https://leetcode.com/problems/sort-array-by-parity-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/pancake-sorting/&#34;&gt;https://leetcode.com/problems/pancake-sorting/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-prefix-of-word/&#34;&gt;https://leetcode.com/problems/reverse-prefix-of-word/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-string-ii/&#34;&gt;https://leetcode.com/problems/reverse-string-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-words-in-a-string/&#34;&gt;https://leetcode.com/problems/reverse-words-in-a-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-words-in-a-string-iii/&#34;&gt;https://leetcode.com/problems/reverse-words-in-a-string-iii/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Others&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/di-string-match/&#34;&gt;https://leetcode.com/problems/di-string-match/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/&#34;&gt;https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sentence-similarity-iii/&#34;&gt;https://leetcode.com/problems/sentence-similarity-iii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/find-k-closest-elements/&#34;&gt;https://leetcode.com/problems/find-k-closest-elements/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/shortest-distance-to-a-character/&#34;&gt;https://leetcode.com/problems/shortest-distance-to-a-character/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;2.Slow &amp;amp; Fast Pointers&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;Next type is using two pointers with different speed of movement. Typically they starts from the left end, then the first pointer advances fast and give some feedback to the slow pointer and do some calculation.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705223-95601d5c-7c9c-416a-a561-3bc6213afd75.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Linked List Operations&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/linked-list-cycle/&#34;&gt;https://leetcode.com/problems/linked-list-cycle/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/linked-list-cycle-ii/&#34;&gt;https://leetcode.com/problems/linked-list-cycle-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-nth-node-from-end-of-list/&#34;&gt;https://leetcode.com/problems/remove-nth-node-from-end-of-list/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/rotate-list/&#34;&gt;https://leetcode.com/problems/rotate-list/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reorder-list/&#34;&gt;https://leetcode.com/problems/reorder-list/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/palindrome-linked-list/&#34;&gt;https://leetcode.com/problems/palindrome-linked-list/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cyclic Detection&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/find-the-duplicate-number/&#34;&gt;https://leetcode.com/problems/find-the-duplicate-number/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/circular-array-loop/&#34;&gt;https://leetcode.com/problems/circular-array-loop/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sliding Window&amp;#x2F;Caterpillar Method&lt;br&gt;  &lt;img src=&#34;https://assets.leetcode.com/users/images/29d2e356-77fe-4caf-8921-7a39d06e56d2_1642139764.6173265.jpeg&#34; alt=&#34;image&#34;&gt;&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/&#34;&gt;https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/find-k-th-smallest-pair-distance/&#34;&gt;https://leetcode.com/problems/find-k-th-smallest-pair-distance/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/moving-stones-until-consecutive-ii/&#34;&gt;https://leetcode.com/problems/moving-stones-until-consecutive-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/count-pairs-of-nodes/&#34;&gt;https://leetcode.com/problems/count-pairs-of-nodes/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/count-binary-substrings/&#34;&gt;https://leetcode.com/problems/count-binary-substrings/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/k-diff-pairs-in-an-array/&#34;&gt;https://leetcode.com/problems/k-diff-pairs-in-an-array/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Rotation&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/rotating-the-box/&#34;&gt;https://leetcode.com/problems/rotating-the-box/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/rotate-array/&#34;&gt;https://leetcode.com/problems/rotate-array/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;String&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/string-compression/&#34;&gt;https://leetcode.com/problems/string-compression/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/last-substring-in-lexicographical-order/&#34;&gt;https://leetcode.com/problems/last-substring-in-lexicographical-order/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Remove Duplicate&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/remove-duplicates-from-sorted-array/&#34;&gt;https://leetcode.com/problems/remove-duplicates-from-sorted-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/&#34;&gt;https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/&#34;&gt;https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/duplicate-zeros/&#34;&gt;https://leetcode.com/problems/duplicate-zeros/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Others&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/statistics-from-a-large-sample/&#34;&gt;https://leetcode.com/problems/statistics-from-a-large-sample/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/partition-labels/&#34;&gt;https://leetcode.com/problems/partition-labels/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/magical-string/&#34;&gt;https://leetcode.com/problems/magical-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/friends-of-appropriate-ages/&#34;&gt;https://leetcode.com/problems/friends-of-appropriate-ages/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/longest-mountain-in-array/&#34;&gt;https://leetcode.com/problems/longest-mountain-in-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/&#34;&gt;https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;3.Running from beginning of 2 arrays &amp;#x2F; Merging 2 arrays&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;In this category, you will be given 2 arrays or lists, then have to process them with individual pointers.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705109-0e41c781-9c08-4796-90fd-8b2169cef242.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Sorted arrays&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/merge-sorted-array/&#34;&gt;https://leetcode.com/problems/merge-sorted-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/heaters/&#34;&gt;https://leetcode.com/problems/heaters/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/find-the-distance-value-between-two-arrays/&#34;&gt;https://leetcode.com/problems/find-the-distance-value-between-two-arrays/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Intersections&amp;#x2F;LCA like&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/intersection-of-two-linked-lists/&#34;&gt;https://leetcode.com/problems/intersection-of-two-linked-lists/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/intersection-of-two-arrays/&#34;&gt;https://leetcode.com/problems/intersection-of-two-arrays/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/intersection-of-two-arrays-ii/&#34;&gt;https://leetcode.com/problems/intersection-of-two-arrays-ii/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;SubString&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/implement-strstr/&#34;&gt;https://leetcode.com/problems/implement-strstr/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/&#34;&gt;https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/long-pressed-name/&#34;&gt;https://leetcode.com/problems/long-pressed-name/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/longest-uncommon-subsequence-ii/&#34;&gt;https://leetcode.com/problems/longest-uncommon-subsequence-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/compare-version-numbers/&#34;&gt;https://leetcode.com/problems/compare-version-numbers/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/camelcase-matching/&#34;&gt;https://leetcode.com/problems/camelcase-matching/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/expressive-words/&#34;&gt;https://leetcode.com/problems/expressive-words/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Median Finder&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/find-median-from-data-stream/&#34;&gt;https://leetcode.com/problems/find-median-from-data-stream/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Meet-in-the-middle &amp;#x2F; Binary Search&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/&#34;&gt;https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/closest-subsequence-sum/&#34;&gt;https://leetcode.com/problems/closest-subsequence-sum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/&#34;&gt;https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/3sum-closest/&#34;&gt;https://leetcode.com/problems/3sum-closest/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/valid-triangle-number/&#34;&gt;https://leetcode.com/problems/valid-triangle-number/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Others&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/shortest-unsorted-continuous-subarray/&#34;&gt;https://leetcode.com/problems/shortest-unsorted-continuous-subarray/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/most-profit-assigning-work/&#34;&gt;https://leetcode.com/problems/most-profit-assigning-work/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/largest-merge-of-two-strings/&#34;&gt;https://leetcode.com/problems/largest-merge-of-two-strings/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/swap-adjacent-in-lr-string/&#34;&gt;https://leetcode.com/problems/swap-adjacent-in-lr-string/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;4.Split &amp;amp; Merge of an array &amp;#x2F; Divide &amp;amp; Conquer&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;The last one is similiar to previous category but there is one thing is added. First, you need to split the given list into 2 separate lists and then do two pointers approach to merge or unify them. There aren’t many tasks here.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226704881-583b72b9-d759-46f6-ab8f-a81310800c30.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Partition&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/partition-list/&#34;&gt;https://leetcode.com/problems/partition-list/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sorting&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/sort-list/&#34;&gt;https://leetcode.com/problems/sort-list/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

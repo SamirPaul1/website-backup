@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;txt-compressor&#34; tag</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/text-file-compressor-de-compressor-web-app/</guid>
+            <title>Text File Compressor De-compressor Web App</title>
+            <link>https://samirpaul1.github.io/posts/text-file-compressor-de-compressor-web-app/</link>
+            <category>projects</category>
+            <category>web-development</category>
+            <category>lossless-data-compression</category>
+            <category>online-file-compressor</category>
+            <category>txt-compressor</category>
+            <category>algorithm</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;ul&gt;
+&lt;li&gt;This webapp uses Huffman Coding for Text Compression and De-compression.&lt;/li&gt;
+&lt;li&gt;Made with &lt;code&gt;JavaScript&lt;/code&gt;, &lt;code&gt;HTML5&lt;/code&gt; and &lt;code&gt;CSS3&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Live Demo: &lt;a href=&#34;https://samirpaul1.github.io/txt-compressor/&#34;&gt;&lt;strong&gt;samirpaul1.github.io&amp;#x2F;txt-compressor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Repository: &lt;a href=&#34;https://github.com/SamirPaul1/txt-compressor&#34;&gt;github.com&amp;#x2F;SamirPaul1&amp;#x2F;txt-compressor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;About-this-application&#34;&gt;&lt;a href=&#34;#About-this-application&#34; class=&#34;headerlink&#34; title=&#34;About this application:&#34;&gt;&lt;/a&gt;About this application:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;An online text(.txt) file compressor, decompressor which uses Huffman Algorithm to encode&amp;#x2F;compress files by 35% and decode them back to the original size. &lt;/li&gt;
+&lt;li&gt;This tool assigns a variable-length code to the characters of the uploaded file based on the frequency of occurrence. Then converts characters to that special code which takes less size than the original ASCII codes. Huffman code forms a binary tree assigning the most frequent characters with the smallest codes and longer codes for the least frequent characters. &lt;/li&gt;
+&lt;li&gt;A Huffman code is a tree, built bottom up, starting with the list of different characters appearing in a text and their frequency. &lt;/li&gt;
+&lt;li&gt;With this lossless data compression method, this tool can compress the file size by 35 to 40%. &lt;/li&gt;
+&lt;li&gt;As file size gets reduced and original characters get changed to special characters so this encoding also improves security by encrypting the file during file sharing. &lt;/li&gt;
+&lt;li&gt;With the decoding feature, the user can decode the encoded file and get back the original file of the previous size. &lt;/li&gt;
+&lt;li&gt;I have used JavaScript to implement the algorithms so that browser can compile the code and HTML, CSS to make the website responsive. &lt;/li&gt;
+&lt;li&gt;Additional instructions and warnings are provided if steps are not followed correctly. &lt;/li&gt;
+&lt;li&gt;An &lt;a href=&#34;https://samirpaul1.github.io/txt-compressor/info.html&#34;&gt;Info page&lt;/a&gt; is added to give more information about tecnique of &lt;strong&gt;Lossless Data Compression&lt;/strong&gt; with Huffman coding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Video-Demo&#34;&gt;&lt;a href=&#34;#Video-Demo&#34; class=&#34;headerlink&#34; title=&#34;Video Demo:&#34;&gt;&lt;/a&gt;Video Demo:&lt;/h2&gt;&lt;iframe title=&#34;Video Demo&#34; src=&#34;https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4&#34; loading=&#34;lazy&#34; width=&#34;100%&#34; height = &#34;380&#34; autoplay=&#34;autoplay&#34; loop=&#34;loop&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Landing Page:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-landing-page.png&#34; alt=&#34;landing-page&#34;&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Upload File&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-step1.png&#34; alt=&#34;step1&#34;&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Select Action (Compress &amp;#x2F; De-compress)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-step2.png&#34; alt=&#34;step2&#34;&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 
+Wait for File Download&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;File gets downloaded automatically when selected process is complete.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Compression - Compression Ratio is also displayed&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  &lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-step3.png&#34; alt=&#34;compression&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;De-compression&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  &lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-decompression.png&#34; alt=&#34;decompression&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Additional Instructions and Warnings are provided if the above steps are not followed correctly&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-nofile.png&#34; alt=&#34;noFile&#34;&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png&#34; alt=&#34;smallFile&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;About the tecnique of Lossless Data Compression with Huffman coding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg&#34; alt=&#34;info1&#34;&gt; &lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

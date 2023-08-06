@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Samir Paul • Posts by &#34;pyshooter&#34; tag</title>
+        <link>https://samirpaul1.github.io</link>
+        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <language>en</language>
+        <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>LeetCode</category>
+        <category>GeeksforGeeks</category>
+        <category>blog</category>
+        <category>coding</category>
+        <category>computer-science</category>
+        <category>Binary Search</category>
+        <category>caching</category>
+        <category>system-design</category>
+        <category>design-interview</category>
+        <category>preparation</category>
+        <category>study-plan</category>
+        <category>computer-networks</category>
+        <category>computer-networks-notes</category>
+        <category>projects</category>
+        <category>tutorials</category>
+        <category>list-of-project-based-tutorials</category>
+        <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>google</category>
+        <category>google-search-withing-webpage</category>
+        <category>google-programmable-search-engine</category>
+        <category>programmable-search-engine</category>
+        <category>Graph</category>
+        <category>distributed-systems</category>
+        <category>two pointers problems</category>
+        <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>leetcode</category>
+        <category>leetcode-solutions</category>
+        <category>leetcode-solutions-cheetsheet</category>
+        <category>leetcode-cheetsheet</category>
+        <category>important-leetcode-solutions</category>
+        <category>python3</category>
+        <category>file-compressor</category>
+        <category>flask-application</category>
+        <category>python-server</category>
+        <category>pdfnet</category>
+        <category>pdf-compression</category>
+        <category>online-pdf-compressor</category>
+        <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
+        <category>Operating System</category>
+        <category>Placements</category>
+        <category>OS</category>
+        <category>project</category>
+        <category>pygame</category>
+        <category>python-game</category>
+        <category>pyshooter</category>
+        <category>shooter-game</category>
+        <category>Python Cheat Sheet</category>
+        <category>Leetcode</category>
+        <category>sql</category>
+        <category>nosql</category>
+        <category>sharding</category>
+        <category>data-partitioning</category>
+        <category>certificates</category>
+        <category>udemy</category>
+        <category>coursera</category>
+        <category>datacamp</category>
+        <category>INNER JOIN</category>
+        <category>RIGHT JOIN</category>
+        <category>FULL JOIN</category>
+        <category>SQL</category>
+        <category>SQL Joins</category>
+        <category>web-development</category>
+        <category>lossless-data-compression</category>
+        <category>online-file-compressor</category>
+        <category>txt-compressor</category>
+        <category>algorithm</category>
+        <category>databases</category>
+        <category>short-url</category>
+        <category>url-shortner</category>
+        <category>networking</category>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/pyshooter/</guid>
+            <title>PyShooter Python Game</title>
+            <link>https://samirpaul1.github.io/posts/pyshooter/</link>
+            <category>blog</category>
+            <category>coding</category>
+            <category>computer-science</category>
+            <category>projects</category>
+            <category>python</category>
+            <category>project</category>
+            <category>pygame</category>
+            <category>python-game</category>
+            <category>pyshooter</category>
+            <category>shooter-game</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;PyShooter&#34;&gt;&lt;a href=&#34;#PyShooter&#34; class=&#34;headerlink&#34; title=&#34;PyShooter&#34;&gt;&lt;/a&gt;PyShooter&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/language-python-blue.svg?style=flat&#34; alt=&#34;Language&#34;&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;http://www.pygame.org/news.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat&#34; alt=&#34;Module&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PyShooter is a two-dimensional shooter game in which the player runs horizontally and fires at enemies.&lt;/p&gt;
+&lt;h5 id=&#34;Repository-https-github-com-SamirPaul1-PyShooter&#34;&gt;&lt;a href=&#34;#Repository-https-github-com-SamirPaul1-PyShooter&#34; class=&#34;headerlink&#34; title=&#34;Repository: https://github.com/SamirPaul1/PyShooter&#34;&gt;&lt;/a&gt;Repository: &lt;a href=&#34;https://github.com/SamirPaul1/PyShooter&#34;&gt;https://github.com/SamirPaul1/PyShooter&lt;/a&gt;&lt;/h5&gt;&lt;h2 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h2&gt;&lt;iframe width=&#34;100%&#34; height=&#34;420&#34; src=&#34;https://www.youtube.com/embed/rg-49OTHZVY&#34; loading=&#34;lazy&#34; title=&#34;PyShooter - Samir Paul - YouTube&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+
+&lt;iframe title=&#34;Video Demo&#34; src=&#34;https://user-images.githubusercontent.com/77569653/214920668-ef657089-b71f-43c8-8011-a202a09f5531.mp4&#34; loading=&#34;lazy&#34; width=&#34;100%&#34; height = &#34;500&#34; autoplay=&#34;autoplay&#34; loop=&#34;loop&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Vimeo: &lt;a href=&#34;https://vimeo.com/809728956&#34;&gt;https://vimeo.com/809728956&lt;/a&gt;&lt;/p&gt;
+&lt;!---
+&lt;a href=&#34;https://www.youtube.com/watch?v=rg-49OTHZVY&#34;&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/pygame-youtube-video-thumbnail.jpg&#34; alt=&#34;PyShooter Demo YouTube&#34; width=&#34;700&#34; height=&#34;370&#34;&gt;
+&lt;/a&gt;
+--&gt;
+
+&lt;h2 id=&#34;How-To-Play&#34;&gt;&lt;a href=&#34;#How-To-Play&#34; class=&#34;headerlink&#34; title=&#34;How To Play&#34;&gt;&lt;/a&gt;How To Play&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;If you don’t have &lt;a href=&#34;https://www.python.org/downloads/&#34;&gt;Python&lt;/a&gt; or &lt;a href=&#34;http://www.pygame.org/download.shtml&#34;&gt;Pygame&lt;/a&gt; installed, you can simply double click the .exe file to play the game.&lt;br&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;The .exe file needs to stay in the same directory as the sounds, images, and font folders.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Install Pygame &lt;code&gt;pip install pygame&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you have the correct version of Python and Pygame installed, you can run the program in the command prompt &amp;#x2F; terminal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;cd&lt;/span&gt; PyShooter&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;python main.py&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;hr&gt;
+&lt;p&gt;Credits for assets used: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://erayzesen.itch.io/pixel-platformer&#34;&gt;https://erayzesen.itch.io/pixel-platformer&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://secrethideout.itch.io/team-wars-platformer-battle&#34;&gt;https://secrethideout.itch.io/team-wars-platformer-battle&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundimage.org/fantasywonder&#34;&gt;https://soundimage.org/fantasywonder&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gushh.net/blog/free-game-sprites-explosion-3&#34;&gt;https://gushh.net/blog/free-game-sprites-explosion-3&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mtk.itch.io/grenades-16x16&#34;&gt;https://mtk.itch.io/grenades-16x16&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

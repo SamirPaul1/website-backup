@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://samirpaul1.github.io</id>
+    <title>Samir Paul • Posts by &#34;nosql&#34; tag</title>
+    <link href="https://samirpaul1.github.io" />
+    <updated>2023-08-05T20:52:53.878Z</updated>
+    <category term="LeetCode" />
+    <category term="GeeksforGeeks" />
+    <category term="blog" />
+    <category term="coding" />
+    <category term="computer-science" />
+    <category term="Binary Search" />
+    <category term="caching" />
+    <category term="system-design" />
+    <category term="design-interview" />
+    <category term="preparation" />
+    <category term="study-plan" />
+    <category term="computer-networks" />
+    <category term="computer-networks-notes" />
+    <category term="projects" />
+    <category term="tutorials" />
+    <category term="list-of-project-based-tutorials" />
+    <category term="curated-list" />
+    <category term="DSAlgo" />
+    <category term="dsa-in-python" />
+    <category term="data-structures-and-algorithms" />
+    <category term="Dynamic Programming" />
+    <category term="Patterns" />
+    <category term="dp" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="google" />
+    <category term="google-search-withing-webpage" />
+    <category term="google-programmable-search-engine" />
+    <category term="programmable-search-engine" />
+    <category term="Graph" />
+    <category term="distributed-systems" />
+    <category term="two pointers problems" />
+    <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="leetcode" />
+    <category term="leetcode-solutions" />
+    <category term="leetcode-solutions-cheetsheet" />
+    <category term="leetcode-cheetsheet" />
+    <category term="important-leetcode-solutions" />
+    <category term="python3" />
+    <category term="file-compressor" />
+    <category term="flask-application" />
+    <category term="python-server" />
+    <category term="pdfnet" />
+    <category term="pdf-compression" />
+    <category term="online-pdf-compressor" />
+    <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
+    <category term="Operating System" />
+    <category term="Placements" />
+    <category term="OS" />
+    <category term="project" />
+    <category term="pygame" />
+    <category term="python-game" />
+    <category term="pyshooter" />
+    <category term="shooter-game" />
+    <category term="Python Cheat Sheet" />
+    <category term="Leetcode" />
+    <category term="sql" />
+    <category term="nosql" />
+    <category term="sharding" />
+    <category term="data-partitioning" />
+    <category term="certificates" />
+    <category term="udemy" />
+    <category term="coursera" />
+    <category term="datacamp" />
+    <category term="INNER JOIN" />
+    <category term="RIGHT JOIN" />
+    <category term="FULL JOIN" />
+    <category term="SQL" />
+    <category term="SQL Joins" />
+    <category term="web-development" />
+    <category term="lossless-data-compression" />
+    <category term="online-file-compressor" />
+    <category term="txt-compressor" />
+    <category term="algorithm" />
+    <category term="databases" />
+    <category term="short-url" />
+    <category term="url-shortner" />
+    <category term="networking" />
+    <entry>
+        <id>https://samirpaul1.github.io/posts/sql-vs-nosql/</id>
+        <title>SQL vs. NoSQL</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/sql-vs-nosql/"/>
+        <content type="html">&lt;h1 id=&#34;SQL-vs-NoSQL&#34;&gt;&lt;a href=&#34;#SQL-vs-NoSQL&#34; class=&#34;headerlink&#34; title=&#34;SQL vs. NoSQL&#34;&gt;&lt;/a&gt;SQL vs. NoSQL&lt;/h1&gt;&lt;h2 id=&#34;Common-types-of-NoSQL&#34;&gt;&lt;a href=&#34;#Common-types-of-NoSQL&#34; class=&#34;headerlink&#34; title=&#34;Common types of NoSQL&#34;&gt;&lt;/a&gt;Common types of NoSQL&lt;/h2&gt;&lt;h3 id=&#34;Key-value-stores&#34;&gt;&lt;a href=&#34;#Key-value-stores&#34; class=&#34;headerlink&#34; title=&#34;Key-value stores&#34;&gt;&lt;/a&gt;Key-value stores&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Array of key-value pairs. The “key” is an attribute name.&lt;/li&gt;
+&lt;li&gt;Redis, Vodemort, Dynamo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Document-databases&#34;&gt;&lt;a href=&#34;#Document-databases&#34; class=&#34;headerlink&#34; title=&#34;Document databases&#34;&gt;&lt;/a&gt;Document databases&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Data is stored in documents.&lt;/li&gt;
+&lt;li&gt;Documents are grouped in collections.&lt;/li&gt;
+&lt;li&gt;Each document can have an entirely different structure.&lt;/li&gt;
+&lt;li&gt;CouchDB, MongoDB.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Wide-column-columnar-databases&#34;&gt;&lt;a href=&#34;#Wide-column-columnar-databases&#34; class=&#34;headerlink&#34; title=&#34;Wide-column &amp;#x2F; columnar databases&#34;&gt;&lt;/a&gt;Wide-column &amp;#x2F; columnar databases&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Column families - containers for rows.&lt;/li&gt;
+&lt;li&gt;No need to know all the columns up front.&lt;/li&gt;
+&lt;li&gt;Each row can have different number of columns.&lt;/li&gt;
+&lt;li&gt;Cassandra, HBase.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Graph-database&#34;&gt;&lt;a href=&#34;#Graph-database&#34; class=&#34;headerlink&#34; title=&#34;Graph database&#34;&gt;&lt;/a&gt;Graph database&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Data is stored in graph structures&lt;ul&gt;
+&lt;li&gt;Nodes: entities&lt;/li&gt;
+&lt;li&gt;Properties: information about the entities&lt;/li&gt;
+&lt;li&gt;Lines: connections between the entities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Neo4J, InfiniteGraph&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Differences-between-SQL-and-NoSQL&#34;&gt;&lt;a href=&#34;#Differences-between-SQL-and-NoSQL&#34; class=&#34;headerlink&#34; title=&#34;Differences between SQL and NoSQL&#34;&gt;&lt;/a&gt;Differences between SQL and NoSQL&lt;/h2&gt;&lt;h3 id=&#34;Storage&#34;&gt;&lt;a href=&#34;#Storage&#34; class=&#34;headerlink&#34; title=&#34;Storage&#34;&gt;&lt;/a&gt;Storage&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;SQL: store data in tables.&lt;/li&gt;
+&lt;li&gt;NoSQL: have different data storage models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Schema&#34;&gt;&lt;a href=&#34;#Schema&#34; class=&#34;headerlink&#34; title=&#34;Schema&#34;&gt;&lt;/a&gt;Schema&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;SQL&lt;ul&gt;
+&lt;li&gt;Each record conforms to a fixed schema.&lt;/li&gt;
+&lt;li&gt;Schema can be altered, but it requires modifying the whole database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NoSQL:&lt;ul&gt;
+&lt;li&gt;Schemas are dynamic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Querying&#34;&gt;&lt;a href=&#34;#Querying&#34; class=&#34;headerlink&#34; title=&#34;Querying&#34;&gt;&lt;/a&gt;Querying&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;SQL&lt;ul&gt;
+&lt;li&gt;Use SQL (structured query language) for defining and manipulating the data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NoSQL&lt;ul&gt;
+&lt;li&gt;Queries are focused on a collection of documents.&lt;/li&gt;
+&lt;li&gt;UnQL (unstructured query language).&lt;/li&gt;
+&lt;li&gt;Different databases have different syntax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Scalability&#34;&gt;&lt;a href=&#34;#Scalability&#34; class=&#34;headerlink&#34; title=&#34;Scalability&#34;&gt;&lt;/a&gt;Scalability&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;SQL&lt;ul&gt;
+&lt;li&gt;Vertically scalable (by increasing the horsepower: memory, CPU, etc) and expensive.&lt;/li&gt;
+&lt;li&gt;Horizontally scalable (across multiple servers); but it can be challenging and time-consuming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NoSQL&lt;ul&gt;
+&lt;li&gt;Horizontablly scalable (by adding more servers) and cheap.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ACID&#34;&gt;&lt;a href=&#34;#ACID&#34; class=&#34;headerlink&#34; title=&#34;ACID&#34;&gt;&lt;/a&gt;ACID&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Atomicity, consistency, isolation, durability&lt;/li&gt;
+&lt;li&gt;SQL&lt;ul&gt;
+&lt;li&gt;ACID compliant&lt;/li&gt;
+&lt;li&gt;Data reliability&lt;/li&gt;
+&lt;li&gt;Gurantee of transactions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NoSQL&lt;ul&gt;
+&lt;li&gt;Most sacrifice ACID compliance for performance and scalability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Which-one-to-use&#34;&gt;&lt;a href=&#34;#Which-one-to-use&#34; class=&#34;headerlink&#34; title=&#34;Which one to use?&#34;&gt;&lt;/a&gt;Which one to use?&lt;/h2&gt;&lt;h3 id=&#34;SQL&#34;&gt;&lt;a href=&#34;#SQL&#34; class=&#34;headerlink&#34; title=&#34;SQL&#34;&gt;&lt;/a&gt;SQL&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Ensure ACID compliance.&lt;ul&gt;
+&lt;li&gt;Reduce anomalies.&lt;/li&gt;
+&lt;li&gt;Protect database integrity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Data is structured and unchanging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;NoSQL&#34;&gt;&lt;a href=&#34;#NoSQL&#34; class=&#34;headerlink&#34; title=&#34;NoSQL&#34;&gt;&lt;/a&gt;NoSQL&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Data has little or no structure.&lt;/li&gt;
+&lt;li&gt;Make the most of cloud computing and storage.&lt;ul&gt;
+&lt;li&gt;Cloud-based storage requires data to be easily spread across multiple servers to scale up.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rapid development.&lt;ul&gt;
+&lt;li&gt;Frequent updates to the data structure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="sql" />
+        <category term="nosql" />
+        <updated>2023-08-05T20:52:53.878Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul1.github.io/posts/sharding-or-data-partitioning/</id>
+        <title>Sharding or Data Partitioning</title>
+        <link rel="alternate" href="https://samirpaul1.github.io/posts/sharding-or-data-partitioning/"/>
+        <content type="html">&lt;h1 id=&#34;Sharding-Data-Partitioning&#34;&gt;&lt;a href=&#34;#Sharding-Data-Partitioning&#34; class=&#34;headerlink&#34; title=&#34;Sharding &amp;#x2F; Data Partitioning&#34;&gt;&lt;/a&gt;Sharding &amp;#x2F; Data Partitioning&lt;/h1&gt;&lt;h2 id=&#34;Partitioning-methods&#34;&gt;&lt;a href=&#34;#Partitioning-methods&#34; class=&#34;headerlink&#34; title=&#34;Partitioning methods&#34;&gt;&lt;/a&gt;Partitioning methods&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Horizontal partitioning&lt;ul&gt;
+&lt;li&gt;Range based sharding.&lt;/li&gt;
+&lt;li&gt;Put different rows into different tables.&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;If the value whose range is used for sharding isn’t chosen carefully, the partitioning scheme will lead to unbalanced servers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vertical partitioning&lt;ul&gt;
+&lt;li&gt;Divide data for a specific feature to their own server.&lt;/li&gt;
+&lt;li&gt;Pro&lt;ul&gt;
+&lt;li&gt;Straightforward to implement.&lt;/li&gt;
+&lt;li&gt;Low impact on the application.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;To support growth of the application, a database may need further partitioning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Directory-based partitioning&lt;ul&gt;
+&lt;li&gt;A lookup service that knows the partitioning scheme and abstracts it away from the database access code.&lt;/li&gt;
+&lt;li&gt;Allow addition of db servers or change of partitioning schema without impacting application.&lt;/li&gt;
+&lt;li&gt;Con&lt;ul&gt;
+&lt;li&gt;Can be a single point of failure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Partitioning-criteria&#34;&gt;&lt;a href=&#34;#Partitioning-criteria&#34; class=&#34;headerlink&#34; title=&#34;Partitioning criteria&#34;&gt;&lt;/a&gt;Partitioning criteria&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Key or hash-based partitioning&lt;ul&gt;
+&lt;li&gt;Apply a hash function to some key attribute of the entry to get the partition number.&lt;/li&gt;
+&lt;li&gt;Problem&lt;ul&gt;
+&lt;li&gt;Adding new servers may require changing the hash function, which would need redistribution of data and downtime for the service.&lt;/li&gt;
+&lt;li&gt;Workaround: &lt;a href=&#34;https://en.wikipedia.org/wiki/Consistent_hashing&#34;&gt;consistent hashing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;List partitioning&lt;ul&gt;
+&lt;li&gt;Each partition is assigned a list of values.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Round-robin partitioning&lt;ul&gt;
+&lt;li&gt;With &lt;code&gt;n&lt;/code&gt; partitions, the &lt;code&gt;i&lt;/code&gt; tuple is assigned to partition &lt;code&gt;i % n&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Composite partitioning&lt;ul&gt;
+&lt;li&gt;Combine any of above partitioning schemes to devise a new scheme.&lt;/li&gt;
+&lt;li&gt;Consistent hashing is a composite of hash and list partitioning.&lt;ul&gt;
+&lt;li&gt;Key -&amp;gt; reduced key space through hash -&amp;gt; list -&amp;gt; partition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Common-problems-of-sharding&#34;&gt;&lt;a href=&#34;#Common-problems-of-sharding&#34; class=&#34;headerlink&#34; title=&#34;Common problems of sharding&#34;&gt;&lt;/a&gt;Common problems of sharding&lt;/h2&gt;&lt;p&gt;Most of the constraints are due to the fact that operations across multiple tables or multiple rows in the same table will no longer run on the same server.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joins and denormalization&lt;ul&gt;
+&lt;li&gt;Joins will not be performance efficient since data has to be compiled from multiple servers.&lt;/li&gt;
+&lt;li&gt;Workaround: denormalize the database so that queries can be performed from a single table. But this can lead to data inconsistency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Referential integrity&lt;ul&gt;
+&lt;li&gt;Difficult to enforce data integrity constraints (e.g. foreign keys).&lt;/li&gt;
+&lt;li&gt;Workaround&lt;ul&gt;
+&lt;li&gt;Referential integrity is enforced by application code.&lt;/li&gt;
+&lt;li&gt;Applications can run SQL jobs to clean up dangling references.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rebalancing&lt;ul&gt;
+&lt;li&gt;Necessity of rebalancing&lt;ul&gt;
+&lt;li&gt;Data distribution is not uniform.&lt;/li&gt;
+&lt;li&gt;A lot of load on one shard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create more db shards or rebalance existing shards changes partitioning scheme and requires data movement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <category term="system-design" />
+        <category term="design-interview" />
+        <category term="sql" />
+        <category term="nosql" />
+        <category term="sharding" />
+        <category term="data-partitioning" />
+        <updated>2023-08-05T20:52:53.876Z</updated>
+    </entry>
+</feed>
