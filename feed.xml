@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Samir Paul</title>
+  <icon>https://samirpaul1.github.io/icon.png</icon>
+  <subtitle>Software Engineer</subtitle>
+  <link href="https://samirpaul1.github.io/feed.xml" rel="self"/>
+  
+  <link href="https://samirpaul1.github.io/"/>
+  <updated>2023-08-06T12:11:50.533Z</updated>
+  <id>https://samirpaul1.github.io/</id>
+  
+  <author>
+    <name>Samir Paul</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++ Data Types   GFG</title>
+    <link href="https://samirpaul1.github.io/posts/CPP-Data-Types---GFG/"/>
+    <id>https://samirpaul1.github.io/posts/CPP-Data-Types---GFG/</id>
+    <published>2023-08-06T12:22:21.715Z</published>
+    <updated>2023-08-06T12:11:50.533Z</updated>
+    
+    
+    <summary type="html">C++ Data Types - GFG</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ Strings   GFG</title>
+    <link href="https://samirpaul1.github.io/posts/CPP-Strings---GFG/"/>
+    <id>https://samirpaul1.github.io/posts/CPP-Strings---GFG/</id>
+    <published>2023-08-06T12:22:21.715Z</published>
+    <updated>2023-08-06T12:11:50.565Z</updated>
+    
+    
+    <summary type="html">C++ Strings - GFG</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ if else (Decision Making)   GFG</title>
+    <link href="https://samirpaul1.github.io/posts/CPP-if-else-(Decision-Making)---GFG/"/>
+    <id>https://samirpaul1.github.io/posts/CPP-if-else-(Decision-Making)---GFG/</id>
+    <published>2023-08-06T12:22:21.715Z</published>
+    <updated>2023-08-06T12:11:50.549Z</updated>
+    
+    
+    <summary type="html">C++ if-else (Decision Making) - GFG</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ Switch Case Statement   GFG</title>
+    <link href="https://samirpaul1.github.io/posts/CPP-Switch-Case-Statement---GFG/"/>
+    <id>https://samirpaul1.github.io/posts/CPP-Switch-Case-Statement---GFG/</id>
+    <published>2023-08-06T12:22:21.700Z</published>
+    <updated>2023-08-06T12:11:50.581Z</updated>
+    
+    
+    <summary type="html">C++ Switch Case Statement - GFG</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1084 sales analysis iii</title>
+    <link href="https://samirpaul1.github.io/posts/1084-sales-analysis-iii/"/>
+    <id>https://samirpaul1.github.io/posts/1084-sales-analysis-iii/</id>
+    <published>2023-08-06T07:08:14.516Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1084-sales-analysis-iii</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1092 shortest common supersequence</title>
+    <link href="https://samirpaul1.github.io/posts/1092-shortest-common-supersequence/"/>
+    <id>https://samirpaul1.github.io/posts/1092-shortest-common-supersequence/</id>
+    <published>2023-08-06T07:08:14.516Z</published>
+    <updated>2023-08-06T07:03:46.998Z</updated>
+    
+    
+    <summary type="html">1092-shortest-common-supersequence</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1041 robot bounded in circle</title>
+    <link href="https://samirpaul1.github.io/posts/1041-robot-bounded-in-circle/"/>
+    <id>https://samirpaul1.github.io/posts/1041-robot-bounded-in-circle/</id>
+    <published>2023-08-06T07:08:14.485Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1041-robot-bounded-in-circle</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1046 last stone weight</title>
+    <link href="https://samirpaul1.github.io/posts/1046-last-stone-weight/"/>
+    <id>https://samirpaul1.github.io/posts/1046-last-stone-weight/</id>
+    <published>2023-08-06T07:08:14.485Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1046-last-stone-weight</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1050 actors and directors who cooperated at least three times</title>
+    <link href="https://samirpaul1.github.io/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/"/>
+    <id>https://samirpaul1.github.io/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/</id>
+    <published>2023-08-06T07:08:14.485Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1050-actors-and-directors-who-cooperated-at-least-three-times</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1071 greatest common divisor of strings</title>
+    <link href="https://samirpaul1.github.io/posts/1071-greatest-common-divisor-of-strings/"/>
+    <id>https://samirpaul1.github.io/posts/1071-greatest-common-divisor-of-strings/</id>
+    <published>2023-08-06T07:08:14.485Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1071-greatest-common-divisor-of-strings</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1079 letter tile possibilities</title>
+    <link href="https://samirpaul1.github.io/posts/1079-letter-tile-possibilities/"/>
+    <id>https://samirpaul1.github.io/posts/1079-letter-tile-possibilities/</id>
+    <published>2023-08-06T07:08:14.485Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1079-letter-tile-possibilities</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1027 longest arithmetic subsequence</title>
+    <link href="https://samirpaul1.github.io/posts/1027-longest-arithmetic-subsequence/"/>
+    <id>https://samirpaul1.github.io/posts/1027-longest-arithmetic-subsequence/</id>
+    <published>2023-08-06T07:08:14.469Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1027-longest-arithmetic-subsequence</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1029 two city scheduling</title>
+    <link href="https://samirpaul1.github.io/posts/1029-two-city-scheduling/"/>
+    <id>https://samirpaul1.github.io/posts/1029-two-city-scheduling/</id>
+    <published>2023-08-06T07:08:14.469Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1029-two-city-scheduling</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1031 maximum sum of two non overlapping subarrays</title>
+    <link href="https://samirpaul1.github.io/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/"/>
+    <id>https://samirpaul1.github.io/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</id>
+    <published>2023-08-06T07:08:14.469Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1031-maximum-sum-of-two-non-overlapping-subarrays</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1035 uncrossed lines</title>
+    <link href="https://samirpaul1.github.io/posts/1035-uncrossed-lines/"/>
+    <id>https://samirpaul1.github.io/posts/1035-uncrossed-lines/</id>
+    <published>2023-08-06T07:08:14.469Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1035-uncrossed-lines</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1038 binary search tree to greater sum tree</title>
+    <link href="https://samirpaul1.github.io/posts/1038-binary-search-tree-to-greater-sum-tree/"/>
+    <id>https://samirpaul1.github.io/posts/1038-binary-search-tree-to-greater-sum-tree/</id>
+    <published>2023-08-06T07:08:14.469Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1038-binary-search-tree-to-greater-sum-tree</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1011 capacity to ship packages within d days</title>
+    <link href="https://samirpaul1.github.io/posts/1011-capacity-to-ship-packages-within-d-days/"/>
+    <id>https://samirpaul1.github.io/posts/1011-capacity-to-ship-packages-within-d-days/</id>
+    <published>2023-08-06T07:08:14.454Z</published>
+    <updated>2023-08-06T07:03:46.980Z</updated>
+    
+    
+    <summary type="html">1011-capacity-to-ship-packages-within-d-days</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1014 best sightseeing pair</title>
+    <link href="https://samirpaul1.github.io/posts/1014-best-sightseeing-pair/"/>
+    <id>https://samirpaul1.github.io/posts/1014-best-sightseeing-pair/</id>
+    <published>2023-08-06T07:08:14.454Z</published>
+    <updated>2023-08-06T07:03:46.984Z</updated>
+    
+    
+    <summary type="html">1014-best-sightseeing-pair</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1005 maximize sum of array after k negations</title>
+    <link href="https://samirpaul1.github.io/posts/1005-maximize-sum-of-array-after-k-negations/"/>
+    <id>https://samirpaul1.github.io/posts/1005-maximize-sum-of-array-after-k-negations/</id>
+    <published>2023-08-06T07:08:14.438Z</published>
+    <updated>2023-08-06T07:03:46.980Z</updated>
+    
+    
+    <summary type="html">1005-maximize-sum-of-array-after-k-negations</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1008 construct binary search tree from preorder traversal</title>
+    <link href="https://samirpaul1.github.io/posts/1008-construct-binary-search-tree-from-preorder-traversal/"/>
+    <id>https://samirpaul1.github.io/posts/1008-construct-binary-search-tree-from-preorder-traversal/</id>
+    <published>2023-08-06T07:08:14.438Z</published>
+    <updated>2023-08-06T07:03:46.980Z</updated>
+    
+    
+    <summary type="html">1008-construct-binary-search-tree-from-preorder-traversal</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0983 minimum cost for tickets</title>
+    <link href="https://samirpaul1.github.io/posts/0983-minimum-cost-for-tickets/"/>
+    <id>https://samirpaul1.github.io/posts/0983-minimum-cost-for-tickets/</id>
+    <published>2023-08-06T07:08:14.423Z</published>
+    <updated>2023-08-06T07:03:46.971Z</updated>
+    
+    
+    <summary type="html">0983-minimum-cost-for-tickets</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0987 vertical order traversal of a binary tree</title>
+    <link href="https://samirpaul1.github.io/posts/0987-vertical-order-traversal-of-a-binary-tree/"/>
+    <id>https://samirpaul1.github.io/posts/0987-vertical-order-traversal-of-a-binary-tree/</id>
+    <published>2023-08-06T07:08:14.423Z</published>
+    <updated>2023-08-06T07:03:46.971Z</updated>
+    
+    
+    <summary type="html">0987-vertical-order-traversal-of-a-binary-tree</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1004 max consecutive ones iii</title>
+    <link href="https://samirpaul1.github.io/posts/1004-max-consecutive-ones-iii/"/>
+    <id>https://samirpaul1.github.io/posts/1004-max-consecutive-ones-iii/</id>
+    <published>2023-08-06T07:08:14.423Z</published>
+    <updated>2023-08-06T07:03:46.980Z</updated>
+    
+    
+    <summary type="html">1004-max-consecutive-ones-iii</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0979 distribute coins in binary tree</title>
+    <link href="https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/"/>
+    <id>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</id>
+    <published>2023-08-06T07:08:14.407Z</published>
+    <updated>2023-08-06T07:03:46.971Z</updated>
+    
+    
+    <summary type="html">0979-distribute-coins-in-binary-tree</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0981 time based key value store</title>
+    <link href="https://samirpaul1.github.io/posts/0981-time-based-key-value-store/"/>
+    <id>https://samirpaul1.github.io/posts/0981-time-based-key-value-store/</id>
+    <published>2023-08-06T07:08:14.407Z</published>
+    <updated>2023-08-06T07:03:46.971Z</updated>
+    
+    
+    <summary type="html">0981-time-based-key-value-store</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0974 subarray sums divisible by k</title>
+    <link href="https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/"/>
+    <id>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</id>
+    <published>2023-08-06T07:08:14.407Z</published>
+    <updated>2023-08-06T07:03:46.971Z</updated>
+    
+    
+    <summary type="html">0974-subarray-sums-divisible-by-k</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0912 sort an array</title>
+    <link href="https://samirpaul1.github.io/posts/0912-sort-an-array/"/>
+    <id>https://samirpaul1.github.io/posts/0912-sort-an-array/</id>
+    <published>2023-08-06T07:08:14.391Z</published>
+    <updated>2023-08-06T07:03:46.968Z</updated>
+    
+    
+    <summary type="html">0912-sort-an-array</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0953 verifying an alien dictionary</title>
+    <link href="https://samirpaul1.github.io/posts/0953-verifying-an-alien-dictionary/"/>
+    <id>https://samirpaul1.github.io/posts/0953-verifying-an-alien-dictionary/</id>
+    <published>2023-08-06T07:08:14.391Z</published>
+    <updated>2023-08-06T07:03:46.971Z</updated>
+    
+    
+    <summary type="html">0953-verifying-an-alien-dictionary</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0958 check completeness of a binary tree</title>
+    <link href="https://samirpaul1.github.io/posts/0958-check-completeness-of-a-binary-tree/"/>
+    <id>https://samirpaul1.github.io/posts/0958-check-completeness-of-a-binary-tree/</id>
+    <published>2023-08-06T07:08:14.391Z</published>
+    <updated>2023-08-06T07:03:46.971Z</updated>
+    
+    
+    <summary type="html">0958-check-completeness-of-a-binary-tree</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0889 construct binary tree from preorder and postorder traversal</title>
+    <link href="https://samirpaul1.github.io/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/"/>
+    <id>https://samirpaul1.github.io/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/</id>
+    <published>2023-08-06T07:08:14.376Z</published>
+    <updated>2023-08-06T07:03:46.965Z</updated>
+    
+    
+    <summary type="html">0889-construct-binary-tree-from-preorder-and-postorder-traversal</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="LeetCode" scheme="https://samirpaul1.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+</feed>

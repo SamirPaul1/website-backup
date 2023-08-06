@@ -1,30 +1,652 @@
----
-layout: none
-permalink: /index.xml
----
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-<channel>
-	
-	<title type="text" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}>{{ site.title }} Feed</title>
-	{% if site.description %}
-    	<subtitle>{{ site.description | xml_escape }}</subtitle>
-  	{% endif %}
-	<link type="application/atom+xml" href="{{ site.url }}/feed/" rel="self"/>
- 	<link type="text" href="{{ site.url }}" rel="alternate" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}/>
-	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<author>
-		<name>{{ site.author }}</name>
-	</author>
-	<rights> © {{ 'now' | date: '%Y' }} {{ site.social.name }} </rights>	
-	{% for post in site.posts limit:10 %}
-	<item>
-		<title>{{ post.title }}</title>
-		<link href="{{ post.url | absolute_url }}"/>
-		<updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
-		<description type="html">{{ post.content | xml_escape }}</description>
-	</item>
-	{% endfor %}
-
-</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Samir Paul</title>
+    <link>https://samirpaul1.github.io/</link>
+    
+    <image>
+      <url>https://samirpaul1.github.io/icon.png</url>
+      <title>Samir Paul</title>
+      <link>https://samirpaul1.github.io/</link>
+    </image>
+    
+    <atom:link href="https://samirpaul1.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Software Engineer</description>
+    <pubDate>Sun, 06 Aug 2023 12:11:50 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>C++ Data Types   GFG</title>
+      <link>https://samirpaul1.github.io/posts/CPP-Data-Types---GFG/</link>
+      <guid>https://samirpaul1.github.io/posts/CPP-Data-Types---GFG/</guid>
+      <pubDate>Sun, 06 Aug 2023 12:22:21 GMT</pubDate>
+      
+      <description>C++ Data Types - GFG</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/CPP-Data-Types---GFG/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C++ Strings   GFG</title>
+      <link>https://samirpaul1.github.io/posts/CPP-Strings---GFG/</link>
+      <guid>https://samirpaul1.github.io/posts/CPP-Strings---GFG/</guid>
+      <pubDate>Sun, 06 Aug 2023 12:22:21 GMT</pubDate>
+      
+      <description>C++ Strings - GFG</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/CPP-Strings---GFG/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C++ if else (Decision Making)   GFG</title>
+      <link>https://samirpaul1.github.io/posts/CPP-if-else-(Decision-Making)---GFG/</link>
+      <guid>https://samirpaul1.github.io/posts/CPP-if-else-(Decision-Making)---GFG/</guid>
+      <pubDate>Sun, 06 Aug 2023 12:22:21 GMT</pubDate>
+      
+      <description>C++ if-else (Decision Making) - GFG</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/CPP-if-else-(Decision-Making)---GFG/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C++ Switch Case Statement   GFG</title>
+      <link>https://samirpaul1.github.io/posts/CPP-Switch-Case-Statement---GFG/</link>
+      <guid>https://samirpaul1.github.io/posts/CPP-Switch-Case-Statement---GFG/</guid>
+      <pubDate>Sun, 06 Aug 2023 12:22:21 GMT</pubDate>
+      
+      <description>C++ Switch Case Statement - GFG</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/CPP-Switch-Case-Statement---GFG/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1084 sales analysis iii</title>
+      <link>https://samirpaul1.github.io/posts/1084-sales-analysis-iii/</link>
+      <guid>https://samirpaul1.github.io/posts/1084-sales-analysis-iii/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1084-sales-analysis-iii</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1084-sales-analysis-iii/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1092 shortest common supersequence</title>
+      <link>https://samirpaul1.github.io/posts/1092-shortest-common-supersequence/</link>
+      <guid>https://samirpaul1.github.io/posts/1092-shortest-common-supersequence/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1092-shortest-common-supersequence</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1092-shortest-common-supersequence/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1041 robot bounded in circle</title>
+      <link>https://samirpaul1.github.io/posts/1041-robot-bounded-in-circle/</link>
+      <guid>https://samirpaul1.github.io/posts/1041-robot-bounded-in-circle/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1041-robot-bounded-in-circle</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1041-robot-bounded-in-circle/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1046 last stone weight</title>
+      <link>https://samirpaul1.github.io/posts/1046-last-stone-weight/</link>
+      <guid>https://samirpaul1.github.io/posts/1046-last-stone-weight/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1046-last-stone-weight</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1046-last-stone-weight/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1050 actors and directors who cooperated at least three times</title>
+      <link>https://samirpaul1.github.io/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/</link>
+      <guid>https://samirpaul1.github.io/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1050-actors-and-directors-who-cooperated-at-least-three-times</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1071 greatest common divisor of strings</title>
+      <link>https://samirpaul1.github.io/posts/1071-greatest-common-divisor-of-strings/</link>
+      <guid>https://samirpaul1.github.io/posts/1071-greatest-common-divisor-of-strings/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1071-greatest-common-divisor-of-strings</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1071-greatest-common-divisor-of-strings/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1079 letter tile possibilities</title>
+      <link>https://samirpaul1.github.io/posts/1079-letter-tile-possibilities/</link>
+      <guid>https://samirpaul1.github.io/posts/1079-letter-tile-possibilities/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1079-letter-tile-possibilities</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1079-letter-tile-possibilities/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1027 longest arithmetic subsequence</title>
+      <link>https://samirpaul1.github.io/posts/1027-longest-arithmetic-subsequence/</link>
+      <guid>https://samirpaul1.github.io/posts/1027-longest-arithmetic-subsequence/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1027-longest-arithmetic-subsequence</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1027-longest-arithmetic-subsequence/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1029 two city scheduling</title>
+      <link>https://samirpaul1.github.io/posts/1029-two-city-scheduling/</link>
+      <guid>https://samirpaul1.github.io/posts/1029-two-city-scheduling/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1029-two-city-scheduling</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1029-two-city-scheduling/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1031 maximum sum of two non overlapping subarrays</title>
+      <link>https://samirpaul1.github.io/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</link>
+      <guid>https://samirpaul1.github.io/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1031-maximum-sum-of-two-non-overlapping-subarrays</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1035 uncrossed lines</title>
+      <link>https://samirpaul1.github.io/posts/1035-uncrossed-lines/</link>
+      <guid>https://samirpaul1.github.io/posts/1035-uncrossed-lines/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1035-uncrossed-lines</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1035-uncrossed-lines/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1038 binary search tree to greater sum tree</title>
+      <link>https://samirpaul1.github.io/posts/1038-binary-search-tree-to-greater-sum-tree/</link>
+      <guid>https://samirpaul1.github.io/posts/1038-binary-search-tree-to-greater-sum-tree/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1038-binary-search-tree-to-greater-sum-tree</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1038-binary-search-tree-to-greater-sum-tree/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1011 capacity to ship packages within d days</title>
+      <link>https://samirpaul1.github.io/posts/1011-capacity-to-ship-packages-within-d-days/</link>
+      <guid>https://samirpaul1.github.io/posts/1011-capacity-to-ship-packages-within-d-days/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1011-capacity-to-ship-packages-within-d-days</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1011-capacity-to-ship-packages-within-d-days/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1014 best sightseeing pair</title>
+      <link>https://samirpaul1.github.io/posts/1014-best-sightseeing-pair/</link>
+      <guid>https://samirpaul1.github.io/posts/1014-best-sightseeing-pair/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1014-best-sightseeing-pair</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1014-best-sightseeing-pair/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1005 maximize sum of array after k negations</title>
+      <link>https://samirpaul1.github.io/posts/1005-maximize-sum-of-array-after-k-negations/</link>
+      <guid>https://samirpaul1.github.io/posts/1005-maximize-sum-of-array-after-k-negations/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1005-maximize-sum-of-array-after-k-negations</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1005-maximize-sum-of-array-after-k-negations/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1008 construct binary search tree from preorder traversal</title>
+      <link>https://samirpaul1.github.io/posts/1008-construct-binary-search-tree-from-preorder-traversal/</link>
+      <guid>https://samirpaul1.github.io/posts/1008-construct-binary-search-tree-from-preorder-traversal/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1008-construct-binary-search-tree-from-preorder-traversal</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1008-construct-binary-search-tree-from-preorder-traversal/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0983 minimum cost for tickets</title>
+      <link>https://samirpaul1.github.io/posts/0983-minimum-cost-for-tickets/</link>
+      <guid>https://samirpaul1.github.io/posts/0983-minimum-cost-for-tickets/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0983-minimum-cost-for-tickets</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0983-minimum-cost-for-tickets/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0987 vertical order traversal of a binary tree</title>
+      <link>https://samirpaul1.github.io/posts/0987-vertical-order-traversal-of-a-binary-tree/</link>
+      <guid>https://samirpaul1.github.io/posts/0987-vertical-order-traversal-of-a-binary-tree/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0987-vertical-order-traversal-of-a-binary-tree</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0987-vertical-order-traversal-of-a-binary-tree/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1004 max consecutive ones iii</title>
+      <link>https://samirpaul1.github.io/posts/1004-max-consecutive-ones-iii/</link>
+      <guid>https://samirpaul1.github.io/posts/1004-max-consecutive-ones-iii/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1004-max-consecutive-ones-iii</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/1004-max-consecutive-ones-iii/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0979 distribute coins in binary tree</title>
+      <link>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</link>
+      <guid>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0979-distribute-coins-in-binary-tree</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0981 time based key value store</title>
+      <link>https://samirpaul1.github.io/posts/0981-time-based-key-value-store/</link>
+      <guid>https://samirpaul1.github.io/posts/0981-time-based-key-value-store/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0981-time-based-key-value-store</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0981-time-based-key-value-store/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0974 subarray sums divisible by k</title>
+      <link>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</link>
+      <guid>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0974-subarray-sums-divisible-by-k</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0912 sort an array</title>
+      <link>https://samirpaul1.github.io/posts/0912-sort-an-array/</link>
+      <guid>https://samirpaul1.github.io/posts/0912-sort-an-array/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0912-sort-an-array</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0912-sort-an-array/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0953 verifying an alien dictionary</title>
+      <link>https://samirpaul1.github.io/posts/0953-verifying-an-alien-dictionary/</link>
+      <guid>https://samirpaul1.github.io/posts/0953-verifying-an-alien-dictionary/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0953-verifying-an-alien-dictionary</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0953-verifying-an-alien-dictionary/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0958 check completeness of a binary tree</title>
+      <link>https://samirpaul1.github.io/posts/0958-check-completeness-of-a-binary-tree/</link>
+      <guid>https://samirpaul1.github.io/posts/0958-check-completeness-of-a-binary-tree/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0958-check-completeness-of-a-binary-tree</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0958-check-completeness-of-a-binary-tree/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0889 construct binary tree from preorder and postorder traversal</title>
+      <link>https://samirpaul1.github.io/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/</link>
+      <guid>https://samirpaul1.github.io/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0889-construct-binary-tree-from-preorder-and-postorder-traversal</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
 </rss>
