@@ -14,8 +14,8 @@
     
     <atom:link href="https://samirpaul1.github.io/index.xml" rel="self" type="application/rss+xml"/>
     
-    <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
-    <pubDate>Sun, 06 Aug 2023 17:00:07 GMT</pubDate>
+    <description>Software Engineer</description>
+    <pubDate>Sun, 06 Aug 2023 21:32:53 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -98,29 +98,6 @@
     </item>
     
     <item>
-      <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
-      <link>https://samirpaul1.github.io/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
-      <guid>https://samirpaul1.github.io/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
-      <pubDate>Tue, 15 Aug 2023 04:24:52 GMT</pubDate>
-      
-      <description>Complete Computer Science Study Plan to Become a Software Engineer</description>
-      
-      
-      
-      
-      <category domain="https://samirpaul1.github.io/categories/Computer-Science/">Computer Science</category>
-      
-      
-      <category domain="https://samirpaul1.github.io/tags/computer-science/">computer-science</category>
-      
-      <category domain="https://samirpaul1.github.io/tags/study-plan/">study-plan</category>
-      
-      
-      <comments>https://samirpaul1.github.io/posts/complete-computer-science-study-plan-to-become-a-software-engineer/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Computer Networks Notes</title>
       <link>https://samirpaul1.github.io/posts/computer-networks-notes/</link>
       <guid>https://samirpaul1.github.io/posts/computer-networks-notes/</guid>
@@ -142,6 +119,29 @@
       
       
       <comments>https://samirpaul1.github.io/posts/computer-networks-notes/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
+      <link>https://samirpaul1.github.io/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
+      <guid>https://samirpaul1.github.io/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
+      <pubDate>Tue, 15 Aug 2023 04:24:52 GMT</pubDate>
+      
+      <description>Complete Computer Science Study Plan to Become a Software Engineer</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul1.github.io/categories/Computer-Science/">Computer Science</category>
+      
+      
+      <category domain="https://samirpaul1.github.io/tags/computer-science/">computer-science</category>
+      
+      <category domain="https://samirpaul1.github.io/tags/study-plan/">study-plan</category>
+      
+      
+      <comments>https://samirpaul1.github.io/posts/complete-computer-science-study-plan-to-become-a-software-engineer/#disqus_thread</comments>
       
     </item>
     
@@ -656,12 +656,12 @@
     </item>
     
     <item>
-      <title>0979 distribute coins in binary tree</title>
-      <link>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</link>
-      <guid>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</guid>
+      <title>0974 subarray sums divisible by k</title>
+      <link>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</link>
+      <guid>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</guid>
       <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
       
-      <description>0979 distribute coins in binary tree LeetCode Solution Explained</description>
+      <description>0974 subarray sums divisible by k LeetCode Solution Explained</description>
       
       
       
@@ -672,7 +672,7 @@
       <category domain="https://samirpaul1.github.io/tags/LeetCode/">LeetCode</category>
       
       
-      <comments>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/#disqus_thread</comments>
+      <comments>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/#disqus_thread</comments>
       
     </item>
     

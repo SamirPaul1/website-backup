@@ -3,7 +3,7 @@
     <channel>
         <title>Samir Paul • Posts by &#34;blog&#34; tag</title>
         <link>https://samirpaul1.github.io</link>
-        <description>Here I write content about Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Preparation.</description>
+        <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
         <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
@@ -17,9 +17,9 @@
         <category>system-design</category>
         <category>design-interview</category>
         <category>preparation</category>
-        <category>study-plan</category>
         <category>computer-networks</category>
         <category>computer-networks-notes</category>
+        <category>study-plan</category>
         <category>projects</category>
         <category>tutorials</category>
         <category>list-of-project-based-tutorials</category>
@@ -40,8 +40,8 @@
         <category>programmable-search-engine</category>
         <category>Graph</category>
         <category>distributed-systems</category>
-        <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>two pointers problems</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
