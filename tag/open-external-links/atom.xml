@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul1.github.io</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;open-external-links&#34; tag</title>
-    <link href="https://samirpaul1.github.io" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.780Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,9 +24,9 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
+    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="dp" />
     <category term="embed-musicapp" />
     <category term="music" />
     <category term="embeded" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul1.github.io/posts/open-external-links-in-a-new-window-using-javascript/</id>
+        <id>https://samir.pages.dev/posts/open-external-links-in-a-new-window-using-javascript/</id>
         <title>Open External Links in a New Window Using JavaScript</title>
-        <link rel="alternate" href="https://samirpaul1.github.io/posts/open-external-links-in-a-new-window-using-javascript/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/open-external-links-in-a-new-window-using-javascript/"/>
         <content type="html">&lt;p&gt;This is a quick post showing how to use JavaScript to make links to external websites open in a new window (or tab) instead of in the current window. This is useful for &lt;code&gt;Jekyll&lt;/code&gt; blogs because the Markdown converters don’t do this for you. I included two versions: one that uses straight JavaScript, and one that requires &lt;code&gt;jQuery&lt;/code&gt; but is shorter.&lt;/p&gt;
 &lt;p&gt;Both versions work basically the same way: grab all anchor tags &lt;code&gt;&amp;lt;a href=&amp;quot;#&amp;quot;&amp;gt;&lt;/code&gt; that are linking to somewhere other than your development environment or a page on your site and then attribute &lt;code&gt;target=&amp;quot;_blank&amp;quot;&lt;/code&gt; to those tags. Because this is JavaScript, users with JavaScript disabled will still experience the old behavior, but otherwise won’t be adversely affected.&lt;/p&gt;
 &lt;h3 id=&#34;Straight-JavaScript&#34;&gt;&lt;a href=&#34;#Straight-JavaScript&#34; class=&#34;headerlink&#34; title=&#34;Straight JavaScript&#34;&gt;&lt;/a&gt;Straight JavaScript&lt;/h3&gt;&lt;p&gt;This version does not require any jQuery (or any other libraries):&lt;/p&gt;

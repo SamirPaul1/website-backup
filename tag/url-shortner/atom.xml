@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul1.github.io</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;url-shortner&#34; tag</title>
-    <link href="https://samirpaul1.github.io" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.888Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,9 +24,9 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
+    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="dp" />
     <category term="embed-musicapp" />
     <category term="music" />
     <category term="embeded" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul1.github.io/posts/url-shortening-service/</id>
+        <id>https://samir.pages.dev/posts/url-shortening-service/</id>
         <title>URL Shortening Service</title>
-        <link rel="alternate" href="https://samirpaul1.github.io/posts/url-shortening-service/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/url-shortening-service/"/>
         <content type="html">&lt;h1 id=&#34;URL-Shortening-Service&#34;&gt;&lt;a href=&#34;#URL-Shortening-Service&#34; class=&#34;headerlink&#34; title=&#34;URL Shortening Service&#34;&gt;&lt;/a&gt;URL Shortening Service&lt;/h1&gt;&lt;h2 id=&#34;Summary&#34;&gt;&lt;a href=&#34;#Summary&#34; class=&#34;headerlink&#34; title=&#34;Summary&#34;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-overview.png&#34; alt=&#34;overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-detail.png&#34; alt=&#34;summary&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Requirements&#34;&gt;&lt;a href=&#34;#Requirements&#34; class=&#34;headerlink&#34; title=&#34;Requirements&#34;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Functional Requirements&lt;/p&gt;

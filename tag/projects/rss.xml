@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;projects&#34; tag</title>
-        <link>https://samirpaul1.github.io</link>
+        <link>https://samir.pages.dev</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Tue, 15 Aug 2023 09:54:51 +0530</pubDate>
@@ -27,9 +27,9 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
+        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>dp</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/curated-list-of-project-based-tutorials/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/</guid>
             <title>Curated List of Project Based Tutorials</title>
-            <link>https://samirpaul1.github.io/posts/curated-list-of-project-based-tutorials/</link>
+            <link>https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/</link>
             <category>projects</category>
             <category>tutorials</category>
             <category>list-of-project-based-tutorials</category>
@@ -798,9 +798,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/pyshooter/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/pyshooter/</guid>
             <title>PyShooter Python Game</title>
-            <link>https://samirpaul1.github.io/posts/pyshooter/</link>
+            <link>https://samir.pages.dev/posts/pyshooter/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -849,9 +849,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/text-file-compressor-de-compressor-web-app/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/text-file-compressor-de-compressor-web-app/</guid>
             <title>Text File Compressor De-compressor Web App</title>
-            <link>https://samirpaul1.github.io/posts/text-file-compressor-de-compressor-web-app/</link>
+            <link>https://samir.pages.dev/posts/text-file-compressor-de-compressor-web-app/</link>
             <category>projects</category>
             <category>web-development</category>
             <category>lossless-data-compression</category>

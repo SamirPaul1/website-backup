@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul1.github.io</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;python3&#34; tag</title>
-    <link href="https://samirpaul1.github.io" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.769Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,9 +24,9 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
+    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="dp" />
     <category term="embed-musicapp" />
     <category term="music" />
     <category term="embeded" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul1.github.io/posts/online-pdf-compression-tool/</id>
+        <id>https://samir.pages.dev/posts/online-pdf-compression-tool/</id>
         <title>Online PDF Compression Tool</title>
-        <link rel="alternate" href="https://samirpaul1.github.io/posts/online-pdf-compression-tool/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/online-pdf-compression-tool/"/>
         <content type="html">&lt;h3 id=&#34;About-The-Project&#34;&gt;&lt;a href=&#34;#About-The-Project&#34; class=&#34;headerlink&#34; title=&#34;About The Project:&#34;&gt;&lt;/a&gt;About The Project:&lt;/h3&gt;&lt;p&gt;An online PDF file compression tool to reduce the size of a .pdf file. Python Flask is used to upload the file to a temporary location on the server.&lt;br&gt;In the backend, using the &lt;code&gt;PDFNetPython&lt;/code&gt; library that file gets reduced and saved to its final location. After download, the files are automatically deleted from the server after 1 hour. Technologies used in this project: &lt;code&gt;Python3&lt;/code&gt;, &lt;code&gt;Flask&lt;/code&gt;, &lt;code&gt;C&lt;/code&gt;, &lt;code&gt;Shell&lt;/code&gt;, &lt;code&gt;Nix&lt;/code&gt;, &lt;code&gt;Replit&lt;/code&gt;, &lt;code&gt;Git&lt;/code&gt;, &lt;code&gt;HTML&lt;/code&gt;, &lt;code&gt;CSS&lt;/code&gt;, &lt;code&gt;JavaScript&lt;/code&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://filecompressor.samirpaul1.repl.co/&#34;&gt;Live Demo 🚀 &lt;/a&gt;&lt;/li&gt;

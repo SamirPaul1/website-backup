@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul1.github.io</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;web-development&#34; tag</title>
-    <link href="https://samirpaul1.github.io" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.776Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,9 +24,9 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
+    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="dp" />
     <category term="embed-musicapp" />
     <category term="music" />
     <category term="embeded" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul1.github.io/posts/text-file-compressor-de-compressor-web-app/</id>
+        <id>https://samir.pages.dev/posts/text-file-compressor-de-compressor-web-app/</id>
         <title>Text File Compressor De-compressor Web App</title>
-        <link rel="alternate" href="https://samirpaul1.github.io/posts/text-file-compressor-de-compressor-web-app/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/text-file-compressor-de-compressor-web-app/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;This webapp uses Huffman Coding for Text Compression and De-compression.&lt;/li&gt;
 &lt;li&gt;Made with &lt;code&gt;JavaScript&lt;/code&gt;, &lt;code&gt;HTML5&lt;/code&gt; and &lt;code&gt;CSS3&lt;/code&gt;.&lt;/li&gt;

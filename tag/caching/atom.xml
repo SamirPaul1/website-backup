@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul1.github.io</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;caching&#34; tag</title>
-    <link href="https://samirpaul1.github.io" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.855Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,9 +24,9 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
+    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="dp" />
     <category term="embed-musicapp" />
     <category term="music" />
     <category term="embeded" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul1.github.io/posts/caching/</id>
+        <id>https://samir.pages.dev/posts/caching/</id>
         <title>Caching</title>
-        <link rel="alternate" href="https://samirpaul1.github.io/posts/caching/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/caching/"/>
         <content type="html">&lt;p&gt;Caching&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;

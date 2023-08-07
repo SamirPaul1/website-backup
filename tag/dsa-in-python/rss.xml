@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;dsa-in-python&#34; tag</title>
-        <link>https://samirpaul1.github.io</link>
+        <link>https://samir.pages.dev</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Tue, 15 Aug 2023 09:55:52 +0530</pubDate>
@@ -27,9 +27,9 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
+        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>dp</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/data-structures-and-algorithms-for-coding-interview/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/data-structures-and-algorithms-for-coding-interview/</guid>
             <title>Data Structures and Algorithms for Coding Interview</title>
-            <link>https://samirpaul1.github.io/posts/data-structures-and-algorithms-for-coding-interview/</link>
+            <link>https://samir.pages.dev/posts/data-structures-and-algorithms-for-coding-interview/</link>
             <category>DSAlgo</category>
             <category>dsa-in-python</category>
             <category>data-structures-and-algorithms</category>

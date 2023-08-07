@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;udemy&#34; tag</title>
-        <link>https://samirpaul1.github.io</link>
+        <link>https://samir.pages.dev</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
@@ -27,9 +27,9 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
+        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>dp</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/some-of-my-online-courses-certificates/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/some-of-my-online-courses-certificates/</guid>
             <title>Some of My Online Courses Certificates</title>
-            <link>https://samirpaul1.github.io/posts/some-of-my-online-courses-certificates/</link>
+            <link>https://samir.pages.dev/posts/some-of-my-online-courses-certificates/</link>
             <category>coding</category>
             <category>certificates</category>
             <category>udemy</category>

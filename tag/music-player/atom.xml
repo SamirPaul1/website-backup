@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul1.github.io</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;music-player&#34; tag</title>
-    <link href="https://samirpaul1.github.io" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.890Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,9 +24,9 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
+    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="dp" />
     <category term="embed-musicapp" />
     <category term="music" />
     <category term="embeded" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul1.github.io/posts/embed-music/</id>
+        <id>https://samir.pages.dev/posts/embed-music/</id>
         <title>Embed MusicApp</title>
-        <link rel="alternate" href="https://samirpaul1.github.io/posts/embed-music/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/embed-music/"/>
         <content type="html">&lt;p&gt;Embed &lt;a href=&#34;https://samirpaul1.github.io/music/embed&#34;&gt;&lt;b&gt;samirpaul.in&amp;#x2F;music&amp;#x2F;embed&lt;/b&gt;&lt;/a&gt; music player(Lofi Study Music) to any website:&lt;/p&gt;
 &lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;iframe src=&#34;https://samirpaul1.github.io/music/embed/index.html&#34;
   title=&#34;Embed MusicApp&#34;

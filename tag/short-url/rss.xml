@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;short-url&#34; tag</title>
-        <link>https://samirpaul1.github.io</link>
+        <link>https://samir.pages.dev</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
@@ -27,9 +27,9 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
+        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>dp</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/url-shortening-service/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/url-shortening-service/</guid>
             <title>URL Shortening Service</title>
-            <link>https://samirpaul1.github.io/posts/url-shortening-service/</link>
+            <link>https://samir.pages.dev/posts/url-shortening-service/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
