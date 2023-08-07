@@ -1,11 +1,13 @@
 ---
 title: maximum sum circular subarray
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, maximum-sum-circular-subarray solution
 description: maximum sum circular subarray LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>918. Maximum Sum Circular Subarray</h2><h3>Medium</h3><hr><div><p>Given a <strong>circular integer array</strong> <code>nums</code> of length <code>n</code>, return <em>the maximum possible sum of a non-empty <strong>subarray</strong> of </em><code>nums</code>.</p>

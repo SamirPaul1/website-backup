@@ -1,11 +1,13 @@
 ---
 title: frog jump
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, frog-jump solution
 description: frog jump LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>403. Frog Jump</h2><h3>Hard</h3><hr><div><p>A frog is crossing a river. The river is divided into some number of units, and at each unit, there may or may not exist a stone. The frog can jump on a stone, but it must not jump into the water.</p>

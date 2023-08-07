@@ -1,11 +1,13 @@
 ---
 title: 0895 maximum frequency stack
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0895-maximum-frequency-stack solution
 description: 0895 maximum frequency stack LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-frequency-stack/">895. Maximum Frequency Stack</a></h2><h3>Hard</h3><hr><div><p>Design a stack-like data structure to push elements to the stack and pop the most frequent element from the stack.</p>

@@ -1,11 +1,13 @@
 ---
 title: number of longest increasing subsequence
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-longest-increasing-subsequence solution
 description: number of longest increasing subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 10/0/2021 at 19:20)](https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/1010535/2D-DP-or-C%2B%2B)  

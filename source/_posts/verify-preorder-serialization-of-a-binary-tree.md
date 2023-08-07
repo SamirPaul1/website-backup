@@ -1,11 +1,13 @@
 ---
 title: verify preorder serialization of a binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, verify-preorder-serialization-of-a-binary-tree solution
 description: verify preorder serialization of a binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>331. Verify Preorder Serialization of a Binary Tree</h2><h3>Medium</h3><hr><div><p>One way to serialize a binary tree is to use <strong>preorder traversal</strong>. When we encounter a non-null node, we record the node's value. If it is a null node, we record using a sentinel value such as <code>'#'</code>.</p>

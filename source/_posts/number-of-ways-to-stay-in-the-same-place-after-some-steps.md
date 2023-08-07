@@ -1,11 +1,13 @@
 ---
 title: number of ways to stay in the same place after some steps
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-ways-to-stay-in-the-same-place-after-some-steps solution
 description: number of ways to stay in the same place after some steps LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1269. Number of Ways to Stay in the Same Place After Some Steps</h2><h3>Hard</h3><hr><div><p>You have a pointer at index <code>0</code> in an array of size <code><font face="monospace">arrLen</font></code>. At each step, you can move 1 position to the left, 1 position to the right&nbsp;in the array or stay in the same place&nbsp; (The pointer should not be placed outside the array at any time).</p>

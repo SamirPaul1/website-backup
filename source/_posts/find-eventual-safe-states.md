@@ -1,11 +1,13 @@
 ---
 title: find eventual safe states
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-eventual-safe-states solution
 description: find eventual safe states LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 29/0/2021 at 14:34)](https://leetcode.com/problems/find-eventual-safe-states/discuss/1040211/DFS-or-Beats-95-or-C%2B%2B)  

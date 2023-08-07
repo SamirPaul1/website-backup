@@ -1,11 +1,13 @@
 ---
 title: delete node in a linked list
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, delete-node-in-a-linked-list solution
 description: delete node in a linked list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>237. Delete Node in a Linked List</h2><h3>Easy</h3><hr><div><p>Write a function to <strong>delete a node</strong> in a singly-linked list. You will <strong>not</strong> be given access to the <code>head</code> of the list, instead you will be given access to <strong>the node to be deleted</strong> directly.</p>

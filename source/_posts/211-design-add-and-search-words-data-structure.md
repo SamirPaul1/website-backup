@@ -1,11 +1,13 @@
 ---
 title: 211 design add and search words data structure
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 211-design-add-and-search-words-data-structure solution
 description: 211 design add and search words data structure LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/">211. Design Add and Search Words Data Structure</a></h2><h3>Medium</h3><hr><div><p>Design a data structure that supports adding new words and finding if a string matches any previously added string.</p>

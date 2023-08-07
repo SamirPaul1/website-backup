@@ -1,11 +1,13 @@
 ---
 title: distinct subsequences
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, distinct-subsequences solution
 description: distinct subsequences LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 27/2/2021 at 17:17)](https://leetcode.com/problems/distinct-subsequences/discuss/1129570/EASY-DP-or-C%2B%2B)  

@@ -1,11 +1,13 @@
 ---
 title: 258 add digits
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 258-add-digits solution
 description: 258 add digits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/add-digits/">258. Add Digits</a></h2><h3>Easy</h3><hr><div><p>Given an integer <code>num</code>, repeatedly add all its digits until the result has only one digit, and return it.</p>

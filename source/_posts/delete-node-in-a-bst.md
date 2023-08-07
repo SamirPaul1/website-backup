@@ -1,11 +1,13 @@
 ---
 title: delete node in a bst
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, delete-node-in-a-bst solution
 description: delete node in a bst LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>450. Delete Node in a BST</h2><h3>Medium</h3><hr><div><p>Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.</p>

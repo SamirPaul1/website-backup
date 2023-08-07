@@ -1,11 +1,13 @@
 ---
 title: russian doll envelopes
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, russian-doll-envelopes solution
 description: russian doll envelopes LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>354. Russian Doll Envelopes</h2><h3>Hard</h3><hr><div><p>You are given a 2D array of integers <code>envelopes</code> where <code>envelopes[i] = [w<sub>i</sub>, h<sub>i</sub>]</code> represents the width and the height of an envelope.</p>

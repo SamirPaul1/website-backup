@@ -1,11 +1,13 @@
 ---
 title: 0313 super ugly number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0313-super-ugly-number solution
 description: 0313 super ugly number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/super-ugly-number/">313. Super Ugly Number</a></h2><h3>Medium</h3><hr><div><p>A <strong>super ugly number</strong> is a positive integer whose prime factors are in the array <code>primes</code>.</p>

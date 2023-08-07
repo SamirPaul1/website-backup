@@ -1,11 +1,13 @@
 ---
 title: 0731 my calendar ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0731-my-calendar-ii solution
 description: 0731 my calendar ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/my-calendar-ii/">731. My Calendar II</a></h2><h3>Medium</h3><hr><div><p>You are implementing a program to use as your calendar. We can add a new event if adding the event will not cause a <strong>triple booking</strong>.</p>

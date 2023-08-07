@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Consistent Hashing"
 description: "Consistent Hashing"
 cover: /assets/img/blog-featured-image.webp

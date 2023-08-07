@@ -1,11 +1,13 @@
 ---
 title: 1968 array with elements not equal to average of neighbors
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1968-array-with-elements-not-equal-to-average-of-neighbors solution
 description: 1968 array with elements not equal to average of neighbors LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/">1968. Array With Elements Not Equal to Average of Neighbors</a></h2><h3>Medium</h3><hr><div><p>You are given a <strong>0-indexed</strong> array <code>nums</code> of <strong>distinct</strong> integers. You want to rearrange the elements in the array such that every element in the rearranged array is <strong>not</strong> equal to the <strong>average</strong> of its neighbors.</p>

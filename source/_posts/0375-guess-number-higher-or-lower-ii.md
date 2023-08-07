@@ -1,11 +1,13 @@
 ---
 title: 0375 guess number higher or lower ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0375-guess-number-higher-or-lower-ii solution
 description: 0375 guess number higher or lower ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii/">375. Guess Number Higher or Lower II</a></h2><h3>Medium</h3><hr><div><p>We are playing the Guessing Game. The game will work as follows:</p>

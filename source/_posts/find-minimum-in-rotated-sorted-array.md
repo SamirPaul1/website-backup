@@ -1,11 +1,13 @@
 ---
 title: find minimum in rotated sorted array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-minimum-in-rotated-sorted-array solution
 description: find minimum in rotated sorted array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>153. Find Minimum in Rotated Sorted Array</h2><h3>Medium</h3><hr><div><p>Suppose an array of length <code>n</code> sorted in ascending order is <strong>rotated</strong> between <code>1</code> and <code>n</code> times. For example, the array <code>nums = [0,1,2,4,5,6,7]</code> might become:</p>

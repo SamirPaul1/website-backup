@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "DP for Beginners"
 description: "DP for Beginners"
 cover: /assets/img/blog-featured-image.webp

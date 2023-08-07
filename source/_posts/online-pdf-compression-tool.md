@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Online PDF Compression Tool
 description: Online PDF Compression Tool
 cover: /assets/img/online-pdf-compression-tool-blog-banner.webp

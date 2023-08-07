@@ -1,11 +1,13 @@
 ---
 title: min stack
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, min-stack solution
 description: min stack LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>155. Min Stack</h2><h3>Easy</h3><hr><div><p>Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.</p>

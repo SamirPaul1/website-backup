@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SLO or Service Level Objective"
 description: "SLO or Service Level Objective"
 image:

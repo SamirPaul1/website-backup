@@ -1,11 +1,13 @@
 ---
 title: interval list intersections
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, interval-list-intersections solution
 description: interval list intersections LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 20/0/2021 at 20:55)](https://leetcode.com/problems/interval-list-intersections/discuss/1026297/Two-Pointer-or-C%2B%2B-or-Beats-100)  

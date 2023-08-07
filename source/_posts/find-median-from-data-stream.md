@@ -1,11 +1,13 @@
 ---
 title: find median from data stream
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-median-from-data-stream solution
 description: find median from data stream LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>295. Find Median from Data Stream</h2><h3>Hard</h3><hr><div><p>The <strong>median</strong> is the middle value in an ordered integer list. If the size of the list is even, there is no middle value and the median is the mean of the two middle values.</p>

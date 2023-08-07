@@ -1,11 +1,13 @@
 ---
 title: count of smaller numbers after self
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, count-of-smaller-numbers-after-self solution
 description: count of smaller numbers after self LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>315. Count of Smaller Numbers After Self</h2><h3>Hard</h3><hr><div><p>You are given an integer array <code>nums</code> and you have to return a new <code>counts</code> array. The <code>counts</code> array has the property where <code>counts[i]</code> is the number of smaller elements to the right of <code>nums[i]</code>.</p>

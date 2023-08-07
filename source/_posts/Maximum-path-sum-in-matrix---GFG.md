@@ -1,11 +1,13 @@
 ---
 title: Maximum path sum in matrix   GFG
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Maximum path sum in matrix - GFG solution
 description: Maximum path sum in matrix   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # Maximum path sum in matrix

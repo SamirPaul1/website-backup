@@ -1,11 +1,13 @@
 ---
 title: decode xored array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, decode-xored-array solution
 description: decode xored array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 13/2/2021 at 13:18)](https://leetcode.com/problems/decode-xored-array/discuss/1107184/C%2B%2B-or-O(n))  

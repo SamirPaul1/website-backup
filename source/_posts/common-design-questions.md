@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Common Design questions"
 description: "Common Design questions"
 cover: /assets/img/blog-featured-image.webp

@@ -1,11 +1,13 @@
 ---
 title: 225 implement stack using queues
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 225-implement-stack-using-queues solution
 description: 225 implement stack using queues LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/implement-stack-using-queues/">225. Implement Stack using Queues</a></h2><h3>Easy</h3><hr><div><p>Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack (<code>push</code>, <code>top</code>, <code>pop</code>, and <code>empty</code>).</p>

@@ -1,11 +1,13 @@
 ---
 title: 389 find the difference
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 389-find-the-difference solution
 description: 389 find the difference LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/find-the-difference/">389. Find the Difference</a></h2><h3>Easy</h3><hr><div><p>You are given two strings <code>s</code> and <code>t</code>.</p>

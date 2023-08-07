@@ -1,11 +1,13 @@
 ---
 title: 0332 reconstruct itinerary
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0332-reconstruct-itinerary solution
 description: 0332 reconstruct itinerary LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/reconstruct-itinerary/">332. Reconstruct Itinerary</a></h2><h3>Hard</h3><hr><div><p>You are given a list of airline <code>tickets</code> where <code>tickets[i] = [from<sub>i</sub>, to<sub>i</sub>]</code> represent the departure and the arrival airports of one flight. Reconstruct the itinerary in order and return it.</p>

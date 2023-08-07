@@ -1,11 +1,13 @@
 ---
 title: 0006 zigzag conversion
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0006-zigzag-conversion solution
 description: 0006 zigzag conversion LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/zigzag-conversion/">6. Zigzag Conversion</a></h2><h3>Medium</h3><hr><div><p>The string <code>"PAYPALISHIRING"</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)</p>

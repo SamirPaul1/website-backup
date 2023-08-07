@@ -1,11 +1,13 @@
 ---
 title: 1845 seat reservation manager
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1845-seat-reservation-manager solution
 description: 1845 seat reservation manager LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/seat-reservation-manager/">1845. Seat Reservation Manager</a></h2><h3>Medium</h3><hr><div><p>Design a system that manages the reservation state of <code>n</code> seats that are numbered from <code>1</code> to <code>n</code>.</p>

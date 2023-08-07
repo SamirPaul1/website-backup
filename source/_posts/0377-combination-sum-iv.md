@@ -1,11 +1,13 @@
 ---
 title: 0377 combination sum iv
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0377-combination-sum-iv solution
 description: 0377 combination sum iv LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/combination-sum-iv/">377. Combination Sum IV</a></h2><h3>Medium</h3><hr><div><p>Given an array of <strong>distinct</strong> integers <code>nums</code> and a target integer <code>target</code>, return <em>the number of possible combinations that add up to</em>&nbsp;<code>target</code>.</p>

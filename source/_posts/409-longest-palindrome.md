@@ -1,11 +1,13 @@
 ---
 title: 409 longest palindrome
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 409-longest-palindrome solution
 description: 409 longest palindrome LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

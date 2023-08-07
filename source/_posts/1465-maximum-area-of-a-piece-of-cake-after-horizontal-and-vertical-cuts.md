@@ -1,11 +1,13 @@
 ---
 title: 1465 maximum area of a piece of cake after horizontal and vertical cuts
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts solution
 description: 1465 maximum area of a piece of cake after horizontal and vertical cuts LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/">1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts</a></h2><h3>Medium</h3><hr><div><p>You are given a rectangular cake of size <code>h x w</code> and two arrays of integers <code>horizontalCuts</code> and <code>verticalCuts</code> where:</p>

@@ -1,11 +1,13 @@
 ---
 title: find the city with the smallest number of neighbors at a threshold distance
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance solution
 description: find the city with the smallest number of neighbors at a threshold distance LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance</h2><h3>Medium</h3><hr><div><p>There are <code>n</code> cities numbered from <code>0</code> to <code>n-1</code>. Given the array <code>edges</code>&nbsp;where <code>edges[i] = [from<sub>i</sub>, to<sub>i</sub>, weight<sub>i</sub>]</code> represents a bidirectional and weighted edge between cities <code>from<sub>i</sub></code>&nbsp;and <code>to<sub>i</sub></code>, and given the integer <code>distanceThreshold</code>.</p>

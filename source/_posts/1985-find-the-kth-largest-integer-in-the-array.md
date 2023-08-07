@@ -1,11 +1,13 @@
 ---
 title: 1985 find the kth largest integer in the array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1985-find-the-kth-largest-integer-in-the-array solution
 description: 1985 find the kth largest integer in the array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/">1985. Find the Kth Largest Integer in the Array</a></h2><h3>Medium</h3><hr><div><p>You are given an array of strings <code>nums</code> and an integer <code>k</code>. Each string in <code>nums</code> represents an integer without leading zeros.</p>

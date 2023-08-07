@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Client-Server Communication"
 description: "Client-Server Communication"
 cover: /assets/img/blog-featured-image.webp

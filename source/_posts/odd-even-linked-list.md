@@ -1,11 +1,13 @@
 ---
 title: odd even linked list
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, odd-even-linked-list solution
 description: odd even linked list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>328. Odd Even Linked List</h2><h3>Medium</h3><hr><div><p>Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.</p>

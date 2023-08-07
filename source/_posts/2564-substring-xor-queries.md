@@ -1,11 +1,13 @@
 ---
 title: 2564 substring xor queries
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2564-substring-xor-queries solution
 description: 2564 substring xor queries LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/substring-xor-queries/">2564. Substring XOR Queries</a></h2><h3>Medium</h3><hr><div><p>You are given a <strong>binary string</strong> <code>s</code>, and a <strong>2D</strong> integer array <code>queries</code> where <code>queries[i] = [first<sub>i</sub>, second<sub>i</sub>]</code>.</p>

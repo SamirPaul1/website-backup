@@ -1,11 +1,13 @@
 ---
 title: binary tree preorder traversal
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, binary-tree-preorder-traversal solution
 description: binary tree preorder traversal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>144. Binary Tree Preorder Traversal</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, return <em>the preorder traversal of its nodes' values</em>.</p>

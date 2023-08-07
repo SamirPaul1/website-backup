@@ -1,11 +1,13 @@
 ---
 title: decode xored permutation
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, decode-xored-permutation solution
 description: decode xored permutation LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 13/2/2021 at 13:37)](https://leetcode.com/problems/decode-xored-permutation/discuss/1107203/O(n)-or-C%2B%2B)  

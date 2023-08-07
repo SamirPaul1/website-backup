@@ -1,11 +1,13 @@
 ---
 title: sum of root to leaf binary numbers
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sum-of-root-to-leaf-binary-numbers solution
 description: sum of root to leaf binary numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 11/1/2021 at 13:3)](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1060412/Recursive-or-C%2B%2B)  

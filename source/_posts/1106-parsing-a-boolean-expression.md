@@ -1,11 +1,13 @@
 ---
 title: 1106 parsing a boolean expression
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1106-parsing-a-boolean-expression solution
 description: 1106 parsing a boolean expression LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/parsing-a-boolean-expression/">1106. Parsing A Boolean Expression</a></h2><h3>Hard</h3><hr><div><p>A <strong>boolean expression</strong> is an expression that evaluates to either <code>true</code> or <code>false</code>. It can be in one of the following shapes:</p>

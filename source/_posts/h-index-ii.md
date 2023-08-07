@@ -1,11 +1,13 @@
 ---
 title: h index ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, h-index-ii solution
 description: h index ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>275. H-Index II</h2><h3>Medium</h3><hr><div><p>Given an array of citations <strong>sorted&nbsp;in ascending order </strong>(each citation is a non-negative integer) of a researcher, write a function to compute the researcher's h-index.</p>

@@ -1,11 +1,13 @@
 ---
 title: serialize and deserialize binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, serialize-and-deserialize-binary-tree solution
 description: serialize and deserialize binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>297. Serialize and Deserialize Binary Tree</h2><h3>Hard</h3><hr><div><p>Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.</p>

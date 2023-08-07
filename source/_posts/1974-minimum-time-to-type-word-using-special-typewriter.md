@@ -1,11 +1,13 @@
 ---
 title: 1974 minimum time to type word using special typewriter
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1974-minimum-time-to-type-word-using-special-typewriter solution
 description: 1974 minimum time to type word using special typewriter LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/">1974. Minimum Time to Type Word Using Special Typewriter</a></h2><h3>Easy</h3><hr><div><p>There is a special typewriter with lowercase English letters <code>'a'</code> to <code>'z'</code> arranged in a <strong>circle</strong> with a <strong>pointer</strong>. A character can <strong>only</strong> be typed if the pointer is pointing to that character. The pointer is <strong>initially</strong> pointing to the character <code>'a'</code>.</p>

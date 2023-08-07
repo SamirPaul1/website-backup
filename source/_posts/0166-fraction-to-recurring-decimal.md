@@ -1,11 +1,13 @@
 ---
 title: 0166 fraction to recurring decimal
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0166-fraction-to-recurring-decimal solution
 description: 0166 fraction to recurring decimal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

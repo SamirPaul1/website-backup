@@ -1,11 +1,13 @@
 ---
 title: rabbits in forest
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, rabbits-in-forest solution
 description: rabbits in forest LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>781. Rabbits in Forest</h2><h3>Medium</h3><hr><div><p>In a forest, each rabbit has some color. Some subset of rabbits (possibly all of them) tell you how many other rabbits have the same color as them. Those <code>answers</code> are placed in an array.</p>

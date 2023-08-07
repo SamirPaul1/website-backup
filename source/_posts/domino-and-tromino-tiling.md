@@ -1,11 +1,13 @@
 ---
 title: domino and tromino tiling
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, domino-and-tromino-tiling solution
 description: domino and tromino tiling LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>790. Domino and Tromino Tiling</h2><h3>Medium</h3><hr><div><p>We have two types of tiles: a 2x1 domino shape, and an "L" tromino shape. These shapes may be rotated.</p>

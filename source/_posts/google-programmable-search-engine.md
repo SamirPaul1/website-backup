@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Google Programmable Search Engine"
 description: "Google Programmable Search Engine"
 image:

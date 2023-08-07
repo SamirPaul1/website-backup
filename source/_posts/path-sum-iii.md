@@ -1,11 +1,13 @@
 ---
 title: path sum iii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, path-sum-iii solution
 description: path sum iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>437. Path Sum III</h2><h3>Medium</h3><hr><div><p>You are given a binary tree in which each node contains an integer value.</p>

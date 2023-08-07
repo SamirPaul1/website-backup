@@ -1,11 +1,13 @@
 ---
 title: 0853 car fleet
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0853-car-fleet solution
 description: 0853 car fleet LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/car-fleet/">853. Car Fleet</a></h2><h3>Medium</h3><hr><div><p>There are <code>n</code> cars going to the same destination along a one-lane road. The destination is <code>target</code> miles away.</p>

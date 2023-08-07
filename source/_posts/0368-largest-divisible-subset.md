@@ -1,11 +1,13 @@
 ---
 title: 0368 largest divisible subset
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0368-largest-divisible-subset solution
 description: 0368 largest divisible subset LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/largest-divisible-subset/">368. Largest Divisible Subset</a></h2><h3>Medium</h3><hr><div><p>Given a set of <strong>distinct</strong> positive integers <code>nums</code>, return the largest subset <code>answer</code> such that every pair <code>(answer[i], answer[j])</code> of elements in this subset satisfies:</p>

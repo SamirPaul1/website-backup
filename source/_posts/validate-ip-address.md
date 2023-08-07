@@ -1,11 +1,13 @@
 ---
 title: validate ip address
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, validate-ip-address solution
 description: validate ip address LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>468. Validate IP Address</h2><h3>Medium</h3><hr><div><p>Given a string <code>IP</code>, return <code>"IPv4"</code> if IP is a valid IPv4 address,&nbsp;<code>"IPv6"</code> if&nbsp;IP is a valid IPv6 address or <code>"Neither"</code> if IP is not a correct IP of any type.</p>

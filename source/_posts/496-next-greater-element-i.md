@@ -1,11 +1,13 @@
 ---
 title: 496 next greater element i
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 496-next-greater-element-i solution
 description: 496 next greater element i LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/next-greater-element-i/">496. Next Greater Element I</a></h2><h3>Easy</h3><hr><div><p>The <strong>next greater element</strong> of some element <code>x</code> in an array is the <strong>first greater</strong> element that is <strong>to the right</strong> of <code>x</code> in the same array.</p>

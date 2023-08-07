@@ -1,11 +1,13 @@
 ---
 title: 1855 maximum distance between a pair of values
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1855-maximum-distance-between-a-pair-of-values solution
 description: 1855 maximum distance between a pair of values LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">1855. Maximum Distance Between a Pair of Values</a></h2><h3>Medium</h3><hr><div><p>You are given two <strong>non-increasing 0-indexed </strong>integer arrays <code>nums1</code>​​​​​​ and <code>nums2</code>​​​​​​.</p>

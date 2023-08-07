@@ -1,11 +1,13 @@
 ---
 title: 1493 longest subarray of 1s after deleting one element
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1493-longest-subarray-of-1s-after-deleting-one-element solution
 description: 1493 longest subarray of 1s after deleting one element LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/">1493. Longest Subarray of 1's After Deleting One Element</a></h2><h3>Medium</h3><hr><div><p>Given a binary array <code>nums</code>, you should delete one element from it.</p>

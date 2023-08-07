@@ -1,11 +1,13 @@
 ---
 title: Minimum distance between two numbers   GFG
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Minimum distance between two numbers - GFG solution
 description: Minimum distance between two numbers   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # Minimum distance between two numbers

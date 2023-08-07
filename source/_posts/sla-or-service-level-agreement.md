@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SLA or Service Level Agreement"
 description: "SLA or Service Level Agreement"
 image:

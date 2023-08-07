@@ -1,11 +1,13 @@
 ---
 title: 740 delete and earn
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 740-delete-and-earn solution
 description: 740 delete and earn LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/delete-and-earn/">740. Delete and Earn</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>nums</code>. You want to maximize the number of points you get by performing the following operation any number of times:</p>

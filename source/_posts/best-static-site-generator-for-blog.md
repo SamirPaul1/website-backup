@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "best static site generator for blog"
 description: "best static site generator for blog"
 cover: /assets/img/blog-featured-image.webp

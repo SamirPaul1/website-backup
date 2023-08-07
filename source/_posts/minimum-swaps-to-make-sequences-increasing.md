@@ -1,11 +1,13 @@
 ---
 title: minimum swaps to make sequences increasing
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-swaps-to-make-sequences-increasing solution
 description: minimum swaps to make sequences increasing LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>801. Minimum Swaps To Make Sequences Increasing</h2><h3>Medium</h3><hr><div><p>We have two integer sequences <code>A</code> and <code>B</code> of the same non-zero length.</p>

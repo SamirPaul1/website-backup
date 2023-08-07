@@ -1,11 +1,13 @@
 ---
 title: 769 max chunks to make sorted
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 769-max-chunks-to-make-sorted solution
 description: 769 max chunks to make sorted LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/max-chunks-to-make-sorted/">769. Max Chunks To Make Sorted</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>arr</code> of length <code>n</code> that represents a permutation of the integers in the range <code>[0, n - 1]</code>.</p>

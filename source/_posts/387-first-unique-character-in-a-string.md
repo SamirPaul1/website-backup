@@ -1,11 +1,13 @@
 ---
 title: 387 first unique character in a string
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 387-first-unique-character-in-a-string solution
 description: 387 first unique character in a string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/first-unique-character-in-a-string/">387. First Unique Character in a String</a></h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, <em>find the first non-repeating character in it and return its index</em>. If it does not exist, return <code>-1</code>.</p>

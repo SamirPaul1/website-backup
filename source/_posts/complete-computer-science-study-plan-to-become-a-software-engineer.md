@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Complete Computer Science Study Plan to Become a Software Engineer
 description: Complete Computer Science Study Plan to Become a Software Engineer
 cover: /assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp

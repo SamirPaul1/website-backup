@@ -1,11 +1,13 @@
 ---
 title: N meetings in one room   GFG
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, N meetings in one room - GFG solution
 description: N meetings in one room   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # N meetings in one room

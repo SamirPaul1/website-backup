@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "System design interview for IT companies"
 description: "System design interview for IT companies"
 cover: /assets/img/blog-featured-image.webp

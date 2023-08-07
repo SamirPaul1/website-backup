@@ -1,11 +1,13 @@
 ---
 title: cousins in binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, cousins-in-binary-tree solution
 description: cousins in binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>993. Cousins in Binary Tree</h2><h3>Easy</h3><hr><div><p>In a binary tree, the root node is at depth <code>0</code>, and children of each depth <code>k</code> node are at depth <code>k+1</code>.</p>

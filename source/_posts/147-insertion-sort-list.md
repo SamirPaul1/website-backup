@@ -1,11 +1,13 @@
 ---
 title: 147 insertion sort list
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 147-insertion-sort-list solution
 description: 147 insertion sort list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/insertion-sort-list/">147. Insertion Sort List</a></h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a singly linked list, sort the list using <strong>insertion sort</strong>, and return <em>the sorted list's head</em>.</p>

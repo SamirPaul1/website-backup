@@ -1,11 +1,13 @@
 ---
 title: 2477 minimum fuel cost to report to the capital
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2477-minimum-fuel-cost-to-report-to-the-capital solution
 description: 2477 minimum fuel cost to report to the capital LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/">2477. Minimum Fuel Cost to Report to the Capital</a></h2><h3>Medium</h3><hr><div><p>There is a tree (i.e., a connected, undirected graph with no cycles) structure country network consisting of <code>n</code> cities numbered from <code>0</code> to <code>n - 1</code> and exactly <code>n - 1</code> roads. The capital city is city <code>0</code>. You are given a 2D integer array <code>roads</code> where <code>roads[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> denotes that there exists a <strong>bidirectional road</strong> connecting cities <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code>.</p>

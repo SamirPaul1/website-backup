@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Caching"
 description: "Caching"
 cover: /assets/img/blog-featured-image.webp
@@ -10,9 +9,7 @@ sitemap: true
 pin: false
 ---
 
-Caching
 
----
 
 - Take advantage of the locality of reference principle: recently requested data is likely to be requested again.
 - Exist at all levels in architecture, but often found at the level nearest to the front end.

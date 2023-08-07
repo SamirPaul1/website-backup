@@ -1,11 +1,13 @@
 ---
 title: longest palindromic substring
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-palindromic-substring solution
 description: longest palindromic substring LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 27/2/2021 at 16:51)](https://leetcode.com/problems/longest-palindromic-substring/discuss/1129550/C%2B%2B-or-2D-DP)  

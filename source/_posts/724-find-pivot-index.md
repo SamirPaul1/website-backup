@@ -1,11 +1,13 @@
 ---
 title: 724 find pivot index
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 724-find-pivot-index solution
 description: 724 find pivot index LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/find-pivot-index/">724. Find Pivot Index</a></h2><h3>Easy</h3><hr><div><p>Given an array of integers <code>nums</code>, calculate the <strong>pivot index</strong> of this array.</p>

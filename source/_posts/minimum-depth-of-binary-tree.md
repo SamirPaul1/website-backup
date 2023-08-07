@@ -1,11 +1,13 @@
 ---
 title: minimum depth of binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-depth-of-binary-tree solution
 description: minimum depth of binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>111. Minimum Depth of Binary Tree</h2><h3>Easy</h3><hr><div><p>Given a binary tree, find its minimum depth.</p>

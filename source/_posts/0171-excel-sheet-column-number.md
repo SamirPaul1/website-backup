@@ -1,11 +1,13 @@
 ---
 title: 0171 excel sheet column number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0171-excel-sheet-column-number solution
 description: 0171 excel sheet column number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/excel-sheet-column-number/">171. Excel Sheet Column Number</a></h2><h3>Easy</h3><hr><div><p>Given a string <code>columnTitle</code> that represents the column title as appears in an Excel sheet, return <em>its corresponding column number</em>.</p>

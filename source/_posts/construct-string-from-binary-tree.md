@@ -1,11 +1,13 @@
 ---
 title: construct string from binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, construct-string-from-binary-tree solution
 description: construct string from binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>606. Construct String from Binary Tree</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way, and return it.</p>

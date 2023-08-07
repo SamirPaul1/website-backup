@@ -1,11 +1,13 @@
 ---
 title: 733 flood fill
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 733-flood-fill solution
 description: 733 flood fill LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/flood-fill/">733. Flood Fill</a></h2><h3>Easy</h3><hr><div><p>An image is represented by an <code>m x n</code> integer grid <code>image</code> where <code>image[i][j]</code> represents the pixel value of the image.</p>

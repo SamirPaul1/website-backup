@@ -1,11 +1,13 @@
 ---
 title: similar string groups
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, similar-string-groups solution
 description: similar string groups LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 27/6/2021 at 11:20)](https://leetcode.com/problems/similar-string-groups/discuss/1365449/DSU-or-C%2B%2B)  

@@ -1,11 +1,13 @@
 ---
 title: minimum height trees
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-height-trees solution
 description: minimum height trees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 21/1/2021 at 21:31)](https://leetcode.com/problems/minimum-height-trees/discuss/1076511/C%2B%2B-or-O(n))  

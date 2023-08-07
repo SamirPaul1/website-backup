@@ -1,11 +1,13 @@
 ---
 title: Serialize and Deserialize a Binary Tree   GFG
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Serialize and Deserialize a Binary Tree - GFG solution
 description: Serialize and Deserialize a Binary Tree   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # Serialize and Deserialize a Binary Tree

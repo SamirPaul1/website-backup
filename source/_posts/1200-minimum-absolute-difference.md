@@ -1,11 +1,13 @@
 ---
 title: 1200 minimum absolute difference
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1200-minimum-absolute-difference solution
 description: 1200 minimum absolute difference LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/minimum-absolute-difference/">1200. Minimum Absolute Difference</a></h2><h3>Easy</h3><hr><div><p>Given an array of <strong>distinct</strong> integers <code>arr</code>, find all pairs of elements with the minimum absolute difference of any two elements.</p>

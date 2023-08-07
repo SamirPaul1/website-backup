@@ -1,11 +1,13 @@
 ---
 title: best time to buy and sell stock with cooldown
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, best-time-to-buy-and-sell-stock-with-cooldown solution
 description: best time to buy and sell stock with cooldown LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 14/0/2021 at 14:6)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/1016185/2D-DP-C%2B%2B)  

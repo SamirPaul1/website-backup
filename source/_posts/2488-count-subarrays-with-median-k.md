@@ -1,11 +1,13 @@
 ---
 title: 2488 count subarrays with median k
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2488-count-subarrays-with-median-k solution
 description: 2488 count subarrays with median k LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/count-subarrays-with-median-k/">2488. Count Subarrays With Median K</a></h2><h3>Hard</h3><hr><div><p>You are given an array <code>nums</code> of size <code>n</code> consisting of <strong>distinct </strong>integers from <code>1</code> to <code>n</code> and a positive integer <code>k</code>.</p>

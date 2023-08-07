@@ -1,11 +1,13 @@
 ---
 title: 1094 car pooling
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1094-car-pooling solution
 description: 1094 car pooling LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/car-pooling/">1094. Car Pooling</a></h2><h3>Medium</h3><hr><div><p>There is a car with <code>capacity</code> empty seats. The vehicle only drives east (i.e., it cannot turn around and drive west).</p>

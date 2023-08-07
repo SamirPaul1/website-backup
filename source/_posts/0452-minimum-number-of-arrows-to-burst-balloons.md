@@ -1,11 +1,13 @@
 ---
 title: 0452 minimum number of arrows to burst balloons
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0452-minimum-number-of-arrows-to-burst-balloons solution
 description: 0452 minimum number of arrows to burst balloons LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

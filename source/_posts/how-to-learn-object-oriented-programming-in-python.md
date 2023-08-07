@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "how to learn object oriented programming in python"
 description: "how to learn object oriented programming in python"
 image:

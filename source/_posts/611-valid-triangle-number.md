@@ -1,11 +1,13 @@
 ---
 title: 611 valid triangle number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 611-valid-triangle-number solution
 description: 611 valid triangle number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/valid-triangle-number/">611. Valid Triangle Number</a></h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code>, return <em>the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle</em>.</p>

@@ -1,11 +1,13 @@
 ---
 title: 525 contiguous array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 525-contiguous-array solution
 description: 525 contiguous array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/contiguous-array/">525. Contiguous Array</a></h2><h3>Medium</h3><hr><div><p>Given a binary array <code>nums</code>, return <em>the maximum length of a contiguous subarray with an equal number of </em><code>0</code><em> and </em><code>1</code>.</p>

@@ -1,11 +1,13 @@
 ---
 title: keys and rooms
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, keys-and-rooms solution
 description: keys and rooms LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 29/0/2021 at 14:43)](https://leetcode.com/problems/keys-and-rooms/discuss/1040220/DFS-or-C%2B%2B-or-Simple-Solution)  

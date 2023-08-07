@@ -1,11 +1,13 @@
 ---
 title: 0740 delete and earn
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0740-delete-and-earn solution
 description: 0740 delete and earn LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

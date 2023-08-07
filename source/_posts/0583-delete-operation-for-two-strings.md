@@ -1,11 +1,13 @@
 ---
 title: 0583 delete operation for two strings
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0583-delete-operation-for-two-strings solution
 description: 0583 delete operation for two strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/delete-operation-for-two-strings/">583. Delete Operation for Two Strings</a></h2><h3>Medium</h3><hr><div><p>Given two strings <code>word1</code> and <code>word2</code>, return <em>the minimum number of <strong>steps</strong> required to make</em> <code>word1</code> <em>and</em> <code>word2</code> <em>the same</em>.</p>

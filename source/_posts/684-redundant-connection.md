@@ -1,11 +1,13 @@
 ---
 title: 684 redundant connection
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 684-redundant-connection solution
 description: 684 redundant connection LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/redundant-connection/">684. Redundant Connection</a></h2><h3>Medium</h3><hr><div><p>In this problem, a tree is an <strong>undirected graph</strong> that is connected and has no cycles.</p>

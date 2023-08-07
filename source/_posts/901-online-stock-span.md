@@ -1,11 +1,13 @@
 ---
 title: 901 online stock span
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 901-online-stock-span solution
 description: 901 online stock span LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/online-stock-span/">901. Online Stock Span</a></h2><h3>Medium</h3><hr><div><p>Design an algorithm that collects daily price quotes for some stock and returns <strong>the span</strong> of that stock's price for the current day.</p>

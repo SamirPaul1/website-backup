@@ -1,11 +1,13 @@
 ---
 title: remove all adjacent duplicates in string
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, remove-all-adjacent-duplicates-in-string solution
 description: remove all adjacent duplicates in string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1047. Remove All Adjacent Duplicates In String</h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code> consisting of lowercase English letters. A <strong>duplicate removal</strong> consists of choosing two <strong>adjacent</strong> and <strong>equal</strong> letters and removing them.</p>

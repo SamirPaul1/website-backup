@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Company engineering blog links"
 description: "Company engineering blog links"
 cover: /assets/img/blog-featured-image.webp

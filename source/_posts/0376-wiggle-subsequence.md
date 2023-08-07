@@ -1,11 +1,13 @@
 ---
 title: 0376 wiggle subsequence
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0376-wiggle-subsequence solution
 description: 0376 wiggle subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/wiggle-subsequence/">376. Wiggle Subsequence</a></h2><h3>Medium</h3><hr><div><p>A <strong>wiggle sequence</strong> is a sequence where the differences between successive numbers strictly alternate between positive and negative. The first difference (if one exists) may be either positive or negative. A sequence with one element and a sequence with two non-equal elements are trivially wiggle sequences.</p>

@@ -1,11 +1,13 @@
 ---
 title: 0443 string compression
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0443-string-compression solution
 description: 0443 string compression LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/string-compression/">443. String Compression</a></h2><h3>Medium</h3><hr><div><p>Given an array of characters <code>chars</code>, compress it using the following algorithm:</p>

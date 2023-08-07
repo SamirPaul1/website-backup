@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Computer Networks Notes
 description: Computer Networks Notes
 cover: /assets/img/computer-networks-preview-blog-banner.webp

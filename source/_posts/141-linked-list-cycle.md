@@ -1,11 +1,13 @@
 ---
 title: 141 linked list cycle
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 141-linked-list-cycle solution
 description: 141 linked list cycle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/linked-list-cycle/">141. Linked List Cycle</a></h2><h3>Easy</h3><hr><div><p>Given <code>head</code>, the head of a linked list, determine if the linked list has a cycle in it.</p>

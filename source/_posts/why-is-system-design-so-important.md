@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Why is System Design So Important?"
 description: "Why is System Design so important?"
 image:

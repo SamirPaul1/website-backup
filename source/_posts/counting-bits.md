@@ -1,11 +1,13 @@
 ---
 title: counting bits
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, counting-bits solution
 description: counting bits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>338. Counting Bits</h2><h3>Medium</h3><hr><div><p>Given an integer <code>num</code>, return <em>an array of the number of</em> <code>1</code><em>'s in the binary representation of every number in the range</em> <code>[0, num]</code>.</p>

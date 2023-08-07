@@ -1,11 +1,13 @@
 ---
 title: 1114 print in order
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1114-print-in-order solution
 description: 1114 print in order LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/print-in-order/">1114. Print in Order</a></h2><h3>Easy</h3><hr><div><p>Suppose we have a class:</p>

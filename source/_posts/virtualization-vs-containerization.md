@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Virtualization vs Containerization"
 description: "Virtualization vs Containerization"
 image:

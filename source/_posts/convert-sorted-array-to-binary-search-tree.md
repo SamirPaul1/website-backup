@@ -1,11 +1,13 @@
 ---
 title: convert sorted array to binary search tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, convert-sorted-array-to-binary-search-tree solution
 description: convert sorted array to binary search tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>108. Convert Sorted Array to Binary Search Tree</h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code> where the elements are sorted in <strong>ascending order</strong>, convert <em>it to a <strong>height-balanced</strong> binary search tree</em>.</p>

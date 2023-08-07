@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python libraries for parsing URLs"
 description: "Python libraries for parsing URLs"
 image:

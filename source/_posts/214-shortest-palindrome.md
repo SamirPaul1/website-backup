@@ -1,11 +1,13 @@
 ---
 title: 214 shortest palindrome
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 214-shortest-palindrome solution
 description: 214 shortest palindrome LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/shortest-palindrome/">214. Shortest Palindrome</a></h2><h3>Hard</h3><hr><div><p>You are given a string <code>s</code>. You can convert <code>s</code> to a palindrome by adding characters in front of it.</p>

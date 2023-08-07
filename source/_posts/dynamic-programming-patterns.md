@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic Programming Patterns"
 description: "Dynamic Programming Patterns"
 image:

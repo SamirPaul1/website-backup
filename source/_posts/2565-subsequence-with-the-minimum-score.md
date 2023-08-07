@@ -1,11 +1,13 @@
 ---
 title: 2565 subsequence with the minimum score
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2565-subsequence-with-the-minimum-score solution
 description: 2565 subsequence with the minimum score LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/subsequence-with-the-minimum-score/">2565. Subsequence With the Minimum Score</a></h2><h3>Hard</h3><hr><div><p>You are given two strings <code>s</code> and <code>t</code>.</p>

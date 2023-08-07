@@ -1,11 +1,13 @@
 ---
 title: boats to save people
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, boats-to-save-people solution
 description: boats to save people LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 3/1/2021 at 15:28)](https://leetcode.com/problems/boats-to-save-people/discuss/1047775/Two-Pointers-or-C%2B%2B)  

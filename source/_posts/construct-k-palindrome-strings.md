@@ -1,11 +1,13 @@
 ---
 title: construct k palindrome strings
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, construct-k-palindrome-strings solution
 description: construct k palindrome strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 16/1/2021 at 16:44)](https://leetcode.com/problems/construct-k-palindrome-strings/discuss/1068238/C%2B%2B-or-Beats-99.8)  

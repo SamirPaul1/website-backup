@@ -1,11 +1,13 @@
 ---
 title: advantage shuffle
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, advantage-shuffle solution
 description: advantage shuffle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 3/1/2021 at 14:3)](https://leetcode.com/problems/advantage-shuffle/discuss/1047675/C%2B%2B-or-Using-multiset)  

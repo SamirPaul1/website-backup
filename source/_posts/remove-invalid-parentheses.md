@@ -1,11 +1,13 @@
 ---
 title: remove invalid parentheses
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, remove-invalid-parentheses solution
 description: remove invalid parentheses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>301. Remove Invalid Parentheses</h2><h3>Hard</h3><hr><div><p>Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.</p>

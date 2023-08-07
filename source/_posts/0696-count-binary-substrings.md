@@ -1,11 +1,13 @@
 ---
 title: 0696 count binary substrings
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0696-count-binary-substrings solution
 description: 0696 count binary substrings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/count-binary-substrings/">696. Count Binary Substrings</a></h2><h3>Easy</h3><hr><div><p>Given a binary string <code>s</code>, return the number of non-empty substrings that have the same number of <code>0</code>'s and <code>1</code>'s, and all the <code>0</code>'s and all the <code>1</code>'s in these substrings are grouped consecutively.</p>

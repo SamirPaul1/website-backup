@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python vs R for data science"
 description: "Python vs R for data science"
 image:

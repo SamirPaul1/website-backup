@@ -1,11 +1,13 @@
 ---
 title: Maximum sum increasing subsequence   GFG
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Maximum sum increasing subsequence - GFG solution
 description: Maximum sum increasing subsequence   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # Maximum sum increasing subsequence

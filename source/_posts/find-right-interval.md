@@ -1,11 +1,13 @@
 ---
 title: find right interval
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-right-interval solution
 description: find right interval LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 21/0/2021 at 21:14)](https://leetcode.com/problems/find-right-interval/discuss/1027943/Using-Map-and-lower_bound-or-C%2B%2B)  

@@ -1,11 +1,13 @@
 ---
 title: 38 count and say
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 38-count-and-say solution
 description: 38 count and say LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/count-and-say/">38. Count and Say</a></h2><h3>Medium</h3><hr><div><p>The <strong>count-and-say</strong> sequence is a sequence of digit strings defined by the recursive formula:</p>

@@ -1,11 +1,13 @@
 ---
 title: 179 largest number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 179-largest-number solution
 description: 179 largest number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/largest-number/">179. Largest Number</a></h2><h3>Medium</h3><hr><div><p>Given a list of non-negative integers <code>nums</code>, arrange them such that they form the largest number and return it.</p>

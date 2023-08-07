@@ -1,11 +1,13 @@
 ---
 title: number of closed islands
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-closed-islands solution
 description: number of closed islands LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 30/0/2021 at 18:33)](https://leetcode.com/problems/number-of-closed-islands/discuss/1041962/DFS-or-C%2B%2B-solution-or-Beats-99.5)  

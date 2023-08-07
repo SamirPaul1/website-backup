@@ -1,11 +1,13 @@
 ---
 title: binary tree cameras
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, binary-tree-cameras solution
 description: binary tree cameras LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>968. Binary Tree Cameras</h2><h3>Hard</h3><hr><div><p>You are given the <code>root</code> of a binary tree. We install cameras on the tree nodes where each camera at a node can monitor its parent, itself, and its immediate children.</p>

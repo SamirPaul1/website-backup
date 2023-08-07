@@ -1,11 +1,13 @@
 ---
 title: non overlapping intervals
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, non-overlapping-intervals solution
 description: non overlapping intervals LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>435. Non-overlapping Intervals</h2><h3>Medium</h3><hr><div><p>Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.</p>

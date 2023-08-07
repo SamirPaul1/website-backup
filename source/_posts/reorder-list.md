@@ -1,11 +1,13 @@
 ---
 title: reorder list
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reorder-list solution
 description: reorder list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 21/0/2021 at 17:1)](https://leetcode.com/problems/reorder-list/discuss/1027696/O(n)-space-or-C%2B%2B)  

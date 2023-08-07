@@ -1,11 +1,13 @@
 ---
 title: 1079 letter tile possibilities
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1079-letter-tile-possibilities solution
 description: 1079 letter tile possibilities LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/letter-tile-possibilities/">1079. Letter Tile Possibilities</a></h2><h3>Medium</h3><hr><div><p>You have <code>n</code>&nbsp;&nbsp;<code>tiles</code>, where each tile has one letter <code>tiles[i]</code> printed on it.</p>

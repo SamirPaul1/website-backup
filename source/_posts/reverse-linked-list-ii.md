@@ -1,11 +1,13 @@
 ---
 title: reverse linked list ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reverse-linked-list-ii solution
 description: reverse linked list ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>92. Reverse Linked List II</h2><h3>Medium</h3><hr><div><p>Reverse a linked list from position <em>m</em> to <em>n</em>. Do it in one-pass.</p>

@@ -1,11 +1,13 @@
 ---
 title: Tower Of Hanoi
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Tower Of Hanoi solution
 description: Tower Of Hanoi LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1">Tower Of Hanoi</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">The <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi">tower of Hanoi</a></span> <span style="font-size: 18px;">is a famous puzzle where we have three rods and <strong>N</strong> disks. The objective of the puzzle is to move the entire stack to another rod. You are given the number of discs <strong>N</strong>. Initially, these discs are in the rod 1. You need to print all the steps of discs movement so that all the discs reach the 3<sup>rd</sup> rod. Also, you need to find the total moves.<br><strong>Note: </strong>The discs are arranged such that the<strong> top disc is numbered 1 </strong>and the<strong> bottom-most disc is numbered N</strong>. Also, all the discs have <strong>different sizes</strong> and a bigger disc <strong>cannot</strong> be put on the top of a smaller disc. Refer the provided link to get a better clarity about the puzzle.</span></p>

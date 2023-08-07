@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python libraries to automate web scraping"
 description: "Python libraries to automate web scraping"
 image:

@@ -1,11 +1,13 @@
 ---
 title: 1498 number of subsequences that satisfy the given sum condition
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1498-number-of-subsequences-that-satisfy-the-given-sum-condition solution
 description: 1498 number of subsequences that satisfy the given sum condition LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/">1498. Number of Subsequences That Satisfy the Given Sum Condition</a></h2><h3>Medium</h3><hr><div><p>You are given an array of integers <code>nums</code> and an integer <code>target</code>.</p>

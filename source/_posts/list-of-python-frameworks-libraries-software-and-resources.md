@@ -1,5 +1,4 @@
 ---
-layout: post
 title: List of Python Frameworks Libraries Software and Resources
 description: List of Python Frameworks Libraries Software and Resources
 cover: /assets/img/list-of-python-frameworks-libraries-software-and-resources-banner-image.jpg 

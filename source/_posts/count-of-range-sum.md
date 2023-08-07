@@ -1,11 +1,13 @@
 ---
 title: count of range sum
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, count-of-range-sum solution
 description: count of range sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>327. Count of Range Sum</h2><h3>Hard</h3><hr><div><p>Given an integer array <code>nums</code>, return the number of range sums that lie in <code>[lower, upper]</code> inclusive.<br>

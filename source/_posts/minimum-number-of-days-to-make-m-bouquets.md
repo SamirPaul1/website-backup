@@ -1,11 +1,13 @@
 ---
 title: minimum number of days to make m bouquets
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-number-of-days-to-make-m-bouquets solution
 description: minimum number of days to make m bouquets LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 24/0/2021 at 17:37)](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/discuss/1032789/Simple-Binary-Search-C%2B%2B)  

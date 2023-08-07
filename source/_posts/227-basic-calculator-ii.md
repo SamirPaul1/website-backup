@@ -1,11 +1,13 @@
 ---
 title: 227 basic calculator ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 227-basic-calculator-ii solution
 description: 227 basic calculator ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/basic-calculator-ii/">227. Basic Calculator II</a></h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code> which represents an expression, <em>evaluate this expression and return its value</em>.&nbsp;</p>

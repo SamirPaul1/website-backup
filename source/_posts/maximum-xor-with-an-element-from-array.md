@@ -1,11 +1,13 @@
 ---
 title: maximum xor with an element from array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, maximum-xor-with-an-element-from-array solution
 description: maximum xor with an element from array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1707. Maximum XOR With an Element From Array</h2><h3>Hard</h3><hr><div><p>You are given an array <code>nums</code> consisting of non-negative integers. You are also given a <code>queries</code> array, where <code>queries[i] = [x<sub>i</sub>, m<sub>i</sub>]</code>.</p>

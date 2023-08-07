@@ -1,11 +1,13 @@
 ---
 title: reach a number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reach-a-number solution
 description: reach a number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>754. Reach a Number</h2><h3>Medium</h3><hr><div><p>You are standing at position <code>0</code> on an infinite number line. There is a destination at position <code>target</code>.</p>

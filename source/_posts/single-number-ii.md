@@ -1,11 +1,13 @@
 ---
 title: single number ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, single-number-ii solution
 description: single number ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 13/2/2021 at 14:21)](https://leetcode.com/problems/single-number-ii/submissions/)  

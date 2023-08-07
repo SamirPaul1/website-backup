@@ -1,12 +1,13 @@
 ---
 title: C++ Switch Case Statement   GFG
-date:
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, C++ Switch Case Statement - GFG solution
 description: C++ Switch Case Statement - GFG
-cover: assets/img/leetcode-cover-img.webp
+cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # C++ Switch Case Statement

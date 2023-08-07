@@ -1,11 +1,13 @@
 ---
 title: find the smallest divisor given a threshold
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-the-smallest-divisor-given-a-threshold solution
 description: find the smallest divisor given a threshold LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1283. Find the Smallest Divisor Given a Threshold</h2><h3>Medium</h3><hr><div><p>Given an array of integers <code>nums</code> and an integer <code>threshold</code>, we will choose a positive integer <code>divisor</code>, divide all the array by it, and sum the division's result. Find the <strong>smallest</strong> <code>divisor</code> such that the result mentioned above is less than or equal to <code>threshold</code>.</p>

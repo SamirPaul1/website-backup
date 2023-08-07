@@ -1,11 +1,13 @@
 ---
 title: average of levels in binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, average-of-levels-in-binary-tree solution
 description: average of levels in binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 5/1/2021 at 0:6)](https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/1049896/C%2B%2B-or-BFS-Simple-Solution)  

@@ -1,11 +1,13 @@
 ---
 title: minimum operations to reduce x to zero
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-operations-to-reduce-x-to-zero solution
 description: minimum operations to reduce x to zero LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1658. Minimum Operations to Reduce X to Zero</h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>nums</code> and an integer <code>x</code>. In one operation, you can either remove the leftmost or the rightmost element from the array <code>nums</code> and subtract its value from <code>x</code>. Note that this <strong>modifies</strong> the array for future operations.</p>

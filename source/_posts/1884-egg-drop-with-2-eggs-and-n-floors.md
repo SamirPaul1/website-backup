@@ -1,11 +1,13 @@
 ---
 title: 1884 egg drop with 2 eggs and n floors
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1884-egg-drop-with-2-eggs-and-n-floors solution
 description: 1884 egg drop with 2 eggs and n floors LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/">1884. Egg Drop With 2 Eggs and N Floors</a></h2><h3>Medium</h3><hr><div><p>You are given <strong>two identical</strong> eggs and you have access to a building with <code>n</code> floors labeled from <code>1</code> to <code>n</code>.</p>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "TCP vs UDP"
 description: "TCP vs UDP"
 cover: /assets/img/blog-featured-image.webp

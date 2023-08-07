@@ -1,11 +1,13 @@
 ---
 title: cat and mouse
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, cat-and-mouse solution
 description: cat and mouse LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>913. Cat and Mouse</h2><h3>Hard</h3><hr><div><p>A game on an <strong>undirected</strong> graph is played by two players, Mouse and Cat, who alternate turns.</p>

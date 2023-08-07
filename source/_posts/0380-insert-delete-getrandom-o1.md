@@ -1,11 +1,13 @@
 ---
 title: 0380 insert delete getrandom o1
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0380-insert-delete-getrandom-o1 solution
 description: 0380 insert delete getrandom o1 LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/insert-delete-getrandom-o1/">380. Insert Delete GetRandom O(1)</a></h2><h3>Medium</h3><hr><div><p>Implement the <code>RandomizedSet</code> class:</p>

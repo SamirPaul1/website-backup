@@ -1,11 +1,13 @@
 ---
 title: robot bounded in circle
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, robot-bounded-in-circle solution
 description: robot bounded in circle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1041. Robot Bounded In Circle</h2><h3>Medium</h3><hr><div><p>On an infinite plane, a robot initially stands at <code>(0, 0)</code> and faces north. The robot can receive one of three instructions:</p>

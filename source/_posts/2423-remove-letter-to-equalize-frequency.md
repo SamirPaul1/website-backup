@@ -1,11 +1,13 @@
 ---
 title: 2423 remove letter to equalize frequency
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2423-remove-letter-to-equalize-frequency solution
 description: 2423 remove letter to equalize frequency LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/remove-letter-to-equalize-frequency/">2423. Remove Letter To Equalize Frequency</a></h2><h3>Easy</h3><hr><div><p>You are given a <strong>0-indexed</strong> string <code>word</code>, consisting of lowercase English letters. You need to select <strong>one</strong> index and <strong>remove</strong> the letter at that index from <code>word</code> so that the <strong>frequency</strong> of every letter present in <code>word</code> is equal.</p>

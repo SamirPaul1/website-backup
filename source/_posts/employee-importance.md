@@ -1,11 +1,13 @@
 ---
 title: employee importance
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, employee-importance solution
 description: employee importance LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>690. Employee Importance</h2><h3>Easy</h3><hr><div><p>You are given a data structure of employee information, which includes the employee's <b>unique id</b>, their&nbsp;<b>importance value</b> and their&nbsp;<b>direct</b> subordinates' id.</p>

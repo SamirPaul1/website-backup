@@ -1,11 +1,13 @@
 ---
 title: number of 1 bits
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-1-bits solution
 description: number of 1 bits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 15/0/2021 at 22:55)](https://leetcode.com/problems/number-of-1-bits/discuss/1018363/C%2B%2B-or-Easy)  

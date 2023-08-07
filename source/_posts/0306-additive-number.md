@@ -1,11 +1,13 @@
 ---
 title: 0306 additive number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0306-additive-number solution
 description: 0306 additive number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/additive-number/">306. Additive Number</a></h2><h3>Medium</h3><hr><div><p>An <strong>additive number</strong> is a string whose digits can form an <strong>additive sequence</strong>.</p>

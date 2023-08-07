@@ -1,11 +1,13 @@
 ---
 title: n ary tree preorder traversal
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, n-ary-tree-preorder-traversal solution
 description: n ary tree preorder traversal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>589. N-ary Tree Preorder Traversal</h2><h3>Easy</h3><hr><div><p>Given an n-ary tree, return the <i>preorder</i> traversal of its nodes' values.</p>

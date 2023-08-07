@@ -1,11 +1,13 @@
 ---
 title: sliding window maximum
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sliding-window-maximum solution
 description: sliding window maximum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 2/2/2021 at 16:47)](https://leetcode.com/problems/sliding-window-maximum/discuss/1089707/Easy-Sliding-Window-or-C%2B%2B)  

@@ -1,11 +1,13 @@
 ---
 title: binary subarrays with sum
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, binary-subarrays-with-sum solution
 description: binary subarrays with sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>930. Binary Subarrays With Sum</h2><h3>Medium</h3><hr><div><p>In an array <code>A</code> of <code>0</code>s and <code>1</code>s, how many <strong>non-empty</strong> subarrays have sum <code>S</code>?</p>

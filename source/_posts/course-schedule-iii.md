@@ -1,11 +1,13 @@
 ---
 title: course schedule iii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, course-schedule-iii solution
 description: course schedule iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 14/0/2021 at 19:43)](https://leetcode.com/problems/course-schedule-iii/discuss/1016569/Priority-Queue-or-C%2B%2B)  

@@ -1,11 +1,13 @@
 ---
 title: 1268 search suggestions system
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1268-search-suggestions-system solution
 description: 1268 search suggestions system LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

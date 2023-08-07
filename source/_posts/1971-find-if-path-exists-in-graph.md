@@ -1,11 +1,13 @@
 ---
 title: 1971 find if path exists in graph
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1971-find-if-path-exists-in-graph solution
 description: 1971 find if path exists in graph LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

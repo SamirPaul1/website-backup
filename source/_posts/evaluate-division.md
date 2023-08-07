@@ -1,11 +1,13 @@
 ---
 title: evaluate division
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, evaluate-division solution
 description: evaluate division LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 28/0/2021 at 18:16)](https://leetcode.com/problems/evaluate-division/discuss/1038980/100-faster-or-C%2B%2B-or-DFS)  

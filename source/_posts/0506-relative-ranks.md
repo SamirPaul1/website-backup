@@ -1,11 +1,13 @@
 ---
 title: 0506 relative ranks
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0506-relative-ranks solution
 description: 0506 relative ranks LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

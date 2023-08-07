@@ -1,11 +1,13 @@
 ---
 title: 2024 maximize the confusion of an exam
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2024-maximize-the-confusion-of-an-exam solution
 description: 2024 maximize the confusion of an exam LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

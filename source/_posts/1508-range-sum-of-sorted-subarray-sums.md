@@ -1,11 +1,13 @@
 ---
 title: 1508 range sum of sorted subarray sums
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1508-range-sum-of-sorted-subarray-sums solution
 description: 1508 range sum of sorted subarray sums LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/">1508. Range Sum of Sorted Subarray Sums</a></h2><h3>Medium</h3><hr><div><p>You are given the array <code>nums</code> consisting of <code>n</code> positive integers. You computed the sum of all non-empty continuous subarrays from the array and then sorted them in non-decreasing order, creating a new array of <code>n * (n + 1) / 2</code> numbers.</p>

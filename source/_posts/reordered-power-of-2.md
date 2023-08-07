@@ -1,11 +1,13 @@
 ---
 title: reordered power of 2
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reordered-power-of-2 solution
 description: reordered power of 2 LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>869. Reordered Power of 2</h2><h3>Medium</h3><hr><div><p>Starting with a positive integer <code>N</code>, we reorder the digits in any order (including the original order) such that the leading digit is not zero.</p>

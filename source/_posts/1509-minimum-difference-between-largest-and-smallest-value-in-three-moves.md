@@ -1,11 +1,13 @@
 ---
 title: 1509 minimum difference between largest and smallest value in three moves
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1509-minimum-difference-between-largest-and-smallest-value-in-three-moves solution
 description: 1509 minimum difference between largest and smallest value in three moves LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/">1509. Minimum Difference Between Largest and Smallest Value in Three Moves</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>nums</code>. In one move, you can choose one element of <code>nums</code> and change it by <strong>any value</strong>.</p>

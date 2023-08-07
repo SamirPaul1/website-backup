@@ -1,11 +1,13 @@
 ---
 title: trapping rain water ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, trapping-rain-water-ii solution
 description: trapping rain water ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>407. Trapping Rain Water II</h2><h3>Hard</h3><hr><div><p>Given an <code>m x n</code> integer matrix <code>heightMap</code> representing the height of each unit cell in a 2D elevation map, return <em>the volume of water it can trap after raining</em>.</p>

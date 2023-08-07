@@ -1,11 +1,13 @@
 ---
 title: 0357 count numbers with unique digits
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0357-count-numbers-with-unique-digits solution
 description: 0357 count numbers with unique digits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/count-numbers-with-unique-digits/">357. Count Numbers with Unique Digits</a></h2><h3>Medium</h3><hr><div><p>Given an integer <code>n</code>, return the count of all numbers with unique digits, <code>x</code>, where <code>0 &lt;= x &lt; 10<sup>n</sup></code>.</p>

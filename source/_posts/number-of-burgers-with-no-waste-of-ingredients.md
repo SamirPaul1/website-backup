@@ -1,11 +1,13 @@
 ---
 title: number of burgers with no waste of ingredients
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-burgers-with-no-waste-of-ingredients solution
 description: number of burgers with no waste of ingredients LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1276. Number of Burgers with No Waste of Ingredients</h2><h3>Medium</h3><hr><div><p>Given two integers <code>tomatoSlices</code>&nbsp;and <code>cheeseSlices</code>. The ingredients of different burgers are as follows:</p>

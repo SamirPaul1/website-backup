@@ -1,11 +1,13 @@
 ---
 title: 0689 maximum sum of 3 non overlapping subarrays
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0689-maximum-sum-of-3-non-overlapping-subarrays solution
 description: 0689 maximum sum of 3 non overlapping subarrays LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/">689. Maximum Sum of 3 Non-Overlapping Subarrays</a></h2><h3>Hard</h3><hr><div><p>Given an integer array <code>nums</code> and an integer <code>k</code>, find three non-overlapping subarrays of length <code>k</code> with maximum sum and return them.</p>

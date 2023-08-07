@@ -1,11 +1,13 @@
 ---
 title: 2611 mice and cheese
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2611-mice-and-cheese solution
 description: 2611 mice and cheese LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/mice-and-cheese/">2611. Mice and Cheese</a></h2><h3>Medium</h3><hr><div><p>There are two mice and <code>n</code> different types of cheese, each type of cheese should be eaten by exactly one mouse.</p>

@@ -1,11 +1,13 @@
 ---
 title: house robber iii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, house-robber-iii solution
 description: house robber iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>337. House Robber III</h2><h3>Medium</h3><hr><div><p>The thief has found himself a new place for his thievery again. There is only one entrance to this area, called <code>root</code>.</p>

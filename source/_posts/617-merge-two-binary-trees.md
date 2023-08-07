@@ -1,11 +1,13 @@
 ---
 title: 617 merge two binary trees
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 617-merge-two-binary-trees solution
 description: 617 merge two binary trees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/merge-two-binary-trees/">617. Merge Two Binary Trees</a></h2><h3>Easy</h3><hr><div><p>You are given two binary trees <code>root1</code> and <code>root2</code>.</p>

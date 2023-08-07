@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python libraries for validating data. Used for forms in many cases"
 description: "Python libraries for validating data. Used for forms in many cases"
 image:

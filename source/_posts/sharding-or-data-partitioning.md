@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sharding or Data Partitioning"
 description: "Sharding or Data Partitioning"
 image:

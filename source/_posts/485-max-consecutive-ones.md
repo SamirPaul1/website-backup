@@ -1,11 +1,13 @@
 ---
 title: 485 max consecutive ones
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 485-max-consecutive-ones solution
 description: 485 max consecutive ones LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/max-consecutive-ones/">485. Max Consecutive Ones</a></h2><h3>Easy</h3><hr><div><p>Given a binary array <code>nums</code>, return <em>the maximum number of consecutive </em><code>1</code><em>'s in the array</em>.</p>

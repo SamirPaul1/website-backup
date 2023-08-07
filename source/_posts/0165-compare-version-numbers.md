@@ -1,11 +1,13 @@
 ---
 title: 0165 compare version numbers
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0165-compare-version-numbers solution
 description: 0165 compare version numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/compare-version-numbers/">165. Compare Version Numbers</a></h2><h3>Medium</h3><hr><div><p>Given two version numbers,&nbsp;<code>version1</code> and <code>version2</code>, compare them.</p>

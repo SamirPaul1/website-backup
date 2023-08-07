@@ -1,11 +1,13 @@
 ---
 title: 0658 find k closest elements
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0658-find-k-closest-elements solution
 description: 0658 find k closest elements LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

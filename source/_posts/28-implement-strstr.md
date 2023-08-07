@@ -1,11 +1,13 @@
 ---
 title: 28 implement strstr
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 28-implement-strstr solution
 description: 28 implement strstr LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/implement-strstr/">28. Implement strStr()</a></h2><h3>Easy</h3><hr><div><p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>

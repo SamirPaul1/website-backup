@@ -1,11 +1,13 @@
 ---
 title: assign cookies
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, assign-cookies solution
 description: assign cookies LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>455. Assign Cookies</h2><h3>Easy</h3><hr><div><p>Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie.</p>

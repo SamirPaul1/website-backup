@@ -1,11 +1,13 @@
 ---
 title: 10 regular expression matching
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 10-regular-expression-matching solution
 description: 10 regular expression matching LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/regular-expression-matching/">10. Regular Expression Matching</a></h2><h3>Hard</h3><hr><div><p>Given an input string <code>s</code>&nbsp;and a pattern <code>p</code>, implement regular expression matching with support for <code>'.'</code> and <code>'*'</code> where:</p>

@@ -1,11 +1,13 @@
 ---
 title: swap nodes in pairs
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, swap-nodes-in-pairs solution
 description: swap nodes in pairs LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>24. Swap Nodes in Pairs</h2><h3>Medium</h3><hr><div><p>Given a&nbsp;linked list, swap every two adjacent nodes and return its head. You must solve the problem without&nbsp;modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)</p>

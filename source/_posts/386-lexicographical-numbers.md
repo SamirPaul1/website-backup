@@ -1,11 +1,13 @@
 ---
 title: 386 lexicographical numbers
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 386-lexicographical-numbers solution
 description: 386 lexicographical numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/lexicographical-numbers/">386. Lexicographical Numbers</a></h2><h3>Medium</h3><hr><div><p>Given an integer <code>n</code>, return all the numbers in the range <code>[1, n]</code> sorted in lexicographical order.</p>

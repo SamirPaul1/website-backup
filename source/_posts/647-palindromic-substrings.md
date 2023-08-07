@@ -1,11 +1,13 @@
 ---
 title: 647 palindromic substrings
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 647-palindromic-substrings solution
 description: 647 palindromic substrings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/palindromic-substrings/">647. Palindromic Substrings</a></h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code>, return <em>the number of <strong>palindromic substrings</strong> in it</em>.</p>

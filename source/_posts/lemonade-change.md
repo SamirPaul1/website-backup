@@ -1,11 +1,13 @@
 ---
 title: lemonade change
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, lemonade-change solution
 description: lemonade change LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 3/1/2021 at 13:37)](https://leetcode.com/problems/lemonade-change/discuss/1047647/C%2B%2B-or-96-faster)  

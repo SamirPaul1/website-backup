@@ -1,11 +1,13 @@
 ---
 title: cherry pickup
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, cherry-pickup solution
 description: cherry pickup LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>741. Cherry Pickup</h2><h3>Hard</h3><hr><div><p>You are given an <code>n x n</code> <code>grid</code> representing a field of cherries, each cell is one of three possible integers.</p>

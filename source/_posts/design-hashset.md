@@ -1,11 +1,13 @@
 ---
 title: design hashset
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, design-hashset solution
 description: design hashset LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>705. Design HashSet</h2><h3>Easy</h3><hr><div><p>Design a HashSet without using any built-in hash table libraries.</p>

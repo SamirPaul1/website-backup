@@ -1,11 +1,13 @@
 ---
 title: 394 decode string
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 394-decode-string solution
 description: 394 decode string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/decode-string/">394. Decode String</a></h2><h3>Medium</h3><hr><div><p>Given an encoded string, return its decoded string.</p>

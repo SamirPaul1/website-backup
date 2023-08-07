@@ -1,11 +1,13 @@
 ---
 title: 199 binary tree right side view
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 199-binary-tree-right-side-view solution
 description: 199 binary tree right side view LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/binary-tree-right-side-view/">199. Binary Tree Right Side View</a></h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, imagine yourself standing on the <strong>right side</strong> of it, return <em>the values of the nodes you can see ordered from top to bottom</em>.</p>

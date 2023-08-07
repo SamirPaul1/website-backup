@@ -1,11 +1,13 @@
 ---
 title: 0236 lowest common ancestor of a binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0236-lowest-common-ancestor-of-a-binary-tree solution
 description: 0236 lowest common ancestor of a binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

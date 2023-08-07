@@ -1,11 +1,13 @@
 ---
 title: queries on a permutation with key
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, queries-on-a-permutation-with-key solution
 description: queries on a permutation with key LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1409. Queries on a Permutation With Key</h2><h3>Medium</h3><hr><div><p>Given the array <code>queries</code> of positive integers between <code>1</code> and <code>m</code>, you have to process all <code>queries[i]</code> (from <code>i=0</code> to <code>i=queries.length-1</code>) according to the following rules:</p>

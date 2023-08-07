@@ -1,11 +1,13 @@
 ---
 title: 1011 capacity to ship packages within d days
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1011-capacity-to-ship-packages-within-d-days solution
 description: 1011 capacity to ship packages within d days LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">1011. Capacity To Ship Packages Within D Days</a></h2><h3>Medium</h3><hr><div><p>A conveyor belt has packages that must be shipped from one port to another within <code>days</code> days.</p>

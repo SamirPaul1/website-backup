@@ -1,11 +1,13 @@
 ---
 title: 45 jump game ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 45-jump-game-ii solution
 description: 45 jump game ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/jump-game-ii/">45. Jump Game II</a></h2><h3>Medium</h3><hr><div><p>Given an array of non-negative integers <code>nums</code>, you are initially positioned at the first index of the array.</p>

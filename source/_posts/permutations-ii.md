@@ -1,11 +1,13 @@
 ---
 title: permutations ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, permutations-ii solution
 description: permutations ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 19/0/2021 at 20:57)](https://leetcode.com/problems/permutations-ii/discuss/1024681/Shortest-Solution-C%2B%2B)  

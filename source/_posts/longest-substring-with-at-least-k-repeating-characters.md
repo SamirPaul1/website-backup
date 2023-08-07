@@ -1,11 +1,13 @@
 ---
 title: longest substring with at least k repeating characters
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-substring-with-at-least-k-repeating-characters solution
 description: longest substring with at least k repeating characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>395. Longest Substring with At Least K Repeating Characters</h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code> and an integer <code>k</code>, return <em>the length of the longest substring of</em> <code>s</code> <em>such that the frequency of each character in this substring is greater than or equal to</em> <code>k</code>.</p>

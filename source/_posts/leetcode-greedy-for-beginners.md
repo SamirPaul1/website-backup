@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "LeetCode Greedy for Beginners"
 description: "LeetCode Greedy for Beginners"
 image:
@@ -7,8 +6,8 @@ image:
   width: 661
   height: 132
   alt: "LeetCode Greedy for Beginners"
-categories: [Blog]
-tags: [blog, coding, computer-science, LeetCode, Greedy]
+categories: [leetcode]
+tags: [blog, coding, computer-science, leetcode, Greedy]
 published: true
 sitemap: true
 pin: false

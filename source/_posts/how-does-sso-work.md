@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How does SSO work?"
 description: "How does SSO work?"
 image:

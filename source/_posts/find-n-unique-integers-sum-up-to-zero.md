@@ -1,11 +1,13 @@
 ---
 title: find n unique integers sum up to zero
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-n-unique-integers-sum-up-to-zero solution
 description: find n unique integers sum up to zero LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1304. Find N Unique Integers Sum up to Zero</h2><h3>Easy</h3><hr><div><p>Given an integer <code>n</code>, return <strong>any</strong> array containing <code>n</code> <strong>unique</strong> integers such that they add up to <code>0</code>.</p>

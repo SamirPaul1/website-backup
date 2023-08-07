@@ -1,11 +1,13 @@
 ---
 title: 2321 maximum score of spliced array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2321-maximum-score-of-spliced-array solution
 description: 2321 maximum score of spliced array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-score-of-spliced-array/">2321. Maximum Score Of Spliced Array</a></h2><h3>Hard</h3><hr><div><p>You are given two <strong>0-indexed</strong> integer arrays <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>.</p>

@@ -1,11 +1,13 @@
 ---
 title: palindrome partitioning ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, palindrome-partitioning-ii solution
 description: palindrome partitioning ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>132. Palindrome Partitioning II</h2><h3>Hard</h3><hr><div><p>Given a string <code>s</code>, partition <code>s</code> such that every substring of the partition is a palindrome.</p>

@@ -1,11 +1,13 @@
 ---
 title: minimum ascii delete sum for two strings
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-ascii-delete-sum-for-two-strings solution
 description: minimum ascii delete sum for two strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>712. Minimum ASCII Delete Sum for Two Strings</h2><h3>Medium</h3><hr><div><p>Given two strings <code>s1, s2</code>, find the lowest ASCII sum of deleted characters to make two strings equal.</p>

@@ -1,11 +1,13 @@
 ---
 title: middle of the linked list
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, middle-of-the-linked-list solution
 description: middle of the linked list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>876. Middle of the Linked List</h2><h3>Easy</h3><hr><div><p>Given the <code>head</code> of a singly linked list, return <em>the middle node of the linked list</em>.</p>

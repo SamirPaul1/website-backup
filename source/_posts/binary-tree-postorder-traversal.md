@@ -1,11 +1,13 @@
 ---
 title: binary tree postorder traversal
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, binary-tree-postorder-traversal solution
 description: binary tree postorder traversal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>145. Binary Tree Postorder Traversal</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a&nbsp;binary tree, return <em>the postorder traversal of its nodes' values</em>.</p>

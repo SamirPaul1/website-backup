@@ -1,11 +1,13 @@
 ---
 title: 0263 ugly number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0263-ugly-number solution
 description: 0263 ugly number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/ugly-number/">263. Ugly Number</a></h2><h3>Easy</h3><hr><div><p>An <strong>ugly number</strong> is a positive integer whose prime factors are limited to <code>2</code>, <code>3</code>, and <code>5</code>.</p>

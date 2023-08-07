@@ -1,11 +1,13 @@
 ---
 title: 1395 count number of teams
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1395-count-number-of-teams solution
 description: 1395 count number of teams LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/count-number-of-teams/">1395. Count Number of Teams</a></h2><h3>Medium</h3><hr><div><p>There are <code>n</code> soldiers standing in a line. Each soldier is assigned a <strong>unique</strong> <code>rating</code> value.</p>

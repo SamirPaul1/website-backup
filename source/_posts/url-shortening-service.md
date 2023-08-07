@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "URL Shortening Service"
 description: "URL Shortening Service"
 cover: /assets/img/blog-featured-image.webp

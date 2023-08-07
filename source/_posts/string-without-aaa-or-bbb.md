@@ -1,11 +1,13 @@
 ---
 title: string without aaa or bbb
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, string-without-aaa-or-bbb solution
 description: string without aaa or bbb LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>984. String Without AAA or BBB</h2><h3>Medium</h3><hr><div><p>Given two integers <code>a</code> and <code>b</code>, return <strong>any</strong> string <code>s</code> such that:</p>

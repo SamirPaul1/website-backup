@@ -1,11 +1,13 @@
 ---
 title: 848 shifting letters
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 848-shifting-letters solution
 description: 848 shifting letters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/shifting-letters/">848. Shifting Letters</a></h2><h3>Medium</h3><hr><div><p>You are given a string <code>s</code> of lowercase English letters and an integer array <code>shifts</code> of the same length.</p>

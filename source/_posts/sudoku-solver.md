@@ -1,11 +1,13 @@
 ---
 title: sudoku solver
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sudoku-solver solution
 description: sudoku solver LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>37. Sudoku Solver</h2><h3>Hard</h3><hr><div><p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>

@@ -1,11 +1,13 @@
 ---
 title: 2296 design a text editor
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2296-design-a-text-editor solution
 description: 2296 design a text editor LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/design-a-text-editor/">2296. Design a Text Editor</a></h2><h3>Hard</h3><hr><div><p>Design a text editor with a cursor that can do the following:</p>

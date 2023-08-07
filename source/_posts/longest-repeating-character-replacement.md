@@ -1,11 +1,13 @@
 ---
 title: longest repeating character replacement
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-repeating-character-replacement solution
 description: longest repeating character replacement LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>424. Longest Repeating Character Replacement</h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code>&nbsp;that consists of only uppercase English letters, you can perform at most <code>k</code> operations on that string.</p>

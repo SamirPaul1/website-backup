@@ -1,11 +1,13 @@
 ---
 title: vertical order traversal of a binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, vertical-order-traversal-of-a-binary-tree solution
 description: vertical order traversal of a binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>987. Vertical Order Traversal of a Binary Tree</h2><h3>Hard</h3><hr><div><p>Given the <code>root</code> of a binary tree, calculate the <strong>vertical order traversal</strong> of the binary tree.</p>

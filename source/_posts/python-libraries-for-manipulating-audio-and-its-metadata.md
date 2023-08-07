@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python libraries for manipulating audio and its metadata"
 description: "Python libraries for manipulating audio and its metadata"
 image:

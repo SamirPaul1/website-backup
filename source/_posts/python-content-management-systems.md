@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python Content Management Systems"
 description: "Python Content Management Systems"
 image:

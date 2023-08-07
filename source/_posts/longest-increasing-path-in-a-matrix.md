@@ -1,11 +1,13 @@
 ---
 title: longest increasing path in a matrix
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-increasing-path-in-a-matrix solution
 description: longest increasing path in a matrix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>329. Longest Increasing Path in a Matrix</h2><h3>Hard</h3><hr><div><p>Given an <code>m x n</code> integers <code>matrix</code>, return <em>the length of the longest increasing path in </em><code>matrix</code>.</p>

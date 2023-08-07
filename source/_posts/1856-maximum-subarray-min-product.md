@@ -1,11 +1,13 @@
 ---
 title: 1856 maximum subarray min product
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1856-maximum-subarray-min-product solution
 description: 1856 maximum subarray min product LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-subarray-min-product/">1856. Maximum Subarray Min-Product</a></h2><h3>Medium</h3><hr><div><p>The <strong>min-product</strong> of an array is equal to the <strong>minimum value</strong> in the array <strong>multiplied by</strong> the array's <strong>sum</strong>.</p>

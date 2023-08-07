@@ -1,11 +1,13 @@
 ---
 title: 1813 maximum erasure value
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1813-maximum-erasure-value solution
 description: 1813 maximum erasure value LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-erasure-value">1813. Maximum Erasure Value</a></h2><h3>Medium</h3><hr><p>You are given an array of positive integers <code>nums</code> and want to erase a subarray containing&nbsp;<strong>unique elements</strong>. The <strong>score</strong> you get by erasing the subarray is equal to the <strong>sum</strong> of its elements.</p>

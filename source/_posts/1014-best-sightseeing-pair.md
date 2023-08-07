@@ -1,11 +1,13 @@
 ---
 title: 1014 best sightseeing pair
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1014-best-sightseeing-pair solution
 description: 1014 best sightseeing pair LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/best-sightseeing-pair/">1014. Best Sightseeing Pair</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>values</code> where values[i] represents the value of the <code>i<sup>th</sup></code> sightseeing spot. Two sightseeing spots <code>i</code> and <code>j</code> have a <strong>distance</strong> <code>j - i</code> between them.</p>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Binary Search Template"
 description: "Binary Search Template"
 cover: /assets/img/blog-featured-image.webp

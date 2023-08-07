@@ -1,11 +1,13 @@
 ---
 title: 0382 linked list random node
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0382-linked-list-random-node solution
 description: 0382 linked list random node LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/linked-list-random-node/">382. Linked List Random Node</a></h2><h3>Medium</h3><hr><div><p>Given a singly linked list, return a random node's value from the linked list. Each node must have the <strong>same probability</strong> of being chosen.</p>

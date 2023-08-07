@@ -1,11 +1,13 @@
 ---
 title: populating next right pointers in each node ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, populating-next-right-pointers-in-each-node-ii solution
 description: populating next right pointers in each node ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>117. Populating Next Right Pointers in Each Node II</h2><h3>Medium</h3><hr><div><p>Given a binary tree</p>

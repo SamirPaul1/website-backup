@@ -1,11 +1,13 @@
 ---
 title: 2546 apply bitwise operations to make strings equal
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2546-apply-bitwise-operations-to-make-strings-equal solution
 description: 2546 apply bitwise operations to make strings equal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/">2546. Apply Bitwise Operations to Make Strings Equal</a></h2><h3>Medium</h3><hr><div><p>You are given two <strong>0-indexed binary</strong> strings <code>s</code> and <code>target</code> of the same length <code>n</code>. You can do the following operation on <code>s</code> <strong>any</strong> number of times:</p>

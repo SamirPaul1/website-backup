@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "OAuth 2.0 and OpenID Connect"
 description: "OAuth 2.0 and OpenID Connect"
 image:

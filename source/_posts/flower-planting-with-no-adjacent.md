@@ -1,11 +1,13 @@
 ---
 title: flower planting with no adjacent
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, flower-planting-with-no-adjacent solution
 description: flower planting with no adjacent LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 29/9/2021 at 12:44)](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/1546777/C%2B%2B-or-Easy-to-understand-or-DFS)  

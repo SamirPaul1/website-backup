@@ -1,11 +1,13 @@
 ---
 title: fruit into baskets
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, fruit-into-baskets solution
 description: fruit into baskets LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>904. Fruit Into Baskets</h2><h3>Medium</h3><hr><div><p>In a row of trees, the <code>i</code>-th tree&nbsp;produces&nbsp;fruit with type&nbsp;<code>tree[i]</code>.</p>

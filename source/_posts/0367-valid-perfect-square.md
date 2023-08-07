@@ -1,11 +1,13 @@
 ---
 title: 0367 valid perfect square
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0367-valid-perfect-square solution
 description: 0367 valid perfect square LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/valid-perfect-square/">367. Valid Perfect Square</a></h2><h3>Easy</h3><hr><div><p>Given a positive integer num, return <code>true</code> <em>if</em> <code>num</code> <em>is a perfect square or</em> <code>false</code> <em>otherwise</em>.</p>

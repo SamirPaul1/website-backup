@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SSL TLS mTLS"
 description: "SSL TLS mTLS"
 image:

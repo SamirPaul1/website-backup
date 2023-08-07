@@ -1,11 +1,13 @@
 ---
 title: minimum cost to move chips to the same position
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-cost-to-move-chips-to-the-same-position solution
 description: minimum cost to move chips to the same position LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1217. Minimum Cost to Move Chips to The Same Position</h2><h3>Easy</h3><hr><div><p>We have <code>n</code> chips, where the position of the <code>i<sup>th</sup></code> chip is <code>position[i]</code>.</p>

@@ -1,11 +1,13 @@
 ---
 title: 2527 count subarrays with fixed bounds
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2527-count-subarrays-with-fixed-bounds solution
 description: 2527 count subarrays with fixed bounds LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/count-subarrays-with-fixed-bounds">2527. Count Subarrays With Fixed Bounds</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>minK</code> and <code>maxK</code>.</p>

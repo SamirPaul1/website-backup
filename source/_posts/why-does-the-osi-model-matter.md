@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Why Does The OSI Model Matter?"
 description: "Why does the OSI model matter?"
 image:

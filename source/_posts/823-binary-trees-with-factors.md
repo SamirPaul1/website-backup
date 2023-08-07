@@ -1,11 +1,13 @@
 ---
 title: 823 binary trees with factors
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 823-binary-trees-with-factors solution
 description: 823 binary trees with factors LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/binary-trees-with-factors/">823. Binary Trees With Factors</a></h2><h3>Medium</h3><hr><div><p>Given an array of unique integers, <code>arr</code>, where each integer <code>arr[i]</code> is strictly greater than <code>1</code>.</p>

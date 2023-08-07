@@ -1,11 +1,13 @@
 ---
 title: 1288 remove covered intervals
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1288-remove-covered-intervals solution
 description: 1288 remove covered intervals LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/remove-covered-intervals/">1288. Remove Covered Intervals</a></h2><h3>Medium</h3><hr><div><p>Given an array <code>intervals</code> where <code>intervals[i] = [l<sub>i</sub>, r<sub>i</sub>]</code> represent the interval <code>[l<sub>i</sub>, r<sub>i</sub>)</code>, remove all intervals that are covered by another interval in the list.</p>

@@ -1,11 +1,13 @@
 ---
 title: 0894 all possible full binary trees
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0894-all-possible-full-binary-trees solution
 description: 0894 all possible full binary trees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/all-possible-full-binary-trees/">894. All Possible Full Binary Trees</a></h2><h3>Medium</h3><hr><div><p>Given an integer <code>n</code>, return <em>a list of all possible <strong>full binary trees</strong> with</em> <code>n</code> <em>nodes</em>. Each node of each tree in the answer must have <code>Node.val == 0</code>.</p>

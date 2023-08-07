@@ -1,11 +1,13 @@
 ---
 title: 21 merge two sorted lists
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 21-merge-two-sorted-lists solution
 description: 21 merge two sorted lists LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a></h2><h3>Easy</h3><hr><div><p>You are given the heads of two sorted linked lists <code>list1</code> and <code>list2</code>.</p>

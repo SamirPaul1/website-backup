@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Graph For Beginners"
 description: "Graph For Beginners"
 image:

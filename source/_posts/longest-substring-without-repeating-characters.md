@@ -1,11 +1,13 @@
 ---
 title: longest substring without repeating characters
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-substring-without-repeating-characters solution
 description: longest substring without repeating characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>3. Longest Substring Without Repeating Characters</h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code>, find the length of the <b>longest substring</b> without repeating characters.</p>

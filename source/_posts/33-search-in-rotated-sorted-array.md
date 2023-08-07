@@ -1,11 +1,13 @@
 ---
 title: 33 search in rotated sorted array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 33-search-in-rotated-sorted-array solution
 description: 33 search in rotated sorted array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">33. Search in Rotated Sorted Array</a></h2><h3>Medium</h3><hr><div><p>There is an integer array <code>nums</code> sorted in ascending order (with <strong>distinct</strong> values).</p>

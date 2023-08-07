@@ -1,11 +1,13 @@
 ---
 title: reverse substrings between each pair of parentheses
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reverse-substrings-between-each-pair-of-parentheses solution
 description: reverse substrings between each pair of parentheses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1190. Reverse Substrings Between Each Pair of Parentheses</h2><h3>Medium</h3><hr><div><p>You are given a string <code>s</code> that consists of lower case English letters and brackets.&nbsp;</p>

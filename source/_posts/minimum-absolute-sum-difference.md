@@ -1,11 +1,13 @@
 ---
 title: minimum absolute sum difference
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-absolute-sum-difference solution
 description: minimum absolute sum difference LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1818. Minimum Absolute Sum Difference</h2><h3>Medium</h3><hr><div><p>You are given two positive integer arrays <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>.</p>

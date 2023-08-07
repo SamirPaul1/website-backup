@@ -1,11 +1,13 @@
 ---
 title: 96 unique binary search trees
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 96-unique-binary-search-trees solution
 description: 96 unique binary search trees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/unique-binary-search-trees/">96. Unique Binary Search Trees</a></h2><h3>Medium</h3><hr><div><p>Given an integer <code>n</code>, return <em>the number of structurally unique <strong>BST'</strong>s (binary search trees) which has exactly </em><code>n</code><em> nodes of unique values from</em> <code>1</code> <em>to</em> <code>n</code>.</p>

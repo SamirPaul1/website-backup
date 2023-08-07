@@ -1,11 +1,13 @@
 ---
 title: power of four
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, power-of-four solution
 description: power of four LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 13/2/2021 at 18:26)](https://leetcode.com/problems/power-of-four/discuss/1107479/O(n)-or-100-fastest-C%2B%2B)  

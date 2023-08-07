@@ -1,11 +1,13 @@
 ---
 title: 2241 design an atm machine
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2241-design-an-atm-machine solution
 description: 2241 design an atm machine LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/design-an-atm-machine/">2241. Design an ATM Machine</a></h2><h3>Medium</h3><hr><div><p>There is an ATM machine that stores banknotes of <code>5</code> denominations: <code>20</code>, <code>50</code>, <code>100</code>, <code>200</code>, and <code>500</code> dollars. Initially the ATM is empty. The user can use the machine to deposit or withdraw any amount of money.</p>

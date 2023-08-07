@@ -1,11 +1,13 @@
 ---
 title: 2301 match substring after replacement
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2301-match-substring-after-replacement solution
 description: 2301 match substring after replacement LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/match-substring-after-replacement/">2301. Match Substring After Replacement</a></h2><h3>Hard</h3><hr><div><p>You are given two strings <code>s</code> and <code>sub</code>. You are also given a 2D character array <code>mappings</code> where <code>mappings[i] = [old<sub>i</sub>, new<sub>i</sub>]</code> indicates that you may <strong>replace</strong> any number of <code>old<sub>i</sub></code> characters of <code>sub</code> with <code>new<sub>i</sub></code>. Each character in <code>sub</code> <strong>cannot</strong> be replaced more than once.</p>

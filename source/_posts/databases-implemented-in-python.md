@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Databases implemented in Python"
 description: "Databases implemented in Python"
 cover: /assets/img/blog-featured-image.webp

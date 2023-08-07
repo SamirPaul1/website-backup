@@ -1,11 +1,13 @@
 ---
 title: subdomain visit count
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, subdomain-visit-count solution
 description: subdomain visit count LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 17/1/2021 at 20:33)](https://leetcode.com/problems/subdomain-visit-count/discuss/1069929/Easy-C%2B%2B-or-Unordered-Map)  

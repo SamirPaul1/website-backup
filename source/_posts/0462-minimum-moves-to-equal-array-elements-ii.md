@@ -1,11 +1,13 @@
 ---
 title: 0462 minimum moves to equal array elements ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0462-minimum-moves-to-equal-array-elements-ii solution
 description: 0462 minimum moves to equal array elements ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/">462. Minimum Moves to Equal Array Elements II</a></h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code> of size <code>n</code>, return <em>the minimum number of moves required to make all array elements equal</em>.</p>

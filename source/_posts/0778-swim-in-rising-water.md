@@ -1,11 +1,13 @@
 ---
 title: 0778 swim in rising water
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0778-swim-in-rising-water solution
 description: 0778 swim in rising water LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

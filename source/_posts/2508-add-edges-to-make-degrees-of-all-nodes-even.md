@@ -1,11 +1,13 @@
 ---
 title: 2508 add edges to make degrees of all nodes even
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2508-add-edges-to-make-degrees-of-all-nodes-even solution
 description: 2508 add edges to make degrees of all nodes even LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/">2508. Add Edges to Make Degrees of All Nodes Even</a></h2><h3>Hard</h3><hr><div><p>There is an <strong>undirected</strong> graph consisting of <code>n</code> nodes numbered from <code>1</code> to <code>n</code>. You are given the integer <code>n</code> and a <strong>2D</strong> array <code>edges</code> where <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> indicates that there is an edge between nodes <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code>. The graph can be disconnected.</p>

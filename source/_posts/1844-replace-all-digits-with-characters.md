@@ -1,11 +1,13 @@
 ---
 title: 1844 replace all digits with characters
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1844-replace-all-digits-with-characters solution
 description: 1844 replace all digits with characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/replace-all-digits-with-characters/">1844. Replace All Digits with Characters</a></h2><h3>Easy</h3><hr><div><p>You are given a <strong>0-indexed</strong> string <code>s</code> that has lowercase English letters in its <strong>even</strong> indices and digits in its <strong>odd</strong> indices.</p>

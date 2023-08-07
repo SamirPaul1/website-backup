@@ -1,11 +1,13 @@
 ---
 title: check if binary string has at most one segment of ones
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, check-if-binary-string-has-at-most-one-segment-of-ones solution
 description: check if binary string has at most one segment of ones LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 11/2/2021 at 19:17)](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/discuss/1104547/O(n)-or-C%2B%2B)  

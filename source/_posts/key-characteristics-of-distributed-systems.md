@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Key Characteristics of Distributed Systems"
 description: "Key Characteristics of Distributed Systems"
 image:

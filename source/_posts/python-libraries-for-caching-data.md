@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python libraries for caching data"
 description: "Python libraries for caching data"
 image:

@@ -1,11 +1,13 @@
 ---
 title: minimum cost to make at least one valid path in a grid
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-cost-to-make-at-least-one-valid-path-in-a-grid solution
 description: minimum cost to make at least one valid path in a grid LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1368. Minimum Cost to Make at Least One Valid Path in a Grid</h2><h3>Hard</h3><hr><div>Given a <em>m</em> x <em>n</em> <code>grid</code>. Each cell of the <code>grid</code> has a sign pointing to the next cell you should visit if you are currently in this cell. The sign of <code>grid[i][j]</code> can be:

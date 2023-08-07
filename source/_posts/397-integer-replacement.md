@@ -1,11 +1,13 @@
 ---
 title: 397 integer replacement
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 397-integer-replacement solution
 description: 397 integer replacement LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/integer-replacement/">397. Integer Replacement</a></h2><h3>Medium</h3><hr><div><p>Given a positive integer <code>n</code>,&nbsp;you can apply one of the following&nbsp;operations:</p>

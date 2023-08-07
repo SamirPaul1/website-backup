@@ -1,11 +1,13 @@
 ---
 title: single element in a sorted array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, single-element-in-a-sorted-array solution
 description: single element in a sorted array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>540. Single Element in a Sorted Array</h2><h3>Medium</h3><hr><div><p>You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly&nbsp;once. Find this single element that appears only once.</p>

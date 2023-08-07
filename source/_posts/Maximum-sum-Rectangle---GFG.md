@@ -1,11 +1,13 @@
 ---
 title: Maximum sum Rectangle   GFG
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Maximum sum Rectangle - GFG solution
 description: Maximum sum Rectangle   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # Maximum sum Rectangle

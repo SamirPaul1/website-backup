@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Single Sign-On SSO"
 description: "Single Sign-On SSO"
 image:

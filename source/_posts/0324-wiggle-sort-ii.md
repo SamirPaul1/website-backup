@@ -1,11 +1,13 @@
 ---
 title: 0324 wiggle sort ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0324-wiggle-sort-ii solution
 description: 0324 wiggle sort ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/wiggle-sort-ii/">324. Wiggle Sort II</a></h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code>, reorder it such that <code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>.</p>

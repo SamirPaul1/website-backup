@@ -1,11 +1,13 @@
 ---
 title: 316 remove duplicate letters
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 316-remove-duplicate-letters solution
 description: 316 remove duplicate letters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/remove-duplicate-letters/">316. Remove Duplicate Letters</a></h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code>, remove duplicate letters so that every letter appears once and only once. You must make sure your result is <strong>the smallest in lexicographical order</strong> among all possible results.</p>

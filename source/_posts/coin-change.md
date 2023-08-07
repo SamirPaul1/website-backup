@@ -1,11 +1,13 @@
 ---
 title: coin change
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, coin-change solution
 description: coin change LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>322. Coin Change</h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>coins</code> representing&nbsp;coins of different denominations and an integer <code>amount</code>&nbsp;representing a total amount of money.</p>

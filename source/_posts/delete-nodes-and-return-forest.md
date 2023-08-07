@@ -1,11 +1,13 @@
 ---
 title: delete nodes and return forest
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, delete-nodes-and-return-forest solution
 description: delete nodes and return forest LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1110. Delete Nodes And Return Forest</h2><h3>Medium</h3><hr><div><p>Given the <code>root</code>&nbsp;of a binary tree, each node in the tree has a distinct value.</p>

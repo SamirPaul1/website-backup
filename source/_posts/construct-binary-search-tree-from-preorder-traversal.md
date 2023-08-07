@@ -1,11 +1,13 @@
 ---
 title: construct binary search tree from preorder traversal
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, construct-binary-search-tree-from-preorder-traversal solution
 description: construct binary search tree from preorder traversal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1008. Construct Binary Search Tree from Preorder Traversal</h2><h3>Medium</h3><hr><div><p>Given an array of integers preorder, which represents the <strong>preorder traversal</strong> of a BST (i.e., <strong>binary search tree</strong>), construct the tree and return <em>its root</em>.</p>

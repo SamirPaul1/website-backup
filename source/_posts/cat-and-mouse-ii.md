@@ -1,11 +1,13 @@
 ---
 title: cat and mouse ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, cat-and-mouse-ii solution
 description: cat and mouse ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1728. Cat and Mouse II</h2><h3>Hard</h3><hr><div><p>A game is played by a cat and a mouse named Cat and Mouse.</p>

@@ -1,11 +1,13 @@
 ---
 title: 1345 jump game iv
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1345-jump-game-iv solution
 description: 1345 jump game iv LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/jump-game-iv/">1345. Jump Game IV</a></h2><h3>Hard</h3><hr><div><p>Given an array of&nbsp;integers <code>arr</code>, you are initially positioned at the first index of the array.</p>

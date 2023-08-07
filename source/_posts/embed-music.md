@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Embed MusicApp"
 description: "Embed MusicApp"
 image:
@@ -15,11 +14,11 @@ pin: false
 ---
 
 
-Embed [<b>samirpaul.in/music/embed</b>](https://samirpaul1.github.io/music/embed) music player(Lofi Study Music) to any website:
+Embed [<b>samirpaul.in/music/embed</b>](https://samirpaul.in/music/embed) music player(Lofi Study Music) to any website:
 
 ### Demo:
 
-<iframe src="https://samirpaul1.github.io/music/embed/index.html"
+<iframe src="https://samirpaul.in/music/embed/index.html"
   title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"
@@ -34,7 +33,7 @@ Embed [<b>samirpaul.in/music/embed</b>](https://samirpaul1.github.io/music/embed
 ### Code:
 
 ```html
-<iframe src="https://samirpaul1.github.io/music/embed"
+<iframe src="https://samirpaul.in/music/embed"
   title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"

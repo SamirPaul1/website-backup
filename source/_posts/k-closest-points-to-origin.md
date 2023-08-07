@@ -1,11 +1,13 @@
 ---
 title: k closest points to origin
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, k-closest-points-to-origin solution
 description: k closest points to origin LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 13/0/2021 at 17:23)](https://leetcode.com/problems/k-closest-points-to-origin/discuss/1014741/Heap-Solution-%3A)-C%2B%2B)  

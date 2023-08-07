@@ -1,11 +1,13 @@
 ---
 title: maximum width of binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, maximum-width-of-binary-tree solution
 description: maximum width of binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 29/5/2021 at 16:10)](https://leetcode.com/problems/maximum-width-of-binary-tree/discuss/1304586/C%2B%2B-or-BFS)  

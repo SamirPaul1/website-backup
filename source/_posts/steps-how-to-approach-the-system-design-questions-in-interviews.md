@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Steps how to approach the system design questions in interviews"
 description: "Steps how to approach the system design questions in interviews"
 image:

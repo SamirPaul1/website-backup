@@ -1,11 +1,13 @@
 ---
 title: shortest path in a grid with obstacles elimination
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, shortest-path-in-a-grid-with-obstacles-elimination solution
 description: shortest path in a grid with obstacles elimination LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1293. Shortest Path in a Grid with Obstacles Elimination</h2><h3>Hard</h3><hr><div><p>You are given an <code>m x n</code> integer matrix <code>grid</code> where each cell is either <code>0</code> (empty) or <code>1</code> (obstacle). You can move up, down, left, or right from and to an empty cell in <strong>one step</strong>.</p>

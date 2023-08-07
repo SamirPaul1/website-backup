@@ -1,11 +1,13 @@
 ---
 title: contiguous array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, contiguous-array solution
 description: contiguous array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>525. Contiguous Array</h2><h3>Medium</h3><hr><div><p>Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1. </p>

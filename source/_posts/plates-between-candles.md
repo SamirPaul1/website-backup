@@ -1,11 +1,13 @@
 ---
 title: plates between candles
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, plates-between-candles solution
 description: plates between candles LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>2055. Plates Between Candles</h2><h3>Medium</h3><hr><div><p>There is a long table with a line of plates and candles arranged on top of it. You are given a <strong>0-indexed</strong> string <code>s</code> consisting of characters <code>'*'</code> and <code>'|'</code> only, where a <code>'*'</code> represents a <strong>plate</strong> and a <code>'|'</code> represents a <strong>candle</strong>.</p>

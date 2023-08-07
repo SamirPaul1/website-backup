@@ -1,11 +1,13 @@
 ---
 title: subarray product less than k
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, subarray-product-less-than-k solution
 description: subarray product less than k LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 16/0/2021 at 11:52)](https://leetcode.com/problems/subarray-product-less-than-k/discuss/1019124/Sliding-Window-or-C%2B%2B)  

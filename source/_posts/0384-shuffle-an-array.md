@@ -1,11 +1,13 @@
 ---
 title: 0384 shuffle an array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0384-shuffle-an-array solution
 description: 0384 shuffle an array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/shuffle-an-array/">384. Shuffle an Array</a></h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code>, design an algorithm to randomly shuffle the array. All permutations of the array should be <strong>equally likely</strong> as a result of the shuffling.</p>

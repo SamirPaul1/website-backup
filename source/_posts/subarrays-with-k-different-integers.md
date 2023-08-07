@@ -1,11 +1,13 @@
 ---
 title: subarrays with k different integers
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, subarrays-with-k-different-integers solution
 description: subarrays with k different integers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>992. Subarrays with K Different Integers</h2><h3>Hard</h3><hr><div><p>Given an array <code>A</code> of positive integers, call a (contiguous, not necessarily distinct) subarray of <code>A</code> <em>good</em> if the number of different integers in that subarray is exactly <code>K</code>.</p>

@@ -1,11 +1,13 @@
 ---
 title: minimum number of k consecutive bit flips
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-number-of-k-consecutive-bit-flips solution
 description: minimum number of k consecutive bit flips LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>995. Minimum Number of K Consecutive Bit Flips</h2><h3>Hard</h3><hr><div><p>In an array <code>A</code> containing only 0s and 1s, a <i><code>K</code>-bit flip&nbsp;</i>consists of choosing a (contiguous) subarray of length <code>K</code> and simultaneously changing every 0 in the subarray to 1, and every 1 in the subarray to 0.</p>

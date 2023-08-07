@@ -1,11 +1,13 @@
 ---
 title: 60 permutation sequence
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 60-permutation-sequence solution
 description: 60 permutation sequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/permutation-sequence/">60. Permutation Sequence</a></h2><h3>Hard</h3><hr><div><p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>

@@ -1,11 +1,13 @@
 ---
 title: longest valid parentheses
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-valid-parentheses solution
 description: longest valid parentheses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>32. Longest Valid Parentheses</h2><h3>Hard</h3><hr><div><p>Given a string containing just the characters <code>'('</code> and <code>')'</code>, find the length of the longest valid (well-formed) parentheses substring.</p>

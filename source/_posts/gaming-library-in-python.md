@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "gaming library in python"
 description: "gaming library in python"
 image:

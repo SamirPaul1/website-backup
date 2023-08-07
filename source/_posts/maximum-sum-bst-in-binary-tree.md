@@ -1,11 +1,13 @@
 ---
 title: maximum sum bst in binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, maximum-sum-bst-in-binary-tree solution
 description: maximum sum bst in binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1373. Maximum Sum BST in Binary Tree</h2><h3>Hard</h3><hr><div><p>Given a <strong>binary tree</strong> <code>root</code>, the task is to return the maximum sum of all keys of <strong>any</strong>&nbsp;sub-tree which is also a Binary Search Tree (BST).</p>

@@ -1,11 +1,13 @@
 ---
 title: 162 find peak element
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 162-find-peak-element solution
 description: 162 find peak element LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/find-peak-element/">162. Find Peak Element</a></h2><h3>Medium</h3><hr><div><p>A peak element is an element that is strictly greater than its neighbors.</p>

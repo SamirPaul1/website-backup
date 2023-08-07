@@ -1,11 +1,13 @@
 ---
 title: smallest subtree with all the deepest nodes
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, smallest-subtree-with-all-the-deepest-nodes solution
 description: smallest subtree with all the deepest nodes LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>865. Smallest Subtree with all the Deepest Nodes</h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, the depth of each node is <strong>the shortest distance to the root</strong>.</p>

@@ -1,11 +1,13 @@
 ---
 title: score of parentheses
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, score-of-parentheses solution
 description: score of parentheses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>856. Score of Parentheses</h2><h3>Medium</h3><hr><div><p>Given a balanced parentheses string <code>S</code>, compute the score of the string based on the following rule:</p>

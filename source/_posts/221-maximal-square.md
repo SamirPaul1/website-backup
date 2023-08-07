@@ -1,11 +1,13 @@
 ---
 title: 221 maximal square
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 221-maximal-square solution
 description: 221 maximal square LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

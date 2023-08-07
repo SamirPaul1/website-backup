@@ -1,11 +1,13 @@
 ---
 title: letter combinations of a phone number
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, letter-combinations-of-a-phone-number solution
 description: letter combinations of a phone number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>  Letter Combinations of a Phone Number</h2><hr><div><p>Given a string containing digits from <code>2-9</code> inclusive, return all possible letter combinations that the number could represent. Return the answer in <strong>any order</strong>.</p>

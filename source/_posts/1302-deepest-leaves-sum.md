@@ -1,11 +1,13 @@
 ---
 title: 1302 deepest leaves sum
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1302-deepest-leaves-sum solution
 description: 1302 deepest leaves sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/deepest-leaves-sum/">1302. Deepest Leaves Sum</a></h2><h3>Medium</h3><hr><div>Given the <code>root</code> of a binary tree, return <em>the sum of values of its deepest leaves</em>.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "benefits of design patterns implementation"
 description: "benefits of design patterns implementation"
 cover: /assets/img/blog-featured-image.webp

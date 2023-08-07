@@ -1,11 +1,13 @@
 ---
 title: 1266 minimum time visiting all points
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1266-minimum-time-visiting-all-points solution
 description: 1266 minimum time visiting all points LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/minimum-time-visiting-all-points/">1266. Minimum Time Visiting All Points</a></h2><h3>Easy</h3><hr><div><p>On a 2D plane, there are <code>n</code> points with integer coordinates <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>. Return <em>the <strong>minimum time</strong> in seconds to visit all the points in the order given by </em><code>points</code>.</p>

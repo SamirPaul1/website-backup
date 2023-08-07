@@ -1,11 +1,13 @@
 ---
 title: shortest subarray with sum at least k
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, shortest-subarray-with-sum-at-least-k solution
 description: shortest subarray with sum at least k LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>862. Shortest Subarray with Sum at Least K</h2><h3>Hard</h3><hr><div><p>Return the <strong>length</strong> of the shortest, non-empty, contiguous&nbsp;subarray of <code>A</code> with sum at least <code>K</code>.</p>

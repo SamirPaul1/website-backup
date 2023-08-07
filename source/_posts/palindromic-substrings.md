@@ -1,11 +1,13 @@
 ---
 title: palindromic substrings
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, palindromic-substrings solution
 description: palindromic substrings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 14/0/2021 at 19:11)](https://leetcode.com/problems/palindromic-substrings/solution/)  

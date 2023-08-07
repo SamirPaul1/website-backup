@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Curated List of Project Based Tutorials
 description: Curated List of Project Based Tutorials
 cover: /assets/img/curated-list-of-project-based-tutorials-images.webp 

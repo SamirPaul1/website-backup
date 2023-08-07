@@ -1,11 +1,13 @@
 ---
 title: 1866 number of ways to rearrange sticks with k sticks visible
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible solution
 description: 1866 number of ways to rearrange sticks with k sticks visible LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

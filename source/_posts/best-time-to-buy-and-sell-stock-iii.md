@@ -1,11 +1,13 @@
 ---
 title: best time to buy and sell stock iii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, best-time-to-buy-and-sell-stock-iii solution
 description: best time to buy and sell stock iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>123. Best Time to Buy and Sell Stock III</h2><h3>Hard</h3><hr><div><p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>

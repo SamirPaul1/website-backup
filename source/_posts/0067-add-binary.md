@@ -1,11 +1,13 @@
 ---
 title: 0067 add binary
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0067-add-binary solution
 description: 0067 add binary LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/add-binary/">67. Add Binary</a></h2><h3>Easy</h3><hr><div><p>Given two binary strings <code>a</code> and <code>b</code>, return <em>their sum as a binary string</em>.</p>

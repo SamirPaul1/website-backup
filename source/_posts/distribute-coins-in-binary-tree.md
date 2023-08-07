@@ -1,11 +1,13 @@
 ---
 title: distribute coins in binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, distribute-coins-in-binary-tree solution
 description: distribute coins in binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 11/1/2021 at 12:29)](https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/1060344/DFS-or-C%2B%2B)  

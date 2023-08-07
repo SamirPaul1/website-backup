@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python libraries for administrative interfaces"
 description: "Python libraries for administrative interfaces"
 image:

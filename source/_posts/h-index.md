@@ -1,11 +1,13 @@
 ---
 title: h index
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, h-index solution
 description: h index LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 21/0/2021 at 20:12)](https://leetcode.com/problems/h-index/discuss/1027868/Easy-C%2B%2B)  

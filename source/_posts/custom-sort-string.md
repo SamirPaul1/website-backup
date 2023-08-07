@@ -1,11 +1,13 @@
 ---
 title: custom sort string
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, custom-sort-string solution
 description: custom sort string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>791. Custom Sort String</h2><h3>Medium</h3><hr><div><p><code>order</code> and <code>str</code> are strings composed of lowercase letters. In <code>order</code>, no letter occurs more than once.</p>

@@ -1,11 +1,13 @@
 ---
 title: number of steps to reduce a number to zero
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-steps-to-reduce-a-number-to-zero solution
 description: number of steps to reduce a number to zero LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1342. Number of Steps to Reduce a Number to Zero</h2><h3>Easy</h3><hr><div><p>Given a non-negative integer <code>num</code>, return the number of steps to reduce it to zero. If the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.</p>

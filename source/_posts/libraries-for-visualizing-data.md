@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Libraries for visualizing data"
 description: "Libraries for visualizing data"
 image:

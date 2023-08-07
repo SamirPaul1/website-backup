@@ -1,11 +1,13 @@
 ---
 title: divide array in sets of k consecutive numbers
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, divide-array-in-sets-of-k-consecutive-numbers solution
 description: divide array in sets of k consecutive numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1296. Divide Array in Sets of K Consecutive Numbers</h2><h3>Medium</h3><hr><div><p>Given an array of integers <code>nums</code> and a positive integer <code>k</code>, find whether it's possible to divide this array into sets of <code>k</code> consecutive numbers<br>

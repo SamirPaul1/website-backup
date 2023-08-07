@@ -1,11 +1,13 @@
 ---
 title: Maximize XOR   GFG
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Maximize XOR - GFG solution
 description: Maximize XOR   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # Maximize XOR

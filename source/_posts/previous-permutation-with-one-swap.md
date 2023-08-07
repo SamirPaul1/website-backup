@@ -1,11 +1,13 @@
 ---
 title: previous permutation with one swap
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, previous-permutation-with-one-swap solution
 description: previous permutation with one swap LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 15/1/2021 at 15:20)](https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/1066611/C%2B%2B-or-With-Explanation)  

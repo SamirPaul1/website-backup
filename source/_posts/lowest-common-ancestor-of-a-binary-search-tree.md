@@ -1,11 +1,13 @@
 ---
 title: lowest common ancestor of a binary search tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, lowest-common-ancestor-of-a-binary-search-tree solution
 description: lowest common ancestor of a binary search tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>235. Lowest Common Ancestor of a Binary Search Tree</h2><h3>Easy</h3><hr><div><p>Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.</p>

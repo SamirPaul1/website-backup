@@ -1,11 +1,13 @@
 ---
 title: range sum query mutable
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, range-sum-query-mutable solution
 description: range sum query mutable LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>307. Range Sum Query - Mutable</h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code>, handle multiple queries of the following types:</p>

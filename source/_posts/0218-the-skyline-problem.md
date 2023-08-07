@@ -1,11 +1,13 @@
 ---
 title: 0218 the skyline problem
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0218-the-skyline-problem solution
 description: 0218 the skyline problem LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/the-skyline-problem/">218. The Skyline Problem</a></h2><h3>Hard</h3><hr><div><p>A city's <strong>skyline</strong> is the outer contour of the silhouette formed by all the buildings in that city when viewed from a distance. Given the locations and heights of all the buildings, return <em>the <strong>skyline</strong> formed by these buildings collectively</em>.</p>

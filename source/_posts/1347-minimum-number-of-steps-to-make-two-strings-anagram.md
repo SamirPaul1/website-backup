@@ -1,11 +1,13 @@
 ---
 title: 1347 minimum number of steps to make two strings anagram
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1347-minimum-number-of-steps-to-make-two-strings-anagram solution
 description: 1347 minimum number of steps to make two strings anagram LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/">1347. Minimum Number of Steps to Make Two Strings Anagram</a></h2><h3>Medium</h3><hr><div><p>You are given two strings of the same length <code>s</code> and <code>t</code>. In one step you can choose <strong>any character</strong> of <code>t</code> and replace it with <strong>another character</strong>.</p>

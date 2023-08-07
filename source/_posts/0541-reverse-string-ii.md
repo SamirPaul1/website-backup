@@ -1,11 +1,13 @@
 ---
 title: 0541 reverse string ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0541-reverse-string-ii solution
 description: 0541 reverse string ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/reverse-string-ii/">541. Reverse String II</a></h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code> and an integer <code>k</code>, reverse the first <code>k</code> characters for every <code>2k</code> characters counting from the start of the string.</p>

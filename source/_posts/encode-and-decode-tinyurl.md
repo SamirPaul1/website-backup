@@ -1,11 +1,13 @@
 ---
 title: encode and decode tinyurl
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, encode-and-decode-tinyurl solution
 description: encode and decode tinyurl LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 19/1/2021 at 0:54)](https://leetcode.com/problems/encode-and-decode-tinyurl/discuss/1071815/C%2B%2B-or-Map)  

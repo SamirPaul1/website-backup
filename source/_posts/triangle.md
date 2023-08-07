@@ -1,11 +1,13 @@
 ---
 title: triangle
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, triangle solution
 description: triangle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>120. Triangle</h2><h3>Medium</h3><hr><div><p>Given a <code>triangle</code> array, return <em>the minimum path sum from top to bottom</em>.</p>

@@ -1,11 +1,13 @@
 ---
 title: 01 matrix
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 01-matrix solution
 description: 01 matrix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>542. 01 Matrix</h2><h3>Medium</h3><hr><div><p>Given a matrix consists of 0 and 1, find the distance of the nearest 0 for each cell.</p>

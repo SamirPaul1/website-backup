@@ -23,7 +23,7 @@ keywords: >-
 author: Samir Paul
 language: en
 timezone: Asia/Kolkata
-url: https://samirpaul1.github.io/
+url: https://samirpaul.in/
 permalink: posts/:title/
 permalink_defaults: null
 pretty_urls:
@@ -36,7 +36,6 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: ':lang'
-skip_render: null
 new_post_name: ':title.md'
 default_layout: post
 titlecase: false
@@ -46,7 +45,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: true
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -109,7 +108,7 @@ robotstxt:
   useragent: "*"
   allow:
     - /
-  sitemap: https://samirpaul1.github.io/sitemap.xml
+  sitemap: https://samirpaul.in/sitemap.xml
 all_minifier: false
 # pwa:
 #   manifest:
@@ -150,14 +149,58 @@ all_minifier: false
 #       - pattern: !!js/regexp /\//
 #         strategy: networkFirst
 #   priority: 5
+hexo_seo_autopush:
+  cron: 0 4 * * *
+  bing:
+    enable: true
+    date: created
+    count: 20
+  google:
+    enable: true
+    date: created
+    count: 20
+skip_render:
+  - autocomplete/**
+  - CodeforcesVisualizer/**
+  - compress-image/**
+  - link/**
+  - links/**
+  - MakeNotes/**
+  - music/**
+  - mysql/**
+  - txt-compressor/**
+  - portfolio/**
+  - top-75-leetcode-questions/**
+  - WeatherApp/**
+  - contact.html
+  - system-design-primer.html
+  - system-design.html
+  - DSAlgo.html
+  - LeetCode.html
+  - DSAlgo.htm
+  - github.html
+  - google43a059169b3f667a.html
+  - resume.html
+  - pinterest.html
+  - privacy.html
+  - twitter.html
+  - mastodon.html
+  - nortonsw_9f2a2380-6a3d-0.html
+  - nortonsw_47411990-6a3f-0.html
+  - pinterest-24bac.html
+  - linkedin.html
+  - instagram.html
+  - facebook.html
+  - dmca-validation.html
+
 deploy:
   type: git
-  repo: https://github.com/SamirPaul1/SamirPaul1.github.io
-  branch: [main]
+  repo: https://github.com/SamirPaul1/website
+  branch: [samir.pages.dev]
   # token: ''
   # message: [message]
   # name: [SamirPaul1]
-  # email: [samir.paul.personal@gmail.com]
+  # email: []
   # # extend_dirs: [extend directory]
   # ignore_hidden: false # default is true
   # ignore_pattern: regexp

@@ -1,11 +1,13 @@
 ---
 title: 0091 decode ways
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0091-decode-ways solution
 description: 0091 decode ways LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/decode-ways/">91. Decode Ways</a></h2><h3>Medium</h3><hr><div><p>A message containing letters from <code>A-Z</code> can be <strong>encoded</strong> into numbers using the following mapping:</p>

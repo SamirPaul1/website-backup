@@ -1,11 +1,13 @@
 ---
 title: minimum remove to make valid parentheses
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-remove-to-make-valid-parentheses solution
 description: minimum remove to make valid parentheses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1249. Minimum Remove to Make Valid Parentheses</h2><h3>Medium</h3><hr><div><p>Given a string <font face="monospace">s</font>&nbsp;of&nbsp;<code>'('</code>&nbsp;,&nbsp;<code>')'</code>&nbsp;and lowercase English characters.&nbsp;</p>

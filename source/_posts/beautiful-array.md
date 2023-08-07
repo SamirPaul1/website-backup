@@ -1,11 +1,13 @@
 ---
 title: beautiful array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, beautiful-array solution
 description: beautiful array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>932. Beautiful Array</h2><h3>Medium</h3><hr><div><p>For some fixed <code>n</code>, an array <code>nums</code> is <em>beautiful</em> if it is a permutation of the integers <code>1, 2, ..., n</code>, such that:</p>

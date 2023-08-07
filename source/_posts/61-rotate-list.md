@@ -1,11 +1,13 @@
 ---
 title: 61 rotate list
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 61-rotate-list solution
 description: 61 rotate list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/rotate-list/">61. Rotate List</a></h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a linked&nbsp;list, rotate the list to the right by <code>k</code> places.</p>

@@ -1,11 +1,13 @@
 ---
 title: time needed to inform all employees
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, time-needed-to-inform-all-employees solution
 description: time needed to inform all employees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 31/0/2021 at 1:35)](https://leetcode.com/problems/time-needed-to-inform-all-employees/discuss/1042488/DFS-C%2B%2B-Solution)  

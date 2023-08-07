@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Some of My Online Courses Certificates"
 description: "Some of My Online Courses Certificates"
 image:

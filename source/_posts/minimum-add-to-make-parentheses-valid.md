@@ -1,11 +1,13 @@
 ---
 title: minimum add to make parentheses valid
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-add-to-make-parentheses-valid solution
 description: minimum add to make parentheses valid LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 3/1/2021 at 15:34)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/discuss/1047782/100-C%2B%2B)  

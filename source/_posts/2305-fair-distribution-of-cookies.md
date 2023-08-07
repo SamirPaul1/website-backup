@@ -1,11 +1,13 @@
 ---
 title: 2305 fair distribution of cookies
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2305-fair-distribution-of-cookies solution
 description: 2305 fair distribution of cookies LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/fair-distribution-of-cookies/">2305. Fair Distribution of Cookies</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>cookies</code>, where <code>cookies[i]</code> denotes the number of cookies in the <code>i<sup>th</sup></code> bag. You are also given an integer <code>k</code> that denotes the number of children to distribute <strong>all</strong> the bags of cookies to. All the cookies in the same bag must go to the same child and cannot be split up.</p>

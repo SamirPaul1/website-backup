@@ -1,10 +1,10 @@
 ---
 title: Largest Element in Array   GFG
 date: 2020-08-31 09:54:52
-tags: GeeksforGeeks
-categories: GeeksforGeeks
+tags: geeksforgeeks
+categories: geeksforgeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Largest Element in Array - GFG solution
-cover: assets/img/gfg.webp
+cover: /assets/img/gfg.webp
 ---
 
 

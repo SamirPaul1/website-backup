@@ -1,11 +1,13 @@
 ---
 title: all possible full binary trees
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, all-possible-full-binary-trees solution
 description: all possible full binary trees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>894. All Possible Full Binary Trees</h2><h3>Medium</h3><hr><div><p>A <em>full binary tree</em>&nbsp;is a binary tree where each node has exactly 0 or 2&nbsp;children.</p>

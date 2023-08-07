@@ -1,11 +1,13 @@
 ---
 title: 0846 hand of straights
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0846-hand-of-straights solution
 description: 0846 hand of straights LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/hand-of-straights/">846. Hand of Straights</a></h2><h3>Medium</h3><hr><div><p>Alice has some number of cards and she wants to rearrange the cards into groups so that each group is of size <code>groupSize</code>, and consists of <code>groupSize</code> consecutive cards.</p>

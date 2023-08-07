@@ -1,11 +1,13 @@
 ---
 title: 551 student attendance record i
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 551-student-attendance-record-i solution
 description: 551 student attendance record i LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/student-attendance-record-i/">551. Student Attendance Record I</a></h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code> representing an attendance record for a student where each character signifies whether the student was absent, late, or present on that day. The record only contains the following three characters:</p>

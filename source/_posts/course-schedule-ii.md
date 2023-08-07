@@ -1,11 +1,13 @@
 ---
 title: course schedule ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, course-schedule-ii solution
 description: course schedule ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>210. Course Schedule II</h2><h3>Medium</h3><hr><div><p>There are a total of <code>n</code> courses you have to take labelled from <code>0</code> to <code>n - 1</code>.</p>

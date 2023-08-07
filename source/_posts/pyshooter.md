@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PyShooter Python Game"
 description: "PyShooter Python two-dimensional shooter game"
 cover: /assets/img/blog-featured-image.webp

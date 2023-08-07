@@ -1,12 +1,13 @@
 ---
 title: C++ Data Types   GFG
-date:
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, C++ Data Types - GFG solution
 description: C++ Data Types - GFG
-cover: assets/img/leetcode-cover-img.webp
+cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # C++ Data Types

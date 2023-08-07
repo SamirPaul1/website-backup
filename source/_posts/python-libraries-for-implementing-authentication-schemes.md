@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python libraries for implementing authentication schemes"
 description: "Python libraries for implementing authentication schemes"
 image:

@@ -1,11 +1,13 @@
 ---
 title: word search
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, word-search solution
 description: word search LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 22/0/2021 at 17:59)](https://leetcode.com/problems/word-search/discuss/1029329/Easy-To-Understand-or-DFS-or-C%2B%2B)  

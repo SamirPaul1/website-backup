@@ -1,11 +1,13 @@
 ---
 title: reverse nodes in k group
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reverse-nodes-in-k-group solution
 description: reverse nodes in k group LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>25. Reverse Nodes in k-Group</h2><h3>Hard</h3><hr><div><p>Given a linked list, reverse the nodes of a linked list <em>k</em> at a time and return its modified list.</p>

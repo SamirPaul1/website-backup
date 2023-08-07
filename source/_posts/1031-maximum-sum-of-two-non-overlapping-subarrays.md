@@ -1,11 +1,13 @@
 ---
 title: 1031 maximum sum of two non overlapping subarrays
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1031-maximum-sum-of-two-non-overlapping-subarrays solution
 description: 1031 maximum sum of two non overlapping subarrays LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/">1031. Maximum Sum of Two Non-Overlapping Subarrays</a></h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code> and two integers <code>firstLen</code> and <code>secondLen</code>, return <em>the maximum sum of elements in two non-overlapping <strong>subarrays</strong> with lengths </em><code>firstLen</code><em> and </em><code>secondLen</code>.</p>

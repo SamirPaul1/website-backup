@@ -1,11 +1,13 @@
 ---
 title: 961 n repeated element in size 2n array
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 961-n-repeated-element-in-size-2n-array solution
 description: 961 n repeated element in size 2n array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">961. N-Repeated Element in Size 2N Array</a></h2><h3>Easy</h3><hr><div><p>You are given an integer array <code>nums</code> with the following properties:</p>

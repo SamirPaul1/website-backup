@@ -1,11 +1,13 @@
 ---
 title: reduce array size to the half
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reduce-array-size-to-the-half solution
 description: reduce array size to the half LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1338. Reduce Array Size to The Half</h2><h3>Medium</h3><hr><div><p>Given an array <code>arr</code>.&nbsp; You can choose a set of integers and remove all the occurrences of these integers in the array.</p>

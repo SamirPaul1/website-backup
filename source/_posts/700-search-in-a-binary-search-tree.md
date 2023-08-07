@@ -1,11 +1,13 @@
 ---
 title: 700 search in a binary search tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 700-search-in-a-binary-search-tree solution
 description: 700 search in a binary search tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">700. Search in a Binary Search Tree</a></h2><h3>Easy</h3><hr><div><p>You are given the <code>root</code> of a binary search tree (BST) and an integer <code>val</code>.</p>

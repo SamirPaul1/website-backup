@@ -1,11 +1,13 @@
 ---
 title: all nodes distance k in binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, all-nodes-distance-k-in-binary-tree solution
 description: all nodes distance k in binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>863. All Nodes Distance K in Binary Tree</h2><h3>Medium</h3><hr><div><p>We are given a binary tree (with root node&nbsp;<code>root</code>), a <code>target</code> node, and an integer value <code>k</code>.</p>

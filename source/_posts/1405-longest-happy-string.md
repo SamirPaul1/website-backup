@@ -1,11 +1,13 @@
 ---
 title: 1405 longest happy string
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1405-longest-happy-string solution
 description: 1405 longest happy string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/longest-happy-string/">1405. Longest Happy String</a></h2><h3>Medium</h3><hr><div><p>A string <code>s</code> is called <strong>happy</strong> if it satisfies the following conditions:</p>

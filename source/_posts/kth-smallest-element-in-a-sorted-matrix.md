@@ -1,11 +1,13 @@
 ---
 title: kth smallest element in a sorted matrix
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, kth-smallest-element-in-a-sorted-matrix solution
 description: kth smallest element in a sorted matrix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 19/3/2021 at 15:44)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/?currentPage=1&orderBy=most_votes&query=)  

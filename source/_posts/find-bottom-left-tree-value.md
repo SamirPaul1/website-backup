@@ -1,11 +1,13 @@
 ---
 title: find bottom left tree value
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-bottom-left-tree-value solution
 description: find bottom left tree value LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>513. Find Bottom Left Tree Value</h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, return the leftmost value in the last row of the tree.</p>

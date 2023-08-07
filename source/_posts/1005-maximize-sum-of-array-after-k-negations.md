@@ -1,11 +1,13 @@
 ---
 title: 1005 maximize sum of array after k negations
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1005-maximize-sum-of-array-after-k-negations solution
 description: 1005 maximize sum of array after k negations LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/">1005. Maximize Sum Of Array After K Negations</a></h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code> and an integer <code>k</code>, modify the array in the following way:</p>

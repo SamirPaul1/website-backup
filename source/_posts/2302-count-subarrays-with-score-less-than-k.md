@@ -1,11 +1,13 @@
 ---
 title: 2302 count subarrays with score less than k
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2302-count-subarrays-with-score-less-than-k solution
 description: 2302 count subarrays with score less than k LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/count-subarrays-with-score-less-than-k/">2302. Count Subarrays With Score Less Than K</a></h2><h3>Hard</h3><hr><div><p>The <strong>score</strong> of an array is defined as the <strong>product</strong> of its sum and its length.</p>

@@ -1,11 +1,13 @@
 ---
 title: sort characters by frequency
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sort-characters-by-frequency solution
 description: sort characters by frequency LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>451. Sort Characters By Frequency</h2><h3>Medium</h3><hr><div><p>Given a string, sort it in decreasing order based on the frequency of characters.</p>

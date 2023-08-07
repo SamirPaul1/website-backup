@@ -1,11 +1,13 @@
 ---
 title: find k closest elements
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-k-closest-elements solution
 description: find k closest elements LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>658. Find K Closest Elements</h2><h3>Medium</h3><hr><div><p>Given a <strong>sorted</strong> integer&nbsp;array <code>arr</code>, two integers <code>k</code> and <code>x</code>, return the <code>k</code> closest integers to <code>x</code> in the array. The result should also be sorted in ascending order.</p>

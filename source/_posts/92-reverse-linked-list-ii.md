@@ -1,11 +1,13 @@
 ---
 title: 92 reverse linked list ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 92-reverse-linked-list-ii solution
 description: 92 reverse linked list ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/reverse-linked-list-ii/">92. Reverse Linked List II</a></h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a singly linked list and two integers <code>left</code> and <code>right</code> where <code>left &lt;= right</code>, reverse the nodes of the list from position <code>left</code> to position <code>right</code>, and return <em>the reversed list</em>.</p>

@@ -1,11 +1,13 @@
 ---
 title: 1342 number of steps to reduce a number to zero
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1342-number-of-steps-to-reduce-a-number-to-zero solution
 description: 1342 number of steps to reduce a number to zero LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 

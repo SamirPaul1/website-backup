@@ -1,11 +1,13 @@
 ---
 title: 0678 valid parenthesis string
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0678-valid-parenthesis-string solution
 description: 0678 valid parenthesis string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/valid-parenthesis-string/">678. Valid Parenthesis String</a></h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code> containing only three types of characters: <code>'('</code>, <code>')'</code> and <code>'*'</code>, return <code>true</code> <em>if</em> <code>s</code> <em>is <strong>valid</strong></em>.</p>

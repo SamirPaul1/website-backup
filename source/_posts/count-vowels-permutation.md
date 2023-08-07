@@ -1,11 +1,13 @@
 ---
 title: count vowels permutation
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, count-vowels-permutation solution
 description: count vowels permutation LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1220. Count Vowels Permutation</h2><h3>Hard</h3><hr><div><p>Given an integer <code>n</code>, your task is to count how many strings of length <code>n</code> can be formed under the following rules:</p>

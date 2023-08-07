@@ -1,10 +1,10 @@
 ---
 title: Search an element in sorted and rotated array   GFG
 date: 2020-08-31 09:54:52
-tags: GeeksforGeeks
-categories: GeeksforGeeks
+tags: geeksforgeeks
+categories: geeksforgeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Search an element in sorted and rotated array - GFG solution
-cover: assets/img/gfg.webp
+cover: /assets/img/gfg.webp
 ---
 
 

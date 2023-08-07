@@ -1,11 +1,13 @@
 ---
 title: 0474 ones and zeroes
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0474-ones-and-zeroes solution
 description: 0474 ones and zeroes LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/ones-and-zeroes/">474. Ones and Zeroes</a></h2><h3>Medium</h3><hr><div><p>You are given an array of binary strings <code>strs</code> and two integers <code>m</code> and <code>n</code>.</p>

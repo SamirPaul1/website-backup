@@ -1,11 +1,13 @@
 ---
 title: longest palindromic subsequence
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-palindromic-subsequence solution
 description: longest palindromic subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>516. Longest Palindromic Subsequence</h2><h3>Medium</h3><hr><div><p>Given a string s, find the longest palindromic subsequence's length in s. You may assume that the maximum length of s is 1000.</p>

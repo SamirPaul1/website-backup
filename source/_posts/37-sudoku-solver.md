@@ -1,11 +1,13 @@
 ---
 title: 37 sudoku solver
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 37-sudoku-solver solution
 description: 37 sudoku solver LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/sudoku-solver/">37. Sudoku Solver</a></h2><h3>Hard</h3><hr><div><p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>

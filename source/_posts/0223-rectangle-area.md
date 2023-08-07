@@ -1,11 +1,13 @@
 ---
 title: 0223 rectangle area
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0223-rectangle-area solution
 description: 0223 rectangle area LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/rectangle-area/">223. Rectangle Area</a></h2><h3>Medium</h3><hr><div><p>Given the coordinates of two <strong>rectilinear</strong> rectangles in a 2D plane, return <em>the total area covered by the two rectangles</em>.</p>

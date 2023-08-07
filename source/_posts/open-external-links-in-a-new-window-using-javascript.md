@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Open External Links in a New Window Using JavaScript"
 description: "Open External Links in a New Window Using JavaScript"
 cover: /assets/img/open-external-links-in-a-new-window-using-javascript.webp

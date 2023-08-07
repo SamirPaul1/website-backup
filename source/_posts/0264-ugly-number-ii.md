@@ -1,11 +1,13 @@
 ---
 title: 0264 ugly number ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0264-ugly-number-ii solution
 description: 0264 ugly number ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/ugly-number-ii/">264. Ugly Number II</a></h2><h3>Medium</h3><hr><div><p>An <strong>ugly number</strong> is a positive integer whose prime factors are limited to <code>2</code>, <code>3</code>, and <code>5</code>.</p>

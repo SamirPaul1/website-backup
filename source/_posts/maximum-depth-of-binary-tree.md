@@ -1,11 +1,13 @@
 ---
 title: maximum depth of binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, maximum-depth-of-binary-tree solution
 description: maximum depth of binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>104. Maximum Depth of Binary Tree</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, return <em>its maximum depth</em>.</p>

@@ -1,11 +1,13 @@
 ---
 title: 1446 consecutive characters
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1446-consecutive-characters solution
 description: 1446 consecutive characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/consecutive-characters/">1446. Consecutive Characters</a></h2><h3>Easy</h3><hr><div><p>The <strong>power</strong> of the string is the maximum length of a non-empty substring that contains only one unique character.</p>

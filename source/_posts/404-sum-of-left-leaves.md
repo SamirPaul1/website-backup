@@ -1,11 +1,13 @@
 ---
 title: 404 sum of left leaves
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 404-sum-of-left-leaves solution
 description: 404 sum of left leaves LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/sum-of-left-leaves/">404. Sum of Left Leaves</a></h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, return the sum of all left leaves.</p>

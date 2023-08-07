@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Operating System Notes For Placement"
 description: "Operating System Notes For Tech Placements"
 cover: /assets/img/os-cover.jpg

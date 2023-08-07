@@ -1,11 +1,13 @@
 ---
 title: regions cut by slashes
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, regions-cut-by-slashes solution
 description: regions cut by slashes LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 30/0/2021 at 13:22)](https://leetcode.com/problems/regions-cut-by-slashes/discuss/1041633/DFS-Solution-C%2B%2B)  

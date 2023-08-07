@@ -1,11 +1,13 @@
 ---
 title: hand of straights
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, hand-of-straights solution
 description: hand of straights LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>846. Hand of Straights</h2><h3>Medium</h3><hr><div><p>Alice has a <code>hand</code> of cards, given as an array of integers.</p>

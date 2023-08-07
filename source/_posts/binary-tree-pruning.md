@@ -1,11 +1,13 @@
 ---
 title: binary tree pruning
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, binary-tree-pruning solution
 description: binary tree pruning LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>814. Binary Tree Pruning</h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, return <em>the same tree where every subtree (of the given tree) not containing a </em><code>1</code><em> has been removed</em>.</p>

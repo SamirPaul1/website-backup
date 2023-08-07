@@ -1,11 +1,13 @@
 ---
 title: 559 maximum depth of n ary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 559-maximum-depth-of-n-ary-tree solution
 description: 559 maximum depth of n ary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-depth-of-n-ary-tree/">559. Maximum Depth of N-ary Tree</a></h2><h3>Easy</h3><hr><div><p>Given a n-ary tree, find its maximum depth.</p>

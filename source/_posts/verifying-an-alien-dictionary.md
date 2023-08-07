@@ -1,11 +1,13 @@
 ---
 title: verifying an alien dictionary
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, verifying-an-alien-dictionary solution
 description: verifying an alien dictionary LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>953. Verifying an Alien Dictionary</h2><h3>Easy</h3><hr><div><p>In an alien language, surprisingly they also use english lowercase letters, but possibly&nbsp;in a different <code>order</code>. The&nbsp;<code>order</code> of the alphabet&nbsp;is some permutation&nbsp;of lowercase letters.</p>

@@ -1,11 +1,13 @@
 ---
 title: smallest range covering elements from k lists
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, smallest-range-covering-elements-from-k-lists solution
 description: smallest range covering elements from k lists LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>632. Smallest Range Covering Elements from K Lists</h2><h3>Hard</h3><hr><div><p>You have <code>k</code> lists of sorted integers in <strong>non-decreasing&nbsp;order</strong>. Find the <b>smallest</b> range that includes at least one number from each of the <code>k</code> lists.</p>

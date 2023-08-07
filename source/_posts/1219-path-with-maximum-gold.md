@@ -1,11 +1,13 @@
 ---
 title: 1219 path with maximum gold
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1219-path-with-maximum-gold solution
 description: 1219 path with maximum gold LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/path-with-maximum-gold/">1219. Path with Maximum Gold</a></h2><h3>Medium</h3><hr><div><p>In a gold mine <code>grid</code> of size <code>m x n</code>, each cell in this mine has an integer representing the amount of gold in that cell, <code>0</code> if it is empty.</p>

@@ -1,12 +1,13 @@
 ---
 title: C++ if else (Decision Making)   GFG
-date:
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, C++ if-else (Decision Making) - GFG solution
 description: C++ if-else (Decision Making) - GFG
-cover: assets/img/leetcode-cover-img.webp
+cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 # C++ if-else (Decision Making)

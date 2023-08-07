@@ -1,11 +1,13 @@
 ---
 title: balanced binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, balanced-binary-tree solution
 description: balanced binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>110. Balanced Binary Tree</h2><h3>Easy</h3><hr><div><p>Given a binary tree, determine if it is height-balanced.</p>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "High-level design"
 description: "High-level design"
 image:

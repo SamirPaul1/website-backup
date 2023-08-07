@@ -1,11 +1,13 @@
 ---
 title: power of two
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, power-of-two solution
 description: power of two LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 15/0/2021 at 22:58)](https://leetcode.com/problems/power-of-two/discuss/1018370/C%2B%2B-or-EASY)  

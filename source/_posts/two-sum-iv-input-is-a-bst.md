@@ -1,11 +1,13 @@
 ---
 title: two sum iv input is a bst
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, two-sum-iv-input-is-a-bst solution
 description: two sum iv input is a bst LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>653. Two Sum IV - Input is a BST</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a Binary Search Tree and a target number <code>k</code>, return <em><code>true</code> if there exist two elements in the BST such that their sum is equal to the given target</em>.</p>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: System Design Course
 description: System Design Course
 cover: /assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp

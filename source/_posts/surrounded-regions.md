@@ -1,11 +1,13 @@
 ---
 title: surrounded regions
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, surrounded-regions solution
 description: surrounded regions LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>130. Surrounded Regions</h2><h3>Medium</h3><hr><div><p>Given an <code>m x n</code> matrix <code>board</code> containing <code>'X'</code> and <code>'O'</code>, <em>capture all regions surrounded by</em> <code>'X'</code>.</p>

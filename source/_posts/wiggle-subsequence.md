@@ -1,11 +1,13 @@
 ---
 title: wiggle subsequence
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, wiggle-subsequence solution
 description: wiggle subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 1/1/2021 at 15:37)](https://leetcode.com/problems/wiggle-subsequence/discuss/1044893/Greedy-or-C%2B%2B)  

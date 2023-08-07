@@ -1,11 +1,13 @@
 ---
 title: 0667 beautiful arrangement ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0667-beautiful-arrangement-ii solution
 description: 0667 beautiful arrangement ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/beautiful-arrangement-ii/">667. Beautiful Arrangement II</a></h2><h3>Medium</h3><hr><div><p>Given two integers <code>n</code> and <code>k</code>, construct a list <code>answer</code> that contains <code>n</code> different positive integers ranging from <code>1</code> to <code>n</code> and obeys the following requirement:</p>

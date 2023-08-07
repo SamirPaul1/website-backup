@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SQL vs. NoSQL"
 description: "SQL vs. NoSQL"
 top_img: /assets/img/blog-featured-image.webp

@@ -1,11 +1,13 @@
 ---
 title: 2271 maximum white tiles covered by a carpet
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2271-maximum-white-tiles-covered-by-a-carpet solution
 description: 2271 maximum white tiles covered by a carpet LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/">2271. Maximum White Tiles Covered by a Carpet</a></h2><h3>Medium</h3><hr><div><p>You are given a 2D integer array <code>tiles</code> where <code>tiles[i] = [l<sub>i</sub>, r<sub>i</sub>]</code> represents that every tile <code>j</code> in the range <code>l<sub>i</sub> &lt;= j &lt;= r<sub>i</sub></code> is colored white.</p>

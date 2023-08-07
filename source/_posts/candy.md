@@ -1,11 +1,13 @@
 ---
 title: candy
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, candy solution
 description: candy LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>135. Candy</h2><h3>Hard</h3><hr><div><p>There are <em>N</em> children standing in a line. Each child is assigned a rating value.</p>

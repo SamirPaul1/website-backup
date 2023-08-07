@@ -1,11 +1,13 @@
 ---
 title: path in zigzag labelled binary tree
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, path-in-zigzag-labelled-binary-tree solution
 description: path in zigzag labelled binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1104. Path In Zigzag Labelled Binary Tree</h2><h3>Medium</h3><hr><div><p>In an infinite binary tree where every node has two children, the nodes are labelled in row order.</p>

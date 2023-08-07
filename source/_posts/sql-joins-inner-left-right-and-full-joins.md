@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SQL Joins - Inner, Left, Right and Full Joins"
 description: "SQL Joins - Inner, Left, Right and Full Joins"
 image:
@@ -8,7 +7,7 @@ image:
   height: 132
   alt: "SQL Joins - Inner, Left, Right and Full Joins"
 categories: [Blog]
-tags: [blog, coding, computer-science, INNER JOIN, RIGHT JOIN, FULL JOIN, SQL, SQL Joins]
+tags: [blog, coding, computer-science, sql-joins, sql]
 published: true
 sitemap: true
 pin: false

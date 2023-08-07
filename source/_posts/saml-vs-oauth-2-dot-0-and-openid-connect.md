@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SAML vs OAuth 2.0 and OpenID Connect"
 description: "SAML vs OAuth 2.0 and OpenID Connect"
 image:

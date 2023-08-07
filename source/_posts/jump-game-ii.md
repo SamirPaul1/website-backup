@@ -1,11 +1,13 @@
 ---
 title: jump game ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, jump-game-ii solution
 description: jump game ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>45. Jump Game II</h2><h3>Hard</h3><hr><div><p>Given an array of non-negative integers <code>nums</code>, you are initially positioned at the first index of the array.</p>

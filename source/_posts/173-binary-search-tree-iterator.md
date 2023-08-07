@@ -1,11 +1,13 @@
 ---
 title: 173 binary search tree iterator
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 173-binary-search-tree-iterator solution
 description: 173 binary search tree iterator LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2><a href="https://leetcode.com/problems/binary-search-tree-iterator/">173. Binary Search Tree Iterator</a></h2><h3>Medium</h3><hr><div><p>Implement the <code>BSTIterator</code> class that represents an iterator over the <strong><a href="https://en.wikipedia.org/wiki/Tree_traversal#In-order_(LNR)" target="_blank">in-order traversal</a></strong> of a binary search tree (BST):</p>

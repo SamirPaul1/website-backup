@@ -1,11 +1,13 @@
 ---
 title: search a 2d matrix ii
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, search-a-2d-matrix-ii solution
 description: search a 2d matrix ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>240. Search a 2D Matrix II</h2><h3>Medium</h3><hr><div><p>Write an efficient algorithm that searches for a <code>target</code> value in an <code>m x n</code> integer <code>matrix</code>. The <code>matrix</code> has the following properties:</p>

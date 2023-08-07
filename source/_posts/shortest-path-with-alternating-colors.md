@@ -1,11 +1,13 @@
 ---
 title: shortest path with alternating colors
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, shortest-path-with-alternating-colors solution
 description: shortest path with alternating colors LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 <h2>1129. Shortest Path with Alternating Colors</h2><h3>Medium</h3><hr><div><p>Consider a directed graph, with nodes labelled <code>0, 1, ..., n-1</code>.&nbsp; In this graph, each edge is either red or blue, and there could&nbsp;be self-edges or parallel edges.</p>

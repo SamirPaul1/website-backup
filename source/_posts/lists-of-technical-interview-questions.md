@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lists of Technical Interview Questions
 description: Lists of Technical Interview Questions
 cover: /assets/img/list-of-interview-questions-blog-images.webp

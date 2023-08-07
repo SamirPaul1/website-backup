@@ -1,11 +1,13 @@
 ---
 title: burst balloons
-tags: LeetCode
-categories: LeetCode
+tags: leetcode
+categories: leetcode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, burst-balloons solution
 description: burst balloons LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
 ---
+
+
 
 
 [Discussion Post (created on 9/3/2021 at 13:43)](https://leetcode.com/problems/burst-balloons/discuss/1149843/MCM-or-Top-down-C%2B%2B)  

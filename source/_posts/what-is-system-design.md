@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What is System Design?"
 description: "What is System Design?"
 image:
