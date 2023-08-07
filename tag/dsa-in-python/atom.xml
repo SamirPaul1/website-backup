@@ -36,16 +36,16 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
-    <category term="python" />
-    <category term="python-frameworks" />
-    <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="leetcode" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
     <category term="leetcode-cheetsheet" />
     <category term="important-leetcode-solutions" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -144,7 +144,7 @@
 &lt;p&gt;&lt;img src=&#34;/assets/img/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg&#34; alt=&#34;DSAlgo repo&#34; title=&#34;DSAlgo repository&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;b&gt;View this repository in online VS Code: &lt;a href=&#34;https://samirpaul1.github.io/DSAlgo&#34;&gt;  https://samirpaul.in/DSAlgo.  &lt;img alt=&#34;DSAlgo&#34;  loading=&#34;lazy&#34; src=&#34;https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg&#34;&gt;
+&lt;b&gt;View this repository in online VS Code: &lt;a href=&#34;https://samir.pages.dev/DSAlgo&#34;&gt;  https://samirpaul.in/DSAlgo.  &lt;img alt=&#34;DSAlgo&#34;  loading=&#34;lazy&#34; src=&#34;https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg&#34;&gt;
 &lt;/a&gt;&lt;/b&gt;
 &lt;/p&gt;
 

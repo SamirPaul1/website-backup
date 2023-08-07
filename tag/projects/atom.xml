@@ -36,16 +36,16 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
-    <category term="python" />
-    <category term="python-frameworks" />
-    <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="leetcode" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
     <category term="leetcode-cheetsheet" />
     <category term="important-leetcode-solutions" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -852,7 +852,7 @@
         <content type="html">&lt;ul&gt;
 &lt;li&gt;This webapp uses Huffman Coding for Text Compression and De-compression.&lt;/li&gt;
 &lt;li&gt;Made with &lt;code&gt;JavaScript&lt;/code&gt;, &lt;code&gt;HTML5&lt;/code&gt; and &lt;code&gt;CSS3&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Live Demo: &lt;a href=&#34;https://samirpaul1.github.io/txt-compressor/&#34;&gt;&lt;strong&gt;samirpaul1.github.io&amp;#x2F;txt-compressor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Live Demo: &lt;a href=&#34;https://samir.pages.dev/txt-compressor/&#34;&gt;&lt;strong&gt;samir.pages.dev&amp;#x2F;txt-compressor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Repository: &lt;a href=&#34;https://github.com/SamirPaul1/txt-compressor&#34;&gt;github.com&amp;#x2F;SamirPaul1&amp;#x2F;txt-compressor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;About-this-application&#34;&gt;&lt;a href=&#34;#About-this-application&#34; class=&#34;headerlink&#34; title=&#34;About this application:&#34;&gt;&lt;/a&gt;About this application:&lt;/h2&gt;&lt;ul&gt;
@@ -864,7 +864,7 @@
 &lt;li&gt;With the decoding feature, the user can decode the encoded file and get back the original file of the previous size. &lt;/li&gt;
 &lt;li&gt;I have used JavaScript to implement the algorithms so that browser can compile the code and HTML, CSS to make the website responsive. &lt;/li&gt;
 &lt;li&gt;Additional instructions and warnings are provided if steps are not followed correctly. &lt;/li&gt;
-&lt;li&gt;An &lt;a href=&#34;https://samirpaul1.github.io/txt-compressor/info.html&#34;&gt;Info page&lt;/a&gt; is added to give more information about tecnique of &lt;strong&gt;Lossless Data Compression&lt;/strong&gt; with Huffman coding.&lt;/li&gt;
+&lt;li&gt;An &lt;a href=&#34;https://samir.pages.dev/txt-compressor/info.html&#34;&gt;Info page&lt;/a&gt; is added to give more information about tecnique of &lt;strong&gt;Lossless Data Compression&lt;/strong&gt; with Huffman coding.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;Video-Demo&#34;&gt;&lt;a href=&#34;#Video-Demo&#34; class=&#34;headerlink&#34; title=&#34;Video Demo:&#34;&gt;&lt;/a&gt;Video Demo:&lt;/h2&gt;&lt;iframe title=&#34;Video Demo&#34; src=&#34;https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4&#34; loading=&#34;lazy&#34; width=&#34;100%&#34; height = &#34;380&#34; autoplay=&#34;autoplay&#34; loop=&#34;loop&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 

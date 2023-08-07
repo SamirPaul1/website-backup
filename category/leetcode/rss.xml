@@ -39,16 +39,16 @@
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
-        <category>python</category>
-        <category>python-frameworks</category>
-        <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -2237,56 +2237,6 @@ The answer provided is the shortest such string that satisfies these properties.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1046-last-stone-weight/</guid>
-            <title>1046 last stone weight</title>
-            <link>https://samir.pages.dev/posts/1046-last-stone-weight/</link>
-            <category>LeetCode</category>
-            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
-            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/last-stone-weight/&#34;&gt;1046. Last Stone Weight&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given an array of integers &lt;code&gt;stones&lt;/code&gt; where &lt;code&gt;stones[i]&lt;/code&gt; is the weight of the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; stone.&lt;/p&gt;
-
-&lt;p&gt;We are playing a game with the stones. On each turn, we choose the &lt;strong&gt;heaviest two stones&lt;/strong&gt; and smash them together. Suppose the heaviest two stones have weights &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt; with &lt;code&gt;x &amp;lt;= y&lt;/code&gt;. The result of this smash is:&lt;/p&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;If &lt;code&gt;x == y&lt;/code&gt;, both stones are destroyed, and&lt;/li&gt;
-    &lt;li&gt;If &lt;code&gt;x != y&lt;/code&gt;, the stone of weight &lt;code&gt;x&lt;/code&gt; is destroyed, and the stone of weight &lt;code&gt;y&lt;/code&gt; has new weight &lt;code&gt;y - x&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;At the end of the game, there is &lt;strong&gt;at most one&lt;/strong&gt; stone left.&lt;/p&gt;
-
-&lt;p&gt;Return &lt;em&gt;the smallest possible weight of the left stone&lt;/em&gt;. If there are no stones left, return &lt;code&gt;0&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; stones = [2,7,4,1,8,1]
-&lt;strong&gt;Output:&lt;/strong&gt; 1
-&lt;strong&gt;Explanation:&lt;/strong&gt; 
-We combine 7 and 8 to get 1 so the array converts to [2,4,1,1,1] then,
-we combine 2 and 4 to get 2 so the array converts to [2,1,1,1] then,
-we combine 2 and 1 to get 1 so the array converts to [1,1,1] then,
-we combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the value of the last stone.
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; stones = [1]
-&lt;strong&gt;Output:&lt;/strong&gt; 1
-&lt;/pre&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;code&gt;1 &amp;lt;= stones.length &amp;lt;= 30&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;1 &amp;lt;= stones[i] &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; heapq&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;lastStoneWeight&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, stones: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        st = [-i &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; stones]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        heapq.heapify(st)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(st) &amp;gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            a = -heapq.heappop(st)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            b = -heapq.heappop(st)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            heapq.heappush(st, -(a-b))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; -st[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://samir.pages.dev/posts/1041-robot-bounded-in-circle/</guid>
             <title>1041 robot bounded in circle</title>
             <link>https://samir.pages.dev/posts/1041-robot-bounded-in-circle/</link>
@@ -2368,6 +2318,56 @@ Based on that, we return true.
 
 &lt;hr&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;isRobotBounded&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, instructions: &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;bool&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        x, y, dx, dy = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;*instructions:  &lt;span class=&#34;comment&#34;&gt;# 4* for &amp;quot;GL&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; i == &lt;span class=&#34;string&#34;&gt;&amp;#x27;G&amp;#x27;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                x += dx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                y += dy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;elif&lt;/span&gt; i == &lt;span class=&#34;string&#34;&gt;&amp;#x27;L&amp;#x27;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                dx, dy = -dy, dx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                dx, dy = dy, -dx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; (x,y) == (&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samir.pages.dev/posts/1046-last-stone-weight/</guid>
+            <title>1046 last stone weight</title>
+            <link>https://samir.pages.dev/posts/1046-last-stone-weight/</link>
+            <category>LeetCode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/last-stone-weight/&#34;&gt;1046. Last Stone Weight&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given an array of integers &lt;code&gt;stones&lt;/code&gt; where &lt;code&gt;stones[i]&lt;/code&gt; is the weight of the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; stone.&lt;/p&gt;
+
+&lt;p&gt;We are playing a game with the stones. On each turn, we choose the &lt;strong&gt;heaviest two stones&lt;/strong&gt; and smash them together. Suppose the heaviest two stones have weights &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt; with &lt;code&gt;x &amp;lt;= y&lt;/code&gt;. The result of this smash is:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;If &lt;code&gt;x == y&lt;/code&gt;, both stones are destroyed, and&lt;/li&gt;
+    &lt;li&gt;If &lt;code&gt;x != y&lt;/code&gt;, the stone of weight &lt;code&gt;x&lt;/code&gt; is destroyed, and the stone of weight &lt;code&gt;y&lt;/code&gt; has new weight &lt;code&gt;y - x&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At the end of the game, there is &lt;strong&gt;at most one&lt;/strong&gt; stone left.&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;the smallest possible weight of the left stone&lt;/em&gt;. If there are no stones left, return &lt;code&gt;0&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; stones = [2,7,4,1,8,1]
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;strong&gt;Explanation:&lt;/strong&gt; 
+We combine 7 and 8 to get 1 so the array converts to [2,4,1,1,1] then,
+we combine 2 and 4 to get 2 so the array converts to [2,1,1,1] then,
+we combine 2 and 1 to get 1 so the array converts to [1,1,1] then,
+we combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the value of the last stone.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; stones = [1]
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= stones.length &amp;lt;= 30&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= stones[i] &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; heapq&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;lastStoneWeight&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, stones: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        st = [-i &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; stones]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        heapq.heapify(st)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(st) &amp;gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            a = -heapq.heappop(st)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            b = -heapq.heappop(st)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            heapq.heappush(st, -(a-b))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; -st[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
         <item>
