@@ -27,8 +27,13 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
+        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
         <category>programmable-search</category>
         <category>Graph</category>
         <category>distributed-systems</category>
@@ -37,13 +42,13 @@
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -57,11 +62,6 @@
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
-        <category>embed-musicapp</category>
-        <category>music</category>
-        <category>embeded</category>
-        <category>music-player</category>
-        <category>dp</category>
         <category>project</category>
         <category>pygame</category>
         <category>python-game</category>
