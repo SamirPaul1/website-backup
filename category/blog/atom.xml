@@ -4,8 +4,8 @@
     <title>Samir Paul • Posts by &#34;blog&#34; category</title>
     <link href="https://samirpaul.in" />
     <updated>2023-08-05T20:52:53.910Z</updated>
-    <category term="LeetCode" />
-    <category term="GeeksforGeeks" />
+    <category term="leetcode" />
+    <category term="geeksforgeeks" />
     <category term="blog" />
     <category term="coding" />
     <category term="computer-science" />
@@ -39,13 +39,12 @@
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="leetcode" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
     <category term="leetcode-cheetsheet" />
     <category term="important-leetcode-solutions" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -65,7 +64,6 @@
     <category term="pyshooter" />
     <category term="shooter-game" />
     <category term="Python Cheat Sheet" />
-    <category term="Leetcode" />
     <category term="sql" />
     <category term="nosql" />
     <category term="sharding" />
@@ -74,11 +72,7 @@
     <category term="udemy" />
     <category term="coursera" />
     <category term="datacamp" />
-    <category term="INNER JOIN" />
-    <category term="RIGHT JOIN" />
-    <category term="FULL JOIN" />
-    <category term="SQL" />
-    <category term="SQL Joins" />
+    <category term="sql-joins" />
     <category term="web-development" />
     <category term="lossless-data-compression" />
     <category term="online-file-compressor" />
@@ -104,11 +98,8 @@
         <category term="blog" />
         <category term="coding" />
         <category term="computer-science" />
-        <category term="INNER JOIN" />
-        <category term="RIGHT JOIN" />
-        <category term="FULL JOIN" />
-        <category term="SQL" />
-        <category term="SQL Joins" />
+        <category term="sql" />
+        <category term="sql-joins" />
         <updated>2023-08-05T20:52:53.910Z</updated>
     </entry>
     <entry>
@@ -264,43 +255,12 @@
 &lt;h1 id=&#34;Resources&#34;&gt;&lt;a href=&#34;#Resources&#34; class=&#34;headerlink&#34; title=&#34;Resources&#34;&gt;&lt;/a&gt;Resources&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/modulo-operation-with-negative-numbers-in-python-38cb7256bb32&#34;&gt;The Modulo Operation (%) With Negative Numbers in Python&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;Cheat-Sheet-PDF&#34;&gt;&lt;a href=&#34;#Cheat-Sheet-PDF&#34; class=&#34;headerlink&#34; title=&#34;Cheat Sheet PDF&#34;&gt;&lt;/a&gt;Cheat Sheet PDF&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1EojiCPYkyLi0f5DYW4UF3Lwp-Pwihr7q/view?usp=sharing&#34;&gt;&lt;strong&gt;Click Here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
+        <category term="leetcode" />
         <category term="blog" />
         <category term="coding" />
         <category term="computer-science" />
         <category term="Python Cheat Sheet" />
-        <category term="Leetcode" />
         <updated>2023-08-05T20:52:53.907Z</updated>
-    </entry>
-    <entry>
-        <id>https://samirpaul.in/posts/leetcode-greedy-for-beginners/</id>
-        <title>LeetCode Greedy for Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/leetcode-greedy-for-beginners/"/>
-        <content type="html">&lt;p&gt;Greedy for practice:&lt;/p&gt;
-&lt;p&gt;Sharing good Greedy problems for practice:&lt;br&gt;List: &lt;a href=&#34;https://leetcode.com/list/xyehq5j6&#34;&gt;https://leetcode.com/list/xyehq5j6&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sort&amp;#x2F;Array&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/jump-game/&#34;&gt;https://leetcode.com/problems/jump-game/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/jump-game-ii/&#34;&gt;https://leetcode.com/problems/jump-game-ii/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/gas-station/&#34;&gt;https://leetcode.com/problems/gas-station/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/candy/&#34;&gt;https://leetcode.com/problems/candy/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/remove-k-digits/&#34;&gt;https://leetcode.com/problems/remove-k-digits/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/wiggle-subsequence/&#34;&gt;https://leetcode.com/problems/wiggle-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/assign-cookies/&#34;&gt;https://leetcode.com/problems/assign-cookies/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/boats-to-save-people/&#34;&gt;https://leetcode.com/problems/boats-to-save-people/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/&#34;&gt;https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/queue-reconstruction-by-height/&#34;&gt;https://leetcode.com/problems/queue-reconstruction-by-height/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/play-with-chips/&#34;&gt;https://leetcode.com/problems/play-with-chips/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/previous-permutation-with-one-swap/&#34;&gt;https://leetcode.com/problems/previous-permutation-with-one-swap/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/lemonade-change/&#34;&gt;https://leetcode.com/problems/lemonade-change/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hash&amp;#x2F;Multi-set:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/task-scheduler/&#34;&gt;https://leetcode.com/problems/task-scheduler/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-labels/&#34;&gt;https://leetcode.com/problems/partition-labels/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/car-pooling/&#34;&gt;https://leetcode.com/problems/car-pooling/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/&#34;&gt;https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/&#34;&gt;https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/cinema-seat-allocation/&#34;&gt;https://leetcode.com/problems/cinema-seat-allocation/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/construct-k-palindrome-strings/&#34;&gt;https://leetcode.com/problems/construct-k-palindrome-strings/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/advantage-shuffle/&#34;&gt;https://leetcode.com/problems/advantage-shuffle/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Strings:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/reorganize-string/&#34;&gt;https://leetcode.com/problems/reorganize-string/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/string-without-aaa-or-bbb/&#34;&gt;https://leetcode.com/problems/string-without-aaa-or-bbb/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/check-if-a-string-can-break-another-string/&#34;&gt;https://leetcode.com/problems/check-if-a-string-can-break-another-string/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/remove-duplicate-letters/&#34;&gt;https://leetcode.com/problems/remove-duplicate-letters/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Heap:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/last-stone-weight/&#34;&gt;https://leetcode.com/problems/last-stone-weight/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/reduce-array-size-to-the-half/&#34;&gt;https://leetcode.com/problems/reduce-array-size-to-the-half/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/&#34;&gt;https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sharing solutions for little tricky problems&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/&#34;&gt;https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;class Solution &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;public:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	bool isPossibleDivide(vector&amp;lt;int&amp;gt;&amp;amp; nums, int k) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int n = nums.size();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		if (n % k != 0) return false;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int ssize = n/k;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		map&amp;lt;int, int&amp;gt;hm;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = 0; i &amp;lt; n; i++)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			hm[nums[i]]++;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (auto it = hm.begin(); it != hm.end(); it++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (hm[it-&amp;gt;first] &amp;gt; 0) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				for (int i = k-1; i &amp;gt;= 0; i--) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;					hm[it-&amp;gt;first+i] -= hm[it-&amp;gt;first];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;					if (hm[it-&amp;gt;first+i] &amp;lt; 0)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;						return false;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		return true;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/car-pooling/&#34;&gt;https://leetcode.com/problems/car-pooling/&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;class Solution &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;public:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	bool carPooling(vector&amp;lt;vector&amp;lt;int&amp;gt;&amp;gt;&amp;amp; trips, int capacity) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int trip_len = 1001;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vector&amp;lt;int&amp;gt;stops(trip_len, 0);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = 0; i &amp;lt; trips.size(); i++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			stops[trips[i][1]] += trips[i][0];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			stops[trips[i][2]] -= trips[i][0];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = 0; i &amp;lt; trip_len; i++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (i != 0) stops[i] += stops[i-1];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (stops[i] &amp;gt; capacity)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				return false;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		return true;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/reorganize-string/&#34;&gt;https://leetcode.com/problems/reorganize-string/&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;class Solution &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	static bool compare(pair&amp;lt;char, int&amp;gt;p1, pair&amp;lt;char, int&amp;gt;p2) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		return p1.second &amp;gt; p2.second;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;public:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	string reorganizeString(string S) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int n = S.length();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		unordered_map&amp;lt;char, int&amp;gt;m;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vector&amp;lt;pair&amp;lt;char, int&amp;gt;&amp;gt;v;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = 0; i &amp;lt; n; i++) &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			m[S[i]]++;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for(auto it = m.begin(); it != m.end(); it++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (it-&amp;gt;second &amp;gt; (n+1)/2)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				return &amp;quot;&amp;quot;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			v.push_back(make_pair(it-&amp;gt;first, it-&amp;gt;second));&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		sort(v.begin(), v.end(), compare);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		string str;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = 0; i &amp;lt; v.size(); i++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			while (v[i].second--)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				str += v[i].first;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		string ans;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int size = str.size();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int i = 0, j = (size-1)/2+1;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		while (i &amp;lt; (size-1)/2+1) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			ans += str[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			ans += str[j];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			i++; j++;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		return ans;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/candy/&#34;&gt;https://leetcode.com/problems/candy/&lt;/a&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;class Solution &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;public:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	int candy(vector&amp;lt;int&amp;gt;&amp;amp; ratings) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int n = ratings.size();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vector&amp;lt;int&amp;gt;left(n, 1); &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = 1; i &amp;lt; n; i++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (ratings[i] &amp;gt; ratings[i-1])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				left[i] = left[i-1]+1;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int sum = left[n-1];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = n-2; i &amp;gt;= 0; i--) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (ratings[i] &amp;gt; ratings[i+1])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				left[i] = max(left[i], left[i+1]+1);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			sum += left[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		return sum;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-</content>
-        <category term="LeetCode" />
-        <category term="blog" />
-        <category term="coding" />
-        <category term="computer-science" />
-        <category term="Greedy" />
-        <updated>2023-08-05T20:52:53.905Z</updated>
     </entry>
     <entry>
         <id>https://samirpaul.in/posts/graph-for-beginners/</id>
@@ -419,98 +379,6 @@
         <category term="coding" />
         <category term="computer-science" />
         <category term="Graph" />
-        <updated>2023-08-05T20:52:53.899Z</updated>
-    </entry>
-    <entry>
-        <id>https://samirpaul.in/posts/leetcode-all-two-pointers-problems/</id>
-        <title>LeetCode all two pointers problems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/leetcode-all-two-pointers-problems/"/>
-        <content type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;1. Running from both ends of an array&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;p&gt;The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705317-e62636ef-7fac-4897-a7d0-4625cd71826f.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;2 Sum problem&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/&#34;&gt;https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/3sum/&#34;&gt;https://leetcode.com/problems/3sum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/4sum/&#34;&gt;https://leetcode.com/problems/4sum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/&#34;&gt;https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/two-sum-iv-input-is-a-bst/&#34;&gt;https://leetcode.com/problems/two-sum-iv-input-is-a-bst/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sum-of-square-numbers/&#34;&gt;https://leetcode.com/problems/sum-of-square-numbers/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/boats-to-save-people/&#34;&gt;https://leetcode.com/problems/boats-to-save-people/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/&#34;&gt;https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/3sum-with-multiplicity/&#34;&gt;https://leetcode.com/problems/3sum-with-multiplicity/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Trapping Water&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/trapping-rain-water/&#34;&gt;https://leetcode.com/problems/trapping-rain-water/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/container-with-most-water/&#34;&gt;https://leetcode.com/problems/container-with-most-water/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Next Permutation&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/next-permutation/&#34;&gt;https://leetcode.com/problems/next-permutation/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/next-greater-element-iii/&#34;&gt;https://leetcode.com/problems/next-greater-element-iii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/&#34;&gt;https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Reversing &amp;#x2F; Swapping&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/valid-palindrome/&#34;&gt;https://leetcode.com/problems/valid-palindrome/&lt;/a&gt;&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/reverse-string/&#34;&gt;https://leetcode.com/problems/reverse-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-vowels-of-a-string/&#34;&gt;https://leetcode.com/problems/reverse-vowels-of-a-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/valid-palindrome-ii/&#34;&gt;https://leetcode.com/problems/valid-palindrome-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-only-letters/&#34;&gt;https://leetcode.com/problems/reverse-only-letters/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-element/&#34;&gt;https://leetcode.com/problems/remove-element/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sort-colors/&#34;&gt;https://leetcode.com/problems/sort-colors/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/flipping-an-image/&#34;&gt;https://leetcode.com/problems/flipping-an-image/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/squares-of-a-sorted-array/&#34;&gt;https://leetcode.com/problems/squares-of-a-sorted-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sort-array-by-parity/&#34;&gt;https://leetcode.com/problems/sort-array-by-parity/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sort-array-by-parity-ii/&#34;&gt;https://leetcode.com/problems/sort-array-by-parity-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/pancake-sorting/&#34;&gt;https://leetcode.com/problems/pancake-sorting/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-prefix-of-word/&#34;&gt;https://leetcode.com/problems/reverse-prefix-of-word/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-string-ii/&#34;&gt;https://leetcode.com/problems/reverse-string-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-words-in-a-string/&#34;&gt;https://leetcode.com/problems/reverse-words-in-a-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reverse-words-in-a-string-iii/&#34;&gt;https://leetcode.com/problems/reverse-words-in-a-string-iii/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Others&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/di-string-match/&#34;&gt;https://leetcode.com/problems/di-string-match/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/&#34;&gt;https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/sentence-similarity-iii/&#34;&gt;https://leetcode.com/problems/sentence-similarity-iii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/find-k-closest-elements/&#34;&gt;https://leetcode.com/problems/find-k-closest-elements/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/shortest-distance-to-a-character/&#34;&gt;https://leetcode.com/problems/shortest-distance-to-a-character/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;2.Slow &amp;amp; Fast Pointers&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;p&gt;Next type is using two pointers with different speed of movement. Typically they starts from the left end, then the first pointer advances fast and give some feedback to the slow pointer and do some calculation.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705223-95601d5c-7c9c-416a-a561-3bc6213afd75.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Linked List Operations&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/linked-list-cycle/&#34;&gt;https://leetcode.com/problems/linked-list-cycle/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/linked-list-cycle-ii/&#34;&gt;https://leetcode.com/problems/linked-list-cycle-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-nth-node-from-end-of-list/&#34;&gt;https://leetcode.com/problems/remove-nth-node-from-end-of-list/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/rotate-list/&#34;&gt;https://leetcode.com/problems/rotate-list/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/reorder-list/&#34;&gt;https://leetcode.com/problems/reorder-list/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/palindrome-linked-list/&#34;&gt;https://leetcode.com/problems/palindrome-linked-list/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Cyclic Detection&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/find-the-duplicate-number/&#34;&gt;https://leetcode.com/problems/find-the-duplicate-number/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/circular-array-loop/&#34;&gt;https://leetcode.com/problems/circular-array-loop/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Sliding Window&amp;#x2F;Caterpillar Method&lt;br&gt;  &lt;img src=&#34;https://assets.leetcode.com/users/images/29d2e356-77fe-4caf-8921-7a39d06e56d2_1642139764.6173265.jpeg&#34; alt=&#34;image&#34;&gt;&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/&#34;&gt;https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/find-k-th-smallest-pair-distance/&#34;&gt;https://leetcode.com/problems/find-k-th-smallest-pair-distance/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/moving-stones-until-consecutive-ii/&#34;&gt;https://leetcode.com/problems/moving-stones-until-consecutive-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/count-pairs-of-nodes/&#34;&gt;https://leetcode.com/problems/count-pairs-of-nodes/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/count-binary-substrings/&#34;&gt;https://leetcode.com/problems/count-binary-substrings/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/k-diff-pairs-in-an-array/&#34;&gt;https://leetcode.com/problems/k-diff-pairs-in-an-array/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Rotation&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/rotating-the-box/&#34;&gt;https://leetcode.com/problems/rotating-the-box/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/rotate-array/&#34;&gt;https://leetcode.com/problems/rotate-array/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;String&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/string-compression/&#34;&gt;https://leetcode.com/problems/string-compression/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/last-substring-in-lexicographical-order/&#34;&gt;https://leetcode.com/problems/last-substring-in-lexicographical-order/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Remove Duplicate&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/remove-duplicates-from-sorted-array/&#34;&gt;https://leetcode.com/problems/remove-duplicates-from-sorted-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/&#34;&gt;https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/&#34;&gt;https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/duplicate-zeros/&#34;&gt;https://leetcode.com/problems/duplicate-zeros/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Others&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/statistics-from-a-large-sample/&#34;&gt;https://leetcode.com/problems/statistics-from-a-large-sample/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/partition-labels/&#34;&gt;https://leetcode.com/problems/partition-labels/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/magical-string/&#34;&gt;https://leetcode.com/problems/magical-string/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/friends-of-appropriate-ages/&#34;&gt;https://leetcode.com/problems/friends-of-appropriate-ages/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/longest-mountain-in-array/&#34;&gt;https://leetcode.com/problems/longest-mountain-in-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/&#34;&gt;https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;3.Running from beginning of 2 arrays &amp;#x2F; Merging 2 arrays&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;p&gt;In this category, you will be given 2 arrays or lists, then have to process them with individual pointers.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705109-0e41c781-9c08-4796-90fd-8b2169cef242.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Sorted arrays&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/merge-sorted-array/&#34;&gt;https://leetcode.com/problems/merge-sorted-array/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/heaters/&#34;&gt;https://leetcode.com/problems/heaters/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/find-the-distance-value-between-two-arrays/&#34;&gt;https://leetcode.com/problems/find-the-distance-value-between-two-arrays/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Intersections&amp;#x2F;LCA like&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/intersection-of-two-linked-lists/&#34;&gt;https://leetcode.com/problems/intersection-of-two-linked-lists/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/intersection-of-two-arrays/&#34;&gt;https://leetcode.com/problems/intersection-of-two-arrays/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/intersection-of-two-arrays-ii/&#34;&gt;https://leetcode.com/problems/intersection-of-two-arrays-ii/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;SubString&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/implement-strstr/&#34;&gt;https://leetcode.com/problems/implement-strstr/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/&#34;&gt;https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/long-pressed-name/&#34;&gt;https://leetcode.com/problems/long-pressed-name/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/longest-uncommon-subsequence-ii/&#34;&gt;https://leetcode.com/problems/longest-uncommon-subsequence-ii/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/compare-version-numbers/&#34;&gt;https://leetcode.com/problems/compare-version-numbers/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/camelcase-matching/&#34;&gt;https://leetcode.com/problems/camelcase-matching/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/expressive-words/&#34;&gt;https://leetcode.com/problems/expressive-words/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Median Finder&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/find-median-from-data-stream/&#34;&gt;https://leetcode.com/problems/find-median-from-data-stream/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Meet-in-the-middle &amp;#x2F; Binary Search&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/&#34;&gt;https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/closest-subsequence-sum/&#34;&gt;https://leetcode.com/problems/closest-subsequence-sum/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/&#34;&gt;https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/3sum-closest/&#34;&gt;https://leetcode.com/problems/3sum-closest/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/valid-triangle-number/&#34;&gt;https://leetcode.com/problems/valid-triangle-number/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Others&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/shortest-unsorted-continuous-subarray/&#34;&gt;https://leetcode.com/problems/shortest-unsorted-continuous-subarray/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/most-profit-assigning-work/&#34;&gt;https://leetcode.com/problems/most-profit-assigning-work/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/largest-merge-of-two-strings/&#34;&gt;https://leetcode.com/problems/largest-merge-of-two-strings/&lt;/a&gt;&lt;br&gt;  &lt;a href=&#34;https://leetcode.com/problems/swap-adjacent-in-lr-string/&#34;&gt;https://leetcode.com/problems/swap-adjacent-in-lr-string/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;4.Split &amp;amp; Merge of an array &amp;#x2F; Divide &amp;amp; Conquer&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;p&gt;The last one is similiar to previous category but there is one thing is added. First, you need to split the given list into 2 separate lists and then do two pointers approach to merge or unify them. There aren’t many tasks here.&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226704881-583b72b9-d759-46f6-ab8f-a81310800c30.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Partition&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/partition-list/&#34;&gt;https://leetcode.com/problems/partition-list/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Sorting&lt;br&gt;  (*) &lt;a href=&#34;https://leetcode.com/problems/sort-list/&#34;&gt;https://leetcode.com/problems/sort-list/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <category term="LeetCode" />
-        <category term="blog" />
-        <category term="coding" />
-        <category term="computer-science" />
-        <category term="two pointers problems" />
         <updated>2023-08-05T20:52:53.899Z</updated>
     </entry>
     <entry>
@@ -1226,6 +1094,23 @@
         <updated>2023-08-05T20:52:53.809Z</updated>
     </entry>
     <entry>
+        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
+        <title>Python Content Management Systems</title>
+        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
+        <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
+&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
+&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <updated>2023-08-05T20:52:53.803Z</updated>
+    </entry>
+    <entry>
         <id>https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</id>
         <title>Python libraries for administrative interfaces</title>
         <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/"/>
@@ -1241,23 +1126,6 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;These are just a few examples of the many libraries available for creating administrative interfaces in Python. The best library for your needs will depend on the requirements of your specific project, as well as your personal preferences and experience.&lt;/p&gt;
-</content>
-        <category term="blog" />
-        <category term="coding" />
-        <category term="computer-science" />
-        <updated>2023-08-05T20:52:53.803Z</updated>
-    </entry>
-    <entry>
-        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
-        <title>Python Content Management Systems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
-        <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
-&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
-&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
 </content>
         <category term="blog" />
         <category term="coding" />
@@ -1313,5 +1181,39 @@
         <category term="coding" />
         <category term="computer-science" />
         <updated>2023-08-05T20:52:53.795Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul.in/posts/databases-implemented-in-python/</id>
+        <title>Databases implemented in Python</title>
+        <link rel="alternate" href="https://samirpaul.in/posts/databases-implemented-in-python/"/>
+        <content type="html">&lt;p&gt;There are several databases that have been implemented in Python, including:&lt;/p&gt;
+&lt;p&gt;SQLite: SQLite is a lightweight, file-based database that is well-suited for small to medium-sized projects. It provides a simple and efficient SQL interface, and it is included as a standard library in many Python distributions.&lt;/p&gt;
+&lt;p&gt;PostgreSQL: PostgreSQL is a powerful, open-source relational database that is well-suited for large, complex projects. It provides a rich set of features, including transactions, stored procedures, and advanced indexing, and it is widely used in a variety of applications, from web applications to scientific research.&lt;/p&gt;
+&lt;p&gt;MySQL: MySQL is a widely-used, open-source relational database that is well-suited for small to medium-sized projects. It provides a simple and efficient SQL interface, and it is widely used for a variety of applications, from web applications to data warehousing.&lt;/p&gt;
+&lt;p&gt;SQLAlchemy: SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python. It provides a high-level interface for working with databases, and it supports a wide range of databases, including SQLite, PostgreSQL, and MySQL.&lt;/p&gt;
+&lt;p&gt;Django ORM: Django ORM is an Object-Relational Mapping (ORM) library that is built into the Django web framework. It provides a simple and intuitive interface for working with databases, and it supports a wide range of databases, including SQLite, PostgreSQL, and MySQL.&lt;/p&gt;
+&lt;p&gt;These are just a few examples of the many databases that have been implemented in Python. The best database for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <updated>2023-08-05T20:52:53.787Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul.in/posts/gaming-library-in-python/</id>
+        <title>gaming library in python</title>
+        <link rel="alternate" href="https://samirpaul.in/posts/gaming-library-in-python/"/>
+        <content type="html">&lt;p&gt;There are several libraries in Python that can be used for game development, including:&lt;/p&gt;
+&lt;p&gt;Pygame: This is a popular library for game development in Python. It provides a simple and easy-to-use set of tools for creating 2D games and other types of interactive applications.&lt;/p&gt;
+&lt;p&gt;Arcade: This is a library for creating 2D video games and other interactive applications in Python. It provides a high-level API for creating games and other interactive applications, making it a great choice for beginners.&lt;/p&gt;
+&lt;p&gt;Pyglet: This is a cross-platform library for game and multimedia development in Python. It provides a powerful and flexible set of tools for creating games and other interactive applications, including support for 2D and 3D graphics.&lt;/p&gt;
+&lt;p&gt;Kivy: This is an open-source library for developing mobile and desktop games in Python. It provides a high-level API for creating games and other interactive applications, and it supports multiple platforms, including Android, iOS, and Windows.&lt;/p&gt;
+&lt;p&gt;PyOpenGL: This is a library for developing 3D games and other interactive applications in Python. It provides a low-level API for creating 3D graphics and animations, and it is often used in conjunction with other game development libraries, such as Pygame or Pyglet.&lt;/p&gt;
+&lt;p&gt;All of these libraries have their own strengths and weaknesses, so it’s important to evaluate each one to see which one is the best fit for your needs. Consider factors such as the ease of use, available features, and overall performance when choosing a gaming library in Python.&lt;/p&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <updated>2023-08-05T20:52:53.787Z</updated>
     </entry>
 </feed>

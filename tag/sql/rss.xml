@@ -7,8 +7,8 @@
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
         <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
-        <category>LeetCode</category>
-        <category>GeeksforGeeks</category>
+        <category>leetcode</category>
+        <category>geeksforgeeks</category>
         <category>blog</category>
         <category>coding</category>
         <category>computer-science</category>
@@ -42,13 +42,12 @@
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>leetcode</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -68,7 +67,6 @@
         <category>pyshooter</category>
         <category>shooter-game</category>
         <category>Python Cheat Sheet</category>
-        <category>Leetcode</category>
         <category>sql</category>
         <category>nosql</category>
         <category>sharding</category>
@@ -77,11 +75,7 @@
         <category>udemy</category>
         <category>coursera</category>
         <category>datacamp</category>
-        <category>INNER JOIN</category>
-        <category>RIGHT JOIN</category>
-        <category>FULL JOIN</category>
-        <category>SQL</category>
-        <category>SQL Joins</category>
+        <category>sql-joins</category>
         <category>web-development</category>
         <category>lossless-data-compression</category>
         <category>online-file-compressor</category>
@@ -98,11 +92,8 @@
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
-            <category>INNER JOIN</category>
-            <category>RIGHT JOIN</category>
-            <category>FULL JOIN</category>
-            <category>SQL</category>
-            <category>SQL Joins</category>
+            <category>sql</category>
+            <category>sql-joins</category>
             <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;SQL Join&lt;/strong&gt; statement is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are as follows: &lt;/p&gt;
 &lt;ul&gt;

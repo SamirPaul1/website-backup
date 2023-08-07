@@ -17,4 +17,4 @@ https://samirpaul.in/posts/0535-encode-and-decode-tinyurl/
 https://samirpaul.in/posts/0541-reverse-string-ii/
 https://samirpaul.in/posts/0543-diameter-of-binary-tree/
 https://samirpaul.in/posts/0554-brick-wall/
-https://samirpaul.in/posts/0565-array-nesting/
+https://samirpaul.in/posts/0560-subarray-sum-equals-k/

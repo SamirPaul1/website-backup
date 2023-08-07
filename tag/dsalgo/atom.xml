@@ -4,8 +4,8 @@
     <title>Samir Paul • Posts by &#34;dsalgo&#34; tag</title>
     <link href="https://samirpaul.in" />
     <updated>2023-08-15T04:25:52.000Z</updated>
-    <category term="LeetCode" />
-    <category term="GeeksforGeeks" />
+    <category term="leetcode" />
+    <category term="geeksforgeeks" />
     <category term="blog" />
     <category term="coding" />
     <category term="computer-science" />
@@ -39,13 +39,12 @@
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="leetcode" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
     <category term="leetcode-cheetsheet" />
     <category term="important-leetcode-solutions" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -65,7 +64,6 @@
     <category term="pyshooter" />
     <category term="shooter-game" />
     <category term="Python Cheat Sheet" />
-    <category term="Leetcode" />
     <category term="sql" />
     <category term="nosql" />
     <category term="sharding" />
@@ -74,11 +72,7 @@
     <category term="udemy" />
     <category term="coursera" />
     <category term="datacamp" />
-    <category term="INNER JOIN" />
-    <category term="RIGHT JOIN" />
-    <category term="FULL JOIN" />
-    <category term="SQL" />
-    <category term="SQL Joins" />
+    <category term="sql-joins" />
     <category term="web-development" />
     <category term="lossless-data-compression" />
     <category term="online-file-compressor" />

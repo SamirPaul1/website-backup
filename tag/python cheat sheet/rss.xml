@@ -7,8 +7,8 @@
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
         <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
-        <category>LeetCode</category>
-        <category>GeeksforGeeks</category>
+        <category>leetcode</category>
+        <category>geeksforgeeks</category>
         <category>blog</category>
         <category>coding</category>
         <category>computer-science</category>
@@ -42,13 +42,12 @@
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>leetcode</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -68,7 +67,6 @@
         <category>pyshooter</category>
         <category>shooter-game</category>
         <category>Python Cheat Sheet</category>
-        <category>Leetcode</category>
         <category>sql</category>
         <category>nosql</category>
         <category>sharding</category>
@@ -77,11 +75,7 @@
         <category>udemy</category>
         <category>coursera</category>
         <category>datacamp</category>
-        <category>INNER JOIN</category>
-        <category>RIGHT JOIN</category>
-        <category>FULL JOIN</category>
-        <category>SQL</category>
-        <category>SQL Joins</category>
+        <category>sql-joins</category>
         <category>web-development</category>
         <category>lossless-data-compression</category>
         <category>online-file-compressor</category>
@@ -95,11 +89,11 @@
             <guid isPermalink="true">https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</guid>
             <title>Python Cheat Sheet for Leetcode</title>
             <link>https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</link>
+            <category>leetcode</category>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
             <category>Python Cheat Sheet</category>
-            <category>Leetcode</category>
             <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Basics&#34;&gt;&lt;a href=&#34;#Basics&#34; class=&#34;headerlink&#34; title=&#34;Basics&#34;&gt;&lt;/a&gt;Basics&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Data Types&lt;/p&gt;

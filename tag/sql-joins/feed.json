@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Samir Paul • All posts by \"inner join\" tag",
+    "title": "Samir Paul • All posts by \"sql-joins\" tag",
     "description": "Software Engineer",
     "home_page_url": "https://samirpaul.in",
     "items": [
@@ -14,11 +14,8 @@
                 "blog",
                 "coding",
                 "computer-science",
-                "INNER JOIN",
-                "RIGHT JOIN",
-                "FULL JOIN",
-                "SQL",
-                "SQL Joins"
+                "sql",
+                "sql-joins"
             ]
         }
     ]

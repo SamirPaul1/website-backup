@@ -15,7 +15,7 @@
     <atom:link href="https://samirpaul.in/index.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software Engineer</description>
-    <pubDate>Mon, 07 Aug 2023 15:09:24 GMT</pubDate>
+    <pubDate>Mon, 07 Aug 2023 20:09:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -79,7 +79,7 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
       <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
@@ -183,10 +183,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/CPP-Data-Types---GFG/#disqus_thread</comments>
@@ -204,10 +204,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/CPP-Strings---GFG/#disqus_thread</comments>
@@ -225,10 +225,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/#disqus_thread</comments>
@@ -246,10 +246,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/CPP-Switch-Case-Statement---GFG/#disqus_thread</comments>
@@ -267,10 +267,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1084-sales-analysis-iii/#disqus_thread</comments>
@@ -288,34 +288,13 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1092-shortest-common-supersequence/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>1041 robot bounded in circle</title>
-      <link>https://samirpaul.in/posts/1041-robot-bounded-in-circle/</link>
-      <guid>https://samirpaul.in/posts/1041-robot-bounded-in-circle/</guid>
-      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
-      
-      <description>1041 robot bounded in circle LeetCode Solution Explained</description>
-      
-      
-      
-      
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
-      
-      
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
-      
-      
-      <comments>https://samirpaul.in/posts/1041-robot-bounded-in-circle/#disqus_thread</comments>
       
     </item>
     
@@ -330,13 +309,34 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1046-last-stone-weight/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1041 robot bounded in circle</title>
+      <link>https://samirpaul.in/posts/1041-robot-bounded-in-circle/</link>
+      <guid>https://samirpaul.in/posts/1041-robot-bounded-in-circle/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1041 robot bounded in circle LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/1041-robot-bounded-in-circle/#disqus_thread</comments>
       
     </item>
     
@@ -351,10 +351,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/#disqus_thread</comments>
@@ -372,10 +372,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1071-greatest-common-divisor-of-strings/#disqus_thread</comments>
@@ -393,34 +393,13 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1079-letter-tile-possibilities/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>1029 two city scheduling</title>
-      <link>https://samirpaul.in/posts/1029-two-city-scheduling/</link>
-      <guid>https://samirpaul.in/posts/1029-two-city-scheduling/</guid>
-      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
-      
-      <description>1029 two city scheduling LeetCode Solution Explained</description>
-      
-      
-      
-      
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
-      
-      
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
-      
-      
-      <comments>https://samirpaul.in/posts/1029-two-city-scheduling/#disqus_thread</comments>
       
     </item>
     
@@ -435,13 +414,34 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1027-longest-arithmetic-subsequence/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1029 two city scheduling</title>
+      <link>https://samirpaul.in/posts/1029-two-city-scheduling/</link>
+      <guid>https://samirpaul.in/posts/1029-two-city-scheduling/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1029 two city scheduling LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/1029-two-city-scheduling/#disqus_thread</comments>
       
     </item>
     
@@ -456,10 +456,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/#disqus_thread</comments>
@@ -477,10 +477,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1035-uncrossed-lines/#disqus_thread</comments>
@@ -498,10 +498,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1038-binary-search-tree-to-greater-sum-tree/#disqus_thread</comments>
@@ -519,10 +519,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1011-capacity-to-ship-packages-within-d-days/#disqus_thread</comments>
@@ -540,10 +540,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1014-best-sightseeing-pair/#disqus_thread</comments>
@@ -561,10 +561,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1005-maximize-sum-of-array-after-k-negations/#disqus_thread</comments>
@@ -582,10 +582,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1008-construct-binary-search-tree-from-preorder-traversal/#disqus_thread</comments>
@@ -603,10 +603,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/0983-minimum-cost-for-tickets/#disqus_thread</comments>
@@ -624,10 +624,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/0987-vertical-order-traversal-of-a-binary-tree/#disqus_thread</comments>
@@ -645,10 +645,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/1004-max-consecutive-ones-iii/#disqus_thread</comments>
@@ -666,10 +666,10 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
       
       <comments>https://samirpaul.in/posts/0974-subarray-sums-divisible-by-k/#disqus_thread</comments>

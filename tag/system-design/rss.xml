@@ -7,8 +7,8 @@
         <language>en</language>
         <pubDate>Tue, 15 Aug 2023 09:54:59 +0530</pubDate>
         <lastBuildDate>Tue, 15 Aug 2023 09:54:59 +0530</lastBuildDate>
-        <category>LeetCode</category>
-        <category>GeeksforGeeks</category>
+        <category>leetcode</category>
+        <category>geeksforgeeks</category>
         <category>blog</category>
         <category>coding</category>
         <category>computer-science</category>
@@ -42,13 +42,12 @@
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>leetcode</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -68,7 +67,6 @@
         <category>pyshooter</category>
         <category>shooter-game</category>
         <category>Python Cheat Sheet</category>
-        <category>Leetcode</category>
         <category>sql</category>
         <category>nosql</category>
         <category>sharding</category>
@@ -77,11 +75,7 @@
         <category>udemy</category>
         <category>coursera</category>
         <category>datacamp</category>
-        <category>INNER JOIN</category>
-        <category>RIGHT JOIN</category>
-        <category>FULL JOIN</category>
-        <category>SQL</category>
-        <category>SQL Joins</category>
+        <category>sql-joins</category>
         <category>web-development</category>
         <category>lossless-data-compression</category>
         <category>online-file-compressor</category>
@@ -4718,9 +4712,7 @@
             <category>system-design</category>
             <category>design-interview</category>
             <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
-            <description><![CDATA[ &lt;p&gt;Caching&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
+            <description><![CDATA[ &lt;ul&gt;
 &lt;li&gt;Take advantage of the locality of reference principle: recently requested data is likely to be requested again.&lt;/li&gt;
 &lt;li&gt;Exist at all levels in architecture, but often found at the level nearest to the front end.&lt;/li&gt;
 &lt;/ul&gt;
