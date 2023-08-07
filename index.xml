@@ -194,27 +194,6 @@
     </item>
     
     <item>
-      <title>C++ if else (Decision Making)   GFG</title>
-      <link>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/</link>
-      <guid>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/</guid>
-      <pubDate>Sun, 06 Aug 2023 12:22:21 GMT</pubDate>
-      
-      <description>C++ if-else (Decision Making) - GFG</description>
-      
-      
-      
-      
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
-      
-      
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
-      
-      
-      <comments>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>C++ Strings   GFG</title>
       <link>https://samirpaul.in/posts/CPP-Strings---GFG/</link>
       <guid>https://samirpaul.in/posts/CPP-Strings---GFG/</guid>
@@ -232,6 +211,27 @@
       
       
       <comments>https://samirpaul.in/posts/CPP-Strings---GFG/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C++ if else (Decision Making)   GFG</title>
+      <link>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/</link>
+      <guid>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/</guid>
+      <pubDate>Sun, 06 Aug 2023 12:22:21 GMT</pubDate>
+      
+      <description>C++ if-else (Decision Making) - GFG</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/#disqus_thread</comments>
       
     </item>
     
@@ -656,12 +656,12 @@
     </item>
     
     <item>
-      <title>0979 distribute coins in binary tree</title>
-      <link>https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/</link>
-      <guid>https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/</guid>
+      <title>0974 subarray sums divisible by k</title>
+      <link>https://samirpaul.in/posts/0974-subarray-sums-divisible-by-k/</link>
+      <guid>https://samirpaul.in/posts/0974-subarray-sums-divisible-by-k/</guid>
       <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
       
-      <description>0979 distribute coins in binary tree LeetCode Solution Explained</description>
+      <description>0974 subarray sums divisible by k LeetCode Solution Explained</description>
       
       
       
@@ -672,7 +672,7 @@
       <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
       
       
-      <comments>https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/#disqus_thread</comments>
+      <comments>https://samirpaul.in/posts/0974-subarray-sums-divisible-by-k/#disqus_thread</comments>
       
     </item>
     
