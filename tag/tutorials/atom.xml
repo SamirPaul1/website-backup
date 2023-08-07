@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samir.pages.dev</id>
+    <id>https://samirpaul.in</id>
     <title>Samir Paul • Posts by &#34;tutorials&#34; tag</title>
-    <link href="https://samir.pages.dev" />
+    <link href="https://samirpaul.in" />
     <updated>2023-08-15T04:24:51.000Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,18 +24,16 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
-    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="embed-musicapp" />
-    <category term="music" />
-    <category term="embeded" />
-    <category term="music-player" />
     <category term="programmable-search" />
     <category term="Graph" />
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
     <category term="leetcode" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
@@ -43,9 +41,6 @@
     <category term="important-leetcode-solutions" />
     <category term="technical-interview" />
     <category term="interview-questions" />
-    <category term="python" />
-    <category term="python-frameworks" />
-    <category term="python-libraries" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -59,6 +54,11 @@
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="dp" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/</id>
+        <id>https://samirpaul.in/posts/curated-list-of-project-based-tutorials/</id>
         <title>Curated List of Project Based Tutorials</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/curated-list-of-project-based-tutorials/"/>
         <content type="html">&lt;h1 id=&#34;Project-Based-Learning&#34;&gt;&lt;a href=&#34;#Project-Based-Learning&#34; class=&#34;headerlink&#34; title=&#34;Project Based Learning&#34;&gt;&lt;/a&gt;Project Based Learning&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.&lt;/p&gt;
 &lt;/blockquote&gt;

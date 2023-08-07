@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;pygame&#34; tag</title>
-        <link>https://samir.pages.dev</link>
+        <link>https://samirpaul.in</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
@@ -27,18 +27,16 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
-        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>embed-musicapp</category>
-        <category>music</category>
-        <category>embeded</category>
-        <category>music-player</category>
         <category>programmable-search</category>
         <category>Graph</category>
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
@@ -46,9 +44,6 @@
         <category>important-leetcode-solutions</category>
         <category>technical-interview</category>
         <category>interview-questions</category>
-        <category>python</category>
-        <category>python-frameworks</category>
-        <category>python-libraries</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -62,6 +57,11 @@
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>dp</category>
         <category>project</category>
         <category>pygame</category>
         <category>python-game</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/pyshooter/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/pyshooter/</guid>
             <title>PyShooter Python Game</title>
-            <link>https://samir.pages.dev/posts/pyshooter/</link>
+            <link>https://samirpaul.in/posts/pyshooter/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>

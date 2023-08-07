@@ -1,4 +1,4 @@
-### [Handy MySQL Commands =>](https://samir.pages.dev/mysql/) https://samir.pages.dev/mysql
+### [Handy MySQL Commands =>](https://samirpaul.in/mysql/) https://samirpaul.in/mysql
 
-<a href="https://samir.pages.dev/mysql/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql-resources-img.jpg" /></a>
+<a href="https://samirpaul.in/mysql/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql-resources-img.jpg" /></a>
 

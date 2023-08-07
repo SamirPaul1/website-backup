@@ -3,7 +3,7 @@
 Embed this music player to any website:
 
 ```html
-<iframe src="https://samir.pages.dev/music/embed"
+<iframe src="https://samirpaul.in/music/embed"
 	title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"

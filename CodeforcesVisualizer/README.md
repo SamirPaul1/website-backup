@@ -6,7 +6,7 @@ User can input any Username and can see particular user rating as well as other 
 
 ### Visit the page and know your codefrces informations: 
 ####  https://codeforcesvisualizer.vercel.app
-####  https://samir.pages.dev/CodeforcesVisualizer
+####  https://samirpaul.in/CodeforcesVisualizer
 
 ---
 

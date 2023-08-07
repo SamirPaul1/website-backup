@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Samir Paul • All posts by \"networking\" tag",
     "description": "Software Engineer",
-    "home_page_url": "https://samir.pages.dev",
+    "home_page_url": "https://samirpaul.in",
     "items": [
         {
-            "id": "https://samir.pages.dev/posts/why-does-the-osi-model-matter/",
-            "url": "https://samir.pages.dev/posts/why-does-the-osi-model-matter/",
+            "id": "https://samirpaul.in/posts/why-does-the-osi-model-matter/",
+            "url": "https://samirpaul.in/posts/why-does-the-osi-model-matter/",
             "title": "Why Does The OSI Model Matter?",
             "date_published": "2023-08-05T20:52:53.847Z",
             "content_html": "<p>The OSI (Open Systems Interconnection) model matters because it provides a standard way of describing and understanding the different functions and components involved in a network communication. The OSI model is a seven-layer abstraction of the network communication process, and it defines the tasks and responsibilities of each layer.</p>\n<ol>\n<li><p>Standardization: The OSI model provides a standard reference model that is widely used and accepted in the industry. This standardization helps to ensure that different systems and components can communicate with each other, even if they were developed by different vendors or organizations.</p>\n</li>\n<li><p>Improved troubleshooting: The OSI model provides a systematic and organized approach to understanding network communication issues. By breaking down network communication into its component parts, it becomes easier to diagnose and fix problems.</p>\n</li>\n<li><p>Design and development: The OSI model can help with the design and development of network systems by providing a common understanding of the different layers and their responsibilities. This can facilitate communication and collaboration between different teams and stakeholders.</p>\n</li>\n<li><p>Education: The OSI model is a useful tool for teaching and learning about network communication. It provides a simple and visual way to understand the complex process of network communication.</p>\n</li>\n</ol>\n",

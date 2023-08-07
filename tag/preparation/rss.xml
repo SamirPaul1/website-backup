@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;preparation&#34; tag</title>
-        <link>https://samir.pages.dev</link>
+        <link>https://samirpaul.in</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
@@ -27,18 +27,16 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
-        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>embed-musicapp</category>
-        <category>music</category>
-        <category>embeded</category>
-        <category>music-player</category>
         <category>programmable-search</category>
         <category>Graph</category>
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
@@ -46,9 +44,6 @@
         <category>important-leetcode-solutions</category>
         <category>technical-interview</category>
         <category>interview-questions</category>
-        <category>python</category>
-        <category>python-frameworks</category>
-        <category>python-libraries</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -62,6 +57,11 @@
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>dp</category>
         <category>project</category>
         <category>pygame</category>
         <category>python-game</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/url-shortening-service/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/url-shortening-service/</guid>
             <title>URL Shortening Service</title>
-            <link>https://samir.pages.dev/posts/url-shortening-service/</link>
+            <link>https://samirpaul.in/posts/url-shortening-service/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -455,9 +455,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/system-design-interview-for-it-companies/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/system-design-interview-for-it-companies/</guid>
             <title>System design interview for IT companies</title>
-            <link>https://samir.pages.dev/posts/system-design-interview-for-it-companies/</link>
+            <link>https://samirpaul.in/posts/system-design-interview-for-it-companies/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -705,9 +705,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</guid>
             <title>Steps how to approach the system design questions in interviews</title>
-            <link>https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</link>
+            <link>https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -762,9 +762,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/high-level-design/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/high-level-design/</guid>
             <title>High-level design</title>
-            <link>https://samir.pages.dev/posts/high-level-design/</link>
+            <link>https://samirpaul.in/posts/high-level-design/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -798,9 +798,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/consistent-hashing/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/consistent-hashing/</guid>
             <title>Consistent Hashing</title>
-            <link>https://samir.pages.dev/posts/consistent-hashing/</link>
+            <link>https://samirpaul.in/posts/consistent-hashing/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -832,9 +832,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/company-engineering-blog-links/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/company-engineering-blog-links/</guid>
             <title>Company engineering blog links</title>
-            <link>https://samir.pages.dev/posts/company-engineering-blog-links/</link>
+            <link>https://samirpaul.in/posts/company-engineering-blog-links/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -883,9 +883,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/common-design-questions/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/common-design-questions/</guid>
             <title>Common Design questions</title>
-            <link>https://samir.pages.dev/posts/common-design-questions/</link>
+            <link>https://samirpaul.in/posts/common-design-questions/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -917,9 +917,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/client-server-communication/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/client-server-communication/</guid>
             <title>Client-Server Communication</title>
-            <link>https://samir.pages.dev/posts/client-server-communication/</link>
+            <link>https://samirpaul.in/posts/client-server-communication/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>

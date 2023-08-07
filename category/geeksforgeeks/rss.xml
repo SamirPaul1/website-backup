@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;geeksforgeeks&#34; category</title>
-        <link>https://samir.pages.dev</link>
+        <link>https://samirpaul.in</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
@@ -27,18 +27,16 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
-        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>embed-musicapp</category>
-        <category>music</category>
-        <category>embeded</category>
-        <category>music-player</category>
         <category>programmable-search</category>
         <category>Graph</category>
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
@@ -46,9 +44,6 @@
         <category>important-leetcode-solutions</category>
         <category>technical-interview</category>
         <category>interview-questions</category>
-        <category>python</category>
-        <category>python-frameworks</category>
-        <category>python-libraries</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -62,6 +57,11 @@
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>dp</category>
         <category>project</category>
         <category>pygame</category>
         <category>python-game</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1.-Absolute-Value---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1.-Absolute-Value---GFG/</guid>
             <title>1. Absolute Value   GFG</title>
-            <link>https://samir.pages.dev/posts/1.-Absolute-Value---GFG/</link>
+            <link>https://samirpaul.in/posts/1.-Absolute-Value---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;1-Absolute-Value&#34;&gt;&lt;a href=&#34;#1-Absolute-Value&#34; class=&#34;headerlink&#34; title=&#34;1. Absolute Value&#34;&gt;&lt;/a&gt;1. Absolute Value&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -142,9 +142,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Addition-of-Two-Numbers---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Addition-of-Two-Numbers---GFG/</guid>
             <title>Addition of Two Numbers   GFG</title>
-            <link>https://samir.pages.dev/posts/Addition-of-Two-Numbers---GFG/</link>
+            <link>https://samirpaul.in/posts/Addition-of-Two-Numbers---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Addition-of-Two-Numbers&#34;&gt;&lt;a href=&#34;#Addition-of-Two-Numbers&#34; class=&#34;headerlink&#34; title=&#34;Addition of Two Numbers&#34;&gt;&lt;/a&gt;Addition of Two Numbers&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two numbers &lt;strong&gt;A&amp;nbsp;&lt;/strong&gt;and &lt;strong&gt;B&lt;/strong&gt;. Your task is to return the sum of A and B.&lt;/span&gt;&lt;/p&gt;
@@ -193,9 +193,9 @@ Addition os 10 and 20 is 30.&lt;/span&gt;&lt;/pre&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Aggressive-Cows---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Aggressive-Cows---GFG/</guid>
             <title>Aggressive Cows   GFG</title>
-            <link>https://samir.pages.dev/posts/Aggressive-Cows---GFG/</link>
+            <link>https://samirpaul.in/posts/Aggressive-Cows---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Aggressive-Cows&#34;&gt;&lt;a href=&#34;#Aggressive-Cows&#34; class=&#34;headerlink&#34; title=&#34;Aggressive Cows&#34;&gt;&lt;/a&gt;Aggressive Cows&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;You are given an &lt;strong&gt;array&lt;/strong&gt;&amp;nbsp;consisting of &lt;strong&gt;n&amp;nbsp;integers&lt;/strong&gt; which denote the position of a &lt;strong&gt;stall&lt;/strong&gt;. You are also given an &lt;strong&gt;integer&lt;/strong&gt; &lt;strong&gt;k&lt;/strong&gt; which denotes the number of aggressive cows. You are given the task of &lt;strong&gt;assigning stalls to k&amp;nbsp;cows&lt;/strong&gt; such that the &lt;strong&gt;minimum distance between any two of them is the maximum possible&lt;/strong&gt;.&lt;br&gt;
@@ -250,9 +250,9 @@ Complete the function int solve(), which takes integer n, k, and a vector&amp;nb
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Allocate-minimum-number-of-pages---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Allocate-minimum-number-of-pages---GFG/</guid>
             <title>Allocate minimum number of pages   GFG</title>
-            <link>https://samir.pages.dev/posts/Allocate-minimum-number-of-pages---GFG/</link>
+            <link>https://samirpaul.in/posts/Allocate-minimum-number-of-pages---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Allocate-minimum-number-of-pages&#34;&gt;&lt;a href=&#34;#Allocate-minimum-number-of-pages&#34; class=&#34;headerlink&#34; title=&#34;Allocate minimum number of pages&#34;&gt;&lt;/a&gt;Allocate minimum number of pages&lt;/h1&gt;&lt;h2 id=&#34;Hard&#34;&gt;&lt;a href=&#34;#Hard&#34; class=&#34;headerlink&#34; title=&#34;Hard&#34;&gt;&lt;/a&gt;Hard&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;You are given &lt;strong&gt;N &lt;/strong&gt;number of books. Every &lt;strong&gt;ith&lt;/strong&gt; book has&lt;strong&gt; Ai&lt;/strong&gt; number of pages.&amp;nbsp;The books are arranged in ascending order.&lt;/span&gt;&lt;br&gt;
@@ -312,9 +312,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Array-Pair-Sum-Divisibility-Problem---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Array-Pair-Sum-Divisibility-Problem---GFG/</guid>
             <title>Array Pair Sum Divisibility Problem   GFG</title>
-            <link>https://samir.pages.dev/posts/Array-Pair-Sum-Divisibility-Problem---GFG/</link>
+            <link>https://samirpaul.in/posts/Array-Pair-Sum-Divisibility-Problem---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Array-Pair-Sum-Divisibility-Problem&#34;&gt;&lt;a href=&#34;#Array-Pair-Sum-Divisibility-Problem&#34; class=&#34;headerlink&#34; title=&#34;Array Pair Sum Divisibility Problem&#34;&gt;&lt;/a&gt;Array Pair Sum Divisibility Problem&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array of integers and a number k, write a function that returns true if given array can be divided into pairs such that sum of every pair is divisible by k.&lt;/span&gt;&lt;br&gt;
@@ -358,9 +358,9 @@ You don&#39;t need to read or print anything. Your task is to complete the funct
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Binary-Array-Sorting---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Binary-Array-Sorting---GFG/</guid>
             <title>Binary Array Sorting   GFG</title>
-            <link>https://samir.pages.dev/posts/Binary-Array-Sorting---GFG/</link>
+            <link>https://samirpaul.in/posts/Binary-Array-Sorting---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Binary-Array-Sorting&#34;&gt;&lt;a href=&#34;#Binary-Array-Sorting&#34; class=&#34;headerlink&#34; title=&#34;Binary Array Sorting&#34;&gt;&lt;/a&gt;Binary Array Sorting&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -414,9 +414,9 @@ increasing order, elements will be
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Bitwise-Operators---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Bitwise-Operators---GFG/</guid>
             <title>Bitwise Operators   GFG</title>
-            <link>https://samir.pages.dev/posts/Bitwise-Operators---GFG/</link>
+            <link>https://samirpaul.in/posts/Bitwise-Operators---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Bitwise-Operators&#34;&gt;&lt;a href=&#34;#Bitwise-Operators&#34; class=&#34;headerlink&#34; title=&#34;Bitwise Operators&#34;&gt;&lt;/a&gt;Bitwise Operators&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Bitwise operators are useful when we want to work with bits. Here, we&#39;ll take a look at them.&lt;/span&gt;&lt;/p&gt;
@@ -457,9 +457,9 @@ c = 2&lt;br&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Black-and-White---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Black-and-White---GFG/</guid>
             <title>Black and White   GFG</title>
-            <link>https://samir.pages.dev/posts/Black-and-White---GFG/</link>
+            <link>https://samirpaul.in/posts/Black-and-White---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Black-and-White&#34;&gt;&lt;a href=&#34;#Black-and-White&#34; class=&#34;headerlink&#34; title=&#34;Black and White&#34;&gt;&lt;/a&gt;Black and White&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given&amp;nbsp;the chessboard dimensions. Find out the number of ways we can place a black and a white Knight on this chessboard such that they cannot attack each other.&lt;/span&gt;&lt;/p&gt;
@@ -499,9 +499,9 @@ Your task is to complete the function &lt;strong&gt;numOfWays()&amp;nbsp;&lt;/st
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Check-if-Linked-List-is-Palindrome---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Check-if-Linked-List-is-Palindrome---GFG/</guid>
             <title>Check if Linked List is Palindrome   GFG</title>
-            <link>https://samir.pages.dev/posts/Check-if-Linked-List-is-Palindrome---GFG/</link>
+            <link>https://samirpaul.in/posts/Check-if-Linked-List-is-Palindrome---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Check-if-Linked-List-is-Palindrome&#34;&gt;&lt;a href=&#34;#Check-if-Linked-List-is-Palindrome&#34; class=&#34;headerlink&#34; title=&#34;Check if Linked List is Palindrome&#34;&gt;&lt;/a&gt;Check if Linked List is Palindrome&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list of size &lt;strong&gt;N&lt;/strong&gt; of integers. The task is to check if the given linked list is palindrome or not.&lt;/span&gt;&lt;/p&gt;
@@ -542,9 +542,9 @@ The task is to complete the function&amp;nbsp;&lt;strong&gt;isPalindrome&lt;/str
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Check-if-array-is-sorted---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Check-if-array-is-sorted---GFG/</guid>
             <title>Check if array is sorted   GFG</title>
-            <link>https://samir.pages.dev/posts/Check-if-array-is-sorted---GFG/</link>
+            <link>https://samirpaul.in/posts/Check-if-array-is-sorted---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Check-if-array-is-sorted&#34;&gt;&lt;a href=&#34;#Check-if-array-is-sorted&#34; class=&#34;headerlink&#34; title=&#34;Check if array is sorted&#34;&gt;&lt;/a&gt;Check if array is sorted&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array &lt;strong&gt;arr[]&amp;nbsp;&lt;/strong&gt;of size &lt;strong&gt;N&lt;/strong&gt;, check if it is sorted in non-decreasing order or not.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
@@ -587,9 +587,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/</guid>
             <title>Check if it is possible to convert one string into another with given constraints   GFG</title>
-            <link>https://samir.pages.dev/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/</link>
+            <link>https://samirpaul.in/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints&#34;&gt;&lt;a href=&#34;#Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints&#34; class=&#34;headerlink&#34; title=&#34;Check if it is possible to convert one string into another with given constraints&#34;&gt;&lt;/a&gt;Check if it is possible to convert one string into another with given constraints&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;Given two strings S and T, which&amp;nbsp;contains three characters i.e &lt;strong&gt;&#39;A&#39;, &#39;B&#39;&lt;/strong&gt; and &lt;strong&gt;&#39;#&#39;&amp;nbsp;&lt;/strong&gt;only. Check&amp;nbsp;whether it is possible to convert the first string into another string by performing following operations on string first.&lt;br&gt;
@@ -648,9 +648,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Check-if-two-arrays-are-equal-or-not---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Check-if-two-arrays-are-equal-or-not---GFG/</guid>
             <title>Check if two arrays are equal or not   GFG</title>
-            <link>https://samir.pages.dev/posts/Check-if-two-arrays-are-equal-or-not---GFG/</link>
+            <link>https://samirpaul.in/posts/Check-if-two-arrays-are-equal-or-not---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Check-if-two-arrays-are-equal-or-not&#34;&gt;&lt;a href=&#34;#Check-if-two-arrays-are-equal-or-not&#34; class=&#34;headerlink&#34; title=&#34;Check if two arrays are equal or not&#34;&gt;&lt;/a&gt;Check if two arrays are equal or not&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two arrays &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; of equal size &lt;strong&gt;N&lt;/strong&gt;, the task is to find if given arrays are equal or not. Two arrays are said to be equal if both of them contain same set of elements, arrangements (or permutation) of elements may be different though.&lt;br&gt;
@@ -695,9 +695,9 @@ Complete&amp;nbsp;&lt;strong&gt;check() &lt;/strong&gt;function which takes both
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Check-whether-K-th-bit-is-set-or-not---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Check-whether-K-th-bit-is-set-or-not---GFG/</guid>
             <title>Check whether K th bit is set or not   GFG</title>
-            <link>https://samir.pages.dev/posts/Check-whether-K-th-bit-is-set-or-not---GFG/</link>
+            <link>https://samirpaul.in/posts/Check-whether-K-th-bit-is-set-or-not---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Check-whether-K-th-bit-is-set-or-not&#34;&gt;&lt;a href=&#34;#Check-whether-K-th-bit-is-set-or-not&#34; class=&#34;headerlink&#34; title=&#34;Check whether K-th bit is set or not&#34;&gt;&lt;/a&gt;Check whether K-th bit is set or not&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -746,9 +746,9 @@ So, return false.&lt;/span&gt;&lt;/pre&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Complete-Binary-Tree---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Complete-Binary-Tree---GFG/</guid>
             <title>Complete Binary Tree   GFG</title>
-            <link>https://samir.pages.dev/posts/Complete-Binary-Tree---GFG/</link>
+            <link>https://samirpaul.in/posts/Complete-Binary-Tree---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Complete-Binary-Tree&#34;&gt;&lt;a href=&#34;#Complete-Binary-Tree&#34; class=&#34;headerlink&#34; title=&#34;Complete Binary Tree&#34;&gt;&lt;/a&gt;Complete Binary Tree&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a Binary Tree, write a function to check whether the given Binary Tree is Complete Binary Tree or not. A complete binary tree&amp;nbsp;is a binary tree in which every level, except possibly the last, is completely filled, and all nodes should be as much close to left as possible&lt;/span&gt;&lt;span style=&#34;font-size:18px&#34;&gt;.&lt;/span&gt;&lt;/p&gt;
@@ -791,9 +791,9 @@ You don&#39;t need to take input. Just complete the function&lt;strong&gt; isCom
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Convert-String-to-LowerCase---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Convert-String-to-LowerCase---GFG/</guid>
             <title>Convert String to LowerCase   GFG</title>
-            <link>https://samir.pages.dev/posts/Convert-String-to-LowerCase---GFG/</link>
+            <link>https://samirpaul.in/posts/Convert-String-to-LowerCase---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Convert-String-to-LowerCase&#34;&gt;&lt;a href=&#34;#Convert-String-to-LowerCase&#34; class=&#34;headerlink&#34; title=&#34;Convert String to LowerCase&#34;&gt;&lt;/a&gt;Convert String to LowerCase&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a string &lt;strong&gt;S&lt;/strong&gt;. The task is to convert characters of string to &lt;strong&gt;lowercase&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
@@ -832,9 +832,9 @@ You dont need to read input or print anything. Complete the function &lt;strong&
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Count-Leaves-in-Binary-Tree---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Count-Leaves-in-Binary-Tree---GFG/</guid>
             <title>Count Leaves in Binary Tree   GFG</title>
-            <link>https://samir.pages.dev/posts/Count-Leaves-in-Binary-Tree---GFG/</link>
+            <link>https://samirpaul.in/posts/Count-Leaves-in-Binary-Tree---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Count-Leaves-in-Binary-Tree&#34;&gt;&lt;a href=&#34;#Count-Leaves-in-Binary-Tree&#34; class=&#34;headerlink&#34; title=&#34;Count Leaves in Binary Tree&#34;&gt;&lt;/a&gt;Count Leaves in Binary Tree&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a Binary Tree of size &lt;strong&gt;N&lt;/strong&gt; , You have to count leaves in it. For example, there are two leaves in following&amp;nbsp;tree&lt;/span&gt;&lt;/p&gt;
@@ -883,9 +883,9 @@ You don&#39;t have to take input. Complete the function &lt;strong&gt;countLeave
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Count-Odd-Even---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Count-Odd-Even---GFG/</guid>
             <title>Count Odd Even   GFG</title>
-            <link>https://samir.pages.dev/posts/Count-Odd-Even---GFG/</link>
+            <link>https://samirpaul.in/posts/Count-Odd-Even---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Count-Odd-Even&#34;&gt;&lt;a href=&#34;#Count-Odd-Even&#34; class=&#34;headerlink&#34; title=&#34;Count Odd Even&#34;&gt;&lt;/a&gt;Count Odd Even&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -917,9 +917,9 @@ Print a newline at the end of output.&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Count-Odd-Factors---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Count-Odd-Factors---GFG/</guid>
             <title>Count Odd Factors   GFG</title>
-            <link>https://samir.pages.dev/posts/Count-Odd-Factors---GFG/</link>
+            <link>https://samirpaul.in/posts/Count-Odd-Factors---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Count-Odd-Factors&#34;&gt;&lt;a href=&#34;#Count-Odd-Factors&#34; class=&#34;headerlink&#34; title=&#34;Count Odd Factors&#34;&gt;&lt;/a&gt;Count Odd Factors&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -968,9 +968,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Count-nodes-of-linked-list---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Count-nodes-of-linked-list---GFG/</guid>
             <title>Count nodes of linked list   GFG</title>
-            <link>https://samir.pages.dev/posts/Count-nodes-of-linked-list---GFG/</link>
+            <link>https://samirpaul.in/posts/Count-nodes-of-linked-list---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Count-nodes-of-linked-list&#34;&gt;&lt;a href=&#34;#Count-nodes-of-linked-list&#34; class=&#34;headerlink&#34; title=&#34;Count nodes of linked list&#34;&gt;&lt;/a&gt;Count nodes of linked list&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list. The task is to find the length of the linked list, where length is defined as the number of nodes in the linked list.&lt;/span&gt;&lt;/p&gt;
@@ -1011,9 +1011,9 @@ Your task is to complete the given function &lt;strong&gt;getCount&lt;/strong&gt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Count-of-camel-case-characters---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Count-of-camel-case-characters---GFG/</guid>
             <title>Count of camel case characters   GFG</title>
-            <link>https://samir.pages.dev/posts/Count-of-camel-case-characters---GFG/</link>
+            <link>https://samirpaul.in/posts/Count-of-camel-case-characters---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Count-of-camel-case-characters&#34;&gt;&lt;a href=&#34;#Count-of-camel-case-characters&#34; class=&#34;headerlink&#34; title=&#34;Count of camel case characters&#34;&gt;&lt;/a&gt;Count of camel case characters&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a string. Count the number of Camel Case characters in it.&lt;/span&gt;&lt;/p&gt;
@@ -1057,9 +1057,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Count-total-set-bits---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Count-total-set-bits---GFG/</guid>
             <title>Count total set bits   GFG</title>
-            <link>https://samir.pages.dev/posts/Count-total-set-bits---GFG/</link>
+            <link>https://samirpaul.in/posts/Count-total-set-bits---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Count-total-set-bits&#34;&gt;&lt;a href=&#34;#Count-total-set-bits&#34; class=&#34;headerlink&#34; title=&#34;Count total set bits&#34;&gt;&lt;/a&gt;Count total set bits&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -1101,9 +1101,9 @@ the total number of set bits is 35.&lt;/span&gt;&lt;/pre&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/</guid>
             <title>Cumulative frequency of count of each element in an unsorted array   GFG</title>
-            <link>https://samir.pages.dev/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/</link>
+            <link>https://samirpaul.in/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array&#34;&gt;&lt;a href=&#34;#Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array&#34; class=&#34;headerlink&#34; title=&#34;Cumulative frequency of count of each element in an unsorted array&#34;&gt;&lt;/a&gt;Cumulative frequency of count of each element in an unsorted array&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array of elements. The task is to calculate the cumulative frequency of each element of the array.&lt;/span&gt;&lt;/p&gt;
@@ -1146,9 +1146,9 @@ This is a function problem. The input is already taken care of by the driver cod
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Data-Type---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Data-Type---GFG/</guid>
             <title>Data Type   GFG</title>
-            <link>https://samir.pages.dev/posts/Data-Type---GFG/</link>
+            <link>https://samirpaul.in/posts/Data-Type---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Data-Type&#34;&gt;&lt;a href=&#34;#Data-Type&#34; class=&#34;headerlink&#34; title=&#34;Data Type&#34;&gt;&lt;/a&gt;Data Type&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Geek is learning a new programming language. As data type forms the most fundamental part of a language, Geek is learning them with focus and needs your help. Given a data type, help Geek in finding the size of it in byte.&lt;/span&gt;&lt;/p&gt;
@@ -1178,9 +1178,9 @@ This is a function problem. The input is already taken care of by the driver cod
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Delete-Middle-of-Linked-List---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Delete-Middle-of-Linked-List---GFG/</guid>
             <title>Delete Middle of Linked List   GFG</title>
-            <link>https://samir.pages.dev/posts/Delete-Middle-of-Linked-List---GFG/</link>
+            <link>https://samirpaul.in/posts/Delete-Middle-of-Linked-List---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Delete-Middle-of-Linked-List&#34;&gt;&lt;a href=&#34;#Delete-Middle-of-Linked-List&#34; class=&#34;headerlink&#34; title=&#34;Delete Middle of Linked List&#34;&gt;&lt;/a&gt;Delete Middle of Linked List&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list, delete &lt;strong&gt;middle&amp;nbsp;&lt;/strong&gt;of the linked list. For example, if given linked list is 1-&amp;gt;2-&amp;gt;&lt;strong&gt;3&lt;/strong&gt;-&amp;gt;4-&amp;gt;5 then linked list should be modified to 1-&amp;gt;2-&amp;gt;4-&amp;gt;5.&lt;br&gt;
@@ -1216,9 +1216,9 @@ The task is to complete the function &lt;strong&gt;deleteMid&lt;/strong&gt;() wh
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Delete-a-Node-in-Single-Linked-List---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Delete-a-Node-in-Single-Linked-List---GFG/</guid>
             <title>Delete a Node in Single Linked List   GFG</title>
-            <link>https://samir.pages.dev/posts/Delete-a-Node-in-Single-Linked-List---GFG/</link>
+            <link>https://samirpaul.in/posts/Delete-a-Node-in-Single-Linked-List---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Delete-a-Node-in-Single-Linked-List&#34;&gt;&lt;a href=&#34;#Delete-a-Node-in-Single-Linked-List&#34; class=&#34;headerlink&#34; title=&#34;Delete a Node in Single Linked List&#34;&gt;&lt;/a&gt;Delete a Node in Single Linked List&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list and an integer x.Delete x&lt;sup&gt;th&lt;/sup&gt; node from the&amp;nbsp;singly&amp;nbsp;linked list. &lt;/span&gt;&lt;/p&gt;
@@ -1260,9 +1260,9 @@ Output: &lt;/strong&gt;1 -&amp;gt; 2 -&amp;gt; 9
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Delete-without-head-pointer---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Delete-without-head-pointer---GFG/</guid>
             <title>Delete without head pointer   GFG</title>
-            <link>https://samir.pages.dev/posts/Delete-without-head-pointer---GFG/</link>
+            <link>https://samirpaul.in/posts/Delete-without-head-pointer---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Delete-without-head-pointer&#34;&gt;&lt;a href=&#34;#Delete-without-head-pointer&#34; class=&#34;headerlink&#34; title=&#34;Delete without head pointer&#34;&gt;&lt;/a&gt;Delete without head pointer&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;You are given a pointer/ reference to the node which is to be deleted from the&amp;nbsp;linked list of &lt;strong&gt;N&amp;nbsp;&lt;/strong&gt;nodes. The task is to delete the node. Pointer/ reference to head node is not given.&amp;nbsp;&lt;/span&gt;&lt;br&gt;
@@ -1306,9 +1306,9 @@ You only need to complete the &lt;strong&gt;function deleteNode &lt;/strong&gt;t
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Display-longest-name---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Display-longest-name---GFG/</guid>
             <title>Display longest name   GFG</title>
-            <link>https://samir.pages.dev/posts/Display-longest-name---GFG/</link>
+            <link>https://samirpaul.in/posts/Display-longest-name---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Display-longest-name&#34;&gt;&lt;a href=&#34;#Display-longest-name&#34; class=&#34;headerlink&#34; title=&#34;Display longest name&#34;&gt;&lt;/a&gt;Display longest name&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a list of names, display the longest name.&lt;/span&gt;&lt;/p&gt;
@@ -1347,9 +1347,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Factorial---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Factorial---GFG/</guid>
             <title>Factorial   GFG</title>
-            <link>https://samir.pages.dev/posts/Factorial---GFG/</link>
+            <link>https://samirpaul.in/posts/Factorial---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Factorial&#34;&gt;&lt;a href=&#34;#Factorial&#34; class=&#34;headerlink&#34; title=&#34;Factorial&#34;&gt;&lt;/a&gt;Factorial&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -1394,9 +1394,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Find-minimum-and-maximum-element-in-an-array---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Find-minimum-and-maximum-element-in-an-array---GFG/</guid>
             <title>Find minimum and maximum element in an array   GFG</title>
-            <link>https://samir.pages.dev/posts/Find-minimum-and-maximum-element-in-an-array---GFG/</link>
+            <link>https://samirpaul.in/posts/Find-minimum-and-maximum-element-in-an-array---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Find-minimum-and-maximum-element-in-an-array&#34;&gt;&lt;a href=&#34;#Find-minimum-and-maximum-element-in-an-array&#34; class=&#34;headerlink&#34; title=&#34;Find minimum and maximum element in an array&#34;&gt;&lt;/a&gt;Find minimum and maximum element in an array&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
@@ -1445,9 +1445,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/Find-patterns---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/Find-patterns---GFG/</guid>
             <title>Find patterns   GFG</title>
-            <link>https://samir.pages.dev/posts/Find-patterns---GFG/</link>
+            <link>https://samirpaul.in/posts/Find-patterns---GFG/</link>
             <category>GeeksforGeeks</category>
             <pubDate>Mon, 31 Aug 2020 09:54:52 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Find-patterns&#34;&gt;&lt;a href=&#34;#Find-patterns&#34; class=&#34;headerlink&#34; title=&#34;Find patterns&#34;&gt;&lt;/a&gt;Find patterns&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two&amp;nbsp;strings S and&amp;nbsp;W. Find the number of times W appears as a subsequence of&amp;nbsp;string S where every character of string S can be included in forming at most one subsequence.&lt;/span&gt;&lt;br&gt;

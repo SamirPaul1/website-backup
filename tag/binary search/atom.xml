@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samir.pages.dev</id>
+    <id>https://samirpaul.in</id>
     <title>Samir Paul • Posts by &#34;binary search&#34; tag</title>
-    <link href="https://samir.pages.dev" />
+    <link href="https://samirpaul.in" />
     <updated>2023-08-05T20:52:53.890Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,18 +24,16 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
-    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="embed-musicapp" />
-    <category term="music" />
-    <category term="embeded" />
-    <category term="music-player" />
     <category term="programmable-search" />
     <category term="Graph" />
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
     <category term="leetcode" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
@@ -43,9 +41,6 @@
     <category term="important-leetcode-solutions" />
     <category term="technical-interview" />
     <category term="interview-questions" />
-    <category term="python" />
-    <category term="python-frameworks" />
-    <category term="python-libraries" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -59,6 +54,11 @@
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="dp" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samir.pages.dev/posts/binary-search-template/</id>
+        <id>https://samirpaul.in/posts/binary-search-template/</id>
         <title>Binary Search Template</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/binary-search-template/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/binary-search-template/"/>
         <content type="html">&lt;p&gt;Binary Search is quite easy to understand conceptually. Basically, it splits the search space into two halves and only keep the half that probably has the search target and throw away the other half that would not possibly have the answer. In this manner, we reduce the search space to half the size at every step, until we find the target. Binary Search helps us reduce the search time from linear O(n) to logarithmic O(log n). &lt;strong&gt;But when it comes to implementation, it’s rather difficult to write a bug-free code in just a few minutes&lt;/strong&gt;. Some of the most common problems include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When to exit the loop? Should we use &lt;code&gt;left &amp;lt; right&lt;/code&gt; or &lt;code&gt;left &amp;lt;= right&lt;/code&gt; as the while loop condition?&lt;/li&gt;

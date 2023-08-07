@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samir.pages.dev</id>
+    <id>https://samirpaul.in</id>
     <title>Samir Paul • Posts by &#34;system design&#34; category</title>
-    <link href="https://samir.pages.dev" />
+    <link href="https://samirpaul.in" />
     <updated>2023-08-15T04:24:59.000Z</updated>
     <category term="LeetCode" />
     <category term="GeeksforGeeks" />
@@ -24,18 +24,16 @@
     <category term="DSAlgo" />
     <category term="dsa-in-python" />
     <category term="data-structures-and-algorithms" />
-    <category term="dp" />
     <category term="Dynamic Programming" />
     <category term="Patterns" />
-    <category term="embed-musicapp" />
-    <category term="music" />
-    <category term="embeded" />
-    <category term="music-player" />
     <category term="programmable-search" />
     <category term="Graph" />
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="python" />
+    <category term="python-frameworks" />
+    <category term="python-libraries" />
     <category term="leetcode" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
@@ -43,9 +41,6 @@
     <category term="important-leetcode-solutions" />
     <category term="technical-interview" />
     <category term="interview-questions" />
-    <category term="python" />
-    <category term="python-frameworks" />
-    <category term="python-libraries" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -59,6 +54,11 @@
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
+    <category term="embed-musicapp" />
+    <category term="music" />
+    <category term="embeded" />
+    <category term="music-player" />
+    <category term="dp" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -89,9 +89,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samir.pages.dev/posts/system-design-course/</id>
+        <id>https://samirpaul.in/posts/system-design-course/</id>
         <title>System Design Course</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/system-design-course/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/system-design-course/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Learn how to design systems at scale and prepare for system design interviews.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -3572,9 +3572,9 @@
         <updated>2023-08-15T04:24:59.000Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/url-shortening-service/</id>
+        <id>https://samirpaul.in/posts/url-shortening-service/</id>
         <title>URL Shortening Service</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/url-shortening-service/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/url-shortening-service/"/>
         <content type="html">&lt;h1 id=&#34;URL-Shortening-Service&#34;&gt;&lt;a href=&#34;#URL-Shortening-Service&#34; class=&#34;headerlink&#34; title=&#34;URL Shortening Service&#34;&gt;&lt;/a&gt;URL Shortening Service&lt;/h1&gt;&lt;h2 id=&#34;Summary&#34;&gt;&lt;a href=&#34;#Summary&#34; class=&#34;headerlink&#34; title=&#34;Summary&#34;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-overview.png&#34; alt=&#34;overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-detail.png&#34; alt=&#34;summary&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Requirements&#34;&gt;&lt;a href=&#34;#Requirements&#34; class=&#34;headerlink&#34; title=&#34;Requirements&#34;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Functional Requirements&lt;/p&gt;
@@ -3935,9 +3935,9 @@
         <updated>2023-08-05T20:52:53.888Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/system-design-interview-for-it-companies/</id>
+        <id>https://samirpaul.in/posts/system-design-interview-for-it-companies/</id>
         <title>System design interview for IT companies</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/system-design-interview-for-it-companies/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/system-design-interview-for-it-companies/"/>
         <content type="html">&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/systemcycle.png&#34; alt=&#34;system development life cycle&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;How to prepare system design questions for an IT company&lt;/p&gt;
@@ -4185,9 +4185,9 @@
         <updated>2023-08-05T20:52:53.883Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/sql-vs-nosql/</id>
+        <id>https://samirpaul.in/posts/sql-vs-nosql/</id>
         <title>SQL vs. NoSQL</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/sql-vs-nosql/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/sql-vs-nosql/"/>
         <content type="html">&lt;h1 id=&#34;SQL-vs-NoSQL&#34;&gt;&lt;a href=&#34;#SQL-vs-NoSQL&#34; class=&#34;headerlink&#34; title=&#34;SQL vs. NoSQL&#34;&gt;&lt;/a&gt;SQL vs. NoSQL&lt;/h1&gt;&lt;h2 id=&#34;Common-types-of-NoSQL&#34;&gt;&lt;a href=&#34;#Common-types-of-NoSQL&#34; class=&#34;headerlink&#34; title=&#34;Common types of NoSQL&#34;&gt;&lt;/a&gt;Common types of NoSQL&lt;/h2&gt;&lt;h3 id=&#34;Key-value-stores&#34;&gt;&lt;a href=&#34;#Key-value-stores&#34; class=&#34;headerlink&#34; title=&#34;Key-value stores&#34;&gt;&lt;/a&gt;Key-value stores&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Array of key-value pairs. The “key” is an attribute name.&lt;/li&gt;
 &lt;li&gt;Redis, Vodemort, Dynamo.&lt;/li&gt;
@@ -4294,9 +4294,9 @@
         <updated>2023-08-05T20:52:53.878Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</id>
+        <id>https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</id>
         <title>Steps how to approach the system design questions in interviews</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/"/>
         <content type="html">&lt;p&gt;These are the steps to go through mentally in the interviews, followed by actual interview experiences:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;a) &lt;strong&gt;Be absolutely sure you understand the problem being asked&lt;/strong&gt;, clarify on the onset rather than assuming anything &lt;/li&gt;
@@ -4351,9 +4351,9 @@
         <updated>2023-08-05T20:52:53.878Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/sharding-or-data-partitioning/</id>
+        <id>https://samirpaul.in/posts/sharding-or-data-partitioning/</id>
         <title>Sharding or Data Partitioning</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/sharding-or-data-partitioning/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/sharding-or-data-partitioning/"/>
         <content type="html">&lt;h1 id=&#34;Sharding-Data-Partitioning&#34;&gt;&lt;a href=&#34;#Sharding-Data-Partitioning&#34; class=&#34;headerlink&#34; title=&#34;Sharding &amp;#x2F; Data Partitioning&#34;&gt;&lt;/a&gt;Sharding &amp;#x2F; Data Partitioning&lt;/h1&gt;&lt;h2 id=&#34;Partitioning-methods&#34;&gt;&lt;a href=&#34;#Partitioning-methods&#34; class=&#34;headerlink&#34; title=&#34;Partitioning methods&#34;&gt;&lt;/a&gt;Partitioning methods&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Horizontal partitioning&lt;ul&gt;
 &lt;li&gt;Range based sharding.&lt;/li&gt;
@@ -4453,9 +4453,9 @@
         <updated>2023-08-05T20:52:53.876Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/</id>
+        <id>https://samirpaul.in/posts/key-characteristics-of-distributed-systems/</id>
         <title>Key Characteristics of Distributed Systems</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/key-characteristics-of-distributed-systems/"/>
         <content type="html">&lt;h1 id=&#34;Key-Characteristics-of-Distributed-Systems&#34;&gt;&lt;a href=&#34;#Key-Characteristics-of-Distributed-Systems&#34; class=&#34;headerlink&#34; title=&#34;Key Characteristics of Distributed Systems&#34;&gt;&lt;/a&gt;Key Characteristics of Distributed Systems&lt;/h1&gt;&lt;h2 id=&#34;Scalability&#34;&gt;&lt;a href=&#34;#Scalability&#34; class=&#34;headerlink&#34; title=&#34;Scalability&#34;&gt;&lt;/a&gt;Scalability&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;The capability of a system to grow and manage increased demand.&lt;/li&gt;
 &lt;li&gt;A system that can continuously evolve to support growing amount of work is scalable.&lt;/li&gt;
@@ -4494,9 +4494,9 @@
         <updated>2023-08-05T20:52:53.869Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/high-level-design/</id>
+        <id>https://samirpaul.in/posts/high-level-design/</id>
         <title>High-level design</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/high-level-design/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/high-level-design/"/>
         <content type="html">&lt;h1 id=&#34;High-level-design-HLD&#34;&gt;&lt;a href=&#34;#High-level-design-HLD&#34; class=&#34;headerlink&#34; title=&#34;High-level design (HLD)&#34;&gt;&lt;/a&gt;High-level design (HLD)&lt;/h1&gt;&lt;hr&gt;
 &lt;h1 id=&#34;Ticketmaster&#34;&gt;&lt;a href=&#34;#Ticketmaster&#34; class=&#34;headerlink&#34; title=&#34;Ticketmaster&#34;&gt;&lt;/a&gt;Ticketmaster&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/ticketmaster-overview.png&#34; alt=&#34;ticketmaster-overview&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -4530,9 +4530,9 @@
         <updated>2023-08-05T20:52:53.867Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/consistent-hashing/</id>
+        <id>https://samirpaul.in/posts/consistent-hashing/</id>
         <title>Consistent Hashing</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/consistent-hashing/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/consistent-hashing/"/>
         <content type="html">&lt;h1 id=&#34;Consistent-Hashing&#34;&gt;&lt;a href=&#34;#Consistent-Hashing&#34; class=&#34;headerlink&#34; title=&#34;Consistent Hashing&#34;&gt;&lt;/a&gt;Consistent Hashing&lt;/h1&gt;&lt;h2 id=&#34;Simple-hashing&#34;&gt;&lt;a href=&#34;#Simple-hashing&#34; class=&#34;headerlink&#34; title=&#34;Simple hashing&#34;&gt;&lt;/a&gt;Simple hashing&lt;/h2&gt;&lt;p&gt;Problems of simple hashing function &lt;code&gt;key % n&lt;/code&gt; (&lt;code&gt;n&lt;/code&gt; is the number of servers):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;It is not horizontally scalable. Whenever a new cache host is added to the system, all existing mappings are broken.&lt;/li&gt;
@@ -4564,9 +4564,9 @@
         <updated>2023-08-05T20:52:53.865Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/company-engineering-blog-links/</id>
+        <id>https://samirpaul.in/posts/company-engineering-blog-links/</id>
         <title>Company engineering blog links</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/company-engineering-blog-links/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/company-engineering-blog-links/"/>
         <content type="html">&lt;p&gt;courtesy &lt;a href=&#34;https://github.com/checkcheckzz/system-design-interview#toc&#34;&gt;checkcheckzz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Depending on where you are interviewing, go through the company blog. VERY USEFUL IN INTERVIEWS! It really helps if you have an idea of the architecture, as the questions asked will generally be of that domain and your prior knowledge will help out here.&lt;/p&gt;
 &lt;ul&gt;
@@ -4615,9 +4615,9 @@
         <updated>2023-08-05T20:52:53.862Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/common-design-questions/</id>
+        <id>https://samirpaul.in/posts/common-design-questions/</id>
         <title>Common Design questions</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/common-design-questions/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/common-design-questions/"/>
         <content type="html">&lt;p&gt;It generally depends what you are and you will be working on. Also what your level is but these are some of the more frequent interview questions.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Design amazon’s frequently viewed product page (eg. which shows the last 5 items you saw)&lt;/li&gt;
@@ -4649,9 +4649,9 @@
         <updated>2023-08-05T20:52:53.859Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/client-server-communication/</id>
+        <id>https://samirpaul.in/posts/client-server-communication/</id>
         <title>Client-Server Communication</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/client-server-communication/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/client-server-communication/"/>
         <content type="html">&lt;h1 id=&#34;Client-Server-Communication&#34;&gt;&lt;a href=&#34;#Client-Server-Communication&#34; class=&#34;headerlink&#34; title=&#34;Client-Server Communication&#34;&gt;&lt;/a&gt;Client-Server Communication&lt;/h1&gt;&lt;h2 id=&#34;Standard-HTTP-Web-Request&#34;&gt;&lt;a href=&#34;#Standard-HTTP-Web-Request&#34; class=&#34;headerlink&#34; title=&#34;Standard HTTP Web Request&#34;&gt;&lt;/a&gt;Standard HTTP Web Request&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;Client opens a connection and requests data from server.&lt;/li&gt;
 &lt;li&gt;Server calculates the response.&lt;/li&gt;
@@ -4705,9 +4705,9 @@
         <updated>2023-08-05T20:52:53.857Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/caching/</id>
+        <id>https://samirpaul.in/posts/caching/</id>
         <title>Caching</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/caching/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/caching/"/>
         <content type="html">&lt;p&gt;Caching&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -4828,9 +4828,9 @@
         <updated>2023-08-05T20:52:53.855Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/why-is-system-design-so-important/</id>
+        <id>https://samirpaul.in/posts/why-is-system-design-so-important/</id>
         <title>Why is System Design So Important?</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/why-is-system-design-so-important/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/why-is-system-design-so-important/"/>
         <content type="html">&lt;p&gt;System design is important for several reasons:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Defining system requirements:&lt;/strong&gt; System design helps to identify the requirements and constraints of the system being designed, and to prioritize those requirements. This ensures that the final design meets the needs of the stakeholders and users.&lt;/p&gt;
@@ -4853,9 +4853,9 @@
         <updated>2023-08-05T20:52:53.850Z</updated>
     </entry>
     <entry>
-        <id>https://samir.pages.dev/posts/what-is-system-design/</id>
+        <id>https://samirpaul.in/posts/what-is-system-design/</id>
         <title>What is System Design?</title>
-        <link rel="alternate" href="https://samir.pages.dev/posts/what-is-system-design/"/>
+        <link rel="alternate" href="https://samirpaul.in/posts/what-is-system-design/"/>
         <content type="html">&lt;p&gt;System design is a process of defining the architecture, modules, interfaces, data for a system to satisfy specified requirements. It can refer to the design of a complex system, such as a computer network, an aircraft, or a power plant, or it can refer to the design of a smaller system, such as a software application or a single computer program.&lt;/p&gt;
 &lt;p&gt;The goal of system design is to produce a blueprint or plan that outlines how all the components of the system will work together to achieve the desired outcomes. This process typically involves analyzing the requirements of the system, defining the architecture, selecting appropriate technologies, and ensuring that the system is scalable, maintainable, and meets performance, reliability, and security requirements.&lt;/p&gt;
 &lt;p&gt;In software engineering, system design is often used as a synonym for software design, which is the process of defining the architecture, modules, interfaces, and data for a software system to satisfy specified requirements.&lt;/p&gt;

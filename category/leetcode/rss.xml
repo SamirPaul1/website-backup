@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;leetcode&#34; category</title>
-        <link>https://samir.pages.dev</link>
+        <link>https://samirpaul.in</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Tue, 15 Aug 2023 09:54:55 +0530</pubDate>
@@ -27,18 +27,16 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
-        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
-        <category>embed-musicapp</category>
-        <category>music</category>
-        <category>embeded</category>
-        <category>music-player</category>
         <category>programmable-search</category>
         <category>Graph</category>
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>python</category>
+        <category>python-frameworks</category>
+        <category>python-libraries</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
@@ -46,9 +44,6 @@
         <category>important-leetcode-solutions</category>
         <category>technical-interview</category>
         <category>interview-questions</category>
-        <category>python</category>
-        <category>python-frameworks</category>
-        <category>python-libraries</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -62,6 +57,11 @@
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
+        <category>embed-musicapp</category>
+        <category>music</category>
+        <category>embeded</category>
+        <category>music-player</category>
+        <category>dp</category>
         <category>project</category>
         <category>pygame</category>
         <category>python-game</category>
@@ -92,9 +92,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/leetcode-solutions-cheatsheet/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/leetcode-solutions-cheatsheet/</guid>
             <title>Leetcode Solutions Cheatsheet</title>
-            <link>https://samir.pages.dev/posts/leetcode-solutions-cheatsheet/</link>
+            <link>https://samirpaul.in/posts/leetcode-solutions-cheatsheet/</link>
             <category>leetcode</category>
             <category>leetcode-solutions</category>
             <category>leetcode-solutions-cheetsheet</category>
@@ -1924,9 +1924,9 @@
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; ListNode &lt;span class=&#34;title function_&#34;&gt;mergeKLists&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(ListNode[] lists)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (lists.length == &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    PriorityQueue&amp;lt;ListNode&amp;gt; pq = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;PriorityQueue&lt;/span&gt;&amp;lt;&amp;gt;(lists.length, (n1, n2) -&amp;gt; n1.val - n2.val);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; (ListNode ln: lists)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (ln != &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            pq.add(ln);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (pq.isEmpty())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;ListNode&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;node&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;ListNode&lt;/span&gt;(-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;ListNode&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;ret&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; node;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (!pq.isEmpty()) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        node.next = pq.poll();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        node = node.next;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (node.next != &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            pq.add(node.next);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; ret.next;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/CPP-Data-Types---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/CPP-Data-Types---GFG/</guid>
             <title>C++ Data Types   GFG</title>
-            <link>https://samir.pages.dev/posts/CPP-Data-Types---GFG/</link>
+            <link>https://samirpaul.in/posts/CPP-Data-Types---GFG/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 17:52:21 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;C-Data-Types&#34;&gt;&lt;a href=&#34;#C-Data-Types&#34; class=&#34;headerlink&#34; title=&#34;C++ Data Types&#34;&gt;&lt;/a&gt;C++ Data Types&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Read a value and store it in the appropriate C++ Data Type.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
@@ -1963,9 +1963,9 @@ cppFloatType() :&amp;nbsp;&lt;/strong&gt;read a float&amp;nbsp;input, store it i
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/CPP-Strings---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/CPP-Strings---GFG/</guid>
             <title>C++ Strings   GFG</title>
-            <link>https://samir.pages.dev/posts/CPP-Strings---GFG/</link>
+            <link>https://samirpaul.in/posts/CPP-Strings---GFG/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 17:52:21 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;C-Strings&#34;&gt;&lt;a href=&#34;#C-Strings&#34; class=&#34;headerlink&#34; title=&#34;C++ Strings&#34;&gt;&lt;/a&gt;C++ Strings&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two strings&amp;nbsp; S1 and S2 .&amp;nbsp;You have to concatenate both the strings and print the concatenated string.&lt;/span&gt;&lt;/p&gt;
@@ -2009,9 +2009,9 @@ where N is the length of a&amp;nbsp;String&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/CPP-if-else-(Decision-Making)---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/</guid>
             <title>C++ if else (Decision Making)   GFG</title>
-            <link>https://samir.pages.dev/posts/CPP-if-else-(Decision-Making)---GFG/</link>
+            <link>https://samirpaul.in/posts/CPP-if-else-(Decision-Making)---GFG/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 17:52:21 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;C-if-else-Decision-Making&#34;&gt;&lt;a href=&#34;#C-if-else-Decision-Making&#34; class=&#34;headerlink&#34; title=&#34;C++ if-else (Decision Making)&#34;&gt;&lt;/a&gt;C++ if-else (Decision Making)&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an integer N.&amp;nbsp;Your task is to check if the integer is greater than, less than or equal to 5.&lt;br&gt;
@@ -2063,9 +2063,9 @@ If the integer is equal to 5, then print &#34;Equal&amp;nbsp;to 5&#34;.&lt;/span
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/CPP-Switch-Case-Statement---GFG/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/CPP-Switch-Case-Statement---GFG/</guid>
             <title>C++ Switch Case Statement   GFG</title>
-            <link>https://samir.pages.dev/posts/CPP-Switch-Case-Statement---GFG/</link>
+            <link>https://samirpaul.in/posts/CPP-Switch-Case-Statement---GFG/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 17:52:21 +0530</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;C-Switch-Case-Statement&#34;&gt;&lt;a href=&#34;#C-Switch-Case-Statement&#34; class=&#34;headerlink&#34; title=&#34;C++ Switch Case Statement&#34;&gt;&lt;/a&gt;C++ Switch Case Statement&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a number N, if the number is between 1 and 10 both inclusive then return the number in words (Lower case English Alphabets) otherwise return&amp;nbsp;&#34;not in range&#34;.&lt;/span&gt;&lt;/p&gt;
@@ -2114,9 +2114,9 @@ If the integer is equal to 5, then print &#34;Equal&amp;nbsp;to 5&#34;.&lt;/span
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1084-sales-analysis-iii/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1084-sales-analysis-iii/</guid>
             <title>1084 sales analysis iii</title>
-            <link>https://samir.pages.dev/posts/1084-sales-analysis-iii/</link>
+            <link>https://samirpaul.in/posts/1084-sales-analysis-iii/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/sales-analysis-iii/&#34;&gt;1084. Sales Analysis III&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div class=&#34;sql-schema-wrapper__3VBi&#34;&gt;&lt;a class=&#34;sql-schema-link__3cEg&#34;&gt;SQL Schema&lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;1em&#34; height=&#34;1em&#34; class=&#34;icon__1Md2&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Table: &lt;code&gt;Product&lt;/code&gt;&lt;/p&gt;
@@ -2197,9 +2197,9 @@ We return only product 1 as it is the product that was only sold in the spring o
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1092-shortest-common-supersequence/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1092-shortest-common-supersequence/</guid>
             <title>1092 shortest common supersequence</title>
-            <link>https://samir.pages.dev/posts/1092-shortest-common-supersequence/</link>
+            <link>https://samirpaul.in/posts/1092-shortest-common-supersequence/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/shortest-common-supersequence/&#34;&gt;1092. Shortest Common Supersequence &lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Hard&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given two strings &lt;code&gt;str1&lt;/code&gt; and &lt;code&gt;str2&lt;/code&gt;, return &lt;em&gt;the shortest string that has both &lt;/em&gt;&lt;code&gt;str1&lt;/code&gt;&lt;em&gt; and &lt;/em&gt;&lt;code&gt;str2&lt;/code&gt;&lt;em&gt; as &lt;strong&gt;subsequences&lt;/strong&gt;&lt;/em&gt;. If there are multiple valid strings, return &lt;strong&gt;any&lt;/strong&gt; of them.&lt;/p&gt;
@@ -2237,9 +2237,9 @@ The answer provided is the shortest such string that satisfies these properties.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1041-robot-bounded-in-circle/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1041-robot-bounded-in-circle/</guid>
             <title>1041 robot bounded in circle</title>
-            <link>https://samir.pages.dev/posts/1041-robot-bounded-in-circle/</link>
+            <link>https://samirpaul.in/posts/1041-robot-bounded-in-circle/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/robot-bounded-in-circle/&#34;&gt;1041. Robot Bounded In Circle&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;On an infinite plane, a robot initially stands at &lt;code&gt;(0, 0)&lt;/code&gt; and faces north. Note that:&lt;/p&gt;
@@ -2321,9 +2321,9 @@ Based on that, we return true.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1046-last-stone-weight/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1046-last-stone-weight/</guid>
             <title>1046 last stone weight</title>
-            <link>https://samir.pages.dev/posts/1046-last-stone-weight/</link>
+            <link>https://samirpaul.in/posts/1046-last-stone-weight/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/last-stone-weight/&#34;&gt;1046. Last Stone Weight&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given an array of integers &lt;code&gt;stones&lt;/code&gt; where &lt;code&gt;stones[i]&lt;/code&gt; is the weight of the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; stone.&lt;/p&gt;
@@ -2371,9 +2371,9 @@ we combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the val
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/</guid>
             <title>1050 actors and directors who cooperated at least three times</title>
-            <link>https://samir.pages.dev/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/</link>
+            <link>https://samirpaul.in/posts/1050-actors-and-directors-who-cooperated-at-least-three-times/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/&#34;&gt;1050. Actors and Directors Who Cooperated At Least Three Times&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div class=&#34;sql-schema-wrapper__3VBi&#34;&gt;&lt;a class=&#34;sql-schema-link__3cEg&#34;&gt;SQL Schema&lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;1em&#34; height=&#34;1em&#34; class=&#34;icon__1Md2&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Table: &lt;code&gt;ActorDirector&lt;/code&gt;&lt;/p&gt;
@@ -2427,9 +2427,9 @@ ActorDirector table:
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1071-greatest-common-divisor-of-strings/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1071-greatest-common-divisor-of-strings/</guid>
             <title>1071 greatest common divisor of strings</title>
-            <link>https://samir.pages.dev/posts/1071-greatest-common-divisor-of-strings/</link>
+            <link>https://samirpaul.in/posts/1071-greatest-common-divisor-of-strings/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/greatest-common-divisor-of-strings/&#34;&gt;1071. Greatest Common Divisor of Strings&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;For two strings &lt;code&gt;s&lt;/code&gt; and &lt;code&gt;t&lt;/code&gt;, we say &#34;&lt;code&gt;t&lt;/code&gt; divides &lt;code&gt;s&lt;/code&gt;&#34; if and only if &lt;code&gt;s = t + ... + t&lt;/code&gt; (i.e., &lt;code&gt;t&lt;/code&gt; is concatenated with itself one or more times).&lt;/p&gt;
@@ -2469,9 +2469,9 @@ ActorDirector table:
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1079-letter-tile-possibilities/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1079-letter-tile-possibilities/</guid>
             <title>1079 letter tile possibilities</title>
-            <link>https://samir.pages.dev/posts/1079-letter-tile-possibilities/</link>
+            <link>https://samirpaul.in/posts/1079-letter-tile-possibilities/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/letter-tile-possibilities/&#34;&gt;1079. Letter Tile Possibilities&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You have &lt;code&gt;n&lt;/code&gt;&amp;nbsp;&amp;nbsp;&lt;code&gt;tiles&lt;/code&gt;, where each tile has one letter &lt;code&gt;tiles[i]&lt;/code&gt; printed on it.&lt;/p&gt;
@@ -2512,9 +2512,9 @@ ActorDirector table:
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1027-longest-arithmetic-subsequence/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1027-longest-arithmetic-subsequence/</guid>
             <title>1027 longest arithmetic subsequence</title>
-            <link>https://samir.pages.dev/posts/1027-longest-arithmetic-subsequence/</link>
+            <link>https://samirpaul.in/posts/1027-longest-arithmetic-subsequence/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-arithmetic-subsequence/&#34;&gt;1027. Longest Arithmetic Subsequence&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an array &lt;code&gt;nums&lt;/code&gt; of integers, return the &lt;strong&gt;length&lt;/strong&gt; of the longest arithmetic subsequence in &lt;code&gt;nums&lt;/code&gt;.&lt;/p&gt;
@@ -2560,9 +2560,9 @@ The longest arithmetic subsequence is [20,15,10,5].
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1029-two-city-scheduling/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1029-two-city-scheduling/</guid>
             <title>1029 two city scheduling</title>
-            <link>https://samir.pages.dev/posts/1029-two-city-scheduling/</link>
+            <link>https://samirpaul.in/posts/1029-two-city-scheduling/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/two-city-scheduling/&#34;&gt;1029. Two City Scheduling&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;A company is planning to interview &lt;code&gt;2n&lt;/code&gt; people. Given the array &lt;code&gt;costs&lt;/code&gt; where &lt;code&gt;costs[i] = [aCost&lt;sub&gt;i&lt;/sub&gt;, bCost&lt;sub&gt;i&lt;/sub&gt;]&lt;/code&gt;,&amp;nbsp;the cost of flying the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; person to city &lt;code&gt;a&lt;/code&gt; is &lt;code&gt;aCost&lt;sub&gt;i&lt;/sub&gt;&lt;/code&gt;, and the cost of flying the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; person to city &lt;code&gt;b&lt;/code&gt; is &lt;code&gt;bCost&lt;sub&gt;i&lt;/sub&gt;&lt;/code&gt;.&lt;/p&gt;
@@ -2611,58 +2611,9 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</guid>
-            <title>1031 maximum sum of two non overlapping subarrays</title>
-            <link>https://samir.pages.dev/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</link>
-            <category>LeetCode</category>
-            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
-            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/&#34;&gt;1031. Maximum Sum of Two Non-Overlapping Subarrays&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and two integers &lt;code&gt;firstLen&lt;/code&gt; and &lt;code&gt;secondLen&lt;/code&gt;, return &lt;em&gt;the maximum sum of elements in two non-overlapping &lt;strong&gt;subarrays&lt;/strong&gt; with lengths &lt;/em&gt;&lt;code&gt;firstLen&lt;/code&gt;&lt;em&gt; and &lt;/em&gt;&lt;code&gt;secondLen&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;The array with length &lt;code&gt;firstLen&lt;/code&gt; could occur before or after the array with length &lt;code&gt;secondLen&lt;/code&gt;, but they have to be non-overlapping.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;subarray&lt;/strong&gt; is a &lt;strong&gt;contiguous&lt;/strong&gt; part of an array.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [0,6,5,2,2,5,1,9,4], firstLen = 1, secondLen = 2
-&lt;strong&gt;Output:&lt;/strong&gt; 20
-&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [9] with length 1, and [6,5] with length 2.
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [3,8,1,3,2,1,8,9,0], firstLen = 3, secondLen = 2
-&lt;strong&gt;Output:&lt;/strong&gt; 29
-&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [3,8,1] with length 3, and [8,9] with length 2.
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [2,1,5,6,0,9,5,0,3,8], firstLen = 4, secondLen = 3
-&lt;strong&gt;Output:&lt;/strong&gt; 31
-&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [5,6,0,9] with length 4, and [0,3,8] with length 3.
-&lt;/pre&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;code&gt;1 &amp;lt;= firstLen, secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;2 &amp;lt;= firstLen + secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;firstLen + secondLen &amp;lt;= nums.length &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;0 &amp;lt;= nums[i] &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;maxSumTwoNoOverlap&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], firstLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;, secondLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        prefixArr = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        s = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; nums:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s += i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            prefixArr.append(s)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;left&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i] - prefixArr[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + nums[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;right&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n-k, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i+k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] - prefixArr[i] + nums[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_left = left(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_right = right(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_left = left(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_right = right(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            a = first_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + second_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            b = second_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + first_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            res = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(res, a, b)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1035-uncrossed-lines/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1035-uncrossed-lines/</guid>
             <title>1035 uncrossed lines</title>
-            <link>https://samir.pages.dev/posts/1035-uncrossed-lines/</link>
+            <link>https://samirpaul.in/posts/1035-uncrossed-lines/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/uncrossed-lines/&#34;&gt;1035. Uncrossed Lines&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given two integer arrays &lt;code&gt;nums1&lt;/code&gt; and &lt;code&gt;nums2&lt;/code&gt;. We write the integers of &lt;code&gt;nums1&lt;/code&gt; and &lt;code&gt;nums2&lt;/code&gt; (in the order they are given) on two separate horizontal lines.&lt;/p&gt;
@@ -2713,9 +2664,58 @@ We cannot draw 3 uncrossed lines, because the line from nums1[1] = 4 to nums2[2]
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1038-binary-search-tree-to-greater-sum-tree/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</guid>
+            <title>1031 maximum sum of two non overlapping subarrays</title>
+            <link>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</link>
+            <category>LeetCode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/&#34;&gt;1031. Maximum Sum of Two Non-Overlapping Subarrays&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and two integers &lt;code&gt;firstLen&lt;/code&gt; and &lt;code&gt;secondLen&lt;/code&gt;, return &lt;em&gt;the maximum sum of elements in two non-overlapping &lt;strong&gt;subarrays&lt;/strong&gt; with lengths &lt;/em&gt;&lt;code&gt;firstLen&lt;/code&gt;&lt;em&gt; and &lt;/em&gt;&lt;code&gt;secondLen&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The array with length &lt;code&gt;firstLen&lt;/code&gt; could occur before or after the array with length &lt;code&gt;secondLen&lt;/code&gt;, but they have to be non-overlapping.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;subarray&lt;/strong&gt; is a &lt;strong&gt;contiguous&lt;/strong&gt; part of an array.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [0,6,5,2,2,5,1,9,4], firstLen = 1, secondLen = 2
+&lt;strong&gt;Output:&lt;/strong&gt; 20
+&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [9] with length 1, and [6,5] with length 2.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [3,8,1,3,2,1,8,9,0], firstLen = 3, secondLen = 2
+&lt;strong&gt;Output:&lt;/strong&gt; 29
+&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [3,8,1] with length 3, and [8,9] with length 2.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [2,1,5,6,0,9,5,0,3,8], firstLen = 4, secondLen = 3
+&lt;strong&gt;Output:&lt;/strong&gt; 31
+&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [5,6,0,9] with length 4, and [0,3,8] with length 3.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= firstLen, secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;2 &amp;lt;= firstLen + secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;firstLen + secondLen &amp;lt;= nums.length &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= nums[i] &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;maxSumTwoNoOverlap&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], firstLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;, secondLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        prefixArr = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        s = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; nums:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s += i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            prefixArr.append(s)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;left&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i] - prefixArr[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + nums[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;right&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n-k, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i+k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] - prefixArr[i] + nums[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_left = left(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_right = right(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_left = left(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_right = right(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            a = first_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + second_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            b = second_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + first_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            res = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(res, a, b)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/1038-binary-search-tree-to-greater-sum-tree/</guid>
             <title>1038 binary search tree to greater sum tree</title>
-            <link>https://samir.pages.dev/posts/1038-binary-search-tree-to-greater-sum-tree/</link>
+            <link>https://samirpaul.in/posts/1038-binary-search-tree-to-greater-sum-tree/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/&#34;&gt;1038. Binary Search Tree to Greater Sum Tree&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given the &lt;code&gt;root&lt;/code&gt; of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus the sum of all keys greater than the original key in BST.&lt;/p&gt;
@@ -2759,9 +2759,9 @@ We cannot draw 3 uncrossed lines, because the line from nums1[1] = 4 to nums2[2]
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1011-capacity-to-ship-packages-within-d-days/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1011-capacity-to-ship-packages-within-d-days/</guid>
             <title>1011 capacity to ship packages within d days</title>
-            <link>https://samir.pages.dev/posts/1011-capacity-to-ship-packages-within-d-days/</link>
+            <link>https://samirpaul.in/posts/1011-capacity-to-ship-packages-within-d-days/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/&#34;&gt;1011. Capacity To Ship Packages Within D Days&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;A conveyor belt has packages that must be shipped from one port to another within &lt;code&gt;days&lt;/code&gt; days.&lt;/p&gt;
@@ -2819,9 +2819,9 @@ Note that the cargo must be shipped in the order given, so using a ship of capac
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1014-best-sightseeing-pair/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1014-best-sightseeing-pair/</guid>
             <title>1014 best sightseeing pair</title>
-            <link>https://samir.pages.dev/posts/1014-best-sightseeing-pair/</link>
+            <link>https://samirpaul.in/posts/1014-best-sightseeing-pair/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/best-sightseeing-pair/&#34;&gt;1014. Best Sightseeing Pair&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given an integer array &lt;code&gt;values&lt;/code&gt; where values[i] represents the value of the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; sightseeing spot. Two sightseeing spots &lt;code&gt;i&lt;/code&gt; and &lt;code&gt;j&lt;/code&gt; have a &lt;strong&gt;distance&lt;/strong&gt; &lt;code&gt;j - i&lt;/code&gt; between them.&lt;/p&gt;
@@ -2860,9 +2860,9 @@ Note that the cargo must be shipped in the order given, so using a ship of capac
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1005-maximize-sum-of-array-after-k-negations/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1005-maximize-sum-of-array-after-k-negations/</guid>
             <title>1005 maximize sum of array after k negations</title>
-            <link>https://samir.pages.dev/posts/1005-maximize-sum-of-array-after-k-negations/</link>
+            <link>https://samirpaul.in/posts/1005-maximize-sum-of-array-after-k-negations/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/&#34;&gt;1005. Maximize Sum Of Array After K Negations&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;k&lt;/code&gt;, modify the array in the following way:&lt;/p&gt;
@@ -2912,9 +2912,9 @@ Note that the cargo must be shipped in the order given, so using a ship of capac
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1008-construct-binary-search-tree-from-preorder-traversal/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1008-construct-binary-search-tree-from-preorder-traversal/</guid>
             <title>1008 construct binary search tree from preorder traversal</title>
-            <link>https://samir.pages.dev/posts/1008-construct-binary-search-tree-from-preorder-traversal/</link>
+            <link>https://samirpaul.in/posts/1008-construct-binary-search-tree-from-preorder-traversal/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/&#34;&gt;1008. Construct Binary Search Tree from Preorder Traversal&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an array of integers preorder, which represents the &lt;strong&gt;preorder traversal&lt;/strong&gt; of a BST (i.e., &lt;strong&gt;binary search tree&lt;/strong&gt;), construct the tree and return &lt;em&gt;its root&lt;/em&gt;.&lt;/p&gt;
@@ -2953,9 +2953,9 @@ Note that the cargo must be shipped in the order given, so using a ship of capac
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0983-minimum-cost-for-tickets/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0983-minimum-cost-for-tickets/</guid>
             <title>0983 minimum cost for tickets</title>
-            <link>https://samir.pages.dev/posts/0983-minimum-cost-for-tickets/</link>
+            <link>https://samirpaul.in/posts/0983-minimum-cost-for-tickets/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/minimum-cost-for-tickets/&#34;&gt;983. Minimum Cost For Tickets&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You have planned some train traveling one year in advance. The days of the year in which you will travel are given as an integer array &lt;code&gt;days&lt;/code&gt;. Each day is an integer from &lt;code&gt;1&lt;/code&gt; to &lt;code&gt;365&lt;/code&gt;.&lt;/p&gt;
@@ -3015,9 +3015,9 @@ In total, you spent $17 and covered all the days of your travel.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0987-vertical-order-traversal-of-a-binary-tree/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0987-vertical-order-traversal-of-a-binary-tree/</guid>
             <title>0987 vertical order traversal of a binary tree</title>
-            <link>https://samir.pages.dev/posts/0987-vertical-order-traversal-of-a-binary-tree/</link>
+            <link>https://samirpaul.in/posts/0987-vertical-order-traversal-of-a-binary-tree/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/&#34;&gt;987. Vertical Order Traversal of a Binary Tree&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Hard&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given the &lt;code&gt;root&lt;/code&gt; of a binary tree, calculate the &lt;strong&gt;vertical order traversal&lt;/strong&gt; of the binary tree.&lt;/p&gt;
@@ -3076,9 +3076,9 @@ Note that the solution remains the same since 5 and 6 are in the same location a
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/1004-max-consecutive-ones-iii/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/1004-max-consecutive-ones-iii/</guid>
             <title>1004 max consecutive ones iii</title>
-            <link>https://samir.pages.dev/posts/1004-max-consecutive-ones-iii/</link>
+            <link>https://samirpaul.in/posts/1004-max-consecutive-ones-iii/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/max-consecutive-ones-iii/&#34;&gt;1004. Max Consecutive Ones III&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given a binary array &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;k&lt;/code&gt;, return &lt;em&gt;the maximum number of consecutive &lt;/em&gt;&lt;code&gt;1&lt;/code&gt;&lt;em&gt;&#39;s in the array if you can flip at most&lt;/em&gt; &lt;code&gt;k&lt;/code&gt; &lt;code&gt;0&lt;/code&gt;&#39;s.&lt;/p&gt;
@@ -3114,9 +3114,9 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0974-subarray-sums-divisible-by-k/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0974-subarray-sums-divisible-by-k/</guid>
             <title>0974 subarray sums divisible by k</title>
-            <link>https://samir.pages.dev/posts/0974-subarray-sums-divisible-by-k/</link>
+            <link>https://samirpaul.in/posts/0974-subarray-sums-divisible-by-k/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/subarray-sums-divisible-by-k/&#34;&gt;974. Subarray Sums Divisible by K&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;k&lt;/code&gt;, return &lt;em&gt;the number of non-empty &lt;strong&gt;subarrays&lt;/strong&gt; that have a sum divisible by &lt;/em&gt;&lt;code&gt;k&lt;/code&gt;.&lt;/p&gt;
@@ -3153,9 +3153,9 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0979-distribute-coins-in-binary-tree/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/</guid>
             <title>0979 distribute coins in binary tree</title>
-            <link>https://samir.pages.dev/posts/0979-distribute-coins-in-binary-tree/</link>
+            <link>https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/distribute-coins-in-binary-tree/&#34;&gt;979. Distribute Coins in Binary Tree&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given the &lt;code&gt;root&lt;/code&gt; of a binary tree with &lt;code&gt;n&lt;/code&gt; nodes where each &lt;code&gt;node&lt;/code&gt; in the tree has &lt;code&gt;node.val&lt;/code&gt; coins. There are &lt;code&gt;n&lt;/code&gt; coins in total throughout the whole tree.&lt;/p&gt;
@@ -3195,9 +3195,9 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0981-time-based-key-value-store/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0981-time-based-key-value-store/</guid>
             <title>0981 time based key value store</title>
-            <link>https://samir.pages.dev/posts/0981-time-based-key-value-store/</link>
+            <link>https://samirpaul.in/posts/0981-time-based-key-value-store/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/time-based-key-value-store/&#34;&gt;981. Time Based Key-Value Store&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Design a time-based key-value data structure that can store multiple values for the same key at different time stamps and retrieve the key&#39;s value at a certain timestamp.&lt;/p&gt;
@@ -3246,9 +3246,9 @@ timeMap.get(&#34;foo&#34;, 5);         // return &#34;bar2&#34;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0912-sort-an-array/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0912-sort-an-array/</guid>
             <title>0912 sort an array</title>
-            <link>https://samir.pages.dev/posts/0912-sort-an-array/</link>
+            <link>https://samirpaul.in/posts/0912-sort-an-array/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/sort-an-array/&#34;&gt;912. Sort an Array&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an array of integers &lt;code&gt;nums&lt;/code&gt;, sort the array in ascending order and return it.&lt;/p&gt;
@@ -3284,9 +3284,9 @@ timeMap.get(&#34;foo&#34;, 5);         // return &#34;bar2&#34;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0953-verifying-an-alien-dictionary/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0953-verifying-an-alien-dictionary/</guid>
             <title>0953 verifying an alien dictionary</title>
-            <link>https://samir.pages.dev/posts/0953-verifying-an-alien-dictionary/</link>
+            <link>https://samirpaul.in/posts/0953-verifying-an-alien-dictionary/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/verifying-an-alien-dictionary/&#34;&gt;953. Verifying an Alien Dictionary&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;In an alien language, surprisingly, they also use English lowercase letters, but possibly in a different &lt;code&gt;order&lt;/code&gt;. The &lt;code&gt;order&lt;/code&gt; of the alphabet is some permutation of lowercase letters.&lt;/p&gt;
@@ -3331,9 +3331,9 @@ timeMap.get(&#34;foo&#34;, 5);         // return &#34;bar2&#34;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samir.pages.dev/posts/0958-check-completeness-of-a-binary-tree/</guid>
+            <guid isPermalink="true">https://samirpaul.in/posts/0958-check-completeness-of-a-binary-tree/</guid>
             <title>0958 check completeness of a binary tree</title>
-            <link>https://samir.pages.dev/posts/0958-check-completeness-of-a-binary-tree/</link>
+            <link>https://samirpaul.in/posts/0958-check-completeness-of-a-binary-tree/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
             <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/check-completeness-of-a-binary-tree/&#34;&gt;958. Check Completeness of a Binary Tree&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given the &lt;code&gt;root&lt;/code&gt; of a binary tree, determine if it is a &lt;em&gt;complete binary tree&lt;/em&gt;.&lt;/p&gt;
