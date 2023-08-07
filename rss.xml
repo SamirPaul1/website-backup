@@ -27,9 +27,9 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
-        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
+        <category>dp</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
@@ -42,13 +42,13 @@
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -82,12 +82,12 @@
         <category>FULL JOIN</category>
         <category>SQL</category>
         <category>SQL Joins</category>
-        <category>databases</category>
         <category>web-development</category>
         <category>lossless-data-compression</category>
         <category>online-file-compressor</category>
         <category>txt-compressor</category>
         <category>algorithm</category>
+        <category>databases</category>
         <category>short-url</category>
         <category>url-shortner</category>
         <category>networking</category>
@@ -13144,45 +13144,42 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</guid>
-            <title>0979 distribute coins in binary tree</title>
-            <link>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</link>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</guid>
+            <title>0974 subarray sums divisible by k</title>
+            <link>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</link>
             <category>LeetCode</category>
             <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
-            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/distribute-coins-in-binary-tree/&#34;&gt;979. Distribute Coins in Binary Tree&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given the &lt;code&gt;root&lt;/code&gt; of a binary tree with &lt;code&gt;n&lt;/code&gt; nodes where each &lt;code&gt;node&lt;/code&gt; in the tree has &lt;code&gt;node.val&lt;/code&gt; coins. There are &lt;code&gt;n&lt;/code&gt; coins in total throughout the whole tree.&lt;/p&gt;
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/subarray-sums-divisible-by-k/&#34;&gt;974. Subarray Sums Divisible by K&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;k&lt;/code&gt;, return &lt;em&gt;the number of non-empty &lt;strong&gt;subarrays&lt;/strong&gt; that have a sum divisible by &lt;/em&gt;&lt;code&gt;k&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;In one move, we may choose two adjacent nodes and move one coin from one node to another. A move may be from parent to child, or from child to parent.&lt;/p&gt;
-
-&lt;p&gt;Return &lt;em&gt;the &lt;strong&gt;minimum&lt;/strong&gt; number of moves required to make every node have &lt;strong&gt;exactly&lt;/strong&gt; one coin&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;subarray&lt;/strong&gt; is a &lt;strong&gt;contiguous&lt;/strong&gt; part of an array.&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2019/01/18/tree1.png&#34; style=&#34;width: 250px; height: 236px;&#34;&gt;
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; root = [3,0,0]
-&lt;strong&gt;Output:&lt;/strong&gt; 2
-&lt;strong&gt;Explanation: &lt;/strong&gt;From the root of the tree, we move one coin to its left child, and one coin to its right child.
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [4,5,0,-2,-3,1], k = 5
+&lt;strong&gt;Output:&lt;/strong&gt; 7
+&lt;strong&gt;Explanation:&lt;/strong&gt; There are 7 subarrays with a sum divisible by k = 5:
+[4, 5, 0, -2, -3, 1], [5], [5, 0], [5, 0, -2, -3], [0], [0, -2, -3], [-2, -3]
 &lt;/pre&gt;
 
 &lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2019/01/18/tree2.png&#34; style=&#34;width: 250px; height: 236px;&#34;&gt;
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; root = [0,3,0]
-&lt;strong&gt;Output:&lt;/strong&gt; 3
-&lt;strong&gt;Explanation: &lt;/strong&gt;From the left child of the root, we move two coins to the root [taking two moves]. Then, we move one coin from the root of the tree to the right child.
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [5], k = 9
+&lt;strong&gt;Output:&lt;/strong&gt; 0
 &lt;/pre&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-    &lt;li&gt;The number of nodes in the tree is &lt;code&gt;n&lt;/code&gt;.&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;1 &amp;lt;= n &amp;lt;= 100&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;0 &amp;lt;= Node.val &amp;lt;= n&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;The sum of all &lt;code&gt;Node.val&lt;/code&gt; is &lt;code&gt;n&lt;/code&gt;.&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= nums.length &amp;lt;= 3 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;-10&lt;sup&gt;4&lt;/sup&gt; &amp;lt;= nums[i] &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;2 &amp;lt;= k &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;hr&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Definition for a binary tree node.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# class TreeNode:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#     def __init__(self, val=0, left=None, right=None):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.val = val&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.left = left&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.right = right&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;distributeCoins&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, root: &lt;span class=&#34;type&#34;&gt;Optional&lt;/span&gt;[TreeNode]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;solve&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;root&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; root: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            l = solve(root.left)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            r = solve(root.right)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            self.res += &lt;span class=&#34;built_in&#34;&gt;abs&lt;/span&gt;(l) + &lt;span class=&#34;built_in&#34;&gt;abs&lt;/span&gt;(r)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; l + r + root.val - &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        solve(root)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; self.res&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;subarraysDivByK&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], k: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        rem_cnt = &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        rem_cnt[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        s = res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; num &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; nums:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s += num&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            rem = s % k&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; rem &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; rem_cnt: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res += rem_cnt[rem]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rem_cnt[rem] += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rem_cnt[rem] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
     </channel>

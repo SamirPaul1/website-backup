@@ -27,9 +27,9 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
-        <category>dp</category>
         <category>Dynamic Programming</category>
         <category>Patterns</category>
+        <category>dp</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
@@ -42,13 +42,13 @@
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>leetcode</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -82,12 +82,12 @@
         <category>FULL JOIN</category>
         <category>SQL</category>
         <category>SQL Joins</category>
-        <category>databases</category>
         <category>web-development</category>
         <category>lossless-data-compression</category>
         <category>online-file-compressor</category>
         <category>txt-compressor</category>
         <category>algorithm</category>
+        <category>databases</category>
         <category>short-url</category>
         <category>url-shortner</category>
         <category>networking</category>
@@ -3114,6 +3114,45 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</guid>
+            <title>0974 subarray sums divisible by k</title>
+            <link>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</link>
+            <category>LeetCode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/subarray-sums-divisible-by-k/&#34;&gt;974. Subarray Sums Divisible by K&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;k&lt;/code&gt;, return &lt;em&gt;the number of non-empty &lt;strong&gt;subarrays&lt;/strong&gt; that have a sum divisible by &lt;/em&gt;&lt;code&gt;k&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;subarray&lt;/strong&gt; is a &lt;strong&gt;contiguous&lt;/strong&gt; part of an array.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [4,5,0,-2,-3,1], k = 5
+&lt;strong&gt;Output:&lt;/strong&gt; 7
+&lt;strong&gt;Explanation:&lt;/strong&gt; There are 7 subarrays with a sum divisible by k = 5:
+[4, 5, 0, -2, -3, 1], [5], [5, 0], [5, 0, -2, -3], [0], [0, -2, -3], [-2, -3]
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [5], k = 9
+&lt;strong&gt;Output:&lt;/strong&gt; 0
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= nums.length &amp;lt;= 3 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;-10&lt;sup&gt;4&lt;/sup&gt; &amp;lt;= nums[i] &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;2 &amp;lt;= k &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;subarraysDivByK&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], k: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        rem_cnt = &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        rem_cnt[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        s = res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; num &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; nums:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s += num&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            rem = s % k&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; rem &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; rem_cnt: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res += rem_cnt[rem]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rem_cnt[rem] += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rem_cnt[rem] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</guid>
             <title>0979 distribute coins in binary tree</title>
             <link>https://samirpaul1.github.io/posts/0979-distribute-coins-in-binary-tree/</link>
@@ -3207,83 +3246,6 @@ timeMap.get(&#34;foo&#34;, 5);         // return &#34;bar2&#34;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</guid>
-            <title>0974 subarray sums divisible by k</title>
-            <link>https://samirpaul1.github.io/posts/0974-subarray-sums-divisible-by-k/</link>
-            <category>LeetCode</category>
-            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
-            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/subarray-sums-divisible-by-k/&#34;&gt;974. Subarray Sums Divisible by K&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;k&lt;/code&gt;, return &lt;em&gt;the number of non-empty &lt;strong&gt;subarrays&lt;/strong&gt; that have a sum divisible by &lt;/em&gt;&lt;code&gt;k&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;subarray&lt;/strong&gt; is a &lt;strong&gt;contiguous&lt;/strong&gt; part of an array.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [4,5,0,-2,-3,1], k = 5
-&lt;strong&gt;Output:&lt;/strong&gt; 7
-&lt;strong&gt;Explanation:&lt;/strong&gt; There are 7 subarrays with a sum divisible by k = 5:
-[4, 5, 0, -2, -3, 1], [5], [5, 0], [5, 0, -2, -3], [0], [0, -2, -3], [-2, -3]
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [5], k = 9
-&lt;strong&gt;Output:&lt;/strong&gt; 0
-&lt;/pre&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;code&gt;1 &amp;lt;= nums.length &amp;lt;= 3 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;-10&lt;sup&gt;4&lt;/sup&gt; &amp;lt;= nums[i] &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;2 &amp;lt;= k &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;subarraysDivByK&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], k: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        rem_cnt = &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        rem_cnt[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        s = res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; num &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; nums:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s += num&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            rem = s % k&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; rem &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; rem_cnt: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res += rem_cnt[rem]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rem_cnt[rem] += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rem_cnt[rem] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://samirpaul1.github.io/posts/0912-sort-an-array/</guid>
-            <title>0912 sort an array</title>
-            <link>https://samirpaul1.github.io/posts/0912-sort-an-array/</link>
-            <category>LeetCode</category>
-            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
-            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/sort-an-array/&#34;&gt;912. Sort an Array&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an array of integers &lt;code&gt;nums&lt;/code&gt;, sort the array in ascending order and return it.&lt;/p&gt;
-
-&lt;p&gt;You must solve the problem &lt;strong&gt;without using any built-in&lt;/strong&gt; functions in &lt;code&gt;O(nlog(n))&lt;/code&gt; time complexity and with the smallest space complexity possible.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [5,2,3,1]
-&lt;strong&gt;Output:&lt;/strong&gt; [1,2,3,5]
-&lt;strong&gt;Explanation:&lt;/strong&gt; After sorting the array, the positions of some numbers are not changed (for example, 2 and 3), while the positions of other numbers are changed (for example, 1 and 5).
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [5,1,1,2,0,0]
-&lt;strong&gt;Output:&lt;/strong&gt; [0,0,1,1,2,5]
-&lt;strong&gt;Explanation:&lt;/strong&gt; Note that the values of nums are not necessairly unique.
-&lt;/pre&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;code&gt;1 &amp;lt;= nums.length &amp;lt;= 5 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;-5 * 10&lt;sup&gt;4&lt;/sup&gt; &amp;lt;= nums[i] &amp;lt;= 5 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;sortArray&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; self.mergesort(nums)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;mergesort&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, arr&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; arr &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(arr) == &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(arr)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        a = self.mergesort(arr[:n//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        b = self.mergesort(arr[n//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;:])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; self.merge(a, b)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;merge&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, a, b&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; a &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; b: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; b &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; a&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        arr = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        i, j = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; i &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(a) &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; j &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(b):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; a[i] &amp;lt;= b[j]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr.append(a[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                i += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr.append(b[j])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                j += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; i &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(a):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr.append(a[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            i += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; j &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(b):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr.append(b[j])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            j += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://samirpaul1.github.io/posts/0953-verifying-an-alien-dictionary/</guid>
             <title>0953 verifying an alien dictionary</title>
             <link>https://samirpaul1.github.io/posts/0953-verifying-an-alien-dictionary/</link>
@@ -3328,6 +3290,44 @@ timeMap.get(&#34;foo&#34;, 5);         // return &#34;bar2&#34;
 
 &lt;hr&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# https://leetcode.com/problems/verifying-an-alien-dictionary/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27; &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;If a sequence of words is sorted, then each adjacent word of the sequence must also be sorted.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;\U0001f449 Lexicographically Sorted when -&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;    ✦ If at first mismatch, mp[a[i]] &amp;lt; mp[b[i]], or&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;    ✦ If each letters of both words match and length(a) &amp;lt;= length(b)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;\U0001f449 Not Lexicographically Sorted when -&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;    ✦ If at first mismatch, mp[a[i]] &amp;gt; mp[b[i]], or&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;    ✦ If each letters of both words match and length(a) &amp;gt; length(b).&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;isAlienSorted&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, words: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;], order: &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;bool&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        ind = &amp;#123;c:i &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i,c &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;enumerate&lt;/span&gt;(order)&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;checkOrder&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;w1, w2&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; s1, s2 &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;zip&lt;/span&gt;(w1, w2):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; ind[s1] != ind[s2]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; ind[s1] &amp;lt; ind[s2]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(w1) &amp;lt;= &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(w2)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;all&lt;/span&gt;(checkOrder(w1, w2) &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; w1, w2 &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;zip&lt;/span&gt;(words, words[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:]))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;✦ Time Complexity : O(N),   where N is the total number of characters in words.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;✦ Space Complexity : O(1),  we only need constant amount of space to store the mapping of letters to index which does not depend on the size of input. Hence we get constant space complexity.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul1.github.io/posts/0912-sort-an-array/</guid>
+            <title>0912 sort an array</title>
+            <link>https://samirpaul1.github.io/posts/0912-sort-an-array/</link>
+            <category>LeetCode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/sort-an-array/&#34;&gt;912. Sort an Array&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an array of integers &lt;code&gt;nums&lt;/code&gt;, sort the array in ascending order and return it.&lt;/p&gt;
+
+&lt;p&gt;You must solve the problem &lt;strong&gt;without using any built-in&lt;/strong&gt; functions in &lt;code&gt;O(nlog(n))&lt;/code&gt; time complexity and with the smallest space complexity possible.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [5,2,3,1]
+&lt;strong&gt;Output:&lt;/strong&gt; [1,2,3,5]
+&lt;strong&gt;Explanation:&lt;/strong&gt; After sorting the array, the positions of some numbers are not changed (for example, 2 and 3), while the positions of other numbers are changed (for example, 1 and 5).
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [5,1,1,2,0,0]
+&lt;strong&gt;Output:&lt;/strong&gt; [0,0,1,1,2,5]
+&lt;strong&gt;Explanation:&lt;/strong&gt; Note that the values of nums are not necessairly unique.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= nums.length &amp;lt;= 5 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;-5 * 10&lt;sup&gt;4&lt;/sup&gt; &amp;lt;= nums[i] &amp;lt;= 5 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;sortArray&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; self.mergesort(nums)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;mergesort&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, arr&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; arr &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(arr) == &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(arr)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        a = self.mergesort(arr[:n//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        b = self.mergesort(arr[n//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;:])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; self.merge(a, b)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;merge&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, a, b&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; a &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; b: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; b &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; a&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        arr = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        i, j = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; i &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(a) &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; j &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(b):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; a[i] &amp;lt;= b[j]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr.append(a[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                i += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr.append(b[j])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                j += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; i &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(a):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr.append(a[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            i += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; j &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(b):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr.append(b[j])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            j += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
         <item>
