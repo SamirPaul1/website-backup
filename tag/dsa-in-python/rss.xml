@@ -42,12 +42,12 @@
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>leetcode-solutions</category>
         <category>leetcode-solutions-cheetsheet</category>
         <category>leetcode-cheetsheet</category>
         <category>important-leetcode-solutions</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -97,14 +97,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;In this repository, I have stored solutions to various problems and concepts of &lt;strong&gt;Data Structures and Algorithms&lt;/strong&gt; in Python in a structured manner.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p align=&#34;center&#34;&gt;
-&lt;a href=&#34;https://github.com/SamirPaul1/DSAlgo&#34;&gt; 
-&lt;img alt=&#34;Stars&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=for-the-badge&#34;&gt; 
-&lt;img alt=&#34;Forks&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/github/forks/SamirPaul1/DSAlgo?style=for-the-badge&#34;&gt; 
-&lt;img alt=&#34;Size&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/github/repo-size/SamirPaul1/DSAlgo?style=for-the-badge&#34;&gt; 
-&lt;img alt=&#34;Lines&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/tokei/lines/github/SamirPaul1/DSAlgo?style=for-the-badge&#34;&gt; 
-&lt;/a&gt;
-&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;#&#34;&gt;&lt;img alt=&#34;Stars&#34; src=&#34;https://img.shields.io/github/stars/SamirPaul1/DSAlgo&#34;&gt;&lt;img alt=&#34;Forks&#34; src=&#34;https://img.shields.io/github/forks/SamirPaul1/DSAlgo&#34;&gt;&lt;img alt=&#34;Size&#34; src=&#34;https://img.shields.io/github/repo-size/SamirPaul1/DSAlgo&#34;&gt;&lt;img alt=&#34;Hits&#34; src=&#34;https://hitsofcode.com/github/SamirPaul1/DSAlgo?branch=main&#34;&gt;&lt;img alt=&#34;language&#34; src=&#34;https://user-images.githubusercontent.com/77569653/227633223-43014974-ac8f-4cf9-8605-93d08cb2d5fd.svg&#34;&gt;&lt;/a&gt;&lt;/p&gt;  
 
 
 &lt;h3 id=&#34;Topics-Covered&#34;&gt;&lt;a href=&#34;#Topics-Covered&#34; class=&#34;headerlink&#34; title=&#34;Topics Covered:&#34;&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/em&gt;:&lt;/h3&gt;&lt;ul&gt;

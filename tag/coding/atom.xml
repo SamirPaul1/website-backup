@@ -39,12 +39,12 @@
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="leetcode-solutions" />
     <category term="leetcode-solutions-cheetsheet" />
     <category term="leetcode-cheetsheet" />
     <category term="important-leetcode-solutions" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
