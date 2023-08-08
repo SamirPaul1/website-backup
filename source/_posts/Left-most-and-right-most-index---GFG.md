@@ -1,7 +1,7 @@
 ---
 title: Left most and right most index   GFG
 date: 2020-08-31 09:54:52
-tags: GeeksforGeeks
+tags: geeksforgeeks
 categories: GeeksforGeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Left most and right most index - GFG solution
 cover: /assets/img/gfg.webp

@@ -1,7 +1,7 @@
 ---
 title: Sort an array of 0s, 1s and 2s   GFG
 date: 2020-08-31 09:54:52
-tags: GeeksforGeeks
+tags: geeksforgeeks
 categories: GeeksforGeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Sort an array of 0s, 1s and 2s - GFG solution
 cover: /assets/img/gfg.webp

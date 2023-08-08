@@ -1,7 +1,7 @@
 ---
 title: Aggressive Cows   GFG
 date: 2020-08-31 09:54:52
-tags: GeeksforGeeks
+tags: geeksforgeeks
 categories: GeeksforGeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Aggressive Cows - GFG solution
 cover: /assets/img/gfg.webp
