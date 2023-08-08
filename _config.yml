@@ -144,7 +144,7 @@ skip_render:
   - instagram.html
   - facebook.html
   - dmca-validation.html
-
+ 
 deploy:
   type: git
   repo: https://github.com/SamirPaul1/website
