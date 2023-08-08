@@ -84,39 +84,8 @@
       
       <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
       
-      <category domain="https://samirpaul.in/tags/leetcode-solutions/">leetcode-solutions</category>
-      
-      <category domain="https://samirpaul.in/tags/leetcode-solutions-cheetsheet/">leetcode-solutions-cheetsheet</category>
-      
-      <category domain="https://samirpaul.in/tags/leetcode-cheetsheet/">leetcode-cheetsheet</category>
-      
-      <category domain="https://samirpaul.in/tags/important-leetcode-solutions/">important-leetcode-solutions</category>
-      
       
       <comments>https://samirpaul.in/posts/leetcode-solutions-cheatsheet/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
-      <link>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
-      <guid>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
-      <pubDate>Tue, 15 Aug 2023 04:24:52 GMT</pubDate>
-      
-      <description>Complete Computer Science Study Plan to Become a Software Engineer</description>
-      
-      
-      
-      
-      <category domain="https://samirpaul.in/categories/Computer-Science/">Computer Science</category>
-      
-      
-      <category domain="https://samirpaul.in/tags/computer-science/">computer-science</category>
-      
-      <category domain="https://samirpaul.in/tags/study-plan/">study-plan</category>
-      
-      
-      <comments>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/#disqus_thread</comments>
       
     </item>
     
@@ -142,6 +111,29 @@
       
       
       <comments>https://samirpaul.in/posts/computer-networks-notes/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
+      <link>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
+      <guid>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
+      <pubDate>Tue, 15 Aug 2023 04:24:52 GMT</pubDate>
+      
+      <description>Complete Computer Science Study Plan to Become a Software Engineer</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/Computer-Science/">Computer Science</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/computer-science/">computer-science</category>
+      
+      <category domain="https://samirpaul.in/tags/study-plan/">study-plan</category>
+      
+      
+      <comments>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/#disqus_thread</comments>
       
     </item>
     
@@ -446,27 +438,6 @@
     </item>
     
     <item>
-      <title>1031 maximum sum of two non overlapping subarrays</title>
-      <link>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</link>
-      <guid>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</guid>
-      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
-      
-      <description>1031 maximum sum of two non overlapping subarrays LeetCode Solution Explained</description>
-      
-      
-      
-      
-      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
-      
-      
-      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
-      
-      
-      <comments>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>1035 uncrossed lines</title>
       <link>https://samirpaul.in/posts/1035-uncrossed-lines/</link>
       <guid>https://samirpaul.in/posts/1035-uncrossed-lines/</guid>
@@ -484,6 +455,27 @@
       
       
       <comments>https://samirpaul.in/posts/1035-uncrossed-lines/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>1031 maximum sum of two non overlapping subarrays</title>
+      <link>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</link>
+      <guid>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>1031 maximum sum of two non overlapping subarrays LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/#disqus_thread</comments>
       
     </item>
     
@@ -673,6 +665,426 @@
       
       
       <comments>https://samirpaul.in/posts/0974-subarray-sums-divisible-by-k/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0979 distribute coins in binary tree</title>
+      <link>https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/</link>
+      <guid>https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0979 distribute coins in binary tree LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0979-distribute-coins-in-binary-tree/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0981 time based key value store</title>
+      <link>https://samirpaul.in/posts/0981-time-based-key-value-store/</link>
+      <guid>https://samirpaul.in/posts/0981-time-based-key-value-store/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0981 time based key value store LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0981-time-based-key-value-store/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0912 sort an array</title>
+      <link>https://samirpaul.in/posts/0912-sort-an-array/</link>
+      <guid>https://samirpaul.in/posts/0912-sort-an-array/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0912 sort an array LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0912-sort-an-array/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0953 verifying an alien dictionary</title>
+      <link>https://samirpaul.in/posts/0953-verifying-an-alien-dictionary/</link>
+      <guid>https://samirpaul.in/posts/0953-verifying-an-alien-dictionary/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0953 verifying an alien dictionary LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0953-verifying-an-alien-dictionary/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0958 check completeness of a binary tree</title>
+      <link>https://samirpaul.in/posts/0958-check-completeness-of-a-binary-tree/</link>
+      <guid>https://samirpaul.in/posts/0958-check-completeness-of-a-binary-tree/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0958 check completeness of a binary tree LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0958-check-completeness-of-a-binary-tree/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0889 construct binary tree from preorder and postorder traversal</title>
+      <link>https://samirpaul.in/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/</link>
+      <guid>https://samirpaul.in/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0889 construct binary tree from preorder and postorder traversal LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0894 all possible full binary trees</title>
+      <link>https://samirpaul.in/posts/0894-all-possible-full-binary-trees/</link>
+      <guid>https://samirpaul.in/posts/0894-all-possible-full-binary-trees/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0894 all possible full binary trees LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0894-all-possible-full-binary-trees/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0895 maximum frequency stack</title>
+      <link>https://samirpaul.in/posts/0895-maximum-frequency-stack/</link>
+      <guid>https://samirpaul.in/posts/0895-maximum-frequency-stack/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0895 maximum frequency stack LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0895-maximum-frequency-stack/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0877 stone game</title>
+      <link>https://samirpaul.in/posts/0877-stone-game/</link>
+      <guid>https://samirpaul.in/posts/0877-stone-game/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0877 stone game LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0877-stone-game/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0881 boats to save people</title>
+      <link>https://samirpaul.in/posts/0881-boats-to-save-people/</link>
+      <guid>https://samirpaul.in/posts/0881-boats-to-save-people/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0881 boats to save people LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0881-boats-to-save-people/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0875 koko eating bananas</title>
+      <link>https://samirpaul.in/posts/0875-koko-eating-bananas/</link>
+      <guid>https://samirpaul.in/posts/0875-koko-eating-bananas/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0875 koko eating bananas LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0875-koko-eating-bananas/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0876 middle of the linked list</title>
+      <link>https://samirpaul.in/posts/0876-middle-of-the-linked-list/</link>
+      <guid>https://samirpaul.in/posts/0876-middle-of-the-linked-list/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0876 middle of the linked list LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0876-middle-of-the-linked-list/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0846 hand of straights</title>
+      <link>https://samirpaul.in/posts/0846-hand-of-straights/</link>
+      <guid>https://samirpaul.in/posts/0846-hand-of-straights/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0846 hand of straights LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0846-hand-of-straights/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0853 car fleet</title>
+      <link>https://samirpaul.in/posts/0853-car-fleet/</link>
+      <guid>https://samirpaul.in/posts/0853-car-fleet/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0853 car fleet LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0853-car-fleet/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0797 all paths from source to target</title>
+      <link>https://samirpaul.in/posts/0797-all-paths-from-source-to-target/</link>
+      <guid>https://samirpaul.in/posts/0797-all-paths-from-source-to-target/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0797 all paths from source to target LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0797-all-paths-from-source-to-target/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0801 minimum swaps to make sequences increasing</title>
+      <link>https://samirpaul.in/posts/0801-minimum-swaps-to-make-sequences-increasing/</link>
+      <guid>https://samirpaul.in/posts/0801-minimum-swaps-to-make-sequences-increasing/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0801 minimum swaps to make sequences increasing LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0801-minimum-swaps-to-make-sequences-increasing/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0802 find eventual safe states</title>
+      <link>https://samirpaul.in/posts/0802-find-eventual-safe-states/</link>
+      <guid>https://samirpaul.in/posts/0802-find-eventual-safe-states/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0802 find eventual safe states LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0802-find-eventual-safe-states/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0812 largest triangle area</title>
+      <link>https://samirpaul.in/posts/0812-largest-triangle-area/</link>
+      <guid>https://samirpaul.in/posts/0812-largest-triangle-area/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0812 largest triangle area LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0812-largest-triangle-area/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0813 largest sum of averages</title>
+      <link>https://samirpaul.in/posts/0813-largest-sum-of-averages/</link>
+      <guid>https://samirpaul.in/posts/0813-largest-sum-of-averages/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0813 largest sum of averages LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0813-largest-sum-of-averages/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>0820 find eventual safe states</title>
+      <link>https://samirpaul.in/posts/0820-find-eventual-safe-states/</link>
+      <guid>https://samirpaul.in/posts/0820-find-eventual-safe-states/</guid>
+      <pubDate>Sun, 06 Aug 2023 07:08:14 GMT</pubDate>
+      
+      <description>0820 find eventual safe states LeetCode Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samirpaul.in/categories/leetcode/">leetcode</category>
+      
+      
+      <category domain="https://samirpaul.in/tags/leetcode/">leetcode</category>
+      
+      
+      <comments>https://samirpaul.in/posts/0820-find-eventual-safe-states/#disqus_thread</comments>
       
     </item>
     

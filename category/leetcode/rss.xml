@@ -17,9 +17,9 @@
         <category>system-design</category>
         <category>design-interview</category>
         <category>preparation</category>
-        <category>study-plan</category>
         <category>computer-networks</category>
         <category>computer-networks-notes</category>
+        <category>study-plan</category>
         <category>projects</category>
         <category>tutorials</category>
         <category>list-of-project-based-tutorials</category>
@@ -39,15 +39,11 @@
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
-        <category>leetcode-solutions</category>
-        <category>leetcode-solutions-cheetsheet</category>
-        <category>leetcode-cheetsheet</category>
-        <category>important-leetcode-solutions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -90,10 +86,6 @@
             <title>Leetcode Solutions Cheatsheet</title>
             <link>https://samirpaul.in/posts/leetcode-solutions-cheatsheet/</link>
             <category>leetcode</category>
-            <category>leetcode-solutions</category>
-            <category>leetcode-solutions-cheetsheet</category>
-            <category>leetcode-cheetsheet</category>
-            <category>important-leetcode-solutions</category>
             <pubDate>Tue, 15 Aug 2023 09:54:55 +0530</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;Quick-Access-Links&#34;&gt;&lt;a href=&#34;#Quick-Access-Links&#34; class=&#34;headerlink&#34; title=&#34;Quick Access Links&#34;&gt;&lt;/a&gt;Quick Access Links&lt;/h2&gt;&lt;h3 id=&#34;LeetCode&#34;&gt;&lt;a href=&#34;#LeetCode&#34; class=&#34;headerlink&#34; title=&#34;LeetCode&#34;&gt;&lt;/a&gt;LeetCode&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;LeetCode - CheatSheet&lt;ul&gt;
@@ -2605,55 +2597,6 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</guid>
-            <title>1031 maximum sum of two non overlapping subarrays</title>
-            <link>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</link>
-            <category>leetcode</category>
-            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
-            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/&#34;&gt;1031. Maximum Sum of Two Non-Overlapping Subarrays&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and two integers &lt;code&gt;firstLen&lt;/code&gt; and &lt;code&gt;secondLen&lt;/code&gt;, return &lt;em&gt;the maximum sum of elements in two non-overlapping &lt;strong&gt;subarrays&lt;/strong&gt; with lengths &lt;/em&gt;&lt;code&gt;firstLen&lt;/code&gt;&lt;em&gt; and &lt;/em&gt;&lt;code&gt;secondLen&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;The array with length &lt;code&gt;firstLen&lt;/code&gt; could occur before or after the array with length &lt;code&gt;secondLen&lt;/code&gt;, but they have to be non-overlapping.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;subarray&lt;/strong&gt; is a &lt;strong&gt;contiguous&lt;/strong&gt; part of an array.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [0,6,5,2,2,5,1,9,4], firstLen = 1, secondLen = 2
-&lt;strong&gt;Output:&lt;/strong&gt; 20
-&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [9] with length 1, and [6,5] with length 2.
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [3,8,1,3,2,1,8,9,0], firstLen = 3, secondLen = 2
-&lt;strong&gt;Output:&lt;/strong&gt; 29
-&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [3,8,1] with length 3, and [8,9] with length 2.
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [2,1,5,6,0,9,5,0,3,8], firstLen = 4, secondLen = 3
-&lt;strong&gt;Output:&lt;/strong&gt; 31
-&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [5,6,0,9] with length 4, and [0,3,8] with length 3.
-&lt;/pre&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;code&gt;1 &amp;lt;= firstLen, secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;2 &amp;lt;= firstLen + secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;firstLen + secondLen &amp;lt;= nums.length &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;code&gt;0 &amp;lt;= nums[i] &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;maxSumTwoNoOverlap&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], firstLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;, secondLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        prefixArr = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        s = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; nums:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s += i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            prefixArr.append(s)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;left&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i] - prefixArr[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + nums[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;right&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n-k, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i+k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] - prefixArr[i] + nums[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_left = left(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_right = right(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_left = left(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_right = right(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            a = first_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + second_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            b = second_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + first_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            res = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(res, a, b)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://samirpaul.in/posts/1035-uncrossed-lines/</guid>
             <title>1035 uncrossed lines</title>
             <link>https://samirpaul.in/posts/1035-uncrossed-lines/</link>
@@ -2704,6 +2647,55 @@ We cannot draw 3 uncrossed lines, because the line from nums1[1] = 4 to nums2[2]
 
 &lt;hr&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;maxUncrossedLines&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums1: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], nums2: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;# Longest Common Subsequence (LCS)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        dp = [[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;]*(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums2)+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums1)+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums1)+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums2)+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; nums1[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] == nums2[j-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    dp[i][j] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; + dp[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;][j-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    dp[i][j] = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(dp[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;][j], dp[i][j-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;][-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</guid>
+            <title>1031 maximum sum of two non overlapping subarrays</title>
+            <link>https://samirpaul.in/posts/1031-maximum-sum-of-two-non-overlapping-subarrays/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/&#34;&gt;1031. Maximum Sum of Two Non-Overlapping Subarrays&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer array &lt;code&gt;nums&lt;/code&gt; and two integers &lt;code&gt;firstLen&lt;/code&gt; and &lt;code&gt;secondLen&lt;/code&gt;, return &lt;em&gt;the maximum sum of elements in two non-overlapping &lt;strong&gt;subarrays&lt;/strong&gt; with lengths &lt;/em&gt;&lt;code&gt;firstLen&lt;/code&gt;&lt;em&gt; and &lt;/em&gt;&lt;code&gt;secondLen&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The array with length &lt;code&gt;firstLen&lt;/code&gt; could occur before or after the array with length &lt;code&gt;secondLen&lt;/code&gt;, but they have to be non-overlapping.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;subarray&lt;/strong&gt; is a &lt;strong&gt;contiguous&lt;/strong&gt; part of an array.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [0,6,5,2,2,5,1,9,4], firstLen = 1, secondLen = 2
+&lt;strong&gt;Output:&lt;/strong&gt; 20
+&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [9] with length 1, and [6,5] with length 2.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [3,8,1,3,2,1,8,9,0], firstLen = 3, secondLen = 2
+&lt;strong&gt;Output:&lt;/strong&gt; 29
+&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [3,8,1] with length 3, and [8,9] with length 2.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [2,1,5,6,0,9,5,0,3,8], firstLen = 4, secondLen = 3
+&lt;strong&gt;Output:&lt;/strong&gt; 31
+&lt;strong&gt;Explanation:&lt;/strong&gt; One choice of subarrays is [5,6,0,9] with length 4, and [0,3,8] with length 3.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= firstLen, secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;2 &amp;lt;= firstLen + secondLen &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;firstLen + secondLen &amp;lt;= nums.length &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= nums[i] &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;maxSumTwoNoOverlap&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], firstLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;, secondLen: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        prefixArr = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        s = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; nums:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s += i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            prefixArr.append(s)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;left&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i] - prefixArr[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + nums[i-k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;right&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            arr = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            curmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n-k, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                cur = prefixArr[i+k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] - prefixArr[i] + nums[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                curmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(curmax, cur)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                arr[i] = curmax&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; arr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_left = left(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        first_right = right(firstLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_left = left(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        second_right = right(secondLen)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            a = first_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + second_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            b = second_left[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + first_right[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            res = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(res, a, b)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
         <item>
@@ -3360,6 +3352,828 @@ timeMap.get(&#34;foo&#34;, 5);         // return &#34;bar2&#34;
 
 &lt;hr&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Definition for a binary tree node.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# class TreeNode:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#     def __init__(self, val=0, left=None, right=None):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.val = val&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.left = left&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.right = right&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;isCompleteTree&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, root: &lt;span class=&#34;type&#34;&gt;Optional&lt;/span&gt;[TreeNode]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;bool&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        q = collections.deque()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        q.append(root)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        flag = &lt;span class=&#34;literal&#34;&gt;False&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; q:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(q)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; _ &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                node = q.popleft()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; node &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; flag: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;False&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; node: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    flag = &lt;span class=&#34;literal&#34;&gt;True&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &lt;span class=&#34;keyword&#34;&gt;continue&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                q.append(node.left)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                q.append(node.right)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;True&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/</guid>
+            <title>0889 construct binary tree from preorder and postorder traversal</title>
+            <link>https://samirpaul.in/posts/0889-construct-binary-tree-from-preorder-and-postorder-traversal/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/&#34;&gt;889. Construct Binary Tree from Preorder and Postorder Traversal&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given two integer arrays, &lt;code&gt;preorder&lt;/code&gt; and &lt;code&gt;postorder&lt;/code&gt; where &lt;code&gt;preorder&lt;/code&gt; is the preorder traversal of a binary tree of &lt;strong&gt;distinct&lt;/strong&gt; values and &lt;code&gt;postorder&lt;/code&gt; is the postorder traversal of the same tree, reconstruct and return &lt;em&gt;the binary tree&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If there exist multiple answers, you can &lt;strong&gt;return any&lt;/strong&gt; of them.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2021/07/24/lc-prepost.jpg&#34; style=&#34;width: 304px; height: 265px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; preorder = [1,2,4,5,3,6,7], postorder = [4,5,2,6,7,3,1]
+&lt;strong&gt;Output:&lt;/strong&gt; [1,2,3,4,5,6,7]
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; preorder = [1], postorder = [1]
+&lt;strong&gt;Output:&lt;/strong&gt; [1]
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= preorder.length &amp;lt;= 30&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= preorder[i] &amp;lt;= preorder.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;All the values of &lt;code&gt;preorder&lt;/code&gt; are &lt;strong&gt;unique&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;postorder.length == preorder.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= postorder[i] &amp;lt;= postorder.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;All the values of &lt;code&gt;postorder&lt;/code&gt; are &lt;strong&gt;unique&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;It is guaranteed that &lt;code&gt;preorder&lt;/code&gt; and &lt;code&gt;postorder&lt;/code&gt; are the preorder traversal and postorder traversal of the same binary tree.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Definition for a binary tree node.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# class TreeNode:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#     def __init__(self, val=0, left=None, right=None):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.val = val&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.left = left&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.right = right&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;constructFromPrePost&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, preorder: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], postorder: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;type&#34;&gt;Optional&lt;/span&gt;[TreeNode]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        preInd = &amp;#123;v:i &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i, v &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;enumerate&lt;/span&gt;(preorder)&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;solve&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;l, r, postorder&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; l == r: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;None&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; r-l == &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; TreeNode(postorder.pop())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            root = TreeNode(postorder.pop())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            i = preInd[postorder[-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            root.right = solve(i, r, postorder)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            root.left = solve(l+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, i, postorder)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; root&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; solve(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(preorder), postorder)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0894-all-possible-full-binary-trees/</guid>
+            <title>0894 all possible full binary trees</title>
+            <link>https://samirpaul.in/posts/0894-all-possible-full-binary-trees/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/all-possible-full-binary-trees/&#34;&gt;894. All Possible Full Binary Trees&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an integer &lt;code&gt;n&lt;/code&gt;, return &lt;em&gt;a list of all possible &lt;strong&gt;full binary trees&lt;/strong&gt; with&lt;/em&gt; &lt;code&gt;n&lt;/code&gt; &lt;em&gt;nodes&lt;/em&gt;. Each node of each tree in the answer must have &lt;code&gt;Node.val == 0&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Each element of the answer is the root node of one possible tree. You may return the final list of trees in &lt;strong&gt;any order&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;full binary tree&lt;/strong&gt; is a binary tree where each node has exactly &lt;code&gt;0&lt;/code&gt; or &lt;code&gt;2&lt;/code&gt; children.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://s3-lc-upload.s3.amazonaws.com/uploads/2018/08/22/fivetrees.png&#34; style=&#34;width: 700px; height: 400px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; n = 7
+&lt;strong&gt;Output:&lt;/strong&gt; [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,null,null,null,null,0,0],[0,0,0,0,0,null,null,0,0]]
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; n = 3
+&lt;strong&gt;Output:&lt;/strong&gt; [[0,0,0]]
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= n &amp;lt;= 20&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# https://leetcode.com/problems/all-possible-full-binary-trees/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# https://youtu.be/nZtrZPTTCAo&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;Eg. N == 9&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;left sub-tree can have 1 node and right sub-tree can have 7 nodes&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;left sub-tree can have 3 node and right sub-tree can have 5 node&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;left sub-tree can have 5 node and right sub-tree can have 3 node&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;left sub-tree can have 7 node and right sub-tree can have 1 node&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Definition for a binary tree node.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# class TreeNode:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#     def __init__(self, val=0, left=None, right=None):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.val = val&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.left = left&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#         self.right = right&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;allPossibleFBT&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, n: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;Optional&lt;/span&gt;[TreeNode]]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        dp = &amp;#123;&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;:[], &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:[TreeNode(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)]&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;backtrack&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;n&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; n &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; dp:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            res = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; l &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                r = n - l - &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                leftTrees = backtrack(l)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rightTrees = backtrack(r)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; t1 &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; leftTrees:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; t2 &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; rightTrees:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        res.append(TreeNode(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, t1, t2))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            dp[n] = res&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; backtrack(n)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0895-maximum-frequency-stack/</guid>
+            <title>0895 maximum frequency stack</title>
+            <link>https://samirpaul.in/posts/0895-maximum-frequency-stack/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-frequency-stack/&#34;&gt;895. Maximum Frequency Stack&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Hard&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Design a stack-like data structure to push elements to the stack and pop the most frequent element from the stack.&lt;/p&gt;
+
+&lt;p&gt;Implement the &lt;code&gt;FreqStack&lt;/code&gt; class:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;FreqStack()&lt;/code&gt; constructs an empty frequency stack.&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;void push(int val)&lt;/code&gt; pushes an integer &lt;code&gt;val&lt;/code&gt; onto the top of the stack.&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;int pop()&lt;/code&gt; removes and returns the most frequent element in the stack.
+    &lt;ul&gt;
+        &lt;li&gt;If there is a tie for the most frequent element, the element closest to the stack&#39;s top is removed and returned.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input&lt;/strong&gt;
+[&#34;FreqStack&#34;, &#34;push&#34;, &#34;push&#34;, &#34;push&#34;, &#34;push&#34;, &#34;push&#34;, &#34;push&#34;, &#34;pop&#34;, &#34;pop&#34;, &#34;pop&#34;, &#34;pop&#34;]
+[[], [5], [7], [5], [7], [4], [5], [], [], [], []]
+&lt;strong&gt;Output&lt;/strong&gt;
+[null, null, null, null, null, null, null, 5, 7, 5, 4]
+
+&lt;strong&gt;Explanation&lt;/strong&gt;
+FreqStack freqStack = new FreqStack();
+freqStack.push(5); // The stack is [5]
+freqStack.push(7); // The stack is [5,7]
+freqStack.push(5); // The stack is [5,7,5]
+freqStack.push(7); // The stack is [5,7,5,7]
+freqStack.push(4); // The stack is [5,7,5,7,4]
+freqStack.push(5); // The stack is [5,7,5,7,4,5]
+freqStack.pop();   // return 5, as 5 is the most frequent. The stack becomes [5,7,5,7,4].
+freqStack.pop();   // return 7, as 5 and 7 is the most frequent, but 7 is closest to the top. The stack becomes [5,7,5,4].
+freqStack.pop();   // return 5, as 5 is the most frequent. The stack becomes [5,7,4].
+freqStack.pop();   // return 4, as 4, 5 and 7 is the most frequent, but 4 is closest to the top. The stack becomes [5,7].
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= val &amp;lt;= 10&lt;sup&gt;9&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;At most &lt;code&gt;2 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt; calls will be made to &lt;code&gt;push&lt;/code&gt; and &lt;code&gt;pop&lt;/code&gt;.&lt;/li&gt;
+    &lt;li&gt;It is guaranteed that there will be at least one element in the stack before calling &lt;code&gt;pop&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# https://leetcode.com/problems/maximum-frequency-stack/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# https://youtu.be/Z6idIicFDOE&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;import heapq&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;class FreqStack:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;    def __init__(self):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        self.cnt = collections.Counter()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        self.maxHeap = []&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        self.indx = 0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;    def push(self, val):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        self.cnt[val] += 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        self.indx += 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        heapq.heappush(self.maxHeap, (-self.cnt[val], -self.indx, val))&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;    def pop(self):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        val = self.maxHeap[0][2]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        self.cnt[val] -= 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        heapq.heappop(self.maxHeap)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        return val&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;# Time: O(log(N))&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;# Space: O(N)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;FreqStack&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.cnt = &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.stacks = &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.maxCnt = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;push&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, val&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        valCnt = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; + self.cnt.get(val, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.cnt[val] = valCnt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; self.maxCnt &amp;lt; valCnt:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            self.maxCnt = valCnt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            self.stacks[valCnt] = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.stacks[valCnt].append(val)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;pop&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;# print(self.stacks)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = self.stacks[self.maxCnt].pop()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.cnt[res] -= &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; self.stacks[self.maxCnt]: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            self.maxCnt -= &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0877-stone-game/</guid>
+            <title>0877 stone game</title>
+            <link>https://samirpaul.in/posts/0877-stone-game/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;stoneGame&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, piles: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;bool&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        dp = &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;dfs&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;l, r&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; l &amp;gt; r: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (l,r) &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; dp: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[(l,r)]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            even = &lt;span class=&#34;literal&#34;&gt;True&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (r-l)%&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;False&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            left = piles[l] + dfs(l+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, r) &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; even &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; dfs(l+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, r)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            right = piles[r] + dfs(l, r-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; even &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; dfs(l, r-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            dp[(l,r)] = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(left, right)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[(l,r)]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dfs(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(piles)-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0881-boats-to-save-people/</guid>
+            <title>0881 boats to save people</title>
+            <link>https://samirpaul.in/posts/0881-boats-to-save-people/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/boats-to-save-people/&#34;&gt;881. Boats to Save People&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given an array &lt;code&gt;people&lt;/code&gt; where &lt;code&gt;people[i]&lt;/code&gt; is the weight of the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; person, and an &lt;strong&gt;infinite number of boats&lt;/strong&gt; where each boat can carry a maximum weight of &lt;code&gt;limit&lt;/code&gt;. Each boat carries at most two people at the same time, provided the sum of the weight of those people is at most &lt;code&gt;limit&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;the minimum number of boats to carry every given person&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; people = [1,2], limit = 3
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;strong&gt;Explanation:&lt;/strong&gt; 1 boat (1, 2)
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; people = [3,2,2,1], limit = 3
+&lt;strong&gt;Output:&lt;/strong&gt; 3
+&lt;strong&gt;Explanation:&lt;/strong&gt; 3 boats (1, 2), (2) and (3)
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; people = [3,5,3,4], limit = 5
+&lt;strong&gt;Output:&lt;/strong&gt; 4
+&lt;strong&gt;Explanation:&lt;/strong&gt; 4 boats (3), (3), (4), (5)
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= people.length &amp;lt;= 5 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= people[i] &amp;lt;= limit &amp;lt;= 3 * 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;numRescueBoats&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, people: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], limit: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        l,r = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(people)-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        people.sort()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; l &amp;lt;= r:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; people[l] + people[r] &amp;lt;= limit:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                l += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                r -= &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                r -= &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            res += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0875-koko-eating-bananas/</guid>
+            <title>0875 koko eating bananas</title>
+            <link>https://samirpaul.in/posts/0875-koko-eating-bananas/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/koko-eating-bananas/&#34;&gt;875. Koko Eating Bananas&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Koko loves to eat bananas. There are &lt;code&gt;n&lt;/code&gt; piles of bananas, the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; pile has &lt;code&gt;piles[i]&lt;/code&gt; bananas. The guards have gone and will come back in &lt;code&gt;h&lt;/code&gt; hours.&lt;/p&gt;
+
+&lt;p&gt;Koko can decide her bananas-per-hour eating speed of &lt;code&gt;k&lt;/code&gt;. Each hour, she chooses some pile of bananas and eats &lt;code&gt;k&lt;/code&gt; bananas from that pile. If the pile has less than &lt;code&gt;k&lt;/code&gt; bananas, she eats all of them instead and will not eat any more bananas during this hour.&lt;/p&gt;
+
+&lt;p&gt;Koko likes to eat slowly but still wants to finish eating all the bananas before the guards return.&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;the minimum integer&lt;/em&gt; &lt;code&gt;k&lt;/code&gt; &lt;em&gt;such that she can eat all the bananas within&lt;/em&gt; &lt;code&gt;h&lt;/code&gt; &lt;em&gt;hours&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; piles = [3,6,7,11], h = 8
+&lt;strong&gt;Output:&lt;/strong&gt; 4
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; piles = [30,11,23,4,20], h = 5
+&lt;strong&gt;Output:&lt;/strong&gt; 30
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; piles = [30,11,23,4,20], h = 6
+&lt;strong&gt;Output:&lt;/strong&gt; 23
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= piles.length &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;piles.length &amp;lt;= h &amp;lt;= 10&lt;sup&gt;9&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= piles[i] &amp;lt;= 10&lt;sup&gt;9&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;minEatingSpeed&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, piles, h&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;isValid&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;speed&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            time = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; num &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; piles:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                time += math.ceil(num/speed)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; time &amp;lt;= h&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        l, r, res = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(piles), &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(piles)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; l &amp;lt;= r:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            mid = l + (r-l)//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; isValid(mid):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res = &lt;span class=&#34;built_in&#34;&gt;min&lt;/span&gt;(res, mid)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                r = mid - &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                l = mid + &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Time: O(N * log(M))      where M = max(piles)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Space: O(1)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0876-middle-of-the-linked-list/</guid>
+            <title>0876 middle of the linked list</title>
+            <link>https://samirpaul.in/posts/0876-middle-of-the-linked-list/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/middle-of-the-linked-list/&#34;&gt;876. Middle of the Linked List&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given the &lt;code&gt;head&lt;/code&gt; of a singly linked list, return &lt;em&gt;the middle node of the linked list&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If there are two middle nodes, return &lt;strong&gt;the second middle&lt;/strong&gt; node.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2021/07/23/lc-midlist1.jpg&#34; style=&#34;width: 544px; height: 65px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; head = [1,2,3,4,5]
+&lt;strong&gt;Output:&lt;/strong&gt; [3,4,5]
+&lt;strong&gt;Explanation:&lt;/strong&gt; The middle node of the list is node 3.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2021/07/23/lc-midlist2.jpg&#34; style=&#34;width: 664px; height: 65px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; head = [1,2,3,4,5,6]
+&lt;strong&gt;Output:&lt;/strong&gt; [4,5,6]
+&lt;strong&gt;Explanation:&lt;/strong&gt; Since the list has two middle nodes with values 3 and 4, we return the second one.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;The number of nodes in the list is in the range &lt;code&gt;[1, 100]&lt;/code&gt;.&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= Node.val &amp;lt;= 100&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# https://leetcode.com/problems/middle-of-the-linked-list/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Method 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;middleNode&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, head&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        slow = head&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        fast = head&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; fast &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; fast.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            slow = slow.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            fast = fast.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt;.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; slow&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Method 2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;middleNode&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, head&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cur = head&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        length = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; cur:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            length += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cur = cur.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        mid = length//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cur = head&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(mid):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cur = cur.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; cur&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0846-hand-of-straights/</guid>
+            <title>0846 hand of straights</title>
+            <link>https://samirpaul.in/posts/0846-hand-of-straights/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/hand-of-straights/&#34;&gt;846. Hand of Straights&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Alice has some number of cards and she wants to rearrange the cards into groups so that each group is of size &lt;code&gt;groupSize&lt;/code&gt;, and consists of &lt;code&gt;groupSize&lt;/code&gt; consecutive cards.&lt;/p&gt;
+
+&lt;p&gt;Given an integer array &lt;code&gt;hand&lt;/code&gt; where &lt;code&gt;hand[i]&lt;/code&gt; is the value written on the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; card and an integer &lt;code&gt;groupSize&lt;/code&gt;, return &lt;code&gt;true&lt;/code&gt; if she can rearrange the cards, or &lt;code&gt;false&lt;/code&gt; otherwise.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; hand = [1,2,3,6,2,3,4,7,8], groupSize = 3
+&lt;strong&gt;Output:&lt;/strong&gt; true
+&lt;strong&gt;Explanation:&lt;/strong&gt; Alice&#39;s hand can be rearranged as [1,2,3],[2,3,4],[6,7,8]
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; hand = [1,2,3,4,5], groupSize = 4
+&lt;strong&gt;Output:&lt;/strong&gt; false
+&lt;strong&gt;Explanation:&lt;/strong&gt; Alice&#39;s hand can not be rearranged into groups of 4.
+
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= hand.length &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= hand[i] &amp;lt;= 10&lt;sup&gt;9&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= groupSize &amp;lt;= hand.length&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This question is the same as 1296: &lt;a href=&#34;https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/&#34; target=&#34;_blank&#34;&gt;https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;isNStraightHand&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, hand: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], groupSize: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;bool&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cnt = collections.Counter(hand)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        i = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        sorted_cnt = &lt;span class=&#34;built_in&#34;&gt;sorted&lt;/span&gt;(cnt)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; i &amp;lt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(cnt):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            c = sorted_cnt[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; cnt[c] &amp;gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(c, c+groupSize):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    cnt[j] -= &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; cnt[j] &amp;lt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;False&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                i += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;True&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0853-car-fleet/</guid>
+            <title>0853 car fleet</title>
+            <link>https://samirpaul.in/posts/0853-car-fleet/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/car-fleet/&#34;&gt;853. Car Fleet&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;There are &lt;code&gt;n&lt;/code&gt; cars going to the same destination along a one-lane road. The destination is &lt;code&gt;target&lt;/code&gt; miles away.&lt;/p&gt;
+
+&lt;p&gt;You are given two integer array &lt;code&gt;position&lt;/code&gt; and &lt;code&gt;speed&lt;/code&gt;, both of length &lt;code&gt;n&lt;/code&gt;, where &lt;code&gt;position[i]&lt;/code&gt; is the position of the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; car and &lt;code&gt;speed[i]&lt;/code&gt; is the speed of the &lt;code&gt;i&lt;sup&gt;th&lt;/sup&gt;&lt;/code&gt; car (in miles per hour).&lt;/p&gt;
+
+&lt;p&gt;A car can never pass another car ahead of it, but it can catch up to it&amp;nbsp;and drive bumper to bumper &lt;strong&gt;at the same speed&lt;/strong&gt;. The faster car will &lt;strong&gt;slow down&lt;/strong&gt; to match the slower car&#39;s speed. The distance between these two cars is ignored (i.e., they are assumed to have the same position).&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;car fleet&lt;/strong&gt; is some non-empty set of cars driving at the same position and same speed. Note that a single car is also a car fleet.&lt;/p&gt;
+
+&lt;p&gt;If a car catches up to a car fleet right at the destination point, it will still be considered as one car fleet.&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;the &lt;strong&gt;number of car fleets&lt;/strong&gt; that will arrive at the destination&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; target = 12, position = [10,8,0,5,3], speed = [2,4,1,1,3]
+&lt;strong&gt;Output:&lt;/strong&gt; 3
+&lt;strong&gt;Explanation:&lt;/strong&gt;
+The cars starting at 10 (speed 2) and 8 (speed 4) become a fleet, meeting each other at 12.
+The car starting at 0 does not catch up to any other car, so it is a fleet by itself.
+The cars starting at 5 (speed 1) and 3 (speed 3) become a fleet, meeting each other at 6. The fleet moves at speed 1 until it reaches target.
+Note that no other cars meet these fleets before the destination, so the answer is 3.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; target = 10, position = [3], speed = [3]
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;strong&gt;Explanation:&lt;/strong&gt; There is only one car, hence there is only one fleet.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; target = 100, position = [0,2,4], speed = [4,2,1]
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;strong&gt;Explanation:&lt;/strong&gt;
+The cars starting at 0 (speed 4) and 2 (speed 2) become a fleet, meeting each other at 4. The fleet moves at speed 2.
+Then, the fleet (speed 2) and the car starting at 4 (speed 1) become one fleet, meeting each other at 6. The fleet moves at speed 1 until it reaches target.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;n == position.length == speed.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= n &amp;lt;= 10&lt;sup&gt;5&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt; target &amp;lt;= 10&lt;sup&gt;6&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= position[i] &amp;lt; target&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;All the values of &lt;code&gt;position&lt;/code&gt; are &lt;strong&gt;unique&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt; speed[i] &amp;lt;= 10&lt;sup&gt;6&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;carFleet&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, target, position, speed&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        ps = [(p,s) &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; p,s &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;zip&lt;/span&gt;(position, speed)]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        ps.sort()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        time = [(target-p)/s &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; p,s &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; ps]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;# print(time)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        rmax = res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; t &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; time[::-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; t &amp;gt; rmax:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                rmax = t&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0797-all-paths-from-source-to-target/</guid>
+            <title>0797 all paths from source to target</title>
+            <link>https://samirpaul.in/posts/0797-all-paths-from-source-to-target/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/all-paths-from-source-to-target/&#34;&gt;797. All Paths From Source to Target&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given a directed acyclic graph (&lt;strong&gt;DAG&lt;/strong&gt;) of &lt;code&gt;n&lt;/code&gt; nodes labeled from &lt;code&gt;0&lt;/code&gt; to &lt;code&gt;n - 1&lt;/code&gt;, find all possible paths from node &lt;code&gt;0&lt;/code&gt; to node &lt;code&gt;n - 1&lt;/code&gt; and return them in &lt;strong&gt;any order&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The graph is given as follows: &lt;code&gt;graph[i]&lt;/code&gt; is a list of all nodes you can visit from node &lt;code&gt;i&lt;/code&gt; (i.e., there is a directed edge from node &lt;code&gt;i&lt;/code&gt; to node &lt;code&gt;graph[i][j]&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2020/09/28/all_1.jpg&#34; style=&#34;width: 242px; height: 242px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; graph = [[1,2],[3],[3],[]]
+&lt;strong&gt;Output:&lt;/strong&gt; [[0,1,3],[0,2,3]]
+&lt;strong&gt;Explanation:&lt;/strong&gt; There are two paths: 0 -&amp;gt; 1 -&amp;gt; 3 and 0 -&amp;gt; 2 -&amp;gt; 3.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2020/09/28/all_2.jpg&#34; style=&#34;width: 423px; height: 301px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; graph = [[4,3,1],[3,2,4],[3],[4],[]]
+&lt;strong&gt;Output:&lt;/strong&gt; [[0,4],[0,3,4],[0,1,3,4],[0,1,2,3,4],[0,1,4]]
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;n == graph.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;2 &amp;lt;= n &amp;lt;= 15&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= graph[i][j] &amp;lt; n&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;graph[i][j] != i&lt;/code&gt; (i.e., there will be no self-loops).&lt;/li&gt;
+    &lt;li&gt;All the elements of &lt;code&gt;graph[i]&lt;/code&gt; are &lt;strong&gt;unique&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;The input graph is &lt;strong&gt;guaranteed&lt;/strong&gt; to be a &lt;strong&gt;DAG&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;allPathsSourceTarget&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, graph: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(graph)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        adj = &amp;#123;i:graph[i] &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(graph))&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        visited = &lt;span class=&#34;built_in&#34;&gt;set&lt;/span&gt;()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;solve&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;i, path&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; i == n-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                path.append(i)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res.append(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; visited: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            visited.add(i)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; adj[i]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                solve(j, path + [i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            visited.remove(i)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        solve(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, [])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0801-minimum-swaps-to-make-sequences-increasing/</guid>
+            <title>0801 minimum swaps to make sequences increasing</title>
+            <link>https://samirpaul.in/posts/0801-minimum-swaps-to-make-sequences-increasing/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/&#34;&gt;801. Minimum Swaps To Make Sequences Increasing&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Hard&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given two integer arrays of the same length &lt;code&gt;nums1&lt;/code&gt; and &lt;code&gt;nums2&lt;/code&gt;. In one operation, you are allowed to swap &lt;code&gt;nums1[i]&lt;/code&gt; with &lt;code&gt;nums2[i]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;For example, if &lt;code&gt;nums1 = [1,2,3,&lt;u&gt;8&lt;/u&gt;]&lt;/code&gt;, and &lt;code&gt;nums2 = [5,6,7,&lt;u&gt;4&lt;/u&gt;]&lt;/code&gt;, you can swap the element at &lt;code&gt;i = 3&lt;/code&gt; to obtain &lt;code&gt;nums1 = [1,2,3,4]&lt;/code&gt; and &lt;code&gt;nums2 = [5,6,7,8]&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Return &lt;em&gt;the minimum number of needed operations to make &lt;/em&gt;&lt;code&gt;nums1&lt;/code&gt;&lt;em&gt; and &lt;/em&gt;&lt;code&gt;nums2&lt;/code&gt;&lt;em&gt; &lt;strong&gt;strictly increasing&lt;/strong&gt;&lt;/em&gt;. The test cases are generated so that the given input always makes it possible.&lt;/p&gt;
+
+&lt;p&gt;An array &lt;code&gt;arr&lt;/code&gt; is &lt;strong&gt;strictly increasing&lt;/strong&gt; if and only if &lt;code&gt;arr[0] &amp;lt; arr[1] &amp;lt; arr[2] &amp;lt; ... &amp;lt; arr[arr.length - 1]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums1 = [1,3,5,4], nums2 = [1,2,3,7]
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;strong&gt;Explanation:&lt;/strong&gt; 
+Swap nums1[3] and nums2[3]. Then the sequences are:
+nums1 = [1, 3, 5, 7] and nums2 = [1, 2, 3, 4]
+which are both strictly increasing.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums1 = [0,3,5,8,9], nums2 = [2,1,4,6,9]
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;2 &amp;lt;= nums1.length &amp;lt;= 10&lt;sup&gt;5&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;nums2.length == nums1.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= nums1[i], nums2[i] &amp;lt;= 2 * 10&lt;sup&gt;5&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;minSwap&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums1: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], nums2: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        dp = [[-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]*&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; _ &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums1)+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;solve&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;prev1, prev2, i, swaped&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; i &amp;gt;= &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums1): &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; dp[i][swaped] != -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[i][swaped] &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            ans = &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;**&lt;span class=&#34;number&#34;&gt;31&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; nums1[i] &amp;gt; prev1 &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; nums2[i] &amp;gt; prev2:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                ans = &lt;span class=&#34;built_in&#34;&gt;min&lt;/span&gt;(ans, solve(nums1[i], nums2[i], i+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; nums1[i] &amp;gt; prev2 &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; nums2[i] &amp;gt; prev1:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                ans = &lt;span class=&#34;built_in&#34;&gt;min&lt;/span&gt;(ans, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; + solve(nums2[i], nums1[i], i+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            dp[i][swaped] = ans&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; ans&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; solve(-&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;**&lt;span class=&#34;number&#34;&gt;31&lt;/span&gt;, -&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;**&lt;span class=&#34;number&#34;&gt;31&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0802-find-eventual-safe-states/</guid>
+            <title>0802 find eventual safe states</title>
+            <link>https://samirpaul.in/posts/0802-find-eventual-safe-states/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/find-eventual-safe-states/&#34;&gt;802. Find Eventual Safe States&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;There is a directed graph of &lt;code&gt;n&lt;/code&gt; nodes with each node labeled from &lt;code&gt;0&lt;/code&gt; to &lt;code&gt;n - 1&lt;/code&gt;. The graph is represented by a &lt;strong&gt;0-indexed&lt;/strong&gt; 2D integer array &lt;code&gt;graph&lt;/code&gt; where &lt;code&gt;graph[i]&lt;/code&gt; is an integer array of nodes adjacent to node &lt;code&gt;i&lt;/code&gt;, meaning there is an edge from node &lt;code&gt;i&lt;/code&gt; to each node in &lt;code&gt;graph[i]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;A node is a &lt;strong&gt;terminal node&lt;/strong&gt; if there are no outgoing edges. A node is a &lt;strong&gt;safe node&lt;/strong&gt; if every possible path starting from that node leads to a &lt;strong&gt;terminal node&lt;/strong&gt; (or another safe node).&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;an array containing all the &lt;strong&gt;safe nodes&lt;/strong&gt; of the graph&lt;/em&gt;. The answer should be sorted in &lt;strong&gt;ascending&lt;/strong&gt; order.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;Illustration of graph&#34; src=&#34;https://s3-lc-upload.s3.amazonaws.com/uploads/2018/03/17/picture1.png&#34; style=&#34;height: 171px; width: 600px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; graph = [[1,2],[2,3],[5],[0],[5],[],[]]
+&lt;strong&gt;Output:&lt;/strong&gt; [2,4,5,6]
+&lt;strong&gt;Explanation:&lt;/strong&gt; The given graph is shown above.
+Nodes 5 and 6 are terminal nodes as there are no outgoing edges from either of them.
+Every path starting at nodes 2, 4, 5, and 6 all lead to either node 5 or 6.&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; graph = [[1,2,3,4],[1,2],[3,4],[0,4],[]]
+&lt;strong&gt;Output:&lt;/strong&gt; [4]
+&lt;strong&gt;Explanation:&lt;/strong&gt;
+Only node 4 is a terminal node, and every path starting at node 4 leads to node 4.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;n == graph.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= n &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= graph[i].length &amp;lt;= n&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= graph[i][j] &amp;lt;= n - 1&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;graph[i]&lt;/code&gt; is sorted in a strictly increasing order.&lt;/li&gt;
+    &lt;li&gt;The graph may contain self-loops.&lt;/li&gt;
+    &lt;li&gt;The number of edges in the graph will be in the range &lt;code&gt;[1, 4 * 10&lt;sup&gt;4&lt;/sup&gt;]&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;eventualSafeNodes&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, graph: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        safe = &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;dfs&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;node&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; node &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; safe:        &lt;span class=&#34;comment&#34;&gt;# Cycle found or previously checked&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; safe[node]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            safe[node] = &lt;span class=&#34;literal&#34;&gt;False&lt;/span&gt;      &lt;span class=&#34;comment&#34;&gt;# &lt;span class=&#34;doctag&#34;&gt;NOTE:&lt;/span&gt; FOR CYCLE DETECTION&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; graph[node]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; dfs(i):      &lt;span class=&#34;comment&#34;&gt;# visited i and not safe&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; safe[i]  &lt;span class=&#34;comment&#34;&gt;# stop further check&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            safe[node] = &lt;span class=&#34;literal&#34;&gt;True&lt;/span&gt;       &lt;span class=&#34;comment&#34;&gt;# all outgoing edges had been checked so safe node&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; safe[node]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(graph)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; dfs(i):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res.append(i)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;NOTE:  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;initializing safe[node] = False, so before traversing all outgoing edges &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;if we again reach node i.e, loop detected then return safe[node].&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Time: O(N)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0812-largest-triangle-area/</guid>
+            <title>0812 largest triangle area</title>
+            <link>https://samirpaul.in/posts/0812-largest-triangle-area/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/largest-triangle-area/&#34;&gt;812. Largest Triangle Area&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an array of points on the &lt;strong&gt;X-Y&lt;/strong&gt; plane &lt;code&gt;points&lt;/code&gt; where &lt;code&gt;points[i] = [x&lt;sub&gt;i&lt;/sub&gt;, y&lt;sub&gt;i&lt;/sub&gt;]&lt;/code&gt;, return &lt;em&gt;the area of the largest triangle that can be formed by any three different points&lt;/em&gt;. Answers within &lt;code&gt;10&lt;sup&gt;-5&lt;/sup&gt;&lt;/code&gt; of the actual answer will be accepted.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/04/1027.png&#34; style=&#34;height: 369px; width: 450px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; points = [[0,0],[0,1],[1,0],[0,2],[2,0]]
+&lt;strong&gt;Output:&lt;/strong&gt; 2.00000
+&lt;strong&gt;Explanation:&lt;/strong&gt; The five points are shown in the above figure. The red triangle is the largest.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; points = [[1,0],[0,0],[0,1]]
+&lt;strong&gt;Output:&lt;/strong&gt; 0.50000
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;3 &amp;lt;= points.length &amp;lt;= 50&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;-50 &amp;lt;= x&lt;sub&gt;i&lt;/sub&gt;, y&lt;sub&gt;i&lt;/sub&gt; &amp;lt;= 50&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;All the given points are &lt;strong&gt;unique&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# https://www.vedantu.com/question-answer/find-the-area-of-the-triangle-whose-vertices-are-class-11-maths-cbse-5f8309d2ed668270c0bf8f07&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;largestTriangleArea&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, points: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;float&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(points)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n-&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(i+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; k &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(j+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    x1, y1 = points[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    x2, y2 = points[j]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    x3, y3 = points[k]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    area = &lt;span class=&#34;built_in&#34;&gt;abs&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;0.5&lt;/span&gt; * (x1*(y2-y3) + x2*(y3-y1) + x3*(y1-y2)))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    res = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(res, area)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0813-largest-sum-of-averages/</guid>
+            <title>0813 largest sum of averages</title>
+            <link>https://samirpaul.in/posts/0813-largest-sum-of-averages/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/largest-sum-of-averages/&#34;&gt;813. Largest Sum of Averages&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You are given an integer array &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;k&lt;/code&gt;. You can partition the array into &lt;strong&gt;at most&lt;/strong&gt; &lt;code&gt;k&lt;/code&gt; non-empty adjacent subarrays. The &lt;strong&gt;score&lt;/strong&gt; of a partition is the sum of the averages of each subarray.&lt;/p&gt;
+
+&lt;p&gt;Note that the partition must use every integer in &lt;code&gt;nums&lt;/code&gt;, and that the score is not necessarily an integer.&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;the maximum &lt;strong&gt;score&lt;/strong&gt; you can achieve of all the possible partitions&lt;/em&gt;. Answers within &lt;code&gt;10&lt;sup&gt;-6&lt;/sup&gt;&lt;/code&gt; of the actual answer will be accepted.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [9,1,2,3,9], k = 3
+&lt;strong&gt;Output:&lt;/strong&gt; 20.00000
+&lt;strong&gt;Explanation:&lt;/strong&gt; 
+The best choice is to partition nums into [9], [1, 2, 3], [9]. The answer is 9 + (1 + 2 + 3) / 3 + 9 = 20.
+We could have also partitioned nums into [9, 1], [2], [3, 9], for example.
+That partition would lead to a score of 5 + 2 + 6 = 13, which is worse.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; nums = [1,2,3,4,5,6,7], k = 4
+&lt;strong&gt;Output:&lt;/strong&gt; 20.50000
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= nums.length &amp;lt;= 100&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= nums[i] &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= k &amp;lt;= nums.length&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;largestSumOfAverages&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, nums: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;], k: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;float&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        dp = [[-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] * (k+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums))]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;dfs&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;i, k&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; i &amp;gt;= &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums) &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; k &amp;lt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; k == &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; -&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;**&lt;span class=&#34;number&#34;&gt;31&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; dp[i][k] != -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[i][k]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            ans = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            s = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(i, &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(nums)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                s += nums[j]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                ans = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(ans, s/(j-i+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) + dfs(j+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, k-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            dp[i][k] = ans&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; ans&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dfs(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, k)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Time: O(N * K)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Space: O(N * K)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0820-find-eventual-safe-states/</guid>
+            <title>0820 find eventual safe states</title>
+            <link>https://samirpaul.in/posts/0820-find-eventual-safe-states/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/find-eventual-safe-states&#34;&gt;820. Find Eventual Safe States&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;p&gt;There is a directed graph of &lt;code&gt;n&lt;/code&gt; nodes with each node labeled from &lt;code&gt;0&lt;/code&gt; to &lt;code&gt;n - 1&lt;/code&gt;. The graph is represented by a &lt;strong&gt;0-indexed&lt;/strong&gt; 2D integer array &lt;code&gt;graph&lt;/code&gt; where &lt;code&gt;graph[i]&lt;/code&gt; is an integer array of nodes adjacent to node &lt;code&gt;i&lt;/code&gt;, meaning there is an edge from node &lt;code&gt;i&lt;/code&gt; to each node in &lt;code&gt;graph[i]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;A node is a &lt;strong&gt;terminal node&lt;/strong&gt; if there are no outgoing edges. A node is a &lt;strong&gt;safe node&lt;/strong&gt; if every possible path starting from that node leads to a &lt;strong&gt;terminal node&lt;/strong&gt; (or another safe node).&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;an array containing all the &lt;strong&gt;safe nodes&lt;/strong&gt; of the graph&lt;/em&gt;. The answer should be sorted in &lt;strong&gt;ascending&lt;/strong&gt; order.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;Illustration of graph&#34; src=&#34;https://s3-lc-upload.s3.amazonaws.com/uploads/2018/03/17/picture1.png&#34; style=&#34;height: 171px; width: 600px;&#34; /&gt;
+&lt;pre&gt;
+&lt;strong&gt;Input:&lt;/strong&gt; graph = [[1,2],[2,3],[5],[0],[5],[],[]]
+&lt;strong&gt;Output:&lt;/strong&gt; [2,4,5,6]
+&lt;strong&gt;Explanation:&lt;/strong&gt; The given graph is shown above.
+Nodes 5 and 6 are terminal nodes as there are no outgoing edges from either of them.
+Every path starting at nodes 2, 4, 5, and 6 all lead to either node 5 or 6.&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;
+&lt;strong&gt;Input:&lt;/strong&gt; graph = [[1,2,3,4],[1,2],[3,4],[0,4],[]]
+&lt;strong&gt;Output:&lt;/strong&gt; [4]
+&lt;strong&gt;Explanation:&lt;/strong&gt;
+Only node 4 is a terminal node, and every path starting at node 4 leads to node 4.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;n == graph.length&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= n &amp;lt;= 10&lt;sup&gt;4&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= graph[i].length &amp;lt;= n&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;0 &amp;lt;= graph[i][j] &amp;lt;= n - 1&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;graph[i]&lt;/code&gt; is sorted in a strictly increasing order.&lt;/li&gt;
+    &lt;li&gt;The graph may contain self-loops.&lt;/li&gt;
+    &lt;li&gt;The number of edges in the graph will be in the range &lt;code&gt;[1, 4 * 10&lt;sup&gt;4&lt;/sup&gt;]&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;hr&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0823-binary-trees-with-factors/</guid>
+            <title>0823 binary trees with factors</title>
+            <link>https://samirpaul.in/posts/0823-binary-trees-with-factors/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/binary-trees-with-factors/&#34;&gt;823. Binary Trees With Factors&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given an array of unique integers, &lt;code&gt;arr&lt;/code&gt;, where each integer &lt;code&gt;arr[i]&lt;/code&gt; is strictly greater than &lt;code&gt;1&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;We make a binary tree using these integers, and each number may be used for any number of times. Each non-leaf node&#39;s value should be equal to the product of the values of its children.&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;the number of binary trees we can make&lt;/em&gt;. The answer may be too large so return the answer &lt;strong&gt;modulo&lt;/strong&gt; &lt;code&gt;10&lt;sup&gt;9&lt;/sup&gt; + 7&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; arr = [2,4]
+&lt;strong&gt;Output:&lt;/strong&gt; 3
+&lt;strong&gt;Explanation:&lt;/strong&gt; We can make these trees: &lt;code&gt;[2], [4], [4, 2, 2]&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; arr = [2,4,5,10]
+&lt;strong&gt;Output:&lt;/strong&gt; 7
+&lt;strong&gt;Explanation:&lt;/strong&gt; We can make these trees: &lt;code&gt;[2], [4], [5], [10], [4, 2, 2], [10, 2, 5], [10, 5, 2]&lt;/code&gt;.&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= arr.length &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;2 &amp;lt;= arr[i] &amp;lt;= 10&lt;sup&gt;9&lt;/sup&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;All the values of &lt;code&gt;arr&lt;/code&gt; are &lt;strong&gt;unique&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;numFactoredBinaryTrees&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, arr: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        arr.sort()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        count = collections.Counter()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(arr)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            count[arr[i]] += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            tmp = count[arr[i]]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(i):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; arr[i] % arr[j] == &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    tmp += count[arr[j]] * count[arr[i] // arr[j]]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            count[arr[i]] = tmp % (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;**&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;sum&lt;/span&gt;(count.values()) % (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;**&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0844-backspace-string-compare/</guid>
+            <title>0844 backspace string compare</title>
+            <link>https://samirpaul.in/posts/0844-backspace-string-compare/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/backspace-string-compare/&#34;&gt;844. Backspace String Compare&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Easy&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;Given two strings &lt;code&gt;s&lt;/code&gt; and &lt;code&gt;t&lt;/code&gt;, return &lt;code&gt;true&lt;/code&gt; &lt;em&gt;if they are equal when both are typed into empty text editors&lt;/em&gt;. &lt;code&gt;&#39;#&#39;&lt;/code&gt; means a backspace character.&lt;/p&gt;
+
+&lt;p&gt;Note that after backspacing an empty text, the text will continue empty.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; s = &#34;ab#c&#34;, t = &#34;ad#c&#34;
+&lt;strong&gt;Output:&lt;/strong&gt; true
+&lt;strong&gt;Explanation:&lt;/strong&gt; Both s and t become &#34;ac&#34;.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; s = &#34;ab##&#34;, t = &#34;c#d#&#34;
+&lt;strong&gt;Output:&lt;/strong&gt; true
+&lt;strong&gt;Explanation:&lt;/strong&gt; Both s and t become &#34;&#34;.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; s = &#34;a#c&#34;, t = &#34;b&#34;
+&lt;strong&gt;Output:&lt;/strong&gt; false
+&lt;strong&gt;Explanation:&lt;/strong&gt; s becomes &#34;c&#34; while t becomes &#34;b&#34;.
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;&lt;span&gt;1 &amp;lt;= s.length, t.length &amp;lt;= 200&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;&lt;code&gt;s&lt;/code&gt; and &lt;code&gt;t&lt;/code&gt; only contain lowercase letters and &lt;code&gt;&#39;#&#39;&lt;/code&gt; characters.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Can you solve it in &lt;code&gt;O(n)&lt;/code&gt; time and &lt;code&gt;O(1)&lt;/code&gt; space?&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;backspaceCompare&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, s: &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;, t: &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;bool&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        sa = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(s)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; s[i] == &lt;span class=&#34;string&#34;&gt;&amp;#x27;#&amp;#x27;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; sa: sa.pop()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                sa.append(s[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        ta = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(t)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; t[i] == &lt;span class=&#34;string&#34;&gt;&amp;#x27;#&amp;#x27;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; ta: ta.pop()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                ta.append(t[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&lt;/span&gt;.join(sa) == &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&lt;/span&gt;.join(ta)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0790-domino-and-tromino-tiling/</guid>
+            <title>0790 domino and tromino tiling</title>
+            <link>https://samirpaul.in/posts/0790-domino-and-tromino-tiling/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/domino-and-tromino-tiling/&#34;&gt;790. Domino and Tromino Tiling&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;div&gt;&lt;p&gt;You have two types of tiles: a &lt;code&gt;2 x 1&lt;/code&gt; domino shape and a tromino shape. You may rotate these shapes.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2021/07/15/lc-domino.jpg&#34; style=&#34;width: 362px; height: 195px;&#34;&gt;
+&lt;p&gt;Given an integer n, return &lt;em&gt;the number of ways to tile an&lt;/em&gt; &lt;code&gt;2 x n&lt;/code&gt; &lt;em&gt;board&lt;/em&gt;. Since the answer may be very large, return it &lt;strong&gt;modulo&lt;/strong&gt; &lt;code&gt;10&lt;sup&gt;9&lt;/sup&gt; + 7&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;In a tiling, every square must be covered by a tile. Two tilings are different if and only if there are two 4-directionally adjacent cells on the board such that exactly one of the tilings has both squares occupied by a tile.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://assets.leetcode.com/uploads/2021/07/15/lc-domino1.jpg&#34; style=&#34;width: 500px; height: 226px;&#34;&gt;
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; n = 3
+&lt;strong&gt;Output:&lt;/strong&gt; 5
+&lt;strong&gt;Explanation:&lt;/strong&gt; The five different ways are show above.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;strong&gt;Input:&lt;/strong&gt; n = 1
+&lt;strong&gt;Output:&lt;/strong&gt; 1
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= n &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;Purely based on observation and by intuition you can arrive at the follwing formula-&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;f(n)=f(n-1)+f(n-2)+2*(f(n-3)+f(n-4)+......+f(n-n))      ------(1)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;if we remove 1 width  and 2 length tile vertically theres 1 way&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;if we remove 1 horizontal 2 width and 1 length tile below will also be same width tile so only 1 way&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;if we remove 3,by obervation we get 2 ways    &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;similarly,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;f(n-1) = f(n-2) + f(n-3) + 2*(f(n-4) + ....)   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;f(n-2) = f(n-1) - f(n-3) - 2*(f(n-4) + f(n-5) + ....)   ------(2)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;putting value of f(n-2) to equation (1) we get,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;f(n) = 2*f(n-1) + f(n-3)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;                         __     and         __&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;                                                                       |  __|          |__ |   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;similarly 2 for rest &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;numTilings&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, n: &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        MOD = &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;**&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        dp = [&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;] + [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] * n&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; n &amp;lt;= &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;, n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            dp[i] = (&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; * dp[i-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + dp[i-&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;]) % MOD &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[n] % MOD&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0768-partition-labels/</guid>
+            <title>0768 partition labels</title>
+            <link>https://samirpaul.in/posts/0768-partition-labels/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;h2&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-labels&#34;&gt;768. Partition Labels&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Medium&lt;/h3&gt;&lt;hr&gt;&lt;p&gt;You are given a string &lt;code&gt;s&lt;/code&gt;. We want to partition the string into as many parts as possible so that each letter appears in at most one part.&lt;/p&gt;
+
+&lt;p&gt;Note that the partition is done so that after concatenating all the parts in order, the resultant string should be &lt;code&gt;s&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Return &lt;em&gt;a list of integers representing the size of these parts&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;
+&lt;strong&gt;Input:&lt;/strong&gt; s = &amp;quot;ababcbacadefegdehijhklij&amp;quot;
+&lt;strong&gt;Output:&lt;/strong&gt; [9,7,8]
+&lt;strong&gt;Explanation:&lt;/strong&gt;
+The partition is &amp;quot;ababcbaca&amp;quot;, &amp;quot;defegde&amp;quot;, &amp;quot;hijhklij&amp;quot;.
+This is a partition so that each letter appears in at most one part.
+A partition like &amp;quot;ababcbacadefegde&amp;quot;, &amp;quot;hijhklij&amp;quot; is incorrect, because it splits s into less parts.
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong class=&#34;example&#34;&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;
+&lt;strong&gt;Input:&lt;/strong&gt; s = &amp;quot;eccbbbbdec&amp;quot;
+&lt;strong&gt;Output:&lt;/strong&gt; [10]
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;1 &amp;lt;= s.length &amp;lt;= 500&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;s&lt;/code&gt; consists of lowercase English letters.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;partitionLabels&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, s: &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        l, rmax = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        res = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        lastInd = &amp;#123;ch:i &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i, ch &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;enumerate&lt;/span&gt;(s)&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; r &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(s)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            rmax = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(rmax, lastInd[s[r]])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; rmax == r:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                res.append(r-l+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                l = r+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/0778-swim-in-rising-water/</guid>
+            <title>0778 swim in rising water</title>
+            <link>https://samirpaul.in/posts/0778-swim-in-rising-water/</link>
+            <category>leetcode</category>
+            <pubDate>Sun, 06 Aug 2023 12:38:14 +0530</pubDate>
+            <description><![CDATA[ &lt;hr&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; heapq&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;swimInWater&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, grid: &lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;List&lt;/span&gt;[&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]]&lt;/span&gt;) -&amp;gt; &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        row, col = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(grid), &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(grid[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        minHeap = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        visited = &lt;span class=&#34;built_in&#34;&gt;set&lt;/span&gt;()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        minHeap.append((grid[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;][&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;], &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; minHeap:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            t,i,j = heapq.heappop(minHeap)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;comment&#34;&gt;# print(t,i,j)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (i,j) &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; visited: &lt;span class=&#34;keyword&#34;&gt;continue&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            visited.add((i,j))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (i,j) == (row-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, col-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;): &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; t&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; dx, dy &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; ((-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;), (&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;), (&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;), (&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                r, c = i+dx, j+dy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&amp;lt;=r&amp;lt;row &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&amp;lt;=c&amp;lt;col &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; (r,c) &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; visited:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    heapq.heappush(minHeap, (&lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(t,grid[r][c]), r, c))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; t&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
     </channel>
