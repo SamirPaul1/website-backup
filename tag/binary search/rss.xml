@@ -8,7 +8,7 @@
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
         <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
         <category>LeetCode</category>
-        <category>geeksforgeeks</category>
+        <category>GeeksforGeeks</category>
         <category>blog</category>
         <category>coding</category>
         <category>computer-science</category>
@@ -27,23 +27,23 @@
         <category>DSAlgo</category>
         <category>dsa-in-python</category>
         <category>data-structures-and-algorithms</category>
-        <category>dp</category>
-        <category>Dynamic Programming</category>
-        <category>Patterns</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
         <category>music-player</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
+        <category>dp</category>
         <category>programmable-search</category>
         <category>Graph</category>
         <category>distributed-systems</category>
-        <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>two pointers problems</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -77,10 +77,10 @@
         <category>online-file-compressor</category>
         <category>txt-compressor</category>
         <category>algorithm</category>
-        <category>databases</category>
         <category>short-url</category>
         <category>url-shortner</category>
         <category>networking</category>
+        <category>databases</category>
         <item>
             <guid isPermalink="true">https://samirpaul.in/posts/binary-search-template/</guid>
             <title>Binary Search Template</title>
