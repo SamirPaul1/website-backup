@@ -149,7 +149,7 @@ deploy:
   type: git
   repo: https://github.com/SamirPaul1/website
   branch: [samir.pages.dev]
-  # token: ''
+  # token: '' 
   # message: [message]
   # name: [SamirPaul1]
   # email: []
