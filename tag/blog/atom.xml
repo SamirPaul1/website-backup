@@ -4,7 +4,7 @@
     <title>Samir Paul • Posts by &#34;blog&#34; tag</title>
     <link href="https://samirpaul.in" />
     <updated>2023-08-05T20:52:53.913Z</updated>
-    <category term="leetcode" />
+    <category term="LeetCode" />
     <category term="geeksforgeeks" />
     <category term="blog" />
     <category term="coding" />
@@ -36,11 +36,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -2880,7 +2880,7 @@
     </entry>
     <entry>
         <id>https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</id>
-        <title>Python Cheat Sheet for Leetcode</title>
+        <title>Python Cheat Sheet for LeetCode</title>
         <link rel="alternate" href="https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/"/>
         <content type="html">&lt;h1 id=&#34;Basics&#34;&gt;&lt;a href=&#34;#Basics&#34; class=&#34;headerlink&#34; title=&#34;Basics&#34;&gt;&lt;/a&gt;Basics&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Data Types&lt;/p&gt;
@@ -3031,7 +3031,7 @@
 &lt;h1 id=&#34;Resources&#34;&gt;&lt;a href=&#34;#Resources&#34; class=&#34;headerlink&#34; title=&#34;Resources&#34;&gt;&lt;/a&gt;Resources&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/modulo-operation-with-negative-numbers-in-python-38cb7256bb32&#34;&gt;The Modulo Operation (%) With Negative Numbers in Python&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;Cheat-Sheet-PDF&#34;&gt;&lt;a href=&#34;#Cheat-Sheet-PDF&#34; class=&#34;headerlink&#34; title=&#34;Cheat Sheet PDF&#34;&gt;&lt;/a&gt;Cheat Sheet PDF&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1EojiCPYkyLi0f5DYW4UF3Lwp-Pwihr7q/view?usp=sharing&#34;&gt;&lt;strong&gt;Click Here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="leetcode" />
+        <category term="LeetCode" />
         <category term="blog" />
         <category term="coding" />
         <category term="computer-science" />
@@ -3062,7 +3062,7 @@
 &lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/candy/&#34;&gt;https://leetcode.com/problems/candy/&lt;/a&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;class Solution &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;public:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	int candy(vector&amp;lt;int&amp;gt;&amp;amp; ratings) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int n = ratings.size();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vector&amp;lt;int&amp;gt;left(n, 1); &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = 1; i &amp;lt; n; i++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (ratings[i] &amp;gt; ratings[i-1])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				left[i] = left[i-1]+1;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		int sum = left[n-1];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		for (int i = n-2; i &amp;gt;= 0; i--) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			if (ratings[i] &amp;gt; ratings[i+1])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				left[i] = max(left[i], left[i+1]+1);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			sum += left[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		return sum;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
-        <category term="leetcode" />
+        <category term="LeetCode" />
         <category term="blog" />
         <category term="coding" />
         <category term="computer-science" />
@@ -3273,7 +3273,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="leetcode" />
+        <category term="LeetCode" />
         <category term="blog" />
         <category term="coding" />
         <category term="computer-science" />
@@ -5337,6 +5337,23 @@
         <updated>2023-08-05T20:52:53.809Z</updated>
     </entry>
     <entry>
+        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
+        <title>Python Content Management Systems</title>
+        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
+        <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
+&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
+&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <updated>2023-08-05T20:52:53.803Z</updated>
+    </entry>
+    <entry>
         <id>https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</id>
         <title>Python libraries for administrative interfaces</title>
         <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/"/>
@@ -5352,23 +5369,6 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;These are just a few examples of the many libraries available for creating administrative interfaces in Python. The best library for your needs will depend on the requirements of your specific project, as well as your personal preferences and experience.&lt;/p&gt;
-</content>
-        <category term="blog" />
-        <category term="coding" />
-        <category term="computer-science" />
-        <updated>2023-08-05T20:52:53.803Z</updated>
-    </entry>
-    <entry>
-        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
-        <title>Python Content Management Systems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
-        <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
-&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
-&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
 </content>
         <category term="blog" />
         <category term="coding" />

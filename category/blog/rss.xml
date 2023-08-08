@@ -7,7 +7,7 @@
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
         <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
-        <category>leetcode</category>
+        <category>LeetCode</category>
         <category>geeksforgeeks</category>
         <category>blog</category>
         <category>coding</category>
@@ -39,11 +39,11 @@
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -103,9 +103,9 @@
         </item>
         <item>
             <guid isPermalink="true">https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</guid>
-            <title>Python Cheat Sheet for Leetcode</title>
+            <title>Python Cheat Sheet for LeetCode</title>
             <link>https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</link>
-            <category>leetcode</category>
+            <category>LeetCode</category>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -1093,6 +1093,23 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://samirpaul.in/posts/python-content-management-systems/</guid>
+            <title>Python Content Management Systems</title>
+            <link>https://samirpaul.in/posts/python-content-management-systems/</link>
+            <category>blog</category>
+            <category>coding</category>
+            <category>computer-science</category>
+            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
+            <description><![CDATA[ &lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
+&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
+&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</guid>
             <title>Python libraries for administrative interfaces</title>
             <link>https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</link>
@@ -1112,23 +1129,6 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;These are just a few examples of the many libraries available for creating administrative interfaces in Python. The best library for your needs will depend on the requirements of your specific project, as well as your personal preferences and experience.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-content-management-systems/</guid>
-            <title>Python Content Management Systems</title>
-            <link>https://samirpaul.in/posts/python-content-management-systems/</link>
-            <category>blog</category>
-            <category>coding</category>
-            <category>computer-science</category>
-            <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
-            <description><![CDATA[ &lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
-&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
-&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
  ]]></description>
         </item>
         <item>

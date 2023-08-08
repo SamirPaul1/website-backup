@@ -7,7 +7,7 @@
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
         <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
-        <category>leetcode</category>
+        <category>LeetCode</category>
         <category>geeksforgeeks</category>
         <category>blog</category>
         <category>coding</category>
@@ -39,11 +39,11 @@
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -85,7 +85,7 @@
             <guid isPermalink="true">https://samirpaul.in/posts/leetcode-greedy-for-beginners/</guid>
             <title>LeetCode Greedy for Beginners</title>
             <link>https://samirpaul.in/posts/leetcode-greedy-for-beginners/</link>
-            <category>leetcode</category>
+            <category>LeetCode</category>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
