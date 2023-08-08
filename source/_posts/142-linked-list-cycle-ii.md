@@ -1,7 +1,7 @@
 ---
 title: 142 linked list cycle ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 142-linked-list-cycle-ii solution
 description: 142 linked list cycle ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

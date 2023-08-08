@@ -1,7 +1,7 @@
 ---
 title: 540 single element in a sorted array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 540-single-element-in-a-sorted-array solution
 description: 540 single element in a sorted array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

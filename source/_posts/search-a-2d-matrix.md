@@ -1,7 +1,7 @@
 ---
 title: search a 2d matrix
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, search-a-2d-matrix solution
 description: search a 2d matrix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

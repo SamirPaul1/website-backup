@@ -1,7 +1,7 @@
 ---
 title: number of islands
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-islands solution
 description: number of islands LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

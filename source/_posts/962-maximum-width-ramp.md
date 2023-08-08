@@ -1,7 +1,7 @@
 ---
 title: 962 maximum width ramp
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 962-maximum-width-ramp solution
 description: 962 maximum width ramp LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

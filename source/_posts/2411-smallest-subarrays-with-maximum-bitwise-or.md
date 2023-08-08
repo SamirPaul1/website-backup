@@ -1,7 +1,7 @@
 ---
 title: 2411 smallest subarrays with maximum bitwise or
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2411-smallest-subarrays-with-maximum-bitwise-or solution
 description: 2411 smallest subarrays with maximum bitwise or LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

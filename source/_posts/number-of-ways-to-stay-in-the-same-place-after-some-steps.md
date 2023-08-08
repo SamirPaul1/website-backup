@@ -1,7 +1,7 @@
 ---
 title: number of ways to stay in the same place after some steps
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-ways-to-stay-in-the-same-place-after-some-steps solution
 description: number of ways to stay in the same place after some steps LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

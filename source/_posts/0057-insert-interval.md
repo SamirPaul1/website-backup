@@ -1,7 +1,7 @@
 ---
 title: 0057 insert interval
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0057-insert-interval solution
 description: 0057 insert interval LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

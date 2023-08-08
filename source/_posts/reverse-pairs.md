@@ -1,7 +1,7 @@
 ---
 title: reverse pairs
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reverse-pairs solution
 description: reverse pairs LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 228 summary ranges
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 228-summary-ranges solution
 description: 228 summary ranges LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

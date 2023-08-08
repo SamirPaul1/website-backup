@@ -1,7 +1,7 @@
 ---
 title: construct k palindrome strings
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, construct-k-palindrome-strings solution
 description: construct k palindrome strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 1092 shortest common supersequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1092-shortest-common-supersequence solution
 description: 1092 shortest common supersequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

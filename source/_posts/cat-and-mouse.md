@@ -1,7 +1,7 @@
 ---
 title: cat and mouse
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, cat-and-mouse solution
 description: cat and mouse LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

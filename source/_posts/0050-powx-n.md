@@ -1,7 +1,7 @@
 ---
 title: 0050 powx n
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0050-powx-n solution
 description: 0050 powx n LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: best time to buy and sell stock iv
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, best-time-to-buy-and-sell-stock-iv solution
 description: best time to buy and sell stock iv LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 147 insertion sort list
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 147-insertion-sort-list solution
 description: 147 insertion sort list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

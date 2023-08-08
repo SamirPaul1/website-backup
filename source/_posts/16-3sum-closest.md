@@ -1,7 +1,7 @@
 ---
 title: 16 3sum closest
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 16-3sum-closest solution
 description: 16 3sum closest LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

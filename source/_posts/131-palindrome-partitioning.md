@@ -1,7 +1,7 @@
 ---
 title: 131 palindrome partitioning
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 131-palindrome-partitioning solution
 description: 131 palindrome partitioning LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

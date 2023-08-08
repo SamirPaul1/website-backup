@@ -1,7 +1,7 @@
 ---
 title: 646 maximum length of pair chain
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 646-maximum-length-of-pair-chain solution
 description: 646 maximum length of pair chain LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

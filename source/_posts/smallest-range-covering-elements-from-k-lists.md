@@ -1,7 +1,7 @@
 ---
 title: smallest range covering elements from k lists
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, smallest-range-covering-elements-from-k-lists solution
 description: smallest range covering elements from k lists LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

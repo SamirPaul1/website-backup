@@ -1,7 +1,7 @@
 ---
 title: xor queries of a subarray
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, xor-queries-of-a-subarray solution
 description: xor queries of a subarray LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 435 non overlapping intervals
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 435-non-overlapping-intervals solution
 description: 435 non overlapping intervals LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 733 flood fill
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 733-flood-fill solution
 description: 733 flood fill LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

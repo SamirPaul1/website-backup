@@ -1,7 +1,7 @@
 ---
 title: 1446 consecutive characters
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1446-consecutive-characters solution
 description: 1446 consecutive characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

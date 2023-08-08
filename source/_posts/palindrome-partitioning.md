@@ -1,7 +1,7 @@
 ---
 title: palindrome partitioning
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, palindrome-partitioning solution
 description: palindrome partitioning LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

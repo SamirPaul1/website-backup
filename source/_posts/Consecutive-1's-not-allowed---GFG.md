@@ -1,7 +1,7 @@
 ---
 title: Consecutive 1's not allowed   GFG
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Consecutive 1's not allowed - GFG solution
 description: Consecutive 1's not allowed   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 0787 cheapest flights within k stops
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0787-cheapest-flights-within-k-stops solution
 description: 0787 cheapest flights within k stops LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

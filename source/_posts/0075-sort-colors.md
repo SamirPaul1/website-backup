@@ -1,7 +1,7 @@
 ---
 title: 0075 sort colors
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0075-sort-colors solution
 description: 0075 sort colors LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

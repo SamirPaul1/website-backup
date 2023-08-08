@@ -1,7 +1,7 @@
 ---
 title: binary tree inorder traversal
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, binary-tree-inorder-traversal solution
 description: binary tree inorder traversal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

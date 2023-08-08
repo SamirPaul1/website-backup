@@ -1,7 +1,7 @@
 ---
 title: split linked list in parts
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, split-linked-list-in-parts solution
 description: split linked list in parts LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

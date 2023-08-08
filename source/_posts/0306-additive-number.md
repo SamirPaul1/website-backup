@@ -1,7 +1,7 @@
 ---
 title: 0306 additive number
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0306-additive-number solution
 description: 0306 additive number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

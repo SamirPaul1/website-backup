@@ -1,7 +1,7 @@
 ---
 title: 344 reverse string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 344-reverse-string solution
 description: 344 reverse string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

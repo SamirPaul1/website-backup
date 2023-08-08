@@ -1,7 +1,7 @@
 ---
 title: 350 intersection of two arrays ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 350-intersection-of-two-arrays-ii solution
 description: 350 intersection of two arrays ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

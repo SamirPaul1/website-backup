@@ -1,7 +1,7 @@
 ---
 title: 1527 patients with a condition
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1527-patients-with-a-condition solution
 description: 1527 patients with a condition LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

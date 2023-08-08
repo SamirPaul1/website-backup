@@ -1,7 +1,7 @@
 ---
 title: reverse linked list ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reverse-linked-list-ii solution
 description: reverse linked list ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

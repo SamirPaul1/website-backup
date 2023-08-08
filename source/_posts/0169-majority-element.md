@@ -1,7 +1,7 @@
 ---
 title: 0169 majority element
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0169-majority-element solution
 description: 0169 majority element LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

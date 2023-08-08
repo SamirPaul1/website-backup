@@ -1,7 +1,7 @@
 ---
 title: 0189 rotate array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0189-rotate-array solution
 description: 0189 rotate array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

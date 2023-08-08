@@ -1,7 +1,7 @@
 ---
 title: 516 longest palindromic subsequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 516-longest-palindromic-subsequence solution
 description: 516 longest palindromic subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: daily temperatures
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, daily-temperatures solution
 description: daily temperatures LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

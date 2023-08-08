@@ -1,7 +1,7 @@
 ---
 title: group the people given the group size they belong to
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, group-the-people-given-the-group-size-they-belong-to solution
 description: group the people given the group size they belong to LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

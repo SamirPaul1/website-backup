@@ -1,7 +1,7 @@
 ---
 title: 1050 actors and directors who cooperated at least three times
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1050-actors-and-directors-who-cooperated-at-least-three-times solution
 description: 1050 actors and directors who cooperated at least three times LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

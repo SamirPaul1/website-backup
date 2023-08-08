@@ -1,7 +1,7 @@
 ---
 title: 430 flatten a multilevel doubly linked list
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 430-flatten-a-multilevel-doubly-linked-list solution
 description: 430 flatten a multilevel doubly linked list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

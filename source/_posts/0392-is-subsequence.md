@@ -1,7 +1,7 @@
 ---
 title: 0392 is subsequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0392-is-subsequence solution
 description: 0392 is subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

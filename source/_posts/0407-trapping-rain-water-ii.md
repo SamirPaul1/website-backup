@@ -1,7 +1,7 @@
 ---
 title: 0407 trapping rain water ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0407-trapping-rain-water-ii solution
 description: 0407 trapping rain water ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

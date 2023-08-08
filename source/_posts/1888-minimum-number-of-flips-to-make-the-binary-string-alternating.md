@@ -1,7 +1,7 @@
 ---
 title: 1888 minimum number of flips to make the binary string alternating
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1888-minimum-number-of-flips-to-make-the-binary-string-alternating solution
 description: 1888 minimum number of flips to make the binary string alternating LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

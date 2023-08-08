@@ -1,7 +1,7 @@
 ---
 title: 1849 splitting a string into descending consecutive values
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1849-splitting-a-string-into-descending-consecutive-values solution
 description: 1849 splitting a string into descending consecutive values LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

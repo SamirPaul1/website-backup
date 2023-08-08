@@ -1,7 +1,7 @@
 ---
 title: queries on a permutation with key
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, queries-on-a-permutation-with-key solution
 description: queries on a permutation with key LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

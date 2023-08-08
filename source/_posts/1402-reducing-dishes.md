@@ -1,7 +1,7 @@
 ---
 title: 1402 reducing dishes
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1402-reducing-dishes solution
 description: 1402 reducing dishes LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

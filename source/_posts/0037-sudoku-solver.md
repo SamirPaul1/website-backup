@@ -1,7 +1,7 @@
 ---
 title: 0037 sudoku solver
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0037-sudoku-solver solution
 description: 0037 sudoku solver LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

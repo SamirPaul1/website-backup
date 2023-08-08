@@ -1,7 +1,7 @@
 ---
 title: 2241 design an atm machine
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2241-design-an-atm-machine solution
 description: 2241 design an atm machine LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

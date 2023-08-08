@@ -1,7 +1,7 @@
 ---
 title: 0797 all paths from source to target
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0797-all-paths-from-source-to-target solution
 description: 0797 all paths from source to target LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: longest palindromic subsequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-palindromic-subsequence solution
 description: longest palindromic subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

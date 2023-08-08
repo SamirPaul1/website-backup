@@ -1,7 +1,7 @@
 ---
 title: 224 basic calculator
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 224-basic-calculator solution
 description: 224 basic calculator LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

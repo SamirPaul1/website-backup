@@ -1,7 +1,7 @@
 ---
 title: 2 add two numbers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2-add-two-numbers solution
 description: 2 add two numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

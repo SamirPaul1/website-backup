@@ -1,7 +1,7 @@
 ---
 title: maximum sum circular subarray
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, maximum-sum-circular-subarray solution
 description: maximum sum circular subarray LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

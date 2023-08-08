@@ -1,7 +1,7 @@
 ---
 title: 1219 path with maximum gold
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1219-path-with-maximum-gold solution
 description: 1219 path with maximum gold LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

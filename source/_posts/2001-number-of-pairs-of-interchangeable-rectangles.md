@@ -1,7 +1,7 @@
 ---
 title: 2001 number of pairs of interchangeable rectangles
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2001-number-of-pairs-of-interchangeable-rectangles solution
 description: 2001 number of pairs of interchangeable rectangles LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

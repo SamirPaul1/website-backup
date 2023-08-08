@@ -1,7 +1,7 @@
 ---
 title: 2488 count subarrays with median k
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2488-count-subarrays-with-median-k solution
 description: 2488 count subarrays with median k LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

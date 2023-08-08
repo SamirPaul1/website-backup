@@ -1,7 +1,7 @@
 ---
 title: 1004 max consecutive ones iii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1004-max-consecutive-ones-iii solution
 description: 1004 max consecutive ones iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

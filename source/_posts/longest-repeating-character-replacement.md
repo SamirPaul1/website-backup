@@ -1,7 +1,7 @@
 ---
 title: longest repeating character replacement
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-repeating-character-replacement solution
 description: longest repeating character replacement LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

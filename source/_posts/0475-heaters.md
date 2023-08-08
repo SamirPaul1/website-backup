@@ -1,7 +1,7 @@
 ---
 title: 0475 heaters
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0475-heaters solution
 description: 0475 heaters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 1930 unique length 3 palindromic subsequences
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1930-unique-length-3-palindromic-subsequences solution
 description: 1930 unique length 3 palindromic subsequences LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

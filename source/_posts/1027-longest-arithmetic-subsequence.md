@@ -1,7 +1,7 @@
 ---
 title: 1027 longest arithmetic subsequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1027-longest-arithmetic-subsequence solution
 description: 1027 longest arithmetic subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

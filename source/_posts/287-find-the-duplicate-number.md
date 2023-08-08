@@ -1,7 +1,7 @@
 ---
 title: 287 find the duplicate number
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 287-find-the-duplicate-number solution
 description: 287 find the duplicate number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

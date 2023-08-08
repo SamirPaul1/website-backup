@@ -1,7 +1,7 @@
 ---
 title: 1968 array with elements not equal to average of neighbors
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1968-array-with-elements-not-equal-to-average-of-neighbors solution
 description: 1968 array with elements not equal to average of neighbors LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

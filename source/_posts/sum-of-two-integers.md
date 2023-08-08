@@ -1,7 +1,7 @@
 ---
 title: sum of two integers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sum-of-two-integers solution
 description: sum of two integers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

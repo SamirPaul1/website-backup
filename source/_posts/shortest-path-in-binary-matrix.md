@@ -1,7 +1,7 @@
 ---
 title: shortest path in binary matrix
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, shortest-path-in-binary-matrix solution
 description: shortest path in binary matrix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

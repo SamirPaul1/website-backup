@@ -1,7 +1,7 @@
 ---
 title: 0605 can place flowers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0605-can-place-flowers solution
 description: 0605 can place flowers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: swap nodes in pairs
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, swap-nodes-in-pairs solution
 description: swap nodes in pairs LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

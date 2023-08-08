@@ -1,7 +1,7 @@
 ---
 title: 993 cousins in binary tree
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 993-cousins-in-binary-tree solution
 description: 993 cousins in binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

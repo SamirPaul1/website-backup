@@ -1,7 +1,7 @@
 ---
 title: 378 kth smallest element in a sorted matrix
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 378-kth-smallest-element-in-a-sorted-matrix solution
 description: 378 kth smallest element in a sorted matrix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

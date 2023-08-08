@@ -1,7 +1,7 @@
 ---
 title: 1984 minimum difference between highest and lowest of k scores
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1984-minimum-difference-between-highest-and-lowest-of-k-scores solution
 description: 1984 minimum difference between highest and lowest of k scores LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 187 repeated dna sequences
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 187-repeated-dna-sequences solution
 description: 187 repeated dna sequences LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

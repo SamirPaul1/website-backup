@@ -1,7 +1,7 @@
 ---
 title: 0698 partition to k equal sum subsets
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0698-partition-to-k-equal-sum-subsets solution
 description: 0698 partition to k equal sum subsets LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

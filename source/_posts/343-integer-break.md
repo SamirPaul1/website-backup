@@ -1,7 +1,7 @@
 ---
 title: 343 integer break
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 343-integer-break solution
 description: 343 integer break LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 0076 minimum window substring
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0076-minimum-window-substring solution
 description: 0076 minimum window substring LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

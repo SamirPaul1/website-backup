@@ -1,7 +1,7 @@
 ---
 title: 1319 number of operations to make network connected
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1319-number-of-operations-to-make-network-connected solution
 description: 1319 number of operations to make network connected LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

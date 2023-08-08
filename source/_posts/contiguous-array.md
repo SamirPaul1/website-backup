@@ -1,7 +1,7 @@
 ---
 title: contiguous array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, contiguous-array solution
 description: contiguous array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

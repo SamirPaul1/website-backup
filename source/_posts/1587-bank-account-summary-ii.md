@@ -1,7 +1,7 @@
 ---
 title: 1587 bank account summary ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1587-bank-account-summary-ii solution
 description: 1587 bank account summary ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

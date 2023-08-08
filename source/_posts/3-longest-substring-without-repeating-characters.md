@@ -1,7 +1,7 @@
 ---
 title: 3 longest substring without repeating characters
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 3-longest-substring-without-repeating-characters solution
 description: 3 longest substring without repeating characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

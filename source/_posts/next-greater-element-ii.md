@@ -1,7 +1,7 @@
 ---
 title: next greater element ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, next-greater-element-ii solution
 description: next greater element ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

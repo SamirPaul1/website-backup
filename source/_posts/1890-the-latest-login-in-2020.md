@@ -1,7 +1,7 @@
 ---
 title: 1890 the latest login in 2020
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1890-the-latest-login-in-2020 solution
 description: 1890 the latest login in 2020 LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 0374 guess number higher or lower
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0374-guess-number-higher-or-lower solution
 description: 0374 guess number higher or lower LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

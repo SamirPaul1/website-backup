@@ -1,7 +1,7 @@
 ---
 title: 0290 word pattern
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0290-word-pattern solution
 description: 0290 word pattern LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

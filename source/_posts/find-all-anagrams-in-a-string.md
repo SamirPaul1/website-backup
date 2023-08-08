@@ -1,7 +1,7 @@
 ---
 title: find all anagrams in a string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-all-anagrams-in-a-string solution
 description: find all anagrams in a string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

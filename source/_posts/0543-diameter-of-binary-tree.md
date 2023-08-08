@@ -1,7 +1,7 @@
 ---
 title: 0543 diameter of binary tree
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0543-diameter-of-binary-tree solution
 description: 0543 diameter of binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

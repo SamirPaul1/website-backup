@@ -1,7 +1,7 @@
 ---
 title: 202 happy number
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 202-happy-number solution
 description: 202 happy number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

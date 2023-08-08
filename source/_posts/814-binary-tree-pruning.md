@@ -1,7 +1,7 @@
 ---
 title: 814 binary tree pruning
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 814-binary-tree-pruning solution
 description: 814 binary tree pruning LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

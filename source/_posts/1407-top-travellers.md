@@ -1,7 +1,7 @@
 ---
 title: 1407 top travellers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1407-top-travellers solution
 description: 1407 top travellers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

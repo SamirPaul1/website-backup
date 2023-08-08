@@ -1,7 +1,7 @@
 ---
 title: reach a number
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reach-a-number solution
 description: reach a number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

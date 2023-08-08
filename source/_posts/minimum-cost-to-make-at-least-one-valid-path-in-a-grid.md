@@ -1,7 +1,7 @@
 ---
 title: minimum cost to make at least one valid path in a grid
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-cost-to-make-at-least-one-valid-path-in-a-grid solution
 description: minimum cost to make at least one valid path in a grid LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

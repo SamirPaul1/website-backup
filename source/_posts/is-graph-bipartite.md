@@ -1,7 +1,7 @@
 ---
 title: is graph bipartite
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, is-graph-bipartite solution
 description: is graph bipartite LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

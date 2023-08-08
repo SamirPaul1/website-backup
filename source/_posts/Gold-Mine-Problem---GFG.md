@@ -1,7 +1,7 @@
 ---
 title: Gold Mine Problem   GFG
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Gold Mine Problem - GFG solution
 description: Gold Mine Problem   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

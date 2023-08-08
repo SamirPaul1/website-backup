@@ -1,7 +1,7 @@
 ---
 title: 1693 daily leads and partners
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1693-daily-leads-and-partners solution
 description: 1693 daily leads and partners LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

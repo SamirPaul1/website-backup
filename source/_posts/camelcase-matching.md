@@ -1,7 +1,7 @@
 ---
 title: camelcase matching
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, camelcase-matching solution
 description: camelcase matching LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

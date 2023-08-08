@@ -1,7 +1,7 @@
 ---
 title: pascals triangle ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, pascals-triangle-ii solution
 description: pascals triangle ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

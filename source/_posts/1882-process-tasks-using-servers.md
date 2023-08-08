@@ -1,7 +1,7 @@
 ---
 title: 1882 process tasks using servers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1882-process-tasks-using-servers solution
 description: 1882 process tasks using servers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

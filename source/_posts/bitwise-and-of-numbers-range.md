@@ -1,7 +1,7 @@
 ---
 title: bitwise and of numbers range
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, bitwise-and-of-numbers-range solution
 description: bitwise and of numbers range LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

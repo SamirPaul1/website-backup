@@ -1,7 +1,7 @@
 ---
 title: find k pairs with smallest sums
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-k-pairs-with-smallest-sums solution
 description: find k pairs with smallest sums LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

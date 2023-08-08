@@ -1,7 +1,7 @@
 ---
 title: two sum iv input is a bst
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, two-sum-iv-input-is-a-bst solution
 description: two sum iv input is a bst LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

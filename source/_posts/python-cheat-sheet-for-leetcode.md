@@ -1,9 +1,9 @@
 ---
-title: "Python Cheat Sheet for Leetcode"
+title: "Python Cheat Sheet for LeetCode"
 description: "Python Cheat Sheet for Leetcode"
 cover: /assets/img/blog-featured-image.webp
 categories: [Blog]
-tags: [blog, coding, computer-science, Python Cheat Sheet, leetcode]
+tags: [blog, coding, computer-science, Python Cheat Sheet, LeetCode]
 published: true
 sitemap: true
 pin: false

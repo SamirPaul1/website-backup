@@ -1,7 +1,7 @@
 ---
 title: course schedule iii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, course-schedule-iii solution
 description: course schedule iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

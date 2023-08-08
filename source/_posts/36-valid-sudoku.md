@@ -1,7 +1,7 @@
 ---
 title: 36 valid sudoku
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 36-valid-sudoku solution
 description: 36 valid sudoku LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

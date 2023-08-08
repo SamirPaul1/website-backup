@@ -1,7 +1,7 @@
 ---
 title: 55 jump game
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 55-jump-game solution
 description: 55 jump game LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 0704 binary search
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0704-binary-search solution
 description: 0704 binary search LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

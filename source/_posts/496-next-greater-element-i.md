@@ -1,7 +1,7 @@
 ---
 title: 496 next greater element i
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 496-next-greater-element-i solution
 description: 496 next greater element i LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

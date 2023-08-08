@@ -1,7 +1,7 @@
 ---
 title: k closest points to origin
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, k-closest-points-to-origin solution
 description: k closest points to origin LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

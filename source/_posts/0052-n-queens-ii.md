@@ -1,7 +1,7 @@
 ---
 title: 0052 n queens ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0052-n-queens-ii solution
 description: 0052 n queens ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

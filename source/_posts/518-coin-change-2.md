@@ -1,7 +1,7 @@
 ---
 title: 518 coin change 2
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 518-coin-change-2 solution
 description: 518 coin change 2 LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

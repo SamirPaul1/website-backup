@@ -1,7 +1,7 @@
 ---
 title: 901 online stock span
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 901-online-stock-span solution
 description: 901 online stock span LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

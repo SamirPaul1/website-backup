@@ -6,8 +6,8 @@ image:
   width: 661
   height: 132
   alt: "LeetCode Greedy for Beginners"
-categories: [leetcode]
-tags: [blog, coding, computer-science, leetcode, Greedy]
+categories: [LeetCode]
+tags: [blog, coding, computer-science, LeetCode, Greedy]
 published: true
 sitemap: true
 pin: false

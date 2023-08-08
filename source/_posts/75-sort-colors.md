@@ -1,7 +1,7 @@
 ---
 title: 75 sort colors
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 75-sort-colors solution
 description: 75 sort colors LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

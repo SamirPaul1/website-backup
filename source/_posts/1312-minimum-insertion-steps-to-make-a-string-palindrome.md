@@ -1,7 +1,7 @@
 ---
 title: 1312 minimum insertion steps to make a string palindrome
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1312-minimum-insertion-steps-to-make-a-string-palindrome solution
 description: 1312 minimum insertion steps to make a string palindrome LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

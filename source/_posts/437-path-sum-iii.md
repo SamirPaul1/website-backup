@@ -1,7 +1,7 @@
 ---
 title: 437 path sum iii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 437-path-sum-iii solution
 description: 437 path sum iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

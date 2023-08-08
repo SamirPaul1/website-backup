@@ -1,7 +1,7 @@
 ---
 title: 0790 domino and tromino tiling
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0790-domino-and-tromino-tiling solution
 description: 0790 domino and tromino tiling LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

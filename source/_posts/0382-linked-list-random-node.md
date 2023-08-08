@@ -1,7 +1,7 @@
 ---
 title: 0382 linked list random node
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0382-linked-list-random-node solution
 description: 0382 linked list random node LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

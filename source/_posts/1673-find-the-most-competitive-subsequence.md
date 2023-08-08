@@ -1,7 +1,7 @@
 ---
 title: 1673 find the most competitive subsequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1673-find-the-most-competitive-subsequence solution
 description: 1673 find the most competitive subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

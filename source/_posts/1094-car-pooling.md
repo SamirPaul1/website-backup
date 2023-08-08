@@ -1,7 +1,7 @@
 ---
 title: 1094 car pooling
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1094-car-pooling solution
 description: 1094 car pooling LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

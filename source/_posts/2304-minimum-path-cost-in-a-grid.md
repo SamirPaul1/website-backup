@@ -1,7 +1,7 @@
 ---
 title: 2304 minimum path cost in a grid
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2304-minimum-path-cost-in-a-grid solution
 description: 2304 minimum path cost in a grid LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 386 lexicographical numbers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 386-lexicographical-numbers solution
 description: 386 lexicographical numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

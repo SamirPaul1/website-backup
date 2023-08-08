@@ -1,7 +1,7 @@
 ---
 title: 1189 maximum number of balloons
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1189-maximum-number-of-balloons solution
 description: 1189 maximum number of balloons LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

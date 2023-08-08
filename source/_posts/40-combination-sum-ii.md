@@ -1,7 +1,7 @@
 ---
 title: 40 combination sum ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 40-combination-sum-ii solution
 description: 40 combination sum ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

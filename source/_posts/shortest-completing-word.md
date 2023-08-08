@@ -1,7 +1,7 @@
 ---
 title: shortest completing word
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, shortest-completing-word solution
 description: shortest completing word LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

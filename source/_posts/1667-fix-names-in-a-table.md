@@ -1,7 +1,7 @@
 ---
 title: 1667 fix names in a table
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1667-fix-names-in-a-table solution
 description: 1667 fix names in a table LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

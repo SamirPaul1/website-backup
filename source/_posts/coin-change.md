@@ -1,7 +1,7 @@
 ---
 title: coin change
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, coin-change solution
 description: coin change LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

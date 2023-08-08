@@ -1,7 +1,7 @@
 ---
 title: minimum operations to reduce x to zero
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-operations-to-reduce-x-to-zero solution
 description: minimum operations to reduce x to zero LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

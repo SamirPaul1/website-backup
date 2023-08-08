@@ -1,7 +1,7 @@
 ---
 title: most stones removed with same row or column
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, most-stones-removed-with-same-row-or-column solution
 description: most stones removed with same row or column LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

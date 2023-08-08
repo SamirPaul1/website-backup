@@ -1,7 +1,7 @@
 ---
 title: find first and last position of element in sorted array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-first-and-last-position-of-element-in-sorted-array solution
 description: find first and last position of element in sorted array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

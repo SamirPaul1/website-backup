@@ -1,7 +1,7 @@
 ---
 title: beautiful arrangement ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, beautiful-arrangement-ii solution
 description: beautiful arrangement ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

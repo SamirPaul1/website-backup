@@ -1,7 +1,7 @@
 ---
 title: 448 find all numbers disappeared in an array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 448-find-all-numbers-disappeared-in-an-array solution
 description: 448 find all numbers disappeared in an array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

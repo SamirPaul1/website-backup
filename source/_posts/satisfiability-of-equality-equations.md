@@ -1,7 +1,7 @@
 ---
 title: satisfiability of equality equations
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, satisfiability-of-equality-equations solution
 description: satisfiability of equality equations LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

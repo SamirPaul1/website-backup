@@ -1,7 +1,7 @@
 ---
 title: 0424 longest repeating character replacement
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0424-longest-repeating-character-replacement solution
 description: 0424 longest repeating character replacement LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

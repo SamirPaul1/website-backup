@@ -1,7 +1,7 @@
 ---
 title: 2360 longest cycle in a graph
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2360-longest-cycle-in-a-graph solution
 description: 2360 longest cycle in a graph LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

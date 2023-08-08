@@ -1,7 +1,7 @@
 ---
 title: 1423 maximum points you can obtain from cards
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1423-maximum-points-you-can-obtain-from-cards solution
 description: 1423 maximum points you can obtain from cards LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: shortest path in a grid with obstacles elimination
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, shortest-path-in-a-grid-with-obstacles-elimination solution
 description: shortest path in a grid with obstacles elimination LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

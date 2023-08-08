@@ -1,7 +1,7 @@
 ---
 title: 0139 word break
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0139-word-break solution
 description: 0139 word break LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

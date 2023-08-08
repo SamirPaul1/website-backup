@@ -1,7 +1,7 @@
 ---
 title: equal sum arrays with minimum number of operations
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, equal-sum-arrays-with-minimum-number-of-operations solution
 description: equal sum arrays with minimum number of operations LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

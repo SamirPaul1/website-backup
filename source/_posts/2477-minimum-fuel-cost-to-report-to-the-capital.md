@@ -1,7 +1,7 @@
 ---
 title: 2477 minimum fuel cost to report to the capital
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2477-minimum-fuel-cost-to-report-to-the-capital solution
 description: 2477 minimum fuel cost to report to the capital LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

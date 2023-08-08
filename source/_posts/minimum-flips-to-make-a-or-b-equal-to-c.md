@@ -1,7 +1,7 @@
 ---
 title: minimum flips to make a or b equal to c
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, minimum-flips-to-make-a-or-b-equal-to-c solution
 description: minimum flips to make a or b equal to c LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

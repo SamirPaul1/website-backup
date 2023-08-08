@@ -1,7 +1,7 @@
 ---
 title: validate ip address
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, validate-ip-address solution
 description: validate ip address LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

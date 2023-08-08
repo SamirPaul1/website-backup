@@ -1,7 +1,7 @@
 ---
 title: 208 implement trie prefix tree
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 208-implement-trie-prefix-tree solution
 description: 208 implement trie prefix tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

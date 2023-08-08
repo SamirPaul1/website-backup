@@ -1,7 +1,7 @@
 ---
 title: 1963 minimum number of swaps to make the string balanced
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1963-minimum-number-of-swaps-to-make-the-string-balanced solution
 description: 1963 minimum number of swaps to make the string balanced LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

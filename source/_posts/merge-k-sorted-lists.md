@@ -1,7 +1,7 @@
 ---
 title: merge k sorted lists
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, merge-k-sorted-lists solution
 description: merge k sorted lists LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

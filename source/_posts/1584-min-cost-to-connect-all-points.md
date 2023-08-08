@@ -1,7 +1,7 @@
 ---
 title: 1584 min cost to connect all points
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1584-min-cost-to-connect-all-points solution
 description: 1584 min cost to connect all points LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

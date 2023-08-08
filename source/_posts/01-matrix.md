@@ -1,7 +1,7 @@
 ---
 title: 01 matrix
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 01-matrix solution
 description: 01 matrix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

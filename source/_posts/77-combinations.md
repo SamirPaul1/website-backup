@@ -1,7 +1,7 @@
 ---
 title: 77 combinations
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 77-combinations solution
 description: 77 combinations LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

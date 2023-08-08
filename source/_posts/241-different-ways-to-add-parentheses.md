@@ -1,7 +1,7 @@
 ---
 title: 241 different ways to add parentheses
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 241-different-ways-to-add-parentheses solution
 description: 241 different ways to add parentheses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

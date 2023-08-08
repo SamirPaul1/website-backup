@@ -32,7 +32,7 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
+archive_dir: posts
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: ':lang'
@@ -109,7 +109,7 @@ robotstxt:
   allow:
     - /
   sitemap: https://samirpaul.in/sitemap.xml
-all_minifier: true
+all_minifier: false 
 
 skip_render:
   - autocomplete/**

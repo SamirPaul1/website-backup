@@ -1,7 +1,7 @@
 ---
 title: 1480 running sum of 1d array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1480-running-sum-of-1d-array solution
 description: 1480 running sum of 1d array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

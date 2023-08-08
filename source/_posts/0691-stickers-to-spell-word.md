@@ -1,7 +1,7 @@
 ---
 title: 0691 stickers to spell word
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0691-stickers-to-spell-word solution
 description: 0691 stickers to spell word LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

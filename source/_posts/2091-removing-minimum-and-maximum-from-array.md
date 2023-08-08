@@ -1,7 +1,7 @@
 ---
 title: 2091 removing minimum and maximum from array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2091-removing-minimum-and-maximum-from-array solution
 description: 2091 removing minimum and maximum from array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

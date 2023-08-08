@@ -1,7 +1,7 @@
 ---
 title: 1605 find valid matrix given row and column sums
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1605-find-valid-matrix-given-row-and-column-sums solution
 description: 1605 find valid matrix given row and column sums LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

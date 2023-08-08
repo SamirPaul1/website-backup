@@ -1,7 +1,7 @@
 ---
 title: sum of square numbers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sum-of-square-numbers solution
 description: sum of square numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

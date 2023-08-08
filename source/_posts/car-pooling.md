@@ -1,7 +1,7 @@
 ---
 title: car pooling
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, car-pooling solution
 description: car pooling LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

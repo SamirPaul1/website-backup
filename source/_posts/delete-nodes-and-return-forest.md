@@ -1,7 +1,7 @@
 ---
 title: delete nodes and return forest
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, delete-nodes-and-return-forest solution
 description: delete nodes and return forest LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: longest common prefix
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-common-prefix solution
 description: longest common prefix LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

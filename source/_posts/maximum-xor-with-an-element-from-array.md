@@ -1,7 +1,7 @@
 ---
 title: maximum xor with an element from array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, maximum-xor-with-an-element-from-array solution
 description: maximum xor with an element from array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

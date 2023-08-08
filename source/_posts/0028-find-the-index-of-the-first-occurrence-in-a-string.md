@@ -1,7 +1,7 @@
 ---
 title: 0028 find the index of the first occurrence in a string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0028-find-the-index-of-the-first-occurrence-in-a-string solution
 description: 0028 find the index of the first occurrence in a string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

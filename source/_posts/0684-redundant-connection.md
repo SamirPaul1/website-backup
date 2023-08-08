@@ -1,7 +1,7 @@
 ---
 title: 0684 redundant connection
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0684-redundant-connection solution
 description: 0684 redundant connection LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 0714 best time to buy and sell stock with transaction fee
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0714-best-time-to-buy-and-sell-stock-with-transaction-fee solution
 description: 0714 best time to buy and sell stock with transaction fee LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

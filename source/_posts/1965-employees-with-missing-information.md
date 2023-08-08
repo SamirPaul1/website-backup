@@ -1,7 +1,7 @@
 ---
 title: 1965 employees with missing information
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1965-employees-with-missing-information solution
 description: 1965 employees with missing information LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

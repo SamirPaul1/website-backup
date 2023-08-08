@@ -1,7 +1,7 @@
 ---
 title: 1980 find unique binary string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1980-find-unique-binary-string solution
 description: 1980 find unique binary string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

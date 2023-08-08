@@ -1,7 +1,7 @@
 ---
 title: 10 regular expression matching
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 10-regular-expression-matching solution
 description: 10 regular expression matching LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

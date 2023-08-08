@@ -1,7 +1,7 @@
 ---
 title: island perimeter
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, island-perimeter solution
 description: island perimeter LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

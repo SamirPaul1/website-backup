@@ -1,7 +1,7 @@
 ---
 title: 73 set matrix zeroes
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 73-set-matrix-zeroes solution
 description: 73 set matrix zeroes LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

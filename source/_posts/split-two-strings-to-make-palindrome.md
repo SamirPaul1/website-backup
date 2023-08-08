@@ -1,7 +1,7 @@
 ---
 title: split two strings to make palindrome
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, split-two-strings-to-make-palindrome solution
 description: split two strings to make palindrome LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: word break ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, word-break-ii solution
 description: word break ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 199 binary tree right side view
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 199-binary-tree-right-side-view solution
 description: 199 binary tree right side view LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

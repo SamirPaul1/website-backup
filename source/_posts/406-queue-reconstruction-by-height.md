@@ -1,7 +1,7 @@
 ---
 title: 406 queue reconstruction by height
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 406-queue-reconstruction-by-height solution
 description: 406 queue reconstruction by height LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

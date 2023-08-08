@@ -1,7 +1,7 @@
 ---
 title: 1117 as far from land as possible
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1117-as-far-from-land-as-possible solution
 description: 1117 as far from land as possible LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

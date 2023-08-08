@@ -1,7 +1,7 @@
 ---
 title: 0554 brick wall
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0554-brick-wall solution
 description: 0554 brick wall LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: redundant connection
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, redundant-connection solution
 description: redundant connection LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

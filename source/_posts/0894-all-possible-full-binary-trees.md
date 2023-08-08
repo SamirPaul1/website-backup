@@ -1,7 +1,7 @@
 ---
 title: 0894 all possible full binary trees
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0894-all-possible-full-binary-trees solution
 description: 0894 all possible full binary trees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

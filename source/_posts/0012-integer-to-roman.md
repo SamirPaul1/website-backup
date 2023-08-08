@@ -1,7 +1,7 @@
 ---
 title: 0012 integer to roman
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0012-integer-to-roman solution
 description: 0012 integer to roman LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

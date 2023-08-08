@@ -1,7 +1,7 @@
 ---
 title: 1631 path with minimum effort
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1631-path-with-minimum-effort solution
 description: 1631 path with minimum effort LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

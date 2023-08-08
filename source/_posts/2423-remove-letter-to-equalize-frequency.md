@@ -1,7 +1,7 @@
 ---
 title: 2423 remove letter to equalize frequency
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2423-remove-letter-to-equalize-frequency solution
 description: 2423 remove letter to equalize frequency LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

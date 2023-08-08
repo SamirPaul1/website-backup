@@ -1,7 +1,7 @@
 ---
 title: 0190 reverse bits
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0190-reverse-bits solution
 description: 0190 reverse bits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

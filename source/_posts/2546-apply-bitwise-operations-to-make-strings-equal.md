@@ -1,7 +1,7 @@
 ---
 title: 2546 apply bitwise operations to make strings equal
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2546-apply-bitwise-operations-to-make-strings-equal solution
 description: 2546 apply bitwise operations to make strings equal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

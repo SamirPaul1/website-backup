@@ -1,7 +1,7 @@
 ---
 title: 0889 construct binary tree from preorder and postorder traversal
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0889-construct-binary-tree-from-preorder-and-postorder-traversal solution
 description: 0889 construct binary tree from preorder and postorder traversal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

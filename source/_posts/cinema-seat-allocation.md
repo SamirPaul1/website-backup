@@ -1,7 +1,7 @@
 ---
 title: cinema seat allocation
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, cinema-seat-allocation solution
 description: cinema seat allocation LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

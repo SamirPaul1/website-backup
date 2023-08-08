@@ -1,7 +1,7 @@
 ---
 title: 0312 burst balloons
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0312-burst-balloons solution
 description: 0312 burst balloons LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

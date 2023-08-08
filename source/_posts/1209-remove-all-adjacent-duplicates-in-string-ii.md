@@ -1,7 +1,7 @@
 ---
 title: 1209 remove all adjacent duplicates in string ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1209-remove-all-adjacent-duplicates-in-string-ii solution
 description: 1209 remove all adjacent duplicates in string ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

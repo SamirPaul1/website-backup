@@ -1,7 +1,7 @@
 ---
 title: jump game iii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, jump-game-iii solution
 description: jump game iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

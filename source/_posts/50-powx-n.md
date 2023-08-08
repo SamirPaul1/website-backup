@@ -1,7 +1,7 @@
 ---
 title: 50 powx n
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 50-powx-n solution
 description: 50 powx n LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

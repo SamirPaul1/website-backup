@@ -1,7 +1,7 @@
 ---
 title: 2301 match substring after replacement
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2301-match-substring-after-replacement solution
 description: 2301 match substring after replacement LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

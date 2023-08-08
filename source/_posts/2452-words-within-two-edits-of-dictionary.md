@@ -1,7 +1,7 @@
 ---
 title: 2452 words within two edits of dictionary
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2452-words-within-two-edits-of-dictionary solution
 description: 2452 words within two edits of dictionary LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

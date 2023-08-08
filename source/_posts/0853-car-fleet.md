@@ -1,7 +1,7 @@
 ---
 title: 0853 car fleet
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0853-car-fleet solution
 description: 0853 car fleet LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

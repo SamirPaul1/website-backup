@@ -1,7 +1,7 @@
 ---
 title: 0451 sort characters by frequency
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0451-sort-characters-by-frequency solution
 description: 0451 sort characters by frequency LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

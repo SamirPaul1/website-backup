@@ -1,7 +1,7 @@
 ---
 title: shortest common supersequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, shortest-common-supersequence solution
 description: shortest common supersequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

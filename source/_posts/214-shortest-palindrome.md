@@ -1,7 +1,7 @@
 ---
 title: 214 shortest palindrome
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 214-shortest-palindrome solution
 description: 214 shortest palindrome LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

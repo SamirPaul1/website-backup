@@ -1,7 +1,7 @@
 ---
 title: 160 intersection of two linked lists
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 160-intersection-of-two-linked-lists solution
 description: 160 intersection of two linked lists LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

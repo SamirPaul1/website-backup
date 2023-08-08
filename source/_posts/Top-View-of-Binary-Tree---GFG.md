@@ -1,7 +1,7 @@
 ---
 title: Top View of Binary Tree   GFG
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Top View of Binary Tree - GFG solution
 description: Top View of Binary Tree   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

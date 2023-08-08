@@ -1,7 +1,7 @@
 ---
 title: 1130 minimum cost tree from leaf values
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1130-minimum-cost-tree-from-leaf-values solution
 description: 1130 minimum cost tree from leaf values LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: count good meals
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, count-good-meals solution
 description: count good meals LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 70 climbing stairs
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 70-climbing-stairs solution
 description: 70 climbing stairs LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

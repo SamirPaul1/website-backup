@@ -1,7 +1,7 @@
 ---
 title: 162 find peak element
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 162-find-peak-element solution
 description: 162 find peak element LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 1328 break a palindrome
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1328-break-a-palindrome solution
 description: 1328 break a palindrome LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

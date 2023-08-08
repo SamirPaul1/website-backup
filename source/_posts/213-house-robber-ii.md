@@ -1,7 +1,7 @@
 ---
 title: 213 house robber ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 213-house-robber-ii solution
 description: 213 house robber ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

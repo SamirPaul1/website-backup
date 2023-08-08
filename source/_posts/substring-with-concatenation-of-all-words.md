@@ -1,7 +1,7 @@
 ---
 title: substring with concatenation of all words
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, substring-with-concatenation-of-all-words solution
 description: substring with concatenation of all words LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

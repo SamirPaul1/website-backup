@@ -1,7 +1,7 @@
 ---
 title: number of dice rolls with target sum
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-dice-rolls-with-target-sum solution
 description: number of dice rolls with target sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

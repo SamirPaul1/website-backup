@@ -1,7 +1,7 @@
 ---
 title: top k frequent elements
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, top-k-frequent-elements solution
 description: top k frequent elements LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

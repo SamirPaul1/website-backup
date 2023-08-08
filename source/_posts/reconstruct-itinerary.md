@@ -1,7 +1,7 @@
 ---
 title: reconstruct itinerary
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, reconstruct-itinerary solution
 description: reconstruct itinerary LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

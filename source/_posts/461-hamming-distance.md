@@ -1,7 +1,7 @@
 ---
 title: 461 hamming distance
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 461-hamming-distance solution
 description: 461 hamming distance LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

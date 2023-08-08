@@ -1,7 +1,7 @@
 ---
 title: largest rectangle in histogram
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, largest-rectangle-in-histogram solution
 description: largest rectangle in histogram LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

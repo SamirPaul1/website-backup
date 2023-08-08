@@ -1,7 +1,7 @@
 ---
 title: 1221 split a string in balanced strings
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1221-split-a-string-in-balanced-strings solution
 description: 1221 split a string in balanced strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

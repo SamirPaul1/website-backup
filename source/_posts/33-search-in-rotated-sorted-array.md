@@ -1,7 +1,7 @@
 ---
 title: 33 search in rotated sorted array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 33-search-in-rotated-sorted-array solution
 description: 33 search in rotated sorted array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

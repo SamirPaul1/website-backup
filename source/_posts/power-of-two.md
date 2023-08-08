@@ -1,7 +1,7 @@
 ---
 title: power of two
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, power-of-two solution
 description: power of two LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

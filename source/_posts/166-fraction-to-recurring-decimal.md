@@ -1,7 +1,7 @@
 ---
 title: 166 fraction to recurring decimal
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 166-fraction-to-recurring-decimal solution
 description: 166 fraction to recurring decimal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

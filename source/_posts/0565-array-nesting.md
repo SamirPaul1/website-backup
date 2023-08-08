@@ -1,7 +1,7 @@
 ---
 title: 0565 array nesting
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0565-array-nesting solution
 description: 0565 array nesting LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 2508 add edges to make degrees of all nodes even
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2508-add-edges-to-make-degrees-of-all-nodes-even solution
 description: 2508 add edges to make degrees of all nodes even LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

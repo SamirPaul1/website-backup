@@ -1,7 +1,7 @@
 ---
 title: 769 max chunks to make sorted
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 769-max-chunks-to-make-sorted solution
 description: 769 max chunks to make sorted LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

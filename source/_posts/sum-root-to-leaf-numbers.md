@@ -1,7 +1,7 @@
 ---
 title: sum root to leaf numbers
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sum-root-to-leaf-numbers solution
 description: sum root to leaf numbers LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

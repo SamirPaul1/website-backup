@@ -1,7 +1,7 @@
 ---
 title: 0318 maximum product of word lengths
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0318-maximum-product-of-word-lengths solution
 description: 0318 maximum product of word lengths LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

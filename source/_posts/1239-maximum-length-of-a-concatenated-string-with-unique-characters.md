@@ -1,7 +1,7 @@
 ---
 title: 1239 maximum length of a concatenated string with unique characters
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1239-maximum-length-of-a-concatenated-string-with-unique-characters solution
 description: 1239 maximum length of a concatenated string with unique characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

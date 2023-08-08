@@ -1,7 +1,7 @@
 ---
 title: Minimum Platforms   GFG
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Minimum Platforms - GFG solution
 description: Minimum Platforms   GFG LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

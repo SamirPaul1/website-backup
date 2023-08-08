@@ -1,7 +1,7 @@
 ---
 title: 258 add digits
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 258-add-digits solution
 description: 258 add digits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

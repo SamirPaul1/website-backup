@@ -1,7 +1,7 @@
 ---
 title: 0122 best time to buy and sell stock ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0122-best-time-to-buy-and-sell-stock-ii solution
 description: 0122 best time to buy and sell stock ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

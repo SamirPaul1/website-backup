@@ -1,7 +1,7 @@
 ---
 title: 0687 longest univalue path
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0687-longest-univalue-path solution
 description: 0687 longest univalue path LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

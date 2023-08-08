@@ -1,7 +1,7 @@
 ---
 title: 0513 find bottom left tree value
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0513-find-bottom-left-tree-value solution
 description: 0513 find bottom left tree value LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

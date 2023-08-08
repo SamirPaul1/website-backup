@@ -1,7 +1,7 @@
 ---
 title: knight probability in chessboard
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, knight-probability-in-chessboard solution
 description: knight probability in chessboard LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

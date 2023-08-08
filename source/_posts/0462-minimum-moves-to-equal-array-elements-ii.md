@@ -1,7 +1,7 @@
 ---
 title: 0462 minimum moves to equal array elements ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0462-minimum-moves-to-equal-array-elements-ii solution
 description: 0462 minimum moves to equal array elements ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

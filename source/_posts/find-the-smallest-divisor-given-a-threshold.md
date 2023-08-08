@@ -1,7 +1,7 @@
 ---
 title: find the smallest divisor given a threshold
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, find-the-smallest-divisor-given-a-threshold solution
 description: find the smallest divisor given a threshold LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

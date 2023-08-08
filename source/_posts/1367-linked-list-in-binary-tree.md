@@ -1,7 +1,7 @@
 ---
 title: 1367 linked list in binary tree
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1367-linked-list-in-binary-tree solution
 description: 1367 linked list in binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

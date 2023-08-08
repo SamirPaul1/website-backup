@@ -1,7 +1,7 @@
 ---
 title: permutation in string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, permutation-in-string solution
 description: permutation in string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

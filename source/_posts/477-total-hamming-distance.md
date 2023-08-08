@@ -1,7 +1,7 @@
 ---
 title: 477 total hamming distance
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 477-total-hamming-distance solution
 description: 477 total hamming distance LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 739 daily temperatures
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 739-daily-temperatures solution
 description: 739 daily temperatures LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

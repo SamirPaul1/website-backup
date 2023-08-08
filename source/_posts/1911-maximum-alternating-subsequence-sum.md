@@ -1,7 +1,7 @@
 ---
 title: 1911 maximum alternating subsequence sum
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1911-maximum-alternating-subsequence-sum solution
 description: 1911 maximum alternating subsequence sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 1207 unique number of occurrences
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1207-unique-number-of-occurrences solution
 description: 1207 unique number of occurrences LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

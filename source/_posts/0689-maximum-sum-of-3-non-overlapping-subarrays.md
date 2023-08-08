@@ -1,7 +1,7 @@
 ---
 title: 0689 maximum sum of 3 non overlapping subarrays
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0689-maximum-sum-of-3-non-overlapping-subarrays solution
 description: 0689 maximum sum of 3 non overlapping subarrays LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: evaluate division
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, evaluate-division solution
 description: evaluate division LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: checking existence of edge length limited paths
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, checking-existence-of-edge-length-limited-paths solution
 description: checking existence of edge length limited paths LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

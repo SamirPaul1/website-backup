@@ -1,7 +1,7 @@
 ---
 title: subtree of another tree
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, subtree-of-another-tree solution
 description: subtree of another tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

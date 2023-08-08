@@ -1,7 +1,7 @@
 ---
 title: unique binary search trees ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, unique-binary-search-trees-ii solution
 description: unique binary search trees ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

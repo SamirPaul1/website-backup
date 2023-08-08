@@ -1,7 +1,7 @@
 ---
 title: 0622 design circular queue
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0622-design-circular-queue solution
 description: 0622 design circular queue LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

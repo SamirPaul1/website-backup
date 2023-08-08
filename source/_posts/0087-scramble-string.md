@@ -1,7 +1,7 @@
 ---
 title: 0087 scramble string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0087-scramble-string solution
 description: 0087 scramble string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: unique email addresses
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, unique-email-addresses solution
 description: unique email addresses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

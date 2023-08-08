@@ -1,7 +1,7 @@
 ---
 title: 743 network delay time
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 743-network-delay-time solution
 description: 743 network delay time LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

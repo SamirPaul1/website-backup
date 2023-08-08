@@ -1,7 +1,7 @@
 ---
 title: 230 kth smallest element in a bst
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 230-kth-smallest-element-in-a-bst solution
 description: 230 kth smallest element in a bst LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

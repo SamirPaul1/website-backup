@@ -1,7 +1,7 @@
 ---
 title: 1220 count vowels permutation
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1220-count-vowels-permutation solution
 description: 1220 count vowels permutation LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

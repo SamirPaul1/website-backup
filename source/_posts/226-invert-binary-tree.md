@@ -1,7 +1,7 @@
 ---
 title: 226 invert binary tree
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 226-invert-binary-tree solution
 description: 226 invert binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

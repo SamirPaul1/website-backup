@@ -1,7 +1,7 @@
 ---
 title: 0295 find median from data stream
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0295-find-median-from-data-stream solution
 description: 0295 find median from data stream LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

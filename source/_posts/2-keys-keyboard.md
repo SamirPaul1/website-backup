@@ -1,7 +1,7 @@
 ---
 title: 2 keys keyboard
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2-keys-keyboard solution
 description: 2 keys keyboard LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

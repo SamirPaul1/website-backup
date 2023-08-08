@@ -1,7 +1,7 @@
 ---
 title: game of life
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, game-of-life solution
 description: game of life LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

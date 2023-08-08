@@ -1,7 +1,7 @@
 ---
 title: 1405 longest happy string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1405-longest-happy-string solution
 description: 1405 longest happy string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

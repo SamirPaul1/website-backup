@@ -1,7 +1,7 @@
 ---
 title: 0013 roman to integer
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0013-roman-to-integer solution
 description: 0013 roman to integer LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

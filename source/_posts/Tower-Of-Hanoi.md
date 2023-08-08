@@ -1,7 +1,7 @@
 ---
 title: Tower Of Hanoi
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, Tower Of Hanoi solution
 description: Tower Of Hanoi LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

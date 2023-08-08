@@ -1,7 +1,7 @@
 ---
 title: 1444 number of ways of cutting a pizza
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1444-number-of-ways-of-cutting-a-pizza solution
 description: 1444 number of ways of cutting a pizza LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

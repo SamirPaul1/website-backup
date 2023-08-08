@@ -1,7 +1,7 @@
 ---
 title: 1071 greatest common divisor of strings
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1071-greatest-common-divisor-of-strings solution
 description: 1071 greatest common divisor of strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

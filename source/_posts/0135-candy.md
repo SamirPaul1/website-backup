@@ -1,7 +1,7 @@
 ---
 title: 0135 candy
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0135-candy solution
 description: 0135 candy LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

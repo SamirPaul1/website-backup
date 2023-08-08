@@ -1,7 +1,7 @@
 ---
 title: 1306 jump game iii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1306-jump-game-iii solution
 description: 1306 jump game iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

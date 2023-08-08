@@ -1,7 +1,7 @@
 ---
 title: letter case permutation
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, letter-case-permutation solution
 description: letter case permutation LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

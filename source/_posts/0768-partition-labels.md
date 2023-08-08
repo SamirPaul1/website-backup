@@ -1,7 +1,7 @@
 ---
 title: 0768 partition labels
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0768-partition-labels solution
 description: 0768 partition labels LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

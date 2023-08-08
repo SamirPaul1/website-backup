@@ -1,7 +1,7 @@
 ---
 title: 2305 fair distribution of cookies
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2305-fair-distribution-of-cookies solution
 description: 2305 fair distribution of cookies LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

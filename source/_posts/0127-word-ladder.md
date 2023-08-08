@@ -1,7 +1,7 @@
 ---
 title: 0127 word ladder
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0127-word-ladder solution
 description: 0127 word ladder LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

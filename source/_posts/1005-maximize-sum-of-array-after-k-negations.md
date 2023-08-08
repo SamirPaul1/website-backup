@@ -1,7 +1,7 @@
 ---
 title: 1005 maximize sum of array after k negations
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1005-maximize-sum-of-array-after-k-negations solution
 description: 1005 maximize sum of array after k negations LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

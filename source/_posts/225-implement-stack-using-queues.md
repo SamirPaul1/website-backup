@@ -1,7 +1,7 @@
 ---
 title: 225 implement stack using queues
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 225-implement-stack-using-queues solution
 description: 225 implement stack using queues LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

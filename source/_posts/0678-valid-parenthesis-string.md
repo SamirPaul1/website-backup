@@ -1,7 +1,7 @@
 ---
 title: 0678 valid parenthesis string
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0678-valid-parenthesis-string solution
 description: 0678 valid parenthesis string LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 0415 add strings
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0415-add-strings solution
 description: 0415 add strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 120 triangle
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 120-triangle solution
 description: 120 triangle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 2576 find the maximum number of marked indices
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2576-find-the-maximum-number-of-marked-indices solution
 description: 2576 find the maximum number of marked indices LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

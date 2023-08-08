@@ -1,7 +1,7 @@
 ---
 title: subarray sum equals k
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, subarray-sum-equals-k solution
 description: subarray sum equals k LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

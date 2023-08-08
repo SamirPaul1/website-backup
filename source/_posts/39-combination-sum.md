@@ -1,7 +1,7 @@
 ---
 title: 39 combination sum
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 39-combination-sum solution
 description: 39 combination sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

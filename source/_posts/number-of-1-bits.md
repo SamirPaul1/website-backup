@@ -1,7 +1,7 @@
 ---
 title: number of 1 bits
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-1-bits solution
 description: number of 1 bits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

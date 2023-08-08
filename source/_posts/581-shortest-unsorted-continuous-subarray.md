@@ -1,7 +1,7 @@
 ---
 title: 581 shortest unsorted continuous subarray
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 581-shortest-unsorted-continuous-subarray solution
 description: 581 shortest unsorted continuous subarray LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

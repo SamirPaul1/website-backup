@@ -1,7 +1,7 @@
 ---
 title: 654 maximum binary tree
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 654-maximum-binary-tree solution
 description: 654 maximum binary tree LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

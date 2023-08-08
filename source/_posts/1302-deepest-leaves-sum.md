@@ -1,7 +1,7 @@
 ---
 title: 1302 deepest leaves sum
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1302-deepest-leaves-sum solution
 description: 1302 deepest leaves sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

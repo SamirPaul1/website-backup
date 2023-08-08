@@ -1,7 +1,7 @@
 ---
 title: 2321 maximum score of spliced array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2321-maximum-score-of-spliced-array solution
 description: 2321 maximum score of spliced array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

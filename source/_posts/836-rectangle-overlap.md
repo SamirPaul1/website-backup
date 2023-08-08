@@ -1,7 +1,7 @@
 ---
 title: 836 rectangle overlap
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 836-rectangle-overlap solution
 description: 836 rectangle overlap LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: sum of mutated array closest to target
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, sum-of-mutated-array-closest-to-target solution
 description: sum of mutated array closest to target LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

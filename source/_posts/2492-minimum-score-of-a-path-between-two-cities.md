@@ -1,7 +1,7 @@
 ---
 title: 2492 minimum score of a path between two cities
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2492-minimum-score-of-a-path-between-two-cities solution
 description: 2492 minimum score of a path between two cities LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

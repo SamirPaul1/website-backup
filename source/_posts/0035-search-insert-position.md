@@ -1,7 +1,7 @@
 ---
 title: 0035 search insert position
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0035-search-insert-position solution
 description: 0035 search insert position LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

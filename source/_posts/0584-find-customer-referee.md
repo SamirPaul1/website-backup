@@ -1,7 +1,7 @@
 ---
 title: 0584 find customer referee
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0584-find-customer-referee solution
 description: 0584 find customer referee LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

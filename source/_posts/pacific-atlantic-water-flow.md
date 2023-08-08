@@ -1,7 +1,7 @@
 ---
 title: pacific atlantic water flow
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, pacific-atlantic-water-flow solution
 description: pacific atlantic water flow LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

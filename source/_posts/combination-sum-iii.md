@@ -1,7 +1,7 @@
 ---
 title: combination sum iii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, combination-sum-iii solution
 description: combination sum iii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

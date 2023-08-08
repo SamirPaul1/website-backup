@@ -1,7 +1,7 @@
 ---
 title: 402 remove k digits
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 402-remove-k-digits solution
 description: 402 remove k digits LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

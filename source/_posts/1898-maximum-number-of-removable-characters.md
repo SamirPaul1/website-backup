@@ -1,7 +1,7 @@
 ---
 title: 1898 maximum number of removable characters
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1898-maximum-number-of-removable-characters solution
 description: 1898 maximum number of removable characters LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

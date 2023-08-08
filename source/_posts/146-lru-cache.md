@@ -1,7 +1,7 @@
 ---
 title: 146 lru cache
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 146-lru-cache solution
 description: 146 lru cache LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

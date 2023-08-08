@@ -1,7 +1,7 @@
 ---
 title: binary search tree iterator
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, binary-search-tree-iterator solution
 description: binary search tree iterator LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

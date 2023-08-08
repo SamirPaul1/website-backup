@@ -1,7 +1,7 @@
 ---
 title: 2565 subsequence with the minimum score
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2565-subsequence-with-the-minimum-score solution
 description: 2565 subsequence with the minimum score LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

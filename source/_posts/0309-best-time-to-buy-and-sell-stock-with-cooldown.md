@@ -1,7 +1,7 @@
 ---
 title: 0309 best time to buy and sell stock with cooldown
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0309-best-time-to-buy-and-sell-stock-with-cooldown solution
 description: 0309 best time to buy and sell stock with cooldown LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: longest common subsequence
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-common-subsequence solution
 description: longest common subsequence LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

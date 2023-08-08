@@ -1,7 +1,7 @@
 ---
 title: 46 permutations
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 46-permutations solution
 description: 46 permutations LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

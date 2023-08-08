@@ -1,7 +1,7 @@
 ---
 title: 1041 robot bounded in circle
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1041-robot-bounded-in-circle solution
 description: 1041 robot bounded in circle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

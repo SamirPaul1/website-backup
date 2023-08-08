@@ -1,7 +1,7 @@
 ---
 title: 771 jewels and stones
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 771-jewels-and-stones solution
 description: 771 jewels and stones LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

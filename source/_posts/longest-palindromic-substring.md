@@ -1,7 +1,7 @@
 ---
 title: longest palindromic substring
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, longest-palindromic-substring solution
 description: longest palindromic substring LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 0332 reconstruct itinerary
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0332-reconstruct-itinerary solution
 description: 0332 reconstruct itinerary LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

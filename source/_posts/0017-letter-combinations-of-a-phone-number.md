@@ -1,7 +1,7 @@
 ---
 title: 0017 letter combinations of a phone number
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0017-letter-combinations-of-a-phone-number solution
 description: 0017 letter combinations of a phone number LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

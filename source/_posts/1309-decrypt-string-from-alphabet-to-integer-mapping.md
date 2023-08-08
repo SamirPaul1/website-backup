@@ -1,7 +1,7 @@
 ---
 title: 1309 decrypt string from alphabet to integer mapping
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1309-decrypt-string-from-alphabet-to-integer-mapping solution
 description: 1309 decrypt string from alphabet to integer mapping LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

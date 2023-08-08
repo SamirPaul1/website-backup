@@ -1,7 +1,7 @@
 ---
 title: deepest leaves sum
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, deepest-leaves-sum solution
 description: deepest leaves sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

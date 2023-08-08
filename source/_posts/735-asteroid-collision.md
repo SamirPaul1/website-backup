@@ -1,7 +1,7 @@
 ---
 title: 735 asteroid collision
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 735-asteroid-collision solution
 description: 735 asteroid collision LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

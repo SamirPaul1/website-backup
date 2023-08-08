@@ -1,7 +1,7 @@
 ---
 title: 404 sum of left leaves
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 404-sum-of-left-leaves solution
 description: 404 sum of left leaves LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

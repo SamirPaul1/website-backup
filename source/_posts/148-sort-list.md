@@ -1,7 +1,7 @@
 ---
 title: 148 sort list
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 148-sort-list solution
 description: 148 sort list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

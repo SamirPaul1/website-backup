@@ -1,7 +1,7 @@
 ---
 title: insert delete getrandom o1 duplicates allowed
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, insert-delete-getrandom-o1-duplicates-allowed solution
 description: insert delete getrandom o1 duplicates allowed LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

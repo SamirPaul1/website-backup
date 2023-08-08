@@ -1,7 +1,7 @@
 ---
 title: 2611 mice and cheese
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 2611-mice-and-cheese solution
 description: 2611 mice and cheese LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

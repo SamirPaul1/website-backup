@@ -1,7 +1,7 @@
 ---
 title: 0983 minimum cost for tickets
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0983-minimum-cost-for-tickets solution
 description: 0983 minimum cost for tickets LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

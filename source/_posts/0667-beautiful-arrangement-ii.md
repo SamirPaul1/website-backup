@@ -1,7 +1,7 @@
 ---
 title: 0667 beautiful arrangement ii
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0667-beautiful-arrangement-ii solution
 description: 0667 beautiful arrangement ii LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

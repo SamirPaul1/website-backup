@@ -1,7 +1,7 @@
 ---
 title: next permutation
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, next-permutation solution
 description: next permutation LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

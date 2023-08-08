@@ -1,7 +1,7 @@
 ---
 title: 0377 combination sum iv
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0377-combination-sum-iv solution
 description: 0377 combination sum iv LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

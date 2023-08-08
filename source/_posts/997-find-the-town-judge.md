@@ -1,7 +1,7 @@
 ---
 title: 997 find the town judge
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 997-find-the-town-judge solution
 description: 997 find the town judge LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

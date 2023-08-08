@@ -1,7 +1,7 @@
 ---
 title: 0072 edit distance
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0072-edit-distance solution
 description: 0072 edit distance LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

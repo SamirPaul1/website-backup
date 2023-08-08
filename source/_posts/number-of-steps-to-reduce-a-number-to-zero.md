@@ -1,7 +1,7 @@
 ---
 title: number of steps to reduce a number to zero
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, number-of-steps-to-reduce-a-number-to-zero solution
 description: number of steps to reduce a number to zero LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

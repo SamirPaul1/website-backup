@@ -1,7 +1,7 @@
 ---
 title: 1856 maximum subarray min product
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1856-maximum-subarray-min-product solution
 description: 1856 maximum subarray min product LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 38 count and say
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 38-count-and-say solution
 description: 38 count and say LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

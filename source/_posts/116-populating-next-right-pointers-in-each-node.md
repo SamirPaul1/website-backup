@@ -1,7 +1,7 @@
 ---
 title: 116 populating next right pointers in each node
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 116-populating-next-right-pointers-in-each-node solution
 description: 116 populating next right pointers in each node LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

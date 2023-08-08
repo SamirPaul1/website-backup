@@ -1,7 +1,7 @@
 ---
 title: 1581 customer who visited but did not make any transactions
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1581-customer-who-visited-but-did-not-make-any-transactions solution
 description: 1581 customer who visited but did not make any transactions LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

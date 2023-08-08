@@ -1,7 +1,7 @@
 ---
 title: delete node in a bst
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, delete-node-in-a-bst solution
 description: delete node in a bst LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: generate parentheses
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, generate-parentheses solution
 description: generate parentheses LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

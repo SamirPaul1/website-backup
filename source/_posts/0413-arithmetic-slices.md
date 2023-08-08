@@ -1,7 +1,7 @@
 ---
 title: 0413 arithmetic slices
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0413-arithmetic-slices solution
 description: 0413 arithmetic slices LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

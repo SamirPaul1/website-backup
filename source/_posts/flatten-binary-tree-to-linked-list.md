@@ -1,7 +1,7 @@
 ---
 title: flatten binary tree to linked list
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, flatten-binary-tree-to-linked-list solution
 description: flatten binary tree to linked list LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

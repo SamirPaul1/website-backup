@@ -1,7 +1,7 @@
 ---
 title: 0096 unique binary search trees
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0096-unique-binary-search-trees solution
 description: 0096 unique binary search trees LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

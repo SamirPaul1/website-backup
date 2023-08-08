@@ -1,7 +1,7 @@
 ---
 title: 0183 customers who never order
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0183-customers-who-never-order solution
 description: 0183 customers who never order LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

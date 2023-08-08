@@ -1,7 +1,7 @@
 ---
 title: 1466 reorder routes to make all paths lead to the city zero
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero solution
 description: 1466 reorder routes to make all paths lead to the city zero LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

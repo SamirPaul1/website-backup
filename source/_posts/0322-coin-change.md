@@ -1,7 +1,7 @@
 ---
 title: 0322 coin change
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0322-coin-change solution
 description: 0322 coin change LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

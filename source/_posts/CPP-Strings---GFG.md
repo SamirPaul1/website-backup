@@ -1,7 +1,7 @@
 ---
 title: C++ Strings   GFG
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, C++ Strings - GFG solution
 description: C++ Strings - GFG
 cover: /assets/img/leetcode-cover-img.webp

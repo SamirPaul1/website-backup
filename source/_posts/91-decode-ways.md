@@ -1,7 +1,7 @@
 ---
 title: 91 decode ways
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 91-decode-ways solution
 description: 91 decode ways LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

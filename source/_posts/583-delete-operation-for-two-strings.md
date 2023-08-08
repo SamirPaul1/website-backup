@@ -1,7 +1,7 @@
 ---
 title: 583 delete operation for two strings
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 583-delete-operation-for-two-strings solution
 description: 583 delete operation for two strings LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

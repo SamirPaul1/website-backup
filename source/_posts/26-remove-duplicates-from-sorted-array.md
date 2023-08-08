@@ -1,7 +1,7 @@
 ---
 title: 26 remove duplicates from sorted array
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 26-remove-duplicates-from-sorted-array solution
 description: 26 remove duplicates from sorted array LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

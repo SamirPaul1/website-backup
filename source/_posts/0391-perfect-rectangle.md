@@ -1,7 +1,7 @@
 ---
 title: 0391 perfect rectangle
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0391-perfect-rectangle solution
 description: 0391 perfect rectangle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

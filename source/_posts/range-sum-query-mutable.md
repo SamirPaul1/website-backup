@@ -1,7 +1,7 @@
 ---
 title: range sum query mutable
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, range-sum-query-mutable solution
 description: range sum query mutable LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: continuous subarray sum
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, continuous-subarray-sum solution
 description: continuous subarray sum LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

@@ -1,7 +1,7 @@
 ---
 title: 1508 range sum of sorted subarray sums
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 1508-range-sum-of-sorted-subarray-sums solution
 description: 1508 range sum of sorted subarray sums LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

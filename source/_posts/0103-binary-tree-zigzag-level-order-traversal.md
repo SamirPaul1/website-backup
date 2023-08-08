@@ -1,7 +1,7 @@
 ---
 title: 0103 binary tree zigzag level order traversal
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0103-binary-tree-zigzag-level-order-traversal solution
 description: 0103 binary tree zigzag level order traversal LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

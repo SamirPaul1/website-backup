@@ -1,7 +1,7 @@
 ---
 title: linked list cycle
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, linked-list-cycle solution
 description: linked list cycle LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp

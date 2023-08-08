@@ -1,7 +1,7 @@
 ---
 title: 0197 rising temperature
-tags: leetcode
-categories: leetcode
+tags: LeetCode
+categories: LeetCode
 keywords: LeetCode, leetcode solution in Python3 C++ Java, 0197-rising-temperature solution
 description: 0197 rising temperature LeetCode Solution Explained
 cover: /assets/img/leetcode-cover-img.webp
