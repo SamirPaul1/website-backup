@@ -2,8 +2,8 @@
 module.exports = {
     globPatterns: ['**/*.{js,html,css,png,jpg,gif,svg,webp,eot,ttf,woff,woff2}'],
     // Static file collection. If your site uses file types like webp, add them here.
-    globDirectory: 'public',
-    swDest: 'public/service-worker.js',
+    globDirectory: '/public',
+    swDest: '/public/service-worker.js',
     maximumFileSizeToCacheInBytes: 10485760, // Cache maximum file size in bytes.
     skipWaiting: true,
     clientsClaim: true,
