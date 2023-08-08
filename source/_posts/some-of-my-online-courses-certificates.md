@@ -11,6 +11,7 @@ tags: [coding, certificates, udemy, coursera, datacamp]
 published: true
 sitemap: true
 pin: false
+sticky: 10
 ---
 
 

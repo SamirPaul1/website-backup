@@ -6,8 +6,7 @@ categories: [Blog]
 tags: [open-external-links, javascript]
 keywords: [blog, coding, computer-science, external-links-in-a-new-tab, jekyll, hugo, external-links-in-a-new-tab-jekyll, external-links-in-a-new-tab-hugo, javascript, external-links-in-a-new-tab-using-javascript, target-blank, jekyll-target-blank, jekyll-target-blank-using-javascript, open-external-links, open-external-links-javascript]
 published: true
-sitemap: true
-pin: false
+sticky: 1
 ---
 
 

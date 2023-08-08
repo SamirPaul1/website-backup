@@ -11,6 +11,7 @@ pin: false
 sticky: 100 # Higher sticky means that it will be ranked first.
 ---
 
+
 <b> Repository Link: [https://github.com/SamirPaul1/DSAlgo](https://github.com/SamirPaul1/DSAlgo) </b>
 > In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python in a structured manner.
 
@@ -57,7 +58,7 @@ In various folders of the above topics, you can find questions and concepts rela
 ---
 
 <p align="center">
-<b>View this repository in online VS Code: <a href="https://samirpaul.in/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
+<b>View this repository in online VS Code: <a href="https://samirpaul.in/dsalgo" target="_blank">  https://samirpaul.in/dsalgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
 </a></b>
 </p>
 

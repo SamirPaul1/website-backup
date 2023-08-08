@@ -5,8 +5,7 @@ cover: /assets/img/online-pdf-compression-tool-blog-banner.webp
 categories: [Projects]
 tags: [python3, file-compressor, flask-application, python-server, pdfnet, pdf-compression, online-pdf-compressor, pdfnetpython]
 published: true
-sitemap: true
-pin: false
+sticky: 4
 ---
 
 

@@ -5,8 +5,7 @@ cover: /assets/img/list-of-python-frameworks-libraries-software-and-resources-ba
 categories: [Python]
 tags: [python,python-frameworks,python-libraries]
 published: true
-sitemap: true
-pin: false
+sticky: 3
 ---
 
 

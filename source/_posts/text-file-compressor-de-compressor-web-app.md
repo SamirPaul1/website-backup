@@ -6,8 +6,7 @@ categories: [Projects]
 tags: [projects, web-development, lossless-data-compression, online-file-compressor, txt-compressor, algorithm]
 keywords: [blog, coding, computer-science, javascript, project, css, html, encoding, encoder, huffman, huffman-coding, huffman-compression-algorithm, txt, lossless-compression-algorithm, file-compression, huffman-encoder, huffman-decoder, huffman-encoding, txt-encode, txt-decode, lossless-compression, github, projects, web-development, lossless-data-compression, online-file-compressor, txt-compressor, algorithm]
 published: true
-sitemap: true
-pin: false
+sticky: 2
 ---
 
 
