@@ -18,7 +18,9 @@ menu:
     LinkedIn: https://www.linkedin.com/in/samirpaul || fab fa-linkedin
     GitHub: https://github.com/SamirPaul1 || fab fa-github
     Instagram: https://instagram.com/SamirPaulb || fab fa-instagram
+    Facebook: https://www.facebook.com/SamirPaulb || fab fa-facebook
     Twitter: https://twitter.com/SamirPaulb || fab fa-twitter
+    Contact: /contact || fa-regular fa-paper-plane
   # Link: /link/ || fas fa-link
 
 
@@ -115,7 +117,7 @@ post_meta:
     date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
-    tags: false # true or false 主頁是否顯示標籤
+    tags: true # true or false 主頁是否顯示標籤
     label: true # true or false 顯示描述性文字
   post:
     date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
@@ -361,7 +363,7 @@ mathjax:
 katex:
   enable: false
   per_page: false
-  hide_scrollbar: true
+  hide_scrollbar: false 
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -824,7 +826,7 @@ series:
 # See https://github.com/paulrosen/abcjs
 abcjs:
   enable: false
-  per_page: true
+  per_page: false
 
 # mermaid
 # see https://github.com/mermaid-js/mermaid
@@ -926,7 +928,57 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+    - <link href="/sitemap.xml" rel="sitemap" title="Sitemap" type="application/xml" />
+    - <link href="//fonts.googleapis.com" rel="preconnect dns-prefetch" />
+    - <link href="//use.fontawesome.com" rel="preconnect dns-prefetch" />
+    - <link href="//ajax.googleapis.com" rel="preconnect dns-prefetch" />
+    - <link href="//github.com" rel="preconnect dns-prefetch" />
+    - <link href="//cdn.rawgit.com" rel="preconnect dns-prefetch" />
+    - <link href="//cdnjs.cloudflare.com" rel="preconnect dns-prefetch" />
+    - <link href="//www.google-analytics.com" rel="preconnect dns-prefetch" />
+    - <link href="//themes.googleusercontent.com " rel="preconnect dns-prefetch" />
+    - <link href="//pagead2.googlesyndication.com" rel="preconnect dns-prefetch" />
+    - <link href="//googleads.g.doubleclick.net" rel="preconnect dns-prefetch" />
+    - <link href="//www.gstatic.com" rel="preconnect dns-prefetch" />
+    - <link href="//www.googletagmanager.com" rel="preconnect dns-prefetch" />
+    - <link href="//www.googletagservices.com" rel="preconnect dns-prefetch" />
+    - <link href="//static.xx.fbcdn.net" rel="preconnect dns-prefetch" />
+    - <link href="//tpc.googlesyndication.com" rel="preconnect dns-prefetch" />
+    - <link href="//apis.google.com" rel="preconnect dns-prefetch" />
+    - <link href="//www.w3.org" rel="preconnect dns-prefetch" />
+    - <link href="//www.facebook.com" rel="preconnect dns-prefetch" />
+    - <link href="//connect.facebook.net" rel="preconnect dns-prefetch" />
+    - <link href="//disqus.com" rel="preconnect dns-prefetch" />
+    - <link href="//plus.google.com" rel="preconnect dns-prefetch" />
+    - <link href="//twitter.com" rel="preconnect dns-prefetch" />
+    - <link href="//platform.twitter.com" rel="preconnect dns-prefetch" />
+    - <link href="//syndication.twitter.com" rel="preconnect dns-prefetch" />
+    - <link href="//r.twimg.com " rel="preconnect dns-prefetch" />
+    - <link href="//p.twitter.com " rel="preconnect dns-prefetch" />
+    - <link href="//cdn.api.twitter.com " rel="preconnect dns-prefetch" />
+    - <link href="//www.youtube.com" rel="preconnect dns-prefetch" />
+    - <link href="//img.youtube.com" rel="preconnect dns-prefetch" />
+    - <link href="//www.pinterest.com" rel="preconnect dns-prefetch" />
+    - <link href="//www.linkedin.com" rel="preconnect dns-prefetch" />
+    - <link href="//player.vimeo.com" rel="preconnect dns-prefetch" />
+    - <link href="//s3.amazonaws.com " rel="preconnect dns-prefetch" />
+    - <link href="//s3.buysellads.com " rel="preconnect dns-prefetch" />
+    - <link href="//stats.buysellads.com " rel="preconnect dns-prefetch" />
+    - <link href="//scdn.netlify.app " rel="preconnect dns-prefetch" />
+    - <link href="//spcdn.pages.dev " rel="preconnect dns-prefetch" />
+    - <link href="//scdn.web.app " rel="preconnect dns-prefetch" />
+    - <link href="//user-images.githubusercontent.com " rel="preconnect dns-prefetch" />
+    - <link href="//raw.githubusercontent.com " rel="preconnect dns-prefetch" />
+    - <link href="//cdn.jsdelivr.net " rel="preconnect dns-prefetch" />
+    - <link href="//res.cloudinary.com " rel="preconnect dns-prefetch" />
+    - <link href="//samirpaulb.github.io " rel="preconnect dns-prefetch" />
+    - <link href="//imgur.com " rel="preconnect dns-prefetch" />
+    - <link href="//i.imgur.com " rel="preconnect dns-prefetch" />
+    - <link href="//firebaseio.com " rel="preconnect dns-prefetch" />
+    - <link href="//translate.googleapis.com " rel="preconnect dns-prefetch" />
+    - <link href="//google.com " rel="preconnect dns-prefetch" />
+    - <link href="//analytics.google.com " rel="preconnect dns-prefetch" />
+    - <meta name="robots" content="index, follow">
   bottom:
     # - <script src="xxxx"></script>
 
