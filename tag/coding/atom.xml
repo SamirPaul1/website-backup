@@ -14,9 +14,9 @@
     <category term="system-design" />
     <category term="design-interview" />
     <category term="preparation" />
+    <category term="study-plan" />
     <category term="computer-networks" />
     <category term="computer-networks-notes" />
-    <category term="study-plan" />
     <category term="projects" />
     <category term="tutorials" />
     <category term="list-of-project-based-tutorials" />
@@ -36,11 +36,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -5337,23 +5337,6 @@
         <updated>2023-08-05T20:52:53.809Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
-        <title>Python Content Management Systems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
-        <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
-&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
-&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
-&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
-&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
-</content>
-        <category term="blog" />
-        <category term="coding" />
-        <category term="computer-science" />
-        <updated>2023-08-05T20:52:53.803Z</updated>
-    </entry>
-    <entry>
         <id>https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</id>
         <title>Python libraries for administrative interfaces</title>
         <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/"/>
@@ -5369,6 +5352,23 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;These are just a few examples of the many libraries available for creating administrative interfaces in Python. The best library for your needs will depend on the requirements of your specific project, as well as your personal preferences and experience.&lt;/p&gt;
+</content>
+        <category term="blog" />
+        <category term="coding" />
+        <category term="computer-science" />
+        <updated>2023-08-05T20:52:53.803Z</updated>
+    </entry>
+    <entry>
+        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
+        <title>Python Content Management Systems</title>
+        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
+        <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
+&lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
+&lt;p&gt;Plone: Plone is a powerful and flexible open-source CMS built using the Python programming language. It provides a range of features for building and managing websites, including a user-friendly interface, content versioning, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Wagtail: Wagtail is a CMS built using the Django web framework. It provides a flexible and intuitive interface for building and managing websites, and it includes a range of built-in features, including a WYSIWYG editor, document management, and support for multiple languages.&lt;/p&gt;
+&lt;p&gt;Pyramid CMS: Pyramid CMS is a flexible and scalable CMS built using the Pyramid web framework. It provides a simple and efficient platform for building and managing websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
+&lt;p&gt;These are just a few examples of the many Python CMS options available. The best CMS for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.&lt;/p&gt;
 </content>
         <category term="blog" />
         <category term="coding" />
