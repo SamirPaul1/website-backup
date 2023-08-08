@@ -1,8 +1,8 @@
 ---
 title: Move all zeroes to end of array   GFG
 date: 2020-08-31 09:54:52
-tags: geeksforgeeks
-categories: geeksforgeeks
+tags: GeeksforGeeks
+categories: GeeksforGeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Move all zeroes to end of array - GFG solution
 cover: /assets/img/gfg.webp
 ---

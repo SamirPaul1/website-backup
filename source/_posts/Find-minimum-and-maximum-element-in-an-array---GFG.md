@@ -1,8 +1,8 @@
 ---
 title: Find minimum and maximum element in an array   GFG
 date: 2020-08-31 09:54:52
-tags: geeksforgeeks
-categories: geeksforgeeks
+tags: GeeksforGeeks
+categories: GeeksforGeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Find minimum and maximum element in an array - GFG solution
 cover: /assets/img/gfg.webp
 ---

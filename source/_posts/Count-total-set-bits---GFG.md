@@ -1,8 +1,8 @@
 ---
 title: Count total set bits   GFG
 date: 2020-08-31 09:54:52
-tags: geeksforgeeks
-categories: geeksforgeeks
+tags: GeeksforGeeks
+categories: GeeksforGeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Count total set bits - GFG solution
 cover: /assets/img/gfg.webp
 ---

@@ -1,8 +1,8 @@
 ---
 title: Check if it is possible to convert one string into another with given constraints   GFG
 date: 2020-08-31 09:54:52
-tags: geeksforgeeks
-categories: geeksforgeeks
+tags: GeeksforGeeks
+categories: GeeksforGeeks
 keywords: GeeksforGeeks, GeeksforGeeks practice solution in Python3 C++ Java, Check if it is possible to convert one string into another with given constraints - GFG solution
 cover: /assets/img/gfg.webp
 ---

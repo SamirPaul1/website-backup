@@ -1,11 +1,7 @@
 ---
 title: "Some of My Online Courses Certificates"
 description: "Some of My Online Courses Certificates"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Some of My Online Courses Certificates"
+cover: /assets/img/blog-featured-image.webp
 categories: [Blog]
 tags: [coding, certificates, udemy, coursera, datacamp]
 published: true
