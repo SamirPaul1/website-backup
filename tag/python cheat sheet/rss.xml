@@ -24,21 +24,21 @@
         <category>tutorials</category>
         <category>list-of-project-based-tutorials</category>
         <category>curated-list</category>
+        <category>DSAlgo</category>
+        <category>dsa-in-python</category>
+        <category>data-structures-and-algorithms</category>
         <category>dp</category>
+        <category>Dynamic Programming</category>
+        <category>Patterns</category>
         <category>embed-musicapp</category>
         <category>music</category>
         <category>embeded</category>
         <category>music-player</category>
-        <category>Dynamic Programming</category>
-        <category>Patterns</category>
         <category>programmable-search</category>
         <category>Graph</category>
         <category>distributed-systems</category>
-        <category>two pointers problems</category>
         <category>Greedy</category>
-        <category>DSAlgo</category>
-        <category>dsa-in-python</category>
-        <category>data-structures-and-algorithms</category>
+        <category>two pointers problems</category>
         <category>technical-interview</category>
         <category>interview-questions</category>
         <category>python</category>
@@ -52,8 +52,6 @@
         <category>pdf-compression</category>
         <category>online-pdf-compressor</category>
         <category>pdfnetpython</category>
-        <category>open-external-links</category>
-        <category>javascript</category>
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
@@ -81,6 +79,8 @@
         <category>short-url</category>
         <category>url-shortner</category>
         <category>networking</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
         <item>
             <guid isPermalink="true">https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</guid>
             <title>Python Cheat Sheet for LeetCode</title>

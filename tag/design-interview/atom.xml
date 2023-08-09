@@ -21,21 +21,21 @@
     <category term="tutorials" />
     <category term="list-of-project-based-tutorials" />
     <category term="curated-list" />
+    <category term="DSAlgo" />
+    <category term="dsa-in-python" />
+    <category term="data-structures-and-algorithms" />
     <category term="dp" />
+    <category term="Dynamic Programming" />
+    <category term="Patterns" />
     <category term="embed-musicapp" />
     <category term="music" />
     <category term="embeded" />
     <category term="music-player" />
-    <category term="Dynamic Programming" />
-    <category term="Patterns" />
     <category term="programmable-search" />
     <category term="Graph" />
     <category term="distributed-systems" />
-    <category term="two pointers problems" />
     <category term="Greedy" />
-    <category term="DSAlgo" />
-    <category term="dsa-in-python" />
-    <category term="data-structures-and-algorithms" />
+    <category term="two pointers problems" />
     <category term="technical-interview" />
     <category term="interview-questions" />
     <category term="python" />
@@ -49,8 +49,6 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
@@ -78,6 +76,8 @@
     <category term="short-url" />
     <category term="url-shortner" />
     <category term="networking" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <entry>
         <id>https://samirpaul.in/posts/url-shortening-service/</id>
         <title>URL Shortening Service</title>
