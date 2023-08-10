@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;certificates&#34; tag</title>
-        <link>https://samirpaul.in</link>
+        <link>https://samir.pages.dev</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
@@ -40,11 +40,11 @@
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -53,11 +53,11 @@
         <category>pdf-compression</category>
         <category>online-pdf-compressor</category>
         <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
-        <category>open-external-links</category>
-        <category>javascript</category>
         <category>project</category>
         <category>pygame</category>
         <category>python-game</category>
@@ -83,9 +83,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/some-of-my-online-courses-certificates/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/some-of-my-online-courses-certificates/</guid>
             <title>Some of My Online Courses Certificates</title>
-            <link>https://samirpaul.in/posts/some-of-my-online-courses-certificates/</link>
+            <link>https://samir.pages.dev/posts/some-of-my-online-courses-certificates/</link>
             <category>coding</category>
             <category>certificates</category>
             <category>udemy</category>

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;python&#34; category</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.762Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/list-of-python-frameworks-libraries-software-and-resources/</id>
+        <id>https://samir.pages.dev/posts/list-of-python-frameworks-libraries-software-and-resources/</id>
         <title>List of Python Frameworks Libraries Software and Resources</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/list-of-python-frameworks-libraries-software-and-resources/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/list-of-python-frameworks-libraries-software-and-resources/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;A curated list of awesome Python frameworks, libraries, software and resources.&lt;/p&gt;
 &lt;/blockquote&gt;

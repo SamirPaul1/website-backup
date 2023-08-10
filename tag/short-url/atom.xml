@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;short-url&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.888Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/url-shortening-service/</id>
+        <id>https://samir.pages.dev/posts/url-shortening-service/</id>
         <title>URL Shortening Service</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/url-shortening-service/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/url-shortening-service/"/>
         <content type="html">&lt;h1 id=&#34;URL-Shortening-Service&#34;&gt;&lt;a href=&#34;#URL-Shortening-Service&#34; class=&#34;headerlink&#34; title=&#34;URL Shortening Service&#34;&gt;&lt;/a&gt;URL Shortening Service&lt;/h1&gt;&lt;h2 id=&#34;Summary&#34;&gt;&lt;a href=&#34;#Summary&#34; class=&#34;headerlink&#34; title=&#34;Summary&#34;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-overview.png&#34; alt=&#34;overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-detail.png&#34; alt=&#34;summary&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Requirements&#34;&gt;&lt;a href=&#34;#Requirements&#34; class=&#34;headerlink&#34; title=&#34;Requirements&#34;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Functional Requirements&lt;/p&gt;

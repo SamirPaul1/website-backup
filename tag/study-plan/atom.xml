@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;study-plan&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-15T04:24:52.000Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</id>
+        <id>https://samir.pages.dev/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</id>
         <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/complete-computer-science-study-plan-to-become-a-software-engineer/"/>
         <content type="html">&lt;h2 id=&#34;Table-of-Contents&#34;&gt;&lt;a href=&#34;#Table-of-Contents&#34; class=&#34;headerlink&#34; title=&#34;Table of Contents&#34;&gt;&lt;/a&gt;Table of Contents&lt;/h2&gt;&lt;h3 id=&#34;The-Study-Plan&#34;&gt;&lt;a href=&#34;#The-Study-Plan&#34; class=&#34;headerlink&#34; title=&#34;The Study Plan&#34;&gt;&lt;/a&gt;The Study Plan&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#&#34;&gt;What is it?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#why-use-it&#34;&gt;Why use it?&lt;/a&gt;&lt;/li&gt;

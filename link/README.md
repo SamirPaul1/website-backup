@@ -12,7 +12,7 @@ Landing Page:
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo 🚀 ](https://samirpaul.in/link/)
+- [Demo 🚀 ](https://samir.pages.dev/link/)
 
 ## 🚀 Getting started
 

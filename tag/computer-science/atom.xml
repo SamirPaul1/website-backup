@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;computer-science&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-15T04:24:52.000Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</id>
+        <id>https://samir.pages.dev/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</id>
         <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/complete-computer-science-study-plan-to-become-a-software-engineer/"/>
         <content type="html">&lt;h2 id=&#34;Table-of-Contents&#34;&gt;&lt;a href=&#34;#Table-of-Contents&#34; class=&#34;headerlink&#34; title=&#34;Table of Contents&#34;&gt;&lt;/a&gt;Table of Contents&lt;/h2&gt;&lt;h3 id=&#34;The-Study-Plan&#34;&gt;&lt;a href=&#34;#The-Study-Plan&#34; class=&#34;headerlink&#34; title=&#34;The Study Plan&#34;&gt;&lt;/a&gt;The Study Plan&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#&#34;&gt;What is it?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#why-use-it&#34;&gt;Why use it?&lt;/a&gt;&lt;/li&gt;
@@ -2233,9 +2233,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-15T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/computer-networks-notes/</id>
+        <id>https://samir.pages.dev/posts/computer-networks-notes/</id>
         <title>Computer Networks Notes</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/computer-networks-notes/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/computer-networks-notes/"/>
         <content type="html">&lt;h1 id=&#34;Chapter-1-Computer-Networks-and-the-Internet&#34;&gt;&lt;a href=&#34;#Chapter-1-Computer-Networks-and-the-Internet&#34; class=&#34;headerlink&#34; title=&#34;Chapter 1: Computer Networks and the Internet&#34;&gt;&lt;/a&gt;Chapter 1: Computer Networks and the Internet&lt;/h1&gt;&lt;h2 id=&#34;1-1-What-is-the-Internet&#34;&gt;&lt;a href=&#34;#1-1-What-is-the-Internet&#34; class=&#34;headerlink&#34; title=&#34;1.1 What is the Internet?&#34;&gt;&lt;/a&gt;1.1 What is the Internet?&lt;/h2&gt;&lt;h3 id=&#34;1-1-1-A-nuts-and-bolts-description&#34;&gt;&lt;a href=&#34;#1-1-1-A-nuts-and-bolts-description&#34; class=&#34;headerlink&#34; title=&#34;1.1.1 A nuts-and-bolts description&#34;&gt;&lt;/a&gt;1.1.1 A nuts-and-bolts description&lt;/h3&gt;&lt;p&gt;The Internet is a computer networks that interconnects hundreds of millions of computing devices through the world. Today not only computers and workstation are being connected to the network, therefore the term &lt;em&gt;computer network&lt;/em&gt; may sound a bit dated.&lt;/p&gt;
 &lt;p&gt;All the devices connected to the Internet are called &lt;strong&gt;hosts&lt;/strong&gt; or &lt;strong&gt;end systems&lt;/strong&gt;. End systems are connected together by a network of &lt;strong&gt;communication links&lt;/strong&gt; and &lt;strong&gt;packets switches&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Different links can transmit data at different rates, with the &lt;strong&gt;transmission rate&lt;/strong&gt; of a link measured in bits&amp;#x2F;second.&lt;/p&gt;
@@ -3145,9 +3145,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-15T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/operating-system-notes-for-placement/</id>
+        <id>https://samir.pages.dev/posts/operating-system-notes-for-placement/</id>
         <title>Operating System Notes For Placement</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/operating-system-notes-for-placement/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/operating-system-notes-for-placement/"/>
         <content type="html">&lt;h1 id=&#34;Operating-Systems-Overview&#34;&gt;&lt;a href=&#34;#Operating-Systems-Overview&#34; class=&#34;headerlink&#34; title=&#34;Operating Systems Overview&#34;&gt;&lt;/a&gt;Operating Systems Overview&lt;/h1&gt;&lt;hr&gt;
 
 &lt;p&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt; :&lt;/p&gt;
@@ -5925,9 +5925,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.913Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/sql-joins-inner-left-right-and-full-joins/</id>
+        <id>https://samir.pages.dev/posts/sql-joins-inner-left-right-and-full-joins/</id>
         <title>SQL Joins - Inner, Left, Right and Full Joins</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/sql-joins-inner-left-right-and-full-joins/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/sql-joins-inner-left-right-and-full-joins/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;SQL Join&lt;/strong&gt; statement is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are as follows: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;INNER JOIN&lt;/li&gt;
@@ -5945,9 +5945,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.910Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</id>
+        <id>https://samir.pages.dev/posts/python-cheat-sheet-for-leetcode/</id>
         <title>Python Cheat Sheet for LeetCode</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-cheat-sheet-for-leetcode/"/>
         <content type="html">&lt;h1 id=&#34;Basics&#34;&gt;&lt;a href=&#34;#Basics&#34; class=&#34;headerlink&#34; title=&#34;Basics&#34;&gt;&lt;/a&gt;Basics&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Data Types&lt;/p&gt;
 &lt;p&gt;  &lt;img src=&#34;https://user-images.githubusercontent.com/47276307/172329842-38f3de07-62d9-4d7d-9a19-fc576ee396a9.jpg&#34; alt=&#34;Untitled&#34;&gt;&lt;/p&gt;
@@ -6105,9 +6105,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.907Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/leetcode-greedy-for-beginners/</id>
+        <id>https://samir.pages.dev/posts/leetcode-greedy-for-beginners/</id>
         <title>LeetCode Greedy for Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/leetcode-greedy-for-beginners/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/leetcode-greedy-for-beginners/"/>
         <content type="html">&lt;p&gt;Greedy for practice:&lt;/p&gt;
 &lt;p&gt;Sharing good Greedy problems for practice:&lt;br&gt;List: &lt;a href=&#34;https://leetcode.com/list/xyehq5j6&#34;&gt;https://leetcode.com/list/xyehq5j6&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sort&amp;#x2F;Array&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/jump-game/&#34;&gt;https://leetcode.com/problems/jump-game/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/jump-game-ii/&#34;&gt;https://leetcode.com/problems/jump-game-ii/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/gas-station/&#34;&gt;https://leetcode.com/problems/gas-station/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/candy/&#34;&gt;https://leetcode.com/problems/candy/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/remove-k-digits/&#34;&gt;https://leetcode.com/problems/remove-k-digits/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/wiggle-subsequence/&#34;&gt;https://leetcode.com/problems/wiggle-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/assign-cookies/&#34;&gt;https://leetcode.com/problems/assign-cookies/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/boats-to-save-people/&#34;&gt;https://leetcode.com/problems/boats-to-save-people/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/&#34;&gt;https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/queue-reconstruction-by-height/&#34;&gt;https://leetcode.com/problems/queue-reconstruction-by-height/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/play-with-chips/&#34;&gt;https://leetcode.com/problems/play-with-chips/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/previous-permutation-with-one-swap/&#34;&gt;https://leetcode.com/problems/previous-permutation-with-one-swap/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/lemonade-change/&#34;&gt;https://leetcode.com/problems/lemonade-change/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;/p&gt;
@@ -6136,9 +6136,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.905Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/graph-for-beginners/</id>
+        <id>https://samir.pages.dev/posts/graph-for-beginners/</id>
         <title>Graph For Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/graph-for-beginners/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/graph-for-beginners/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;Graph Problems For Practice&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sharing some topic wise good Graph problems and sample solutions to observe on how to approach.&lt;/p&gt;
 &lt;p&gt;List: &lt;a href=&#34;https://leetcode.com/list/x1wy4de7&#34;&gt;https://leetcode.com/list/x1wy4de7&lt;/a&gt;&lt;/p&gt;
@@ -6255,9 +6255,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.899Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/leetcode-all-two-pointers-problems/</id>
+        <id>https://samir.pages.dev/posts/leetcode-all-two-pointers-problems/</id>
         <title>LeetCode all two pointers problems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/leetcode-all-two-pointers-problems/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/leetcode-all-two-pointers-problems/"/>
         <content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -6347,9 +6347,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.899Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/binary-search-template/</id>
+        <id>https://samir.pages.dev/posts/binary-search-template/</id>
         <title>Binary Search Template</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/binary-search-template/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/binary-search-template/"/>
         <content type="html">&lt;p&gt;Binary Search is quite easy to understand conceptually. Basically, it splits the search space into two halves and only keep the half that probably has the search target and throw away the other half that would not possibly have the answer. In this manner, we reduce the search space to half the size at every step, until we find the target. Binary Search helps us reduce the search time from linear O(n) to logarithmic O(log n). &lt;strong&gt;But when it comes to implementation, it’s rather difficult to write a bug-free code in just a few minutes&lt;/strong&gt;. Some of the most common problems include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When to exit the loop? Should we use &lt;code&gt;left &amp;lt; right&lt;/code&gt; or &lt;code&gt;left &amp;lt;= right&lt;/code&gt; as the while loop condition?&lt;/li&gt;
@@ -6504,9 +6504,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/dp-for-beginners/</id>
+        <id>https://samir.pages.dev/posts/dp-for-beginners/</id>
         <title>DP for Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/dp-for-beginners/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/dp-for-beginners/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;Longest Increasing Subsequence variants:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-increasing-subsequence/&#34;&gt;https://leetcode.com/problems/longest-increasing-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/largest-divisible-subset/&#34;&gt;https://leetcode.com/problems/largest-divisible-subset/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/russian-doll-envelopes/&#34;&gt;https://leetcode.com/problems/russian-doll-envelopes/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-length-of-pair-chain/&#34;&gt;https://leetcode.com/problems/maximum-length-of-pair-chain/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/number-of-longest-increasing-subsequence/&#34;&gt;https://leetcode.com/problems/number-of-longest-increasing-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/delete-and-earn/&#34;&gt;https://leetcode.com/problems/delete-and-earn/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-string-chain/&#34;&gt;https://leetcode.com/problems/longest-string-chain/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partition Subset:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-equal-subset-sum/&#34;&gt;https://leetcode.com/problems/partition-equal-subset-sum/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/last-stone-weight-ii/&#34;&gt;https://leetcode.com/problems/last-stone-weight-ii/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BitMasking:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-to-k-equal-sum-subsets/&#34;&gt;https://leetcode.com/problems/partition-to-k-equal-sum-subsets/&lt;/a&gt;&lt;/p&gt;
@@ -6567,9 +6567,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/dynamic-programming-patterns/</id>
+        <id>https://samir.pages.dev/posts/dynamic-programming-patterns/</id>
         <title>Dynamic Programming Patterns</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/dynamic-programming-patterns/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/dynamic-programming-patterns/"/>
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705479-a4d6c0a3-0191-4d45-8bf6-597ffaa5de40.png&#34; alt=&#34;Banner&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Before starting the topic let me introduce myself. I am a Mobile Developer currently working in Warsaw and spending my free time for interview preparations. I started to prepare for interviews two years ago. At that time I should say I could not solve the two sum problem. Easy problems seemed to me like hard ones so most of the time I had to look at editorials and discuss section. Currently, I have solved ~800 problems and time to time participate in contests. I usually solve 3 problems in a contest and sometimes 4 problems. Ok, lets come back to the topic.&lt;/p&gt;
 &lt;p&gt;Recently I have concentrated my attention on Dynamic Programming cause its one of the hardest topics in an interview prep. After solving ~140 problems in DP I have noticed that there are few patterns that can be found in different problems. So I did a research on that and find the following topics. I will not give complete ways how to solve problems but these patterns may be helpful in solving DP.&lt;/p&gt;
@@ -6751,11 +6751,11 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/embed-music/</id>
+        <id>https://samir.pages.dev/posts/embed-music/</id>
         <title>Embed MusicApp</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/embed-music/"/>
-        <content type="html">&lt;p&gt;Embed &lt;a href=&#34;https://samirpaul.in/music/embed&#34;&gt;&lt;b&gt;samirpaul.in&amp;#x2F;music&amp;#x2F;embed&lt;/b&gt;&lt;/a&gt; music player(Lofi Study Music) to any website:&lt;/p&gt;
-&lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;iframe src=&#34;https://samirpaul.in/music/embed/index.html&#34;
+        <link rel="alternate" href="https://samir.pages.dev/posts/embed-music/"/>
+        <content type="html">&lt;p&gt;Embed &lt;a href=&#34;https://samir.pages.dev/music/embed&#34;&gt;&lt;b&gt;samir.pages.dev&amp;#x2F;music&amp;#x2F;embed&lt;/b&gt;&lt;/a&gt; music player(Lofi Study Music) to any website:&lt;/p&gt;
+&lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;iframe src=&#34;https://samir.pages.dev/music/embed/index.html&#34;
   title=&#34;Embed MusicApp&#34;
     frameborder=&#34;0&#34;
     loading=&#34;lazy&#34;
@@ -6767,7 +6767,7 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
 &lt;/iframe&gt;
 
 
-&lt;h3 id=&#34;Code&#34;&gt;&lt;a href=&#34;#Code&#34; class=&#34;headerlink&#34; title=&#34;Code:&#34;&gt;&lt;/a&gt;Code:&lt;/h3&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;https://samirpaul.in/music/embed&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Embed MusicApp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;loading&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;lazy&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginheight&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginwidth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;223&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;Code&#34;&gt;&lt;a href=&#34;#Code&#34; class=&#34;headerlink&#34; title=&#34;Code:&#34;&gt;&lt;/a&gt;Code:&lt;/h3&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;https://samir.pages.dev/music/embed&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Embed MusicApp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;loading&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;lazy&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginheight&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginwidth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;223&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
         <category term="blog" />
         <category term="coding" />
@@ -6779,9 +6779,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/url-shortening-service/</id>
+        <id>https://samir.pages.dev/posts/url-shortening-service/</id>
         <title>URL Shortening Service</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/url-shortening-service/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/url-shortening-service/"/>
         <content type="html">&lt;h1 id=&#34;URL-Shortening-Service&#34;&gt;&lt;a href=&#34;#URL-Shortening-Service&#34; class=&#34;headerlink&#34; title=&#34;URL Shortening Service&#34;&gt;&lt;/a&gt;URL Shortening Service&lt;/h1&gt;&lt;h2 id=&#34;Summary&#34;&gt;&lt;a href=&#34;#Summary&#34; class=&#34;headerlink&#34; title=&#34;Summary&#34;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-overview.png&#34; alt=&#34;overview&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SamirPaulb/assets/main/blog/system-design/short-url-detail.png&#34; alt=&#34;summary&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Requirements&#34;&gt;&lt;a href=&#34;#Requirements&#34; class=&#34;headerlink&#34; title=&#34;Requirements&#34;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Functional Requirements&lt;/p&gt;
@@ -7142,9 +7142,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.888Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/system-design-interview-for-it-companies/</id>
+        <id>https://samir.pages.dev/posts/system-design-interview-for-it-companies/</id>
         <title>System design interview for IT companies</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/system-design-interview-for-it-companies/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/system-design-interview-for-it-companies/"/>
         <content type="html">&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/systemcycle.png&#34; alt=&#34;system development life cycle&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;How to prepare system design questions for an IT company&lt;/p&gt;
@@ -7392,9 +7392,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.883Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/sql-vs-nosql/</id>
+        <id>https://samir.pages.dev/posts/sql-vs-nosql/</id>
         <title>SQL vs. NoSQL</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/sql-vs-nosql/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/sql-vs-nosql/"/>
         <content type="html">&lt;h1 id=&#34;SQL-vs-NoSQL&#34;&gt;&lt;a href=&#34;#SQL-vs-NoSQL&#34; class=&#34;headerlink&#34; title=&#34;SQL vs. NoSQL&#34;&gt;&lt;/a&gt;SQL vs. NoSQL&lt;/h1&gt;&lt;h2 id=&#34;Common-types-of-NoSQL&#34;&gt;&lt;a href=&#34;#Common-types-of-NoSQL&#34; class=&#34;headerlink&#34; title=&#34;Common types of NoSQL&#34;&gt;&lt;/a&gt;Common types of NoSQL&lt;/h2&gt;&lt;h3 id=&#34;Key-value-stores&#34;&gt;&lt;a href=&#34;#Key-value-stores&#34; class=&#34;headerlink&#34; title=&#34;Key-value stores&#34;&gt;&lt;/a&gt;Key-value stores&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Array of key-value pairs. The “key” is an attribute name.&lt;/li&gt;
 &lt;li&gt;Redis, Vodemort, Dynamo.&lt;/li&gt;
@@ -7501,9 +7501,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.878Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</id>
+        <id>https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</id>
         <title>Steps how to approach the system design questions in interviews</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/"/>
         <content type="html">&lt;p&gt;These are the steps to go through mentally in the interviews, followed by actual interview experiences:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;a) &lt;strong&gt;Be absolutely sure you understand the problem being asked&lt;/strong&gt;, clarify on the onset rather than assuming anything &lt;/li&gt;
@@ -7558,9 +7558,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.878Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/sharding-or-data-partitioning/</id>
+        <id>https://samir.pages.dev/posts/sharding-or-data-partitioning/</id>
         <title>Sharding or Data Partitioning</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/sharding-or-data-partitioning/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/sharding-or-data-partitioning/"/>
         <content type="html">&lt;h1 id=&#34;Sharding-Data-Partitioning&#34;&gt;&lt;a href=&#34;#Sharding-Data-Partitioning&#34; class=&#34;headerlink&#34; title=&#34;Sharding &amp;#x2F; Data Partitioning&#34;&gt;&lt;/a&gt;Sharding &amp;#x2F; Data Partitioning&lt;/h1&gt;&lt;h2 id=&#34;Partitioning-methods&#34;&gt;&lt;a href=&#34;#Partitioning-methods&#34; class=&#34;headerlink&#34; title=&#34;Partitioning methods&#34;&gt;&lt;/a&gt;Partitioning methods&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Horizontal partitioning&lt;ul&gt;
 &lt;li&gt;Range based sharding.&lt;/li&gt;
@@ -7660,9 +7660,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.876Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/pyshooter/</id>
+        <id>https://samir.pages.dev/posts/pyshooter/</id>
         <title>PyShooter Python Game</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/pyshooter/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/pyshooter/"/>
         <content type="html">&lt;h1 id=&#34;PyShooter&#34;&gt;&lt;a href=&#34;#PyShooter&#34; class=&#34;headerlink&#34; title=&#34;PyShooter&#34;&gt;&lt;/a&gt;PyShooter&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/language-python-blue.svg?style=flat&#34; alt=&#34;Language&#34;&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;http://www.pygame.org/news.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat&#34; alt=&#34;Module&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;PyShooter is a two-dimensional shooter game in which the player runs horizontally and fires at enemies.&lt;/p&gt;
 &lt;h5 id=&#34;Repository-https-github-com-SamirPaul1-PyShooter&#34;&gt;&lt;a href=&#34;#Repository-https-github-com-SamirPaul1-PyShooter&#34; class=&#34;headerlink&#34; title=&#34;Repository: https://github.com/SamirPaul1/PyShooter&#34;&gt;&lt;/a&gt;Repository: &lt;a href=&#34;https://github.com/SamirPaul1/PyShooter&#34;&gt;https://github.com/SamirPaul1/PyShooter&lt;/a&gt;&lt;/h5&gt;&lt;h2 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h2&gt;&lt;iframe width=&#34;100%&#34; height=&#34;420&#34; src=&#34;https://www.youtube.com/embed/rg-49OTHZVY&#34; loading=&#34;lazy&#34; title=&#34;PyShooter - Samir Paul - YouTube&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
@@ -7711,9 +7711,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.872Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/key-characteristics-of-distributed-systems/</id>
+        <id>https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/</id>
         <title>Key Characteristics of Distributed Systems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/key-characteristics-of-distributed-systems/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/"/>
         <content type="html">&lt;h1 id=&#34;Key-Characteristics-of-Distributed-Systems&#34;&gt;&lt;a href=&#34;#Key-Characteristics-of-Distributed-Systems&#34; class=&#34;headerlink&#34; title=&#34;Key Characteristics of Distributed Systems&#34;&gt;&lt;/a&gt;Key Characteristics of Distributed Systems&lt;/h1&gt;&lt;h2 id=&#34;Scalability&#34;&gt;&lt;a href=&#34;#Scalability&#34; class=&#34;headerlink&#34; title=&#34;Scalability&#34;&gt;&lt;/a&gt;Scalability&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;The capability of a system to grow and manage increased demand.&lt;/li&gt;
 &lt;li&gt;A system that can continuously evolve to support growing amount of work is scalable.&lt;/li&gt;
@@ -7752,9 +7752,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.869Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/high-level-design/</id>
+        <id>https://samir.pages.dev/posts/high-level-design/</id>
         <title>High-level design</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/high-level-design/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/high-level-design/"/>
         <content type="html">&lt;h1 id=&#34;High-level-design-HLD&#34;&gt;&lt;a href=&#34;#High-level-design-HLD&#34; class=&#34;headerlink&#34; title=&#34;High-level design (HLD)&#34;&gt;&lt;/a&gt;High-level design (HLD)&lt;/h1&gt;&lt;hr&gt;
 &lt;h1 id=&#34;Ticketmaster&#34;&gt;&lt;a href=&#34;#Ticketmaster&#34; class=&#34;headerlink&#34; title=&#34;Ticketmaster&#34;&gt;&lt;/a&gt;Ticketmaster&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;/assets/img/system-design/ticketmaster-overview.png&#34; alt=&#34;ticketmaster-overview&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -7788,9 +7788,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.867Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/consistent-hashing/</id>
+        <id>https://samir.pages.dev/posts/consistent-hashing/</id>
         <title>Consistent Hashing</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/consistent-hashing/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/consistent-hashing/"/>
         <content type="html">&lt;h1 id=&#34;Consistent-Hashing&#34;&gt;&lt;a href=&#34;#Consistent-Hashing&#34; class=&#34;headerlink&#34; title=&#34;Consistent Hashing&#34;&gt;&lt;/a&gt;Consistent Hashing&lt;/h1&gt;&lt;h2 id=&#34;Simple-hashing&#34;&gt;&lt;a href=&#34;#Simple-hashing&#34; class=&#34;headerlink&#34; title=&#34;Simple hashing&#34;&gt;&lt;/a&gt;Simple hashing&lt;/h2&gt;&lt;p&gt;Problems of simple hashing function &lt;code&gt;key % n&lt;/code&gt; (&lt;code&gt;n&lt;/code&gt; is the number of servers):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;It is not horizontally scalable. Whenever a new cache host is added to the system, all existing mappings are broken.&lt;/li&gt;
@@ -7822,9 +7822,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.865Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/company-engineering-blog-links/</id>
+        <id>https://samir.pages.dev/posts/company-engineering-blog-links/</id>
         <title>Company engineering blog links</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/company-engineering-blog-links/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/company-engineering-blog-links/"/>
         <content type="html">&lt;p&gt;courtesy &lt;a href=&#34;https://github.com/checkcheckzz/system-design-interview#toc&#34;&gt;checkcheckzz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Depending on where you are interviewing, go through the company blog. VERY USEFUL IN INTERVIEWS! It really helps if you have an idea of the architecture, as the questions asked will generally be of that domain and your prior knowledge will help out here.&lt;/p&gt;
 &lt;ul&gt;
@@ -7873,9 +7873,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.862Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/common-design-questions/</id>
+        <id>https://samir.pages.dev/posts/common-design-questions/</id>
         <title>Common Design questions</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/common-design-questions/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/common-design-questions/"/>
         <content type="html">&lt;p&gt;It generally depends what you are and you will be working on. Also what your level is but these are some of the more frequent interview questions.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Design amazon’s frequently viewed product page (eg. which shows the last 5 items you saw)&lt;/li&gt;
@@ -7907,9 +7907,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.859Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/client-server-communication/</id>
+        <id>https://samir.pages.dev/posts/client-server-communication/</id>
         <title>Client-Server Communication</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/client-server-communication/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/client-server-communication/"/>
         <content type="html">&lt;h1 id=&#34;Client-Server-Communication&#34;&gt;&lt;a href=&#34;#Client-Server-Communication&#34; class=&#34;headerlink&#34; title=&#34;Client-Server Communication&#34;&gt;&lt;/a&gt;Client-Server Communication&lt;/h1&gt;&lt;h2 id=&#34;Standard-HTTP-Web-Request&#34;&gt;&lt;a href=&#34;#Standard-HTTP-Web-Request&#34; class=&#34;headerlink&#34; title=&#34;Standard HTTP Web Request&#34;&gt;&lt;/a&gt;Standard HTTP Web Request&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;Client opens a connection and requests data from server.&lt;/li&gt;
 &lt;li&gt;Server calculates the response.&lt;/li&gt;
@@ -7963,9 +7963,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.857Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/caching/</id>
+        <id>https://samir.pages.dev/posts/caching/</id>
         <title>Caching</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/caching/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/caching/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;Take advantage of the locality of reference principle: recently requested data is likely to be requested again.&lt;/li&gt;
 &lt;li&gt;Exist at all levels in architecture, but often found at the level nearest to the front end.&lt;/li&gt;
@@ -8084,9 +8084,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.855Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/google-programmable-search-engine/</id>
+        <id>https://samir.pages.dev/posts/google-programmable-search-engine/</id>
         <title>Google Programmable Search Engine</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/google-programmable-search-engine/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/google-programmable-search-engine/"/>
         <content type="html">&lt;p&gt;Google Programmable Search Engine lets you include a search engine on your website to help your visitors find the information they’re looking for. Because Programmable Search Engine is based on Google’s core search technology, you can be confident that your users are getting high quality, relevant results. You can customize a lot of your search engine, including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Apply your site’s look and feel to the search box and results page&lt;/li&gt;
@@ -8113,9 +8113,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.852Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/why-is-system-design-so-important/</id>
+        <id>https://samir.pages.dev/posts/why-is-system-design-so-important/</id>
         <title>Why is System Design So Important?</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/why-is-system-design-so-important/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/why-is-system-design-so-important/"/>
         <content type="html">&lt;p&gt;System design is important for several reasons:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Defining system requirements:&lt;/strong&gt; System design helps to identify the requirements and constraints of the system being designed, and to prioritize those requirements. This ensures that the final design meets the needs of the stakeholders and users.&lt;/p&gt;
@@ -8138,9 +8138,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.850Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/why-does-the-osi-model-matter/</id>
+        <id>https://samir.pages.dev/posts/why-does-the-osi-model-matter/</id>
         <title>Why Does The OSI Model Matter?</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/why-does-the-osi-model-matter/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/why-does-the-osi-model-matter/"/>
         <content type="html">&lt;p&gt;The OSI (Open Systems Interconnection) model matters because it provides a standard way of describing and understanding the different functions and components involved in a network communication. The OSI model is a seven-layer abstraction of the network communication process, and it defines the tasks and responsibilities of each layer.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Standardization: The OSI model provides a standard reference model that is widely used and accepted in the industry. This standardization helps to ensure that different systems and components can communicate with each other, even if they were developed by different vendors or organizations.&lt;/p&gt;
@@ -8160,9 +8160,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.847Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/what-is-system-design/</id>
+        <id>https://samir.pages.dev/posts/what-is-system-design/</id>
         <title>What is System Design?</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/what-is-system-design/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/what-is-system-design/"/>
         <content type="html">&lt;p&gt;System design is a process of defining the architecture, modules, interfaces, data for a system to satisfy specified requirements. It can refer to the design of a complex system, such as a computer network, an aircraft, or a power plant, or it can refer to the design of a smaller system, such as a software application or a single computer program.&lt;/p&gt;
 &lt;p&gt;The goal of system design is to produce a blueprint or plan that outlines how all the components of the system will work together to achieve the desired outcomes. This process typically involves analyzing the requirements of the system, defining the architecture, selecting appropriate technologies, and ensuring that the system is scalable, maintainable, and meets performance, reliability, and security requirements.&lt;/p&gt;
 &lt;p&gt;In software engineering, system design is often used as a synonym for software design, which is the process of defining the architecture, modules, interfaces, and data for a software system to satisfy specified requirements.&lt;/p&gt;
@@ -8174,9 +8174,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.844Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/virtualization-vs-containerization/</id>
+        <id>https://samir.pages.dev/posts/virtualization-vs-containerization/</id>
         <title>Virtualization vs Containerization</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/virtualization-vs-containerization/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/virtualization-vs-containerization/"/>
         <content type="html">&lt;p&gt;Virtualization and containerization are two different approaches to creating and managing virtual environments for software applications.&lt;/p&gt;
 &lt;p&gt;Virtualization involves creating a virtual machine (VM) that acts as a separate, self-contained operating system environment. Each VM runs its own operating system and applications, and has its own set of virtual hardware resources, such as CPU, memory, and storage. Virtualization allows multiple virtual machines to run on a single physical server, improving utilization and reducing costs. Examples of virtualization technology include VMware and Hyper-V.&lt;/p&gt;
 &lt;p&gt;Containerization, on the other hand, is a newer approach to virtualization that is designed to be more lightweight and efficient. Containers are similar to virtual machines, in that they provide a self-contained environment for running applications. However, unlike virtual machines, containers do not include a full operating system. Instead, they share the host operating system and rely on the host for system services. This means that containers are much smaller and faster to start up than virtual machines, and can be run on a much larger scale. Examples of containerization technology include Docker and Kubernetes.&lt;/p&gt;
@@ -8190,9 +8190,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.842Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/tcp-vs-udp/</id>
+        <id>https://samir.pages.dev/posts/tcp-vs-udp/</id>
         <title>TCP vs UDP</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/tcp-vs-udp/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/tcp-vs-udp/"/>
         <content type="html">&lt;p&gt;TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two of the most commonly used protocols for transmitting data over a network.&lt;/p&gt;
 &lt;p&gt;TCP is a reliable and connection-oriented protocol, meaning that a virtual connection must be established between the sender and the receiver before data can be transmitted. It ensures that data is delivered to the recipient in the same order it was sent, and that it is received without errors. If a packet of data is lost or corrupted during transmission, TCP will automatically retransmit the missing data until it is successfully received. This makes TCP a great choice for applications that require reliable data transfer, such as email and file transfers.&lt;/p&gt;
 &lt;p&gt;UDP, on the other hand, is a connectionless and unreliable protocol. Unlike TCP, it does not establish a virtual connection between the sender and the receiver, and it does not guarantee that the data will be delivered in the same order it was sent. It is faster than TCP because it has less overhead, but it is less reliable. UDP is often used for applications that do not require reliable data transfer and can tolerate some lost or corrupted data, such as video or audio streaming, online gaming, and voice over IP (VoIP).&lt;/p&gt;
@@ -8204,9 +8204,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.839Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/ssl-tls-mtls/</id>
+        <id>https://samir.pages.dev/posts/ssl-tls-mtls/</id>
         <title>SSL TLS mTLS</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/ssl-tls-mtls/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/ssl-tls-mtls/"/>
         <content type="html">&lt;p&gt;SSL (Secure Sockets Layer), TLS (Transport Layer Security), and mTLS (Mutual TLS) are all security protocols used to secure communications over the internet.&lt;/p&gt;
 &lt;p&gt;SSL was the original protocol used to secure internet communications, but it has been largely replaced by TLS, which is considered to be more secure. TLS is a cryptographic protocol that provides secure communication between two endpoints, such as a web server and a client browser. It ensures that the data transmitted between the endpoints is confidential and integrity protected.&lt;/p&gt;
 &lt;p&gt;mTLS, also known as Mutual TLS, is an extension of TLS that adds an extra layer of security by requiring both the client and server to present a valid certificate to each other. This provides a stronger level of identity validation and protects against man-in-the-middle attacks. mTLS is used in situations where it is important to ensure the authenticity of both parties involved in a communication, such as in financial transactions or sensitive data transfers.&lt;/p&gt;
@@ -8218,9 +8218,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.837Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/slo-or-service-level-objective/</id>
+        <id>https://samir.pages.dev/posts/slo-or-service-level-objective/</id>
         <title>SLO or Service Level Objective</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/slo-or-service-level-objective/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/slo-or-service-level-objective/"/>
         <content type="html">&lt;p&gt;A Service Level Objective (SLO) is a target or goal that a service provider sets for a specific service or service component, in terms of performance, availability, or some other quality metric. The SLO defines what the service provider considers to be an acceptable level of service, and provides a clear and measurable way to track the performance of the service over time.&lt;/p&gt;
 &lt;p&gt;An SLO is typically expressed as a specific, quantifiable target, such as “99.95% availability” or “mean response time of less than 500 milliseconds”. The SLO can be used to track the performance of the service, and to identify areas where improvements can be made.&lt;/p&gt;
 &lt;p&gt;The SLO is often used in conjunction with a Service Level Agreement (SLA), which is a formal agreement between a service provider and a customer that outlines the level of service that will be delivered. The SLO forms the basis for the SLA, and provides a clear and measurable target for the service provider to meet.&lt;/p&gt;
@@ -8232,9 +8232,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.835Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/sla-or-service-level-agreement/</id>
+        <id>https://samir.pages.dev/posts/sla-or-service-level-agreement/</id>
         <title>SLA or Service Level Agreement</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/sla-or-service-level-agreement/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/sla-or-service-level-agreement/"/>
         <content type="html">&lt;p&gt;A Service Level Agreement (SLA) is a contract between a service provider and a customer that outlines the level of service that the provider will deliver. The agreement is designed to ensure that the customer is aware of what to expect from the service, and to hold the service provider accountable for meeting those expectations.&lt;/p&gt;
 &lt;p&gt;SLAs typically cover a range of aspects, including:&lt;/p&gt;
 &lt;p&gt;Availability: The percentage of time that the service will be available and accessible to the customer.&lt;/p&gt;
@@ -8251,9 +8251,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.832Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/single-sign-on-sso/</id>
+        <id>https://samir.pages.dev/posts/single-sign-on-sso/</id>
         <title>Single Sign-On SSO</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/single-sign-on-sso/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/single-sign-on-sso/"/>
         <content type="html">&lt;p&gt;Single Sign-On (SSO) is a centralized authentication mechanism that allows users to access multiple applications or services with a single set of credentials. The idea behind SSO is to simplify the process of logging in to various systems, so that users only have to remember one username and password.&lt;/p&gt;
 &lt;p&gt;With SSO, when a user logs in to one application or service, they are automatically logged in to all of the other systems and applications that are part of the SSO solution. This eliminates the need for the user to enter their credentials for each individual system, reducing the risk of forgotten passwords, password fatigue, and other security-related issues.&lt;/p&gt;
 &lt;p&gt;There are different SSO technologies, including SAML (Security Assertion Markup Language), Kerberos, and OAuth&amp;#x2F;OpenID Connect. Each of these technologies has its own strengths and weaknesses, and the best choice depends on the specific requirements and constraints of the organization.&lt;/p&gt;
@@ -8265,9 +8265,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.830Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</id>
+        <id>https://samir.pages.dev/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</id>
         <title>SAML vs OAuth 2.0 and OpenID Connect</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/saml-vs-oauth-2-dot-0-and-openid-connect/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/saml-vs-oauth-2-dot-0-and-openid-connect/"/>
         <content type="html">&lt;p&gt;SAML (Security Assertion Markup Language), OAuth 2.0, and OpenID Connect are all protocols used for authentication and authorization on the web, but they each have different purposes and use cases.&lt;/p&gt;
 &lt;p&gt;SAML is an XML-based standard for exchanging authentication and authorization data between parties. It is primarily used for single sign-on (SSO) solutions, allowing users to log in to multiple applications and services with a single set of credentials. SAML is used by many organizations to provide a secure and seamless SSO experience for their users.&lt;/p&gt;
 &lt;p&gt;OAuth 2.0 is an authorization framework that enables a third-party application to obtain limited access to an HTTP service on behalf of a resource owner, without requiring the resource owner to reveal its credentials. OAuth 2.0 provides a secure way for a user to grant access to their resources to a third-party application, without the need for the user to share their password with the application. OAuth 2.0 is used by many popular web applications, including Google, Facebook, and Twitter, to allow users to authenticate and authorize access to their resources.&lt;/p&gt;
@@ -8280,9 +8280,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.827Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-vs-r-for-data-science/</id>
+        <id>https://samir.pages.dev/posts/python-vs-r-for-data-science/</id>
         <title>Python vs R for data science</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-vs-r-for-data-science/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-vs-r-for-data-science/"/>
         <content type="html">&lt;p&gt;Both Python and R are popular programming languages used in data science, but each has its own strengths and weaknesses.&lt;/p&gt;
 &lt;p&gt;Python is a general-purpose programming language that has become a popular choice for data science due to its simplicity, versatility, and large community of users. Python has a large number of libraries and packages specifically designed for data analysis and manipulation, such as NumPy, Pandas, and Matplotlib. It also has a rich ecosystem for machine learning, with libraries such as scikit-learn, TensorFlow, and PyTorch.&lt;/p&gt;
 &lt;p&gt;On the other hand, R is a language specifically designed for data analysis and statistical computing. R has a strong focus on graphical representation of data and provides many built-in functions for statistical analysis, making it a popular choice for exploratory data analysis. R also has a vast library of packages for data analysis, machine learning, and visualization, such as ggplot2, dplyr, and caret.&lt;/p&gt;
@@ -8294,9 +8294,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.825Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-to-automate-web-scraping/</id>
         <title>Python libraries to automate web scraping</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-to-automate-web-scraping/"/>
         <content type="html">&lt;p&gt;There are several libraries in Python for automating web scraping:&lt;/p&gt;
 &lt;p&gt;BeautifulSoup: This is a popular library for web scraping and parsing HTML and XML documents. It provides a convenient way to extract data from HTML and XML documents by searching and navigating the document tree.&lt;/p&gt;
 &lt;p&gt;Scrapy: This is a full-featured web crawling and scraping framework for Python. It provides a comprehensive toolset for extracting data from websites, including features for handling common tasks like logging in, following links, and handling errors.&lt;/p&gt;
@@ -8311,9 +8311,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.823Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</id>
         <title>Python libraries for validating data. Used for forms in many cases</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/"/>
         <content type="html">&lt;p&gt;There are several Python libraries available for validating data, including:&lt;/p&gt;
 &lt;p&gt;WTForms: WTForms is a flexible and powerful form handling library for Python. It provides a simple and intuitive interface for defining and validating forms, and it includes built-in support for a wide range of form fields, including text fields, checkboxes, and select fields.&lt;/p&gt;
 &lt;p&gt;Django Forms: Django Forms is a form handling library built into the Django web framework. It provides a simple and flexible interface for defining and validating forms, and it includes support for a wide range of form fields, including text fields, checkboxes, and select fields.&lt;/p&gt;
@@ -8328,9 +8328,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.820Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-parsing-urls/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-parsing-urls/</id>
         <title>Python libraries for parsing URLs</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-parsing-urls/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-parsing-urls/"/>
         <content type="html">&lt;p&gt;There are several libraries in Python for parsing URLs:&lt;/p&gt;
 &lt;p&gt;urllib: This is a standard library in Python, and it includes several modules for working with URLs and HTTP requests, including urllib.parse which provides functions for parsing URLs.&lt;/p&gt;
 &lt;p&gt;urlparse: This is another standard library in Python, and it provides similar functionality as urllib.parse.&lt;/p&gt;
@@ -8345,9 +8345,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.817Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-manipulating-audio-and-its-metadata/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-manipulating-audio-and-its-metadata/</id>
         <title>Python libraries for manipulating audio and its metadata</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-manipulating-audio-and-its-metadata/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-manipulating-audio-and-its-metadata/"/>
         <content type="html">&lt;p&gt;There are several Python libraries that can be used for manipulating audio and its metadata, including:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;pydub:&lt;/strong&gt; pydub is a high-level library for audio manipulation. It allows you to load audio from a variety of sources (including MP3, WAV, and FLAC files), perform operations on the audio (such as slicing, concatenating, and exporting), and work with the metadata associated with the audio.&lt;/p&gt;
@@ -8369,9 +8369,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.814Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-implementing-authentication-schemes/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-implementing-authentication-schemes/</id>
         <title>Python libraries for implementing authentication schemes</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-implementing-authentication-schemes/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-implementing-authentication-schemes/"/>
         <content type="html">&lt;p&gt;There are several Python libraries that can be used for implementing authentication schemes, including:&lt;/p&gt;
 &lt;p&gt;Flask-Login: Flask-Login is a library for handling user authentication in Flask applications. It provides a simple and flexible interface for managing user accounts, including login and logout, as well as user session management.&lt;/p&gt;
 &lt;p&gt;Django-Auth-LDAP: Django-Auth-LDAP is a library for authenticating against an LDAP directory in Django applications. It provides a simple and efficient way to authenticate users against an LDAP directory, and it includes support for user account management and session management.&lt;/p&gt;
@@ -8386,9 +8386,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.812Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-caching-data/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-caching-data/</id>
         <title>Python libraries for caching data</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-caching-data/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-caching-data/"/>
         <content type="html">&lt;p&gt;There are several Python libraries available for caching data, including:&lt;/p&gt;
 &lt;p&gt;Redis: Redis is an open-source, in-memory data store that supports a wide range of data structures, including hashes, lists, sets, and sorted sets. Redis can be used as a caching layer for storing frequently-accessed data, and it provides fast and efficient access to cached data.&lt;/p&gt;
 &lt;p&gt;Memcached: Memcached is a distributed memory caching system that is often used as a caching layer for storing frequently-accessed data. It provides fast and efficient access to cached data, and it can be easily integrated with Python applications.&lt;/p&gt;
@@ -8403,9 +8403,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.809Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
+        <id>https://samir.pages.dev/posts/python-content-management-systems/</id>
         <title>Python Content Management Systems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-content-management-systems/"/>
         <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
 &lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
 &lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
@@ -8420,9 +8420,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.803Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-administrative-interfaces/</id>
         <title>Python libraries for administrative interfaces</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-administrative-interfaces/"/>
         <content type="html">&lt;p&gt;There are several Python libraries that can be used to create administrative interfaces for web applications. Some popular ones include:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Django Admin:&lt;/strong&gt; Django is a high-level Python web framework that includes a built-in administrative interface. The Django Admin interface is a powerful tool for managing the data and settings of a Django-powered website. It is designed to be easy to use and provides a range of functionality, including the ability to add, edit, and delete records, manage user accounts, and run custom actions on selected records.&lt;/p&gt;
@@ -8442,9 +8442,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.803Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/oauth-2-dot-0-and-openid-connect/</id>
+        <id>https://samir.pages.dev/posts/oauth-2-dot-0-and-openid-connect/</id>
         <title>OAuth 2.0 and OpenID Connect</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/oauth-2-dot-0-and-openid-connect/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/oauth-2-dot-0-and-openid-connect/"/>
         <content type="html">&lt;p&gt;OAuth 2.0 and OpenID Connect are both open standards for authorization and authentication on the web. They are used to control access to resources, such as APIs, and to verify the identity of users.&lt;/p&gt;
 &lt;p&gt;OAuth 2.0 is an authorization framework that enables a third-party application to obtain limited access to an HTTP service on behalf of a resource owner, without requiring the resource owner to reveal its credentials. OAuth 2.0 provides a secure way for a user to grant access to their resources to a third-party application, without the need for the user to share their password with the application. OAuth 2.0 is used by many popular web applications, including Google, Facebook, and Twitter, to allow users to authenticate and authorize access to their resources.&lt;/p&gt;
 &lt;p&gt;OpenID Connect is a simple identity layer built on top of OAuth 2.0. It provides a secure way to authenticate users and verify their identities, while also providing information about the user’s identity to the client. OpenID Connect enables the client to know that the user is who they claim to be, without having to manage passwords or other sensitive information. It provides a single sign-on solution, allowing users to authenticate once and then access multiple applications without having to log in again. OpenID Connect is used by many organizations to provide a secure and easy way for their users to authenticate and access resources.&lt;/p&gt;
@@ -8456,9 +8456,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.800Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/libraries-for-visualizing-data/</id>
+        <id>https://samir.pages.dev/posts/libraries-for-visualizing-data/</id>
         <title>Libraries for visualizing data</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/libraries-for-visualizing-data/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/libraries-for-visualizing-data/"/>
         <content type="html">&lt;p&gt;There are many libraries available in Python for visualizing data, including:&lt;/p&gt;
 &lt;p&gt;Matplotlib: Matplotlib is a plotting library for creating static, animated, and interactive visualizations in Python. It provides a wide range of visualization options, including line charts, bar charts, scatter plots, and histograms, and it can be easily integrated with other data analysis libraries, such as NumPy and Pandas.&lt;/p&gt;
 &lt;p&gt;Seaborn: Seaborn is a library for creating beautiful and informative statistical graphics in Python. It provides a high-level interface for creating a wide range of visualizations, including heat maps, violin plots, and regression plots, and it is built on top of Matplotlib.&lt;/p&gt;
@@ -8473,9 +8473,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.797Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/how-to-learn-object-oriented-programming-in-python/</id>
+        <id>https://samir.pages.dev/posts/how-to-learn-object-oriented-programming-in-python/</id>
         <title>how to learn object oriented programming in python</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/how-to-learn-object-oriented-programming-in-python/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/how-to-learn-object-oriented-programming-in-python/"/>
         <content type="html">&lt;p&gt;Learning object-oriented programming (OOP) in Python can be done by following these steps:&lt;/p&gt;
 &lt;p&gt;Familiarize yourself with the basic syntax and features of Python: Before diving into OOP, it’s important to have a good understanding of the basic syntax and features of the language, such as variables, data types, functions, and control structures.&lt;/p&gt;
 &lt;p&gt;Understand the basics of OOP: OOP is a programming paradigm that is based on the concept of “objects”. An object is a data structure that contains both data and the functions (methods) that operate on that data. OOP also involves the concepts of inheritance, encapsulation, and polymorphism.&lt;/p&gt;
@@ -8492,9 +8492,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.795Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/databases-implemented-in-python/</id>
+        <id>https://samir.pages.dev/posts/databases-implemented-in-python/</id>
         <title>Databases implemented in Python</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/databases-implemented-in-python/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/databases-implemented-in-python/"/>
         <content type="html">&lt;p&gt;There are several databases that have been implemented in Python, including:&lt;/p&gt;
 &lt;p&gt;SQLite: SQLite is a lightweight, file-based database that is well-suited for small to medium-sized projects. It provides a simple and efficient SQL interface, and it is included as a standard library in many Python distributions.&lt;/p&gt;
 &lt;p&gt;PostgreSQL: PostgreSQL is a powerful, open-source relational database that is well-suited for large, complex projects. It provides a rich set of features, including transactions, stored procedures, and advanced indexing, and it is widely used in a variety of applications, from web applications to scientific research.&lt;/p&gt;
@@ -8509,9 +8509,9 @@ Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):&lt;/p&g
         <updated>2023-08-05T20:52:53.787Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/gaming-library-in-python/</id>
+        <id>https://samir.pages.dev/posts/gaming-library-in-python/</id>
         <title>gaming library in python</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/gaming-library-in-python/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/gaming-library-in-python/"/>
         <content type="html">&lt;p&gt;There are several libraries in Python that can be used for game development, including:&lt;/p&gt;
 &lt;p&gt;Pygame: This is a popular library for game development in Python. It provides a simple and easy-to-use set of tools for creating 2D games and other types of interactive applications.&lt;/p&gt;
 &lt;p&gt;Arcade: This is a library for creating 2D video games and other interactive applications in Python. It provides a high-level API for creating games and other interactive applications, making it a great choice for beginners.&lt;/p&gt;

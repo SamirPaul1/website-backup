@@ -4,24 +4,24 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Samir Paul</title>
-    <link>https://samirpaul.in/</link>
+    <link>https://samir.pages.dev/</link>
     
     <image>
-      <url>https://samirpaul.in/icon.png</url>
+      <url>https://samir.pages.dev/icon.png</url>
       <title>Samir Paul</title>
-      <link>https://samirpaul.in/</link>
+      <link>https://samir.pages.dev/</link>
     </image>
     
-    <atom:link href="https://samirpaul.in/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://samir.pages.dev/index.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software Engineer</description>
-    <pubDate>Tue, 08 Aug 2023 16:26:01 GMT</pubDate>
+    <pubDate>Thu, 10 Aug 2023 16:59:12 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>Data Structures and Algorithms for Coding Interview</title>
-      <link>https://samirpaul.in/posts/data-structures-and-algorithms-for-coding-interview/</link>
-      <guid>https://samirpaul.in/posts/data-structures-and-algorithms-for-coding-interview/</guid>
+      <link>https://samir.pages.dev/posts/data-structures-and-algorithms-for-coding-interview/</link>
+      <guid>https://samir.pages.dev/posts/data-structures-and-algorithms-for-coding-interview/</guid>
       <pubDate>Tue, 15 Aug 2023 04:25:52 GMT</pubDate>
       
       <description>Data Structures and Algorithms for Coding Interview</description>
@@ -29,24 +29,24 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/Data-Structures-and-Algorithms/">Data Structures and Algorithms</category>
+      <category domain="https://samir.pages.dev/categories/Data-Structures-and-Algorithms/">Data Structures and Algorithms</category>
       
       
-      <category domain="https://samirpaul.in/tags/DSAlgo/">DSAlgo</category>
+      <category domain="https://samir.pages.dev/tags/DSAlgo/">DSAlgo</category>
       
-      <category domain="https://samirpaul.in/tags/dsa-in-python/">dsa-in-python</category>
+      <category domain="https://samir.pages.dev/tags/dsa-in-python/">dsa-in-python</category>
       
-      <category domain="https://samirpaul.in/tags/data-structures-and-algorithms/">data-structures-and-algorithms</category>
+      <category domain="https://samir.pages.dev/tags/data-structures-and-algorithms/">data-structures-and-algorithms</category>
       
       
-      <comments>https://samirpaul.in/posts/data-structures-and-algorithms-for-coding-interview/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/data-structures-and-algorithms-for-coding-interview/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>System Design Course</title>
-      <link>https://samirpaul.in/posts/system-design-course/</link>
-      <guid>https://samirpaul.in/posts/system-design-course/</guid>
+      <link>https://samir.pages.dev/posts/system-design-course/</link>
+      <guid>https://samir.pages.dev/posts/system-design-course/</guid>
       <pubDate>Tue, 15 Aug 2023 04:24:59 GMT</pubDate>
       
       <description>System Design Course</description>
@@ -54,24 +54,24 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/System-Design/">System Design</category>
+      <category domain="https://samir.pages.dev/categories/System-Design/">System Design</category>
       
       
-      <category domain="https://samirpaul.in/tags/system-design/">system-design</category>
+      <category domain="https://samir.pages.dev/tags/system-design/">system-design</category>
       
-      <category domain="https://samirpaul.in/tags/distributed-systems/">distributed-systems</category>
+      <category domain="https://samir.pages.dev/tags/distributed-systems/">distributed-systems</category>
       
-      <category domain="https://samirpaul.in/tags/databases/">databases</category>
+      <category domain="https://samir.pages.dev/tags/databases/">databases</category>
       
       
-      <comments>https://samirpaul.in/posts/system-design-course/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/system-design-course/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Leetcode Solutions Cheatsheet</title>
-      <link>https://samirpaul.in/posts/leetcode-solutions-cheatsheet/</link>
-      <guid>https://samirpaul.in/posts/leetcode-solutions-cheatsheet/</guid>
+      <link>https://samir.pages.dev/posts/leetcode-solutions-cheatsheet/</link>
+      <guid>https://samir.pages.dev/posts/leetcode-solutions-cheatsheet/</guid>
       <pubDate>Tue, 15 Aug 2023 04:24:55 GMT</pubDate>
       
       <description>Leetcode Solutions Cheatsheet</description>
@@ -79,20 +79,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/LeetCode/">LeetCode</category>
+      <category domain="https://samir.pages.dev/categories/LeetCode/">LeetCode</category>
       
       
-      <category domain="https://samirpaul.in/tags/LeetCode/">LeetCode</category>
+      <category domain="https://samir.pages.dev/tags/LeetCode/">LeetCode</category>
       
       
-      <comments>https://samirpaul.in/posts/leetcode-solutions-cheatsheet/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/leetcode-solutions-cheatsheet/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
-      <link>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
-      <guid>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
+      <link>https://samir.pages.dev/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
+      <guid>https://samir.pages.dev/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
       <pubDate>Tue, 15 Aug 2023 04:24:52 GMT</pubDate>
       
       <description>Complete Computer Science Study Plan to Become a Software Engineer</description>
@@ -100,22 +100,22 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/Computer-Science/">Computer Science</category>
+      <category domain="https://samir.pages.dev/categories/Computer-Science/">Computer Science</category>
       
       
-      <category domain="https://samirpaul.in/tags/computer-science/">computer-science</category>
+      <category domain="https://samir.pages.dev/tags/computer-science/">computer-science</category>
       
-      <category domain="https://samirpaul.in/tags/study-plan/">study-plan</category>
+      <category domain="https://samir.pages.dev/tags/study-plan/">study-plan</category>
       
       
-      <comments>https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/complete-computer-science-study-plan-to-become-a-software-engineer/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Computer Networks Notes</title>
-      <link>https://samirpaul.in/posts/computer-networks-notes/</link>
-      <guid>https://samirpaul.in/posts/computer-networks-notes/</guid>
+      <link>https://samir.pages.dev/posts/computer-networks-notes/</link>
+      <guid>https://samir.pages.dev/posts/computer-networks-notes/</guid>
       <pubDate>Tue, 15 Aug 2023 04:24:52 GMT</pubDate>
       
       <description>Computer Networks Notes</description>
@@ -123,24 +123,24 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/Computer-Science/">Computer Science</category>
+      <category domain="https://samir.pages.dev/categories/Computer-Science/">Computer Science</category>
       
       
-      <category domain="https://samirpaul.in/tags/computer-science/">computer-science</category>
+      <category domain="https://samir.pages.dev/tags/computer-science/">computer-science</category>
       
-      <category domain="https://samirpaul.in/tags/computer-networks/">computer-networks</category>
+      <category domain="https://samir.pages.dev/tags/computer-networks/">computer-networks</category>
       
-      <category domain="https://samirpaul.in/tags/computer-networks-notes/">computer-networks-notes</category>
+      <category domain="https://samir.pages.dev/tags/computer-networks-notes/">computer-networks-notes</category>
       
       
-      <comments>https://samirpaul.in/posts/computer-networks-notes/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/computer-networks-notes/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Curated List of Project Based Tutorials</title>
-      <link>https://samirpaul.in/posts/curated-list-of-project-based-tutorials/</link>
-      <guid>https://samirpaul.in/posts/curated-list-of-project-based-tutorials/</guid>
+      <link>https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/</link>
+      <guid>https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/</guid>
       <pubDate>Tue, 15 Aug 2023 04:24:51 GMT</pubDate>
       
       <description>Curated List of Project Based Tutorials</description>
@@ -148,26 +148,26 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/Projects/">Projects</category>
+      <category domain="https://samir.pages.dev/categories/Projects/">Projects</category>
       
       
-      <category domain="https://samirpaul.in/tags/projects/">projects</category>
+      <category domain="https://samir.pages.dev/tags/projects/">projects</category>
       
-      <category domain="https://samirpaul.in/tags/tutorials/">tutorials</category>
+      <category domain="https://samir.pages.dev/tags/tutorials/">tutorials</category>
       
-      <category domain="https://samirpaul.in/tags/list-of-project-based-tutorials/">list-of-project-based-tutorials</category>
+      <category domain="https://samir.pages.dev/tags/list-of-project-based-tutorials/">list-of-project-based-tutorials</category>
       
-      <category domain="https://samirpaul.in/tags/curated-list/">curated-list</category>
+      <category domain="https://samir.pages.dev/tags/curated-list/">curated-list</category>
       
       
-      <comments>https://samirpaul.in/posts/curated-list-of-project-based-tutorials/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>longest pallindromic subsequence</title>
-      <link>https://samirpaul.in/posts/longest-pallindromic-subsequence/</link>
-      <guid>https://samirpaul.in/posts/longest-pallindromic-subsequence/</guid>
+      <link>https://samir.pages.dev/posts/longest-pallindromic-subsequence/</link>
+      <guid>https://samir.pages.dev/posts/longest-pallindromic-subsequence/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>longest pallindromic subsequence Interviewbit Solution Explained</description>
@@ -175,20 +175,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/longest-pallindromic-subsequence/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/longest-pallindromic-subsequence/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>longest substring without repeat</title>
-      <link>https://samirpaul.in/posts/longest-substring-without-repeat/</link>
-      <guid>https://samirpaul.in/posts/longest-substring-without-repeat/</guid>
+      <link>https://samir.pages.dev/posts/longest-substring-without-repeat/</link>
+      <guid>https://samir.pages.dev/posts/longest-substring-without-repeat/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>longest substring without repeat Interviewbit Solution Explained</description>
@@ -196,20 +196,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/longest-substring-without-repeat/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/longest-substring-without-repeat/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>length of longest subsequence</title>
-      <link>https://samirpaul.in/posts/length-of-longest-subsequence/</link>
-      <guid>https://samirpaul.in/posts/length-of-longest-subsequence/</guid>
+      <link>https://samir.pages.dev/posts/length-of-longest-subsequence/</link>
+      <guid>https://samir.pages.dev/posts/length-of-longest-subsequence/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>length of longest subsequence Interviewbit Solution Explained</description>
@@ -217,20 +217,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/length-of-longest-subsequence/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/length-of-longest-subsequence/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>letter phone</title>
-      <link>https://samirpaul.in/posts/letter-phone/</link>
-      <guid>https://samirpaul.in/posts/letter-phone/</guid>
+      <link>https://samir.pages.dev/posts/letter-phone/</link>
+      <guid>https://samir.pages.dev/posts/letter-phone/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>letter phone Interviewbit Solution Explained</description>
@@ -238,20 +238,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/letter-phone/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/letter-phone/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>level order</title>
-      <link>https://samirpaul.in/posts/level-order/</link>
-      <guid>https://samirpaul.in/posts/level-order/</guid>
+      <link>https://samir.pages.dev/posts/level-order/</link>
+      <guid>https://samir.pages.dev/posts/level-order/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>level order Interviewbit Solution Explained</description>
@@ -259,20 +259,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/level-order/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/level-order/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>lexographically greater strings</title>
-      <link>https://samirpaul.in/posts/lexographically-greater-strings/</link>
-      <guid>https://samirpaul.in/posts/lexographically-greater-strings/</guid>
+      <link>https://samir.pages.dev/posts/lexographically-greater-strings/</link>
+      <guid>https://samir.pages.dev/posts/lexographically-greater-strings/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>lexographically greater strings Interviewbit Solution Explained</description>
@@ -280,20 +280,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/lexographically-greater-strings/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/lexographically-greater-strings/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>lines in a given range</title>
-      <link>https://samirpaul.in/posts/lines-in-a-given-range/</link>
-      <guid>https://samirpaul.in/posts/lines-in-a-given-range/</guid>
+      <link>https://samir.pages.dev/posts/lines-in-a-given-range/</link>
+      <guid>https://samir.pages.dev/posts/lines-in-a-given-range/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>lines in a given range Interviewbit Solution Explained</description>
@@ -301,20 +301,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/lines-in-a-given-range/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/lines-in-a-given-range/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>list cycle</title>
-      <link>https://samirpaul.in/posts/list-cycle/</link>
-      <guid>https://samirpaul.in/posts/list-cycle/</guid>
+      <link>https://samir.pages.dev/posts/list-cycle/</link>
+      <guid>https://samir.pages.dev/posts/list-cycle/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>list cycle Interviewbit Solution Explained</description>
@@ -322,20 +322,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/list-cycle/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/list-cycle/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>longest arithmetic progression</title>
-      <link>https://samirpaul.in/posts/longest-arithmetic-progression/</link>
-      <guid>https://samirpaul.in/posts/longest-arithmetic-progression/</guid>
+      <link>https://samir.pages.dev/posts/longest-arithmetic-progression/</link>
+      <guid>https://samir.pages.dev/posts/longest-arithmetic-progression/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>longest arithmetic progression Interviewbit Solution Explained</description>
@@ -343,20 +343,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/longest-arithmetic-progression/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/longest-arithmetic-progression/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>largest continuous sequence zero sum</title>
-      <link>https://samirpaul.in/posts/largest-continuous-sequence-zero-sum/</link>
-      <guid>https://samirpaul.in/posts/largest-continuous-sequence-zero-sum/</guid>
+      <link>https://samir.pages.dev/posts/largest-continuous-sequence-zero-sum/</link>
+      <guid>https://samir.pages.dev/posts/largest-continuous-sequence-zero-sum/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>largest continuous sequence zero sum Interviewbit Solution Explained</description>
@@ -364,20 +364,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/largest-continuous-sequence-zero-sum/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/largest-continuous-sequence-zero-sum/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>largest coprime divisor</title>
-      <link>https://samirpaul.in/posts/largest-coprime-divisor/</link>
-      <guid>https://samirpaul.in/posts/largest-coprime-divisor/</guid>
+      <link>https://samir.pages.dev/posts/largest-coprime-divisor/</link>
+      <guid>https://samir.pages.dev/posts/largest-coprime-divisor/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>largest coprime divisor Interviewbit Solution Explained</description>
@@ -385,20 +385,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/largest-coprime-divisor/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/largest-coprime-divisor/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>largest distance between nodes of a tree</title>
-      <link>https://samirpaul.in/posts/largest-distance-between-nodes-of-a-tree/</link>
-      <guid>https://samirpaul.in/posts/largest-distance-between-nodes-of-a-tree/</guid>
+      <link>https://samir.pages.dev/posts/largest-distance-between-nodes-of-a-tree/</link>
+      <guid>https://samir.pages.dev/posts/largest-distance-between-nodes-of-a-tree/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>largest distance between nodes of a tree Interviewbit Solution Explained</description>
@@ -406,20 +406,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/largest-distance-between-nodes-of-a-tree/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/largest-distance-between-nodes-of-a-tree/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>largest number</title>
-      <link>https://samirpaul.in/posts/largest-number/</link>
-      <guid>https://samirpaul.in/posts/largest-number/</guid>
+      <link>https://samir.pages.dev/posts/largest-number/</link>
+      <guid>https://samir.pages.dev/posts/largest-number/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>largest number Interviewbit Solution Explained</description>
@@ -427,20 +427,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/largest-number/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/largest-number/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>least common ancestor</title>
-      <link>https://samirpaul.in/posts/least-common-ancestor/</link>
-      <guid>https://samirpaul.in/posts/least-common-ancestor/</guid>
+      <link>https://samir.pages.dev/posts/least-common-ancestor/</link>
+      <guid>https://samir.pages.dev/posts/least-common-ancestor/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>least common ancestor Interviewbit Solution Explained</description>
@@ -448,20 +448,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/least-common-ancestor/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/least-common-ancestor/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>length of last word</title>
-      <link>https://samirpaul.in/posts/length-of-last-word/</link>
-      <guid>https://samirpaul.in/posts/length-of-last-word/</guid>
+      <link>https://samir.pages.dev/posts/length-of-last-word/</link>
+      <guid>https://samir.pages.dev/posts/length-of-last-word/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>length of last word Interviewbit Solution Explained</description>
@@ -469,20 +469,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/length-of-last-word/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/length-of-last-word/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>length of longest consecutive ones</title>
-      <link>https://samirpaul.in/posts/length-of-longest-consecutive-ones/</link>
-      <guid>https://samirpaul.in/posts/length-of-longest-consecutive-ones/</guid>
+      <link>https://samir.pages.dev/posts/length-of-longest-consecutive-ones/</link>
+      <guid>https://samir.pages.dev/posts/length-of-longest-consecutive-ones/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>length of longest consecutive ones Interviewbit Solution Explained</description>
@@ -490,20 +490,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/length-of-longest-consecutive-ones/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/length-of-longest-consecutive-ones/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>k reverse linked list</title>
-      <link>https://samirpaul.in/posts/k-reverse-linked-list/</link>
-      <guid>https://samirpaul.in/posts/k-reverse-linked-list/</guid>
+      <link>https://samir.pages.dev/posts/k-reverse-linked-list/</link>
+      <guid>https://samir.pages.dev/posts/k-reverse-linked-list/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>k reverse linked list Interviewbit Solution Explained</description>
@@ -511,20 +511,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/k-reverse-linked-list/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/k-reverse-linked-list/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>knight on chess board</title>
-      <link>https://samirpaul.in/posts/knight-on-chess-board/</link>
-      <guid>https://samirpaul.in/posts/knight-on-chess-board/</guid>
+      <link>https://samir.pages.dev/posts/knight-on-chess-board/</link>
+      <guid>https://samir.pages.dev/posts/knight-on-chess-board/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>knight on chess board Interviewbit Solution Explained</description>
@@ -532,20 +532,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/knight-on-chess-board/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/knight-on-chess-board/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>kth manhattan distance neighbourhood</title>
-      <link>https://samirpaul.in/posts/kth-manhattan-distance-neighbourhood/</link>
-      <guid>https://samirpaul.in/posts/kth-manhattan-distance-neighbourhood/</guid>
+      <link>https://samir.pages.dev/posts/kth-manhattan-distance-neighbourhood/</link>
+      <guid>https://samir.pages.dev/posts/kth-manhattan-distance-neighbourhood/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>kth manhattan distance neighbourhood Interviewbit Solution Explained</description>
@@ -553,20 +553,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/kth-manhattan-distance-neighbourhood/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/kth-manhattan-distance-neighbourhood/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>kth permutation sequence</title>
-      <link>https://samirpaul.in/posts/kth-permutation-sequence/</link>
-      <guid>https://samirpaul.in/posts/kth-permutation-sequence/</guid>
+      <link>https://samir.pages.dev/posts/kth-permutation-sequence/</link>
+      <guid>https://samir.pages.dev/posts/kth-permutation-sequence/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>kth permutation sequence Interviewbit Solution Explained</description>
@@ -574,20 +574,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/kth-permutation-sequence/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/kth-permutation-sequence/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>kth row of pascals triangle</title>
-      <link>https://samirpaul.in/posts/kth-row-of-pascals-triangle/</link>
-      <guid>https://samirpaul.in/posts/kth-row-of-pascals-triangle/</guid>
+      <link>https://samir.pages.dev/posts/kth-row-of-pascals-triangle/</link>
+      <guid>https://samir.pages.dev/posts/kth-row-of-pascals-triangle/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>kth row of pascals triangle Interviewbit Solution Explained</description>
@@ -595,20 +595,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/kth-row-of-pascals-triangle/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/kth-row-of-pascals-triangle/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>kth smallest element in the array</title>
-      <link>https://samirpaul.in/posts/kth-smallest-element-in-the-array/</link>
-      <guid>https://samirpaul.in/posts/kth-smallest-element-in-the-array/</guid>
+      <link>https://samir.pages.dev/posts/kth-smallest-element-in-the-array/</link>
+      <guid>https://samir.pages.dev/posts/kth-smallest-element-in-the-array/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>kth smallest element in the array Interviewbit Solution Explained</description>
@@ -616,20 +616,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/kth-smallest-element-in-the-array/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/kth-smallest-element-in-the-array/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>kth smallest element in tree</title>
-      <link>https://samirpaul.in/posts/kth-smallest-element-in-tree/</link>
-      <guid>https://samirpaul.in/posts/kth-smallest-element-in-tree/</guid>
+      <link>https://samir.pages.dev/posts/kth-smallest-element-in-tree/</link>
+      <guid>https://samir.pages.dev/posts/kth-smallest-element-in-tree/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>kth smallest element in tree Interviewbit Solution Explained</description>
@@ -637,20 +637,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/kth-smallest-element-in-tree/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/kth-smallest-element-in-tree/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>largest area of rectangle with permutations</title>
-      <link>https://samirpaul.in/posts/largest-area-of-rectangle-with-permutations/</link>
-      <guid>https://samirpaul.in/posts/largest-area-of-rectangle-with-permutations/</guid>
+      <link>https://samir.pages.dev/posts/largest-area-of-rectangle-with-permutations/</link>
+      <guid>https://samir.pages.dev/posts/largest-area-of-rectangle-with-permutations/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>largest area of rectangle with permutations Interviewbit Solution Explained</description>
@@ -658,20 +658,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/largest-area-of-rectangle-with-permutations/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/largest-area-of-rectangle-with-permutations/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>intersecting chords in a circle</title>
-      <link>https://samirpaul.in/posts/intersecting-chords-in-a-circle/</link>
-      <guid>https://samirpaul.in/posts/intersecting-chords-in-a-circle/</guid>
+      <link>https://samir.pages.dev/posts/intersecting-chords-in-a-circle/</link>
+      <guid>https://samir.pages.dev/posts/intersecting-chords-in-a-circle/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>intersecting chords in a circle Interviewbit Solution Explained</description>
@@ -679,20 +679,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/intersecting-chords-in-a-circle/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/intersecting-chords-in-a-circle/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>intersection of linked lists</title>
-      <link>https://samirpaul.in/posts/intersection-of-linked-lists/</link>
-      <guid>https://samirpaul.in/posts/intersection-of-linked-lists/</guid>
+      <link>https://samir.pages.dev/posts/intersection-of-linked-lists/</link>
+      <guid>https://samir.pages.dev/posts/intersection-of-linked-lists/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>intersection of linked lists Interviewbit Solution Explained</description>
@@ -700,20 +700,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/intersection-of-linked-lists/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/intersection-of-linked-lists/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>intersection of sorted arrays</title>
-      <link>https://samirpaul.in/posts/intersection-of-sorted-arrays/</link>
-      <guid>https://samirpaul.in/posts/intersection-of-sorted-arrays/</guid>
+      <link>https://samir.pages.dev/posts/intersection-of-sorted-arrays/</link>
+      <guid>https://samir.pages.dev/posts/intersection-of-sorted-arrays/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>intersection of sorted arrays Interviewbit Solution Explained</description>
@@ -721,20 +721,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/intersection-of-sorted-arrays/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/intersection-of-sorted-arrays/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>inversions</title>
-      <link>https://samirpaul.in/posts/inversions/</link>
-      <guid>https://samirpaul.in/posts/inversions/</guid>
+      <link>https://samir.pages.dev/posts/inversions/</link>
+      <guid>https://samir.pages.dev/posts/inversions/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>inversions Interviewbit Solution Explained</description>
@@ -742,20 +742,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/inversions/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/inversions/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>invert the binary tree</title>
-      <link>https://samirpaul.in/posts/invert-the-binary-tree/</link>
-      <guid>https://samirpaul.in/posts/invert-the-binary-tree/</guid>
+      <link>https://samir.pages.dev/posts/invert-the-binary-tree/</link>
+      <guid>https://samir.pages.dev/posts/invert-the-binary-tree/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>invert the binary tree Interviewbit Solution Explained</description>
@@ -763,20 +763,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/invert-the-binary-tree/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/invert-the-binary-tree/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>jump game array</title>
-      <link>https://samirpaul.in/posts/jump-game-array/</link>
-      <guid>https://samirpaul.in/posts/jump-game-array/</guid>
+      <link>https://samir.pages.dev/posts/jump-game-array/</link>
+      <guid>https://samir.pages.dev/posts/jump-game-array/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>jump game array Interviewbit Solution Explained</description>
@@ -784,20 +784,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/jump-game-array/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/jump-game-array/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>justified text</title>
-      <link>https://samirpaul.in/posts/justified-text/</link>
-      <guid>https://samirpaul.in/posts/justified-text/</guid>
+      <link>https://samir.pages.dev/posts/justified-text/</link>
+      <guid>https://samir.pages.dev/posts/justified-text/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>justified text Interviewbit Solution Explained</description>
@@ -805,20 +805,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/justified-text/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/justified-text/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>kingdom war</title>
-      <link>https://samirpaul.in/posts/kingdom-war/</link>
-      <guid>https://samirpaul.in/posts/kingdom-war/</guid>
+      <link>https://samir.pages.dev/posts/kingdom-war/</link>
+      <guid>https://samir.pages.dev/posts/kingdom-war/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>kingdom war Interviewbit Solution Explained</description>
@@ -826,20 +826,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/kingdom-war/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/kingdom-war/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>implement strstr</title>
-      <link>https://samirpaul.in/posts/implement-strstr/</link>
-      <guid>https://samirpaul.in/posts/implement-strstr/</guid>
+      <link>https://samir.pages.dev/posts/implement-strstr/</link>
+      <guid>https://samir.pages.dev/posts/implement-strstr/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>implement strstr Interviewbit Solution Explained</description>
@@ -847,20 +847,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/implement-strstr/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/implement-strstr/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>infinite string</title>
-      <link>https://samirpaul.in/posts/infinite-string/</link>
-      <guid>https://samirpaul.in/posts/infinite-string/</guid>
+      <link>https://samir.pages.dev/posts/infinite-string/</link>
+      <guid>https://samir.pages.dev/posts/infinite-string/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>infinite string Interviewbit Solution Explained</description>
@@ -868,20 +868,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/infinite-string/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/infinite-string/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>inorder traversal of cartesian tree</title>
-      <link>https://samirpaul.in/posts/inorder-traversal-of-cartesian-tree/</link>
-      <guid>https://samirpaul.in/posts/inorder-traversal-of-cartesian-tree/</guid>
+      <link>https://samir.pages.dev/posts/inorder-traversal-of-cartesian-tree/</link>
+      <guid>https://samir.pages.dev/posts/inorder-traversal-of-cartesian-tree/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>inorder traversal of cartesian tree Interviewbit Solution Explained</description>
@@ -889,20 +889,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/inorder-traversal-of-cartesian-tree/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/inorder-traversal-of-cartesian-tree/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>inorder traversal</title>
-      <link>https://samirpaul.in/posts/inorder-traversal/</link>
-      <guid>https://samirpaul.in/posts/inorder-traversal/</guid>
+      <link>https://samir.pages.dev/posts/inorder-traversal/</link>
+      <guid>https://samir.pages.dev/posts/inorder-traversal/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>inorder traversal Interviewbit Solution Explained</description>
@@ -910,20 +910,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/inorder-traversal/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/inorder-traversal/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>integer to roman</title>
-      <link>https://samirpaul.in/posts/integer-to-roman/</link>
-      <guid>https://samirpaul.in/posts/integer-to-roman/</guid>
+      <link>https://samir.pages.dev/posts/integer-to-roman/</link>
+      <guid>https://samir.pages.dev/posts/integer-to-roman/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>integer to roman Interviewbit Solution Explained</description>
@@ -931,20 +931,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/integer-to-roman/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/integer-to-roman/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>interleaving strings</title>
-      <link>https://samirpaul.in/posts/interleaving-strings/</link>
-      <guid>https://samirpaul.in/posts/interleaving-strings/</guid>
+      <link>https://samir.pages.dev/posts/interleaving-strings/</link>
+      <guid>https://samir.pages.dev/posts/interleaving-strings/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>interleaving strings Interviewbit Solution Explained</description>
@@ -952,20 +952,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/interleaving-strings/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/interleaving-strings/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>grep</title>
-      <link>https://samirpaul.in/posts/grep/</link>
-      <guid>https://samirpaul.in/posts/grep/</guid>
+      <link>https://samir.pages.dev/posts/grep/</link>
+      <guid>https://samir.pages.dev/posts/grep/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>grep Interviewbit Solution Explained</description>
@@ -973,41 +973,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/grep/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>grid unique paths ii</title>
-      <link>https://samirpaul.in/posts/grid-unique-paths-ii/</link>
-      <guid>https://samirpaul.in/posts/grid-unique-paths-ii/</guid>
-      <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
-      
-      <description>grid unique paths ii Interviewbit Solution Explained</description>
-      
-      
-      
-      
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
-      
-      
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
-      
-      
-      <comments>https://samirpaul.in/posts/grid-unique-paths-ii/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/grep/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>grid illumination</title>
-      <link>https://samirpaul.in/posts/grid-illumination/</link>
-      <guid>https://samirpaul.in/posts/grid-illumination/</guid>
+      <link>https://samir.pages.dev/posts/grid-illumination/</link>
+      <guid>https://samir.pages.dev/posts/grid-illumination/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>grid illumination Interviewbit Solution Explained</description>
@@ -1015,20 +994,41 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/grid-illumination/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/grid-illumination/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>grid unique paths ii</title>
+      <link>https://samir.pages.dev/posts/grid-unique-paths-ii/</link>
+      <guid>https://samir.pages.dev/posts/grid-unique-paths-ii/</guid>
+      <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
+      
+      <description>grid unique paths ii Interviewbit Solution Explained</description>
+      
+      
+      
+      
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
+      
+      
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
+      
+      
+      <comments>https://samir.pages.dev/posts/grid-unique-paths-ii/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>grid unique paths</title>
-      <link>https://samirpaul.in/posts/grid-unique-paths/</link>
-      <guid>https://samirpaul.in/posts/grid-unique-paths/</guid>
+      <link>https://samir.pages.dev/posts/grid-unique-paths/</link>
+      <guid>https://samir.pages.dev/posts/grid-unique-paths/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>grid unique paths Interviewbit Solution Explained</description>
@@ -1036,20 +1036,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/grid-unique-paths/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/grid-unique-paths/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>highest product</title>
-      <link>https://samirpaul.in/posts/highest-product/</link>
-      <guid>https://samirpaul.in/posts/highest-product/</guid>
+      <link>https://samir.pages.dev/posts/highest-product/</link>
+      <guid>https://samir.pages.dev/posts/highest-product/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>highest product Interviewbit Solution Explained</description>
@@ -1057,20 +1057,20 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/highest-product/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/highest-product/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>hotel bookings possible</title>
-      <link>https://samirpaul.in/posts/hotel-bookings-possible/</link>
-      <guid>https://samirpaul.in/posts/hotel-bookings-possible/</guid>
+      <link>https://samir.pages.dev/posts/hotel-bookings-possible/</link>
+      <guid>https://samir.pages.dev/posts/hotel-bookings-possible/</guid>
       <pubDate>Thu, 10 Aug 2023 07:35:42 GMT</pubDate>
       
       <description>hotel bookings possible Interviewbit Solution Explained</description>
@@ -1078,13 +1078,13 @@
       
       
       
-      <category domain="https://samirpaul.in/categories/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/categories/interviewbit/">interviewbit</category>
       
       
-      <category domain="https://samirpaul.in/tags/interviewbit/">interviewbit</category>
+      <category domain="https://samir.pages.dev/tags/interviewbit/">interviewbit</category>
       
       
-      <comments>https://samirpaul.in/posts/hotel-bookings-possible/#disqus_thread</comments>
+      <comments>https://samir.pages.dev/posts/hotel-bookings-possible/#disqus_thread</comments>
       
     </item>
     

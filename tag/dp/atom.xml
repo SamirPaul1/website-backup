@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;dp&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.890Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/dp-for-beginners/</id>
+        <id>https://samir.pages.dev/posts/dp-for-beginners/</id>
         <title>DP for Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/dp-for-beginners/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/dp-for-beginners/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;Longest Increasing Subsequence variants:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-increasing-subsequence/&#34;&gt;https://leetcode.com/problems/longest-increasing-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/largest-divisible-subset/&#34;&gt;https://leetcode.com/problems/largest-divisible-subset/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/russian-doll-envelopes/&#34;&gt;https://leetcode.com/problems/russian-doll-envelopes/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-length-of-pair-chain/&#34;&gt;https://leetcode.com/problems/maximum-length-of-pair-chain/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/number-of-longest-increasing-subsequence/&#34;&gt;https://leetcode.com/problems/number-of-longest-increasing-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/delete-and-earn/&#34;&gt;https://leetcode.com/problems/delete-and-earn/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-string-chain/&#34;&gt;https://leetcode.com/problems/longest-string-chain/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partition Subset:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-equal-subset-sum/&#34;&gt;https://leetcode.com/problems/partition-equal-subset-sum/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/last-stone-weight-ii/&#34;&gt;https://leetcode.com/problems/last-stone-weight-ii/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BitMasking:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-to-k-equal-sum-subsets/&#34;&gt;https://leetcode.com/problems/partition-to-k-equal-sum-subsets/&lt;/a&gt;&lt;/p&gt;

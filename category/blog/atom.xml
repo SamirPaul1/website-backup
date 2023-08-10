@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;blog&#34; category</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.910Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/sql-joins-inner-left-right-and-full-joins/</id>
+        <id>https://samir.pages.dev/posts/sql-joins-inner-left-right-and-full-joins/</id>
         <title>SQL Joins - Inner, Left, Right and Full Joins</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/sql-joins-inner-left-right-and-full-joins/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/sql-joins-inner-left-right-and-full-joins/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;SQL Join&lt;/strong&gt; statement is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are as follows: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;INNER JOIN&lt;/li&gt;
@@ -100,9 +100,9 @@
         <updated>2023-08-05T20:52:53.910Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</id>
+        <id>https://samir.pages.dev/posts/python-cheat-sheet-for-leetcode/</id>
         <title>Python Cheat Sheet for LeetCode</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-cheat-sheet-for-leetcode/"/>
         <content type="html">&lt;h1 id=&#34;Basics&#34;&gt;&lt;a href=&#34;#Basics&#34; class=&#34;headerlink&#34; title=&#34;Basics&#34;&gt;&lt;/a&gt;Basics&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Data Types&lt;/p&gt;
 &lt;p&gt;  &lt;img src=&#34;https://user-images.githubusercontent.com/47276307/172329842-38f3de07-62d9-4d7d-9a19-fc576ee396a9.jpg&#34; alt=&#34;Untitled&#34;&gt;&lt;/p&gt;
@@ -260,9 +260,9 @@
         <updated>2023-08-05T20:52:53.907Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/graph-for-beginners/</id>
+        <id>https://samir.pages.dev/posts/graph-for-beginners/</id>
         <title>Graph For Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/graph-for-beginners/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/graph-for-beginners/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;Graph Problems For Practice&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sharing some topic wise good Graph problems and sample solutions to observe on how to approach.&lt;/p&gt;
 &lt;p&gt;List: &lt;a href=&#34;https://leetcode.com/list/x1wy4de7&#34;&gt;https://leetcode.com/list/x1wy4de7&lt;/a&gt;&lt;/p&gt;
@@ -379,9 +379,9 @@
         <updated>2023-08-05T20:52:53.899Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/binary-search-template/</id>
+        <id>https://samir.pages.dev/posts/binary-search-template/</id>
         <title>Binary Search Template</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/binary-search-template/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/binary-search-template/"/>
         <content type="html">&lt;p&gt;Binary Search is quite easy to understand conceptually. Basically, it splits the search space into two halves and only keep the half that probably has the search target and throw away the other half that would not possibly have the answer. In this manner, we reduce the search space to half the size at every step, until we find the target. Binary Search helps us reduce the search time from linear O(n) to logarithmic O(log n). &lt;strong&gt;But when it comes to implementation, it’s rather difficult to write a bug-free code in just a few minutes&lt;/strong&gt;. Some of the most common problems include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When to exit the loop? Should we use &lt;code&gt;left &amp;lt; right&lt;/code&gt; or &lt;code&gt;left &amp;lt;= right&lt;/code&gt; as the while loop condition?&lt;/li&gt;
@@ -536,9 +536,9 @@
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/dp-for-beginners/</id>
+        <id>https://samir.pages.dev/posts/dp-for-beginners/</id>
         <title>DP for Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/dp-for-beginners/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/dp-for-beginners/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;Longest Increasing Subsequence variants:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-increasing-subsequence/&#34;&gt;https://leetcode.com/problems/longest-increasing-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/largest-divisible-subset/&#34;&gt;https://leetcode.com/problems/largest-divisible-subset/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/russian-doll-envelopes/&#34;&gt;https://leetcode.com/problems/russian-doll-envelopes/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/maximum-length-of-pair-chain/&#34;&gt;https://leetcode.com/problems/maximum-length-of-pair-chain/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/number-of-longest-increasing-subsequence/&#34;&gt;https://leetcode.com/problems/number-of-longest-increasing-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/delete-and-earn/&#34;&gt;https://leetcode.com/problems/delete-and-earn/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-string-chain/&#34;&gt;https://leetcode.com/problems/longest-string-chain/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partition Subset:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-equal-subset-sum/&#34;&gt;https://leetcode.com/problems/partition-equal-subset-sum/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/last-stone-weight-ii/&#34;&gt;https://leetcode.com/problems/last-stone-weight-ii/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BitMasking:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/partition-to-k-equal-sum-subsets/&#34;&gt;https://leetcode.com/problems/partition-to-k-equal-sum-subsets/&lt;/a&gt;&lt;/p&gt;
@@ -599,9 +599,9 @@
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/dynamic-programming-patterns/</id>
+        <id>https://samir.pages.dev/posts/dynamic-programming-patterns/</id>
         <title>Dynamic Programming Patterns</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/dynamic-programming-patterns/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/dynamic-programming-patterns/"/>
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/226705479-a4d6c0a3-0191-4d45-8bf6-597ffaa5de40.png&#34; alt=&#34;Banner&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Before starting the topic let me introduce myself. I am a Mobile Developer currently working in Warsaw and spending my free time for interview preparations. I started to prepare for interviews two years ago. At that time I should say I could not solve the two sum problem. Easy problems seemed to me like hard ones so most of the time I had to look at editorials and discuss section. Currently, I have solved ~800 problems and time to time participate in contests. I usually solve 3 problems in a contest and sometimes 4 problems. Ok, lets come back to the topic.&lt;/p&gt;
 &lt;p&gt;Recently I have concentrated my attention on Dynamic Programming cause its one of the hardest topics in an interview prep. After solving ~140 problems in DP I have noticed that there are few patterns that can be found in different problems. So I did a research on that and find the following topics. I will not give complete ways how to solve problems but these patterns may be helpful in solving DP.&lt;/p&gt;
@@ -783,11 +783,11 @@
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/embed-music/</id>
+        <id>https://samir.pages.dev/posts/embed-music/</id>
         <title>Embed MusicApp</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/embed-music/"/>
-        <content type="html">&lt;p&gt;Embed &lt;a href=&#34;https://samirpaul.in/music/embed&#34;&gt;&lt;b&gt;samirpaul.in&amp;#x2F;music&amp;#x2F;embed&lt;/b&gt;&lt;/a&gt; music player(Lofi Study Music) to any website:&lt;/p&gt;
-&lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;iframe src=&#34;https://samirpaul.in/music/embed/index.html&#34;
+        <link rel="alternate" href="https://samir.pages.dev/posts/embed-music/"/>
+        <content type="html">&lt;p&gt;Embed &lt;a href=&#34;https://samir.pages.dev/music/embed&#34;&gt;&lt;b&gt;samir.pages.dev&amp;#x2F;music&amp;#x2F;embed&lt;/b&gt;&lt;/a&gt; music player(Lofi Study Music) to any website:&lt;/p&gt;
+&lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;iframe src=&#34;https://samir.pages.dev/music/embed/index.html&#34;
   title=&#34;Embed MusicApp&#34;
     frameborder=&#34;0&#34;
     loading=&#34;lazy&#34;
@@ -799,7 +799,7 @@
 &lt;/iframe&gt;
 
 
-&lt;h3 id=&#34;Code&#34;&gt;&lt;a href=&#34;#Code&#34; class=&#34;headerlink&#34; title=&#34;Code:&#34;&gt;&lt;/a&gt;Code:&lt;/h3&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;https://samirpaul.in/music/embed&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Embed MusicApp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;loading&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;lazy&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginheight&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginwidth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;223&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;Code&#34;&gt;&lt;a href=&#34;#Code&#34; class=&#34;headerlink&#34; title=&#34;Code:&#34;&gt;&lt;/a&gt;Code:&lt;/h3&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;https://samir.pages.dev/music/embed&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Embed MusicApp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;loading&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;lazy&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginheight&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginwidth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;223&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
         <category term="blog" />
         <category term="coding" />
@@ -811,9 +811,9 @@
         <updated>2023-08-05T20:52:53.890Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/google-programmable-search-engine/</id>
+        <id>https://samir.pages.dev/posts/google-programmable-search-engine/</id>
         <title>Google Programmable Search Engine</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/google-programmable-search-engine/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/google-programmable-search-engine/"/>
         <content type="html">&lt;p&gt;Google Programmable Search Engine lets you include a search engine on your website to help your visitors find the information they’re looking for. Because Programmable Search Engine is based on Google’s core search technology, you can be confident that your users are getting high quality, relevant results. You can customize a lot of your search engine, including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Apply your site’s look and feel to the search box and results page&lt;/li&gt;
@@ -840,9 +840,9 @@
         <updated>2023-08-05T20:52:53.852Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/why-does-the-osi-model-matter/</id>
+        <id>https://samir.pages.dev/posts/why-does-the-osi-model-matter/</id>
         <title>Why Does The OSI Model Matter?</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/why-does-the-osi-model-matter/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/why-does-the-osi-model-matter/"/>
         <content type="html">&lt;p&gt;The OSI (Open Systems Interconnection) model matters because it provides a standard way of describing and understanding the different functions and components involved in a network communication. The OSI model is a seven-layer abstraction of the network communication process, and it defines the tasks and responsibilities of each layer.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Standardization: The OSI model provides a standard reference model that is widely used and accepted in the industry. This standardization helps to ensure that different systems and components can communicate with each other, even if they were developed by different vendors or organizations.&lt;/p&gt;
@@ -862,9 +862,9 @@
         <updated>2023-08-05T20:52:53.847Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/virtualization-vs-containerization/</id>
+        <id>https://samir.pages.dev/posts/virtualization-vs-containerization/</id>
         <title>Virtualization vs Containerization</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/virtualization-vs-containerization/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/virtualization-vs-containerization/"/>
         <content type="html">&lt;p&gt;Virtualization and containerization are two different approaches to creating and managing virtual environments for software applications.&lt;/p&gt;
 &lt;p&gt;Virtualization involves creating a virtual machine (VM) that acts as a separate, self-contained operating system environment. Each VM runs its own operating system and applications, and has its own set of virtual hardware resources, such as CPU, memory, and storage. Virtualization allows multiple virtual machines to run on a single physical server, improving utilization and reducing costs. Examples of virtualization technology include VMware and Hyper-V.&lt;/p&gt;
 &lt;p&gt;Containerization, on the other hand, is a newer approach to virtualization that is designed to be more lightweight and efficient. Containers are similar to virtual machines, in that they provide a self-contained environment for running applications. However, unlike virtual machines, containers do not include a full operating system. Instead, they share the host operating system and rely on the host for system services. This means that containers are much smaller and faster to start up than virtual machines, and can be run on a much larger scale. Examples of containerization technology include Docker and Kubernetes.&lt;/p&gt;
@@ -878,9 +878,9 @@
         <updated>2023-08-05T20:52:53.842Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/tcp-vs-udp/</id>
+        <id>https://samir.pages.dev/posts/tcp-vs-udp/</id>
         <title>TCP vs UDP</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/tcp-vs-udp/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/tcp-vs-udp/"/>
         <content type="html">&lt;p&gt;TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two of the most commonly used protocols for transmitting data over a network.&lt;/p&gt;
 &lt;p&gt;TCP is a reliable and connection-oriented protocol, meaning that a virtual connection must be established between the sender and the receiver before data can be transmitted. It ensures that data is delivered to the recipient in the same order it was sent, and that it is received without errors. If a packet of data is lost or corrupted during transmission, TCP will automatically retransmit the missing data until it is successfully received. This makes TCP a great choice for applications that require reliable data transfer, such as email and file transfers.&lt;/p&gt;
 &lt;p&gt;UDP, on the other hand, is a connectionless and unreliable protocol. Unlike TCP, it does not establish a virtual connection between the sender and the receiver, and it does not guarantee that the data will be delivered in the same order it was sent. It is faster than TCP because it has less overhead, but it is less reliable. UDP is often used for applications that do not require reliable data transfer and can tolerate some lost or corrupted data, such as video or audio streaming, online gaming, and voice over IP (VoIP).&lt;/p&gt;
@@ -892,9 +892,9 @@
         <updated>2023-08-05T20:52:53.839Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/ssl-tls-mtls/</id>
+        <id>https://samir.pages.dev/posts/ssl-tls-mtls/</id>
         <title>SSL TLS mTLS</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/ssl-tls-mtls/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/ssl-tls-mtls/"/>
         <content type="html">&lt;p&gt;SSL (Secure Sockets Layer), TLS (Transport Layer Security), and mTLS (Mutual TLS) are all security protocols used to secure communications over the internet.&lt;/p&gt;
 &lt;p&gt;SSL was the original protocol used to secure internet communications, but it has been largely replaced by TLS, which is considered to be more secure. TLS is a cryptographic protocol that provides secure communication between two endpoints, such as a web server and a client browser. It ensures that the data transmitted between the endpoints is confidential and integrity protected.&lt;/p&gt;
 &lt;p&gt;mTLS, also known as Mutual TLS, is an extension of TLS that adds an extra layer of security by requiring both the client and server to present a valid certificate to each other. This provides a stronger level of identity validation and protects against man-in-the-middle attacks. mTLS is used in situations where it is important to ensure the authenticity of both parties involved in a communication, such as in financial transactions or sensitive data transfers.&lt;/p&gt;
@@ -906,9 +906,9 @@
         <updated>2023-08-05T20:52:53.837Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/slo-or-service-level-objective/</id>
+        <id>https://samir.pages.dev/posts/slo-or-service-level-objective/</id>
         <title>SLO or Service Level Objective</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/slo-or-service-level-objective/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/slo-or-service-level-objective/"/>
         <content type="html">&lt;p&gt;A Service Level Objective (SLO) is a target or goal that a service provider sets for a specific service or service component, in terms of performance, availability, or some other quality metric. The SLO defines what the service provider considers to be an acceptable level of service, and provides a clear and measurable way to track the performance of the service over time.&lt;/p&gt;
 &lt;p&gt;An SLO is typically expressed as a specific, quantifiable target, such as “99.95% availability” or “mean response time of less than 500 milliseconds”. The SLO can be used to track the performance of the service, and to identify areas where improvements can be made.&lt;/p&gt;
 &lt;p&gt;The SLO is often used in conjunction with a Service Level Agreement (SLA), which is a formal agreement between a service provider and a customer that outlines the level of service that will be delivered. The SLO forms the basis for the SLA, and provides a clear and measurable target for the service provider to meet.&lt;/p&gt;
@@ -920,9 +920,9 @@
         <updated>2023-08-05T20:52:53.835Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/sla-or-service-level-agreement/</id>
+        <id>https://samir.pages.dev/posts/sla-or-service-level-agreement/</id>
         <title>SLA or Service Level Agreement</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/sla-or-service-level-agreement/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/sla-or-service-level-agreement/"/>
         <content type="html">&lt;p&gt;A Service Level Agreement (SLA) is a contract between a service provider and a customer that outlines the level of service that the provider will deliver. The agreement is designed to ensure that the customer is aware of what to expect from the service, and to hold the service provider accountable for meeting those expectations.&lt;/p&gt;
 &lt;p&gt;SLAs typically cover a range of aspects, including:&lt;/p&gt;
 &lt;p&gt;Availability: The percentage of time that the service will be available and accessible to the customer.&lt;/p&gt;
@@ -939,9 +939,9 @@
         <updated>2023-08-05T20:52:53.832Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/single-sign-on-sso/</id>
+        <id>https://samir.pages.dev/posts/single-sign-on-sso/</id>
         <title>Single Sign-On SSO</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/single-sign-on-sso/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/single-sign-on-sso/"/>
         <content type="html">&lt;p&gt;Single Sign-On (SSO) is a centralized authentication mechanism that allows users to access multiple applications or services with a single set of credentials. The idea behind SSO is to simplify the process of logging in to various systems, so that users only have to remember one username and password.&lt;/p&gt;
 &lt;p&gt;With SSO, when a user logs in to one application or service, they are automatically logged in to all of the other systems and applications that are part of the SSO solution. This eliminates the need for the user to enter their credentials for each individual system, reducing the risk of forgotten passwords, password fatigue, and other security-related issues.&lt;/p&gt;
 &lt;p&gt;There are different SSO technologies, including SAML (Security Assertion Markup Language), Kerberos, and OAuth&amp;#x2F;OpenID Connect. Each of these technologies has its own strengths and weaknesses, and the best choice depends on the specific requirements and constraints of the organization.&lt;/p&gt;
@@ -953,9 +953,9 @@
         <updated>2023-08-05T20:52:53.830Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</id>
+        <id>https://samir.pages.dev/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</id>
         <title>SAML vs OAuth 2.0 and OpenID Connect</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/saml-vs-oauth-2-dot-0-and-openid-connect/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/saml-vs-oauth-2-dot-0-and-openid-connect/"/>
         <content type="html">&lt;p&gt;SAML (Security Assertion Markup Language), OAuth 2.0, and OpenID Connect are all protocols used for authentication and authorization on the web, but they each have different purposes and use cases.&lt;/p&gt;
 &lt;p&gt;SAML is an XML-based standard for exchanging authentication and authorization data between parties. It is primarily used for single sign-on (SSO) solutions, allowing users to log in to multiple applications and services with a single set of credentials. SAML is used by many organizations to provide a secure and seamless SSO experience for their users.&lt;/p&gt;
 &lt;p&gt;OAuth 2.0 is an authorization framework that enables a third-party application to obtain limited access to an HTTP service on behalf of a resource owner, without requiring the resource owner to reveal its credentials. OAuth 2.0 provides a secure way for a user to grant access to their resources to a third-party application, without the need for the user to share their password with the application. OAuth 2.0 is used by many popular web applications, including Google, Facebook, and Twitter, to allow users to authenticate and authorize access to their resources.&lt;/p&gt;
@@ -968,9 +968,9 @@
         <updated>2023-08-05T20:52:53.827Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-vs-r-for-data-science/</id>
+        <id>https://samir.pages.dev/posts/python-vs-r-for-data-science/</id>
         <title>Python vs R for data science</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-vs-r-for-data-science/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-vs-r-for-data-science/"/>
         <content type="html">&lt;p&gt;Both Python and R are popular programming languages used in data science, but each has its own strengths and weaknesses.&lt;/p&gt;
 &lt;p&gt;Python is a general-purpose programming language that has become a popular choice for data science due to its simplicity, versatility, and large community of users. Python has a large number of libraries and packages specifically designed for data analysis and manipulation, such as NumPy, Pandas, and Matplotlib. It also has a rich ecosystem for machine learning, with libraries such as scikit-learn, TensorFlow, and PyTorch.&lt;/p&gt;
 &lt;p&gt;On the other hand, R is a language specifically designed for data analysis and statistical computing. R has a strong focus on graphical representation of data and provides many built-in functions for statistical analysis, making it a popular choice for exploratory data analysis. R also has a vast library of packages for data analysis, machine learning, and visualization, such as ggplot2, dplyr, and caret.&lt;/p&gt;
@@ -982,9 +982,9 @@
         <updated>2023-08-05T20:52:53.825Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-to-automate-web-scraping/</id>
         <title>Python libraries to automate web scraping</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-to-automate-web-scraping/"/>
         <content type="html">&lt;p&gt;There are several libraries in Python for automating web scraping:&lt;/p&gt;
 &lt;p&gt;BeautifulSoup: This is a popular library for web scraping and parsing HTML and XML documents. It provides a convenient way to extract data from HTML and XML documents by searching and navigating the document tree.&lt;/p&gt;
 &lt;p&gt;Scrapy: This is a full-featured web crawling and scraping framework for Python. It provides a comprehensive toolset for extracting data from websites, including features for handling common tasks like logging in, following links, and handling errors.&lt;/p&gt;
@@ -999,9 +999,9 @@
         <updated>2023-08-05T20:52:53.823Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</id>
         <title>Python libraries for validating data. Used for forms in many cases</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/"/>
         <content type="html">&lt;p&gt;There are several Python libraries available for validating data, including:&lt;/p&gt;
 &lt;p&gt;WTForms: WTForms is a flexible and powerful form handling library for Python. It provides a simple and intuitive interface for defining and validating forms, and it includes built-in support for a wide range of form fields, including text fields, checkboxes, and select fields.&lt;/p&gt;
 &lt;p&gt;Django Forms: Django Forms is a form handling library built into the Django web framework. It provides a simple and flexible interface for defining and validating forms, and it includes support for a wide range of form fields, including text fields, checkboxes, and select fields.&lt;/p&gt;
@@ -1016,9 +1016,9 @@
         <updated>2023-08-05T20:52:53.820Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-parsing-urls/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-parsing-urls/</id>
         <title>Python libraries for parsing URLs</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-parsing-urls/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-parsing-urls/"/>
         <content type="html">&lt;p&gt;There are several libraries in Python for parsing URLs:&lt;/p&gt;
 &lt;p&gt;urllib: This is a standard library in Python, and it includes several modules for working with URLs and HTTP requests, including urllib.parse which provides functions for parsing URLs.&lt;/p&gt;
 &lt;p&gt;urlparse: This is another standard library in Python, and it provides similar functionality as urllib.parse.&lt;/p&gt;
@@ -1033,9 +1033,9 @@
         <updated>2023-08-05T20:52:53.817Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-manipulating-audio-and-its-metadata/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-manipulating-audio-and-its-metadata/</id>
         <title>Python libraries for manipulating audio and its metadata</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-manipulating-audio-and-its-metadata/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-manipulating-audio-and-its-metadata/"/>
         <content type="html">&lt;p&gt;There are several Python libraries that can be used for manipulating audio and its metadata, including:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;pydub:&lt;/strong&gt; pydub is a high-level library for audio manipulation. It allows you to load audio from a variety of sources (including MP3, WAV, and FLAC files), perform operations on the audio (such as slicing, concatenating, and exporting), and work with the metadata associated with the audio.&lt;/p&gt;
@@ -1057,9 +1057,9 @@
         <updated>2023-08-05T20:52:53.814Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-implementing-authentication-schemes/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-implementing-authentication-schemes/</id>
         <title>Python libraries for implementing authentication schemes</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-implementing-authentication-schemes/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-implementing-authentication-schemes/"/>
         <content type="html">&lt;p&gt;There are several Python libraries that can be used for implementing authentication schemes, including:&lt;/p&gt;
 &lt;p&gt;Flask-Login: Flask-Login is a library for handling user authentication in Flask applications. It provides a simple and flexible interface for managing user accounts, including login and logout, as well as user session management.&lt;/p&gt;
 &lt;p&gt;Django-Auth-LDAP: Django-Auth-LDAP is a library for authenticating against an LDAP directory in Django applications. It provides a simple and efficient way to authenticate users against an LDAP directory, and it includes support for user account management and session management.&lt;/p&gt;
@@ -1074,9 +1074,9 @@
         <updated>2023-08-05T20:52:53.812Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-caching-data/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-caching-data/</id>
         <title>Python libraries for caching data</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-caching-data/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-caching-data/"/>
         <content type="html">&lt;p&gt;There are several Python libraries available for caching data, including:&lt;/p&gt;
 &lt;p&gt;Redis: Redis is an open-source, in-memory data store that supports a wide range of data structures, including hashes, lists, sets, and sorted sets. Redis can be used as a caching layer for storing frequently-accessed data, and it provides fast and efficient access to cached data.&lt;/p&gt;
 &lt;p&gt;Memcached: Memcached is a distributed memory caching system that is often used as a caching layer for storing frequently-accessed data. It provides fast and efficient access to cached data, and it can be easily integrated with Python applications.&lt;/p&gt;
@@ -1091,9 +1091,9 @@
         <updated>2023-08-05T20:52:53.809Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-content-management-systems/</id>
+        <id>https://samir.pages.dev/posts/python-content-management-systems/</id>
         <title>Python Content Management Systems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-content-management-systems/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-content-management-systems/"/>
         <content type="html">&lt;p&gt;There are several content management systems (CMS) available in Python, including:&lt;/p&gt;
 &lt;p&gt;Django CMS: Django CMS is a popular open-source CMS built using the Django web framework. It provides a flexible and scalable platform for building complex and feature-rich websites, and it includes support for a wide range of content types, including text, images, and videos.&lt;/p&gt;
 &lt;p&gt;Mezzanine: Mezzanine is a high-level Python CMS built on top of the Django web framework. It provides a user-friendly interface for managing content, and it includes a range of built-in features, including blog, gallery, and form builders.&lt;/p&gt;
@@ -1108,9 +1108,9 @@
         <updated>2023-08-05T20:52:53.803Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</id>
+        <id>https://samir.pages.dev/posts/python-libraries-for-administrative-interfaces/</id>
         <title>Python libraries for administrative interfaces</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/python-libraries-for-administrative-interfaces/"/>
         <content type="html">&lt;p&gt;There are several Python libraries that can be used to create administrative interfaces for web applications. Some popular ones include:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Django Admin:&lt;/strong&gt; Django is a high-level Python web framework that includes a built-in administrative interface. The Django Admin interface is a powerful tool for managing the data and settings of a Django-powered website. It is designed to be easy to use and provides a range of functionality, including the ability to add, edit, and delete records, manage user accounts, and run custom actions on selected records.&lt;/p&gt;
@@ -1130,9 +1130,9 @@
         <updated>2023-08-05T20:52:53.803Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/oauth-2-dot-0-and-openid-connect/</id>
+        <id>https://samir.pages.dev/posts/oauth-2-dot-0-and-openid-connect/</id>
         <title>OAuth 2.0 and OpenID Connect</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/oauth-2-dot-0-and-openid-connect/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/oauth-2-dot-0-and-openid-connect/"/>
         <content type="html">&lt;p&gt;OAuth 2.0 and OpenID Connect are both open standards for authorization and authentication on the web. They are used to control access to resources, such as APIs, and to verify the identity of users.&lt;/p&gt;
 &lt;p&gt;OAuth 2.0 is an authorization framework that enables a third-party application to obtain limited access to an HTTP service on behalf of a resource owner, without requiring the resource owner to reveal its credentials. OAuth 2.0 provides a secure way for a user to grant access to their resources to a third-party application, without the need for the user to share their password with the application. OAuth 2.0 is used by many popular web applications, including Google, Facebook, and Twitter, to allow users to authenticate and authorize access to their resources.&lt;/p&gt;
 &lt;p&gt;OpenID Connect is a simple identity layer built on top of OAuth 2.0. It provides a secure way to authenticate users and verify their identities, while also providing information about the user’s identity to the client. OpenID Connect enables the client to know that the user is who they claim to be, without having to manage passwords or other sensitive information. It provides a single sign-on solution, allowing users to authenticate once and then access multiple applications without having to log in again. OpenID Connect is used by many organizations to provide a secure and easy way for their users to authenticate and access resources.&lt;/p&gt;
@@ -1144,9 +1144,9 @@
         <updated>2023-08-05T20:52:53.800Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/libraries-for-visualizing-data/</id>
+        <id>https://samir.pages.dev/posts/libraries-for-visualizing-data/</id>
         <title>Libraries for visualizing data</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/libraries-for-visualizing-data/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/libraries-for-visualizing-data/"/>
         <content type="html">&lt;p&gt;There are many libraries available in Python for visualizing data, including:&lt;/p&gt;
 &lt;p&gt;Matplotlib: Matplotlib is a plotting library for creating static, animated, and interactive visualizations in Python. It provides a wide range of visualization options, including line charts, bar charts, scatter plots, and histograms, and it can be easily integrated with other data analysis libraries, such as NumPy and Pandas.&lt;/p&gt;
 &lt;p&gt;Seaborn: Seaborn is a library for creating beautiful and informative statistical graphics in Python. It provides a high-level interface for creating a wide range of visualizations, including heat maps, violin plots, and regression plots, and it is built on top of Matplotlib.&lt;/p&gt;
@@ -1161,9 +1161,9 @@
         <updated>2023-08-05T20:52:53.797Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/how-to-learn-object-oriented-programming-in-python/</id>
+        <id>https://samir.pages.dev/posts/how-to-learn-object-oriented-programming-in-python/</id>
         <title>how to learn object oriented programming in python</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/how-to-learn-object-oriented-programming-in-python/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/how-to-learn-object-oriented-programming-in-python/"/>
         <content type="html">&lt;p&gt;Learning object-oriented programming (OOP) in Python can be done by following these steps:&lt;/p&gt;
 &lt;p&gt;Familiarize yourself with the basic syntax and features of Python: Before diving into OOP, it’s important to have a good understanding of the basic syntax and features of the language, such as variables, data types, functions, and control structures.&lt;/p&gt;
 &lt;p&gt;Understand the basics of OOP: OOP is a programming paradigm that is based on the concept of “objects”. An object is a data structure that contains both data and the functions (methods) that operate on that data. OOP also involves the concepts of inheritance, encapsulation, and polymorphism.&lt;/p&gt;
@@ -1180,9 +1180,9 @@
         <updated>2023-08-05T20:52:53.795Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/databases-implemented-in-python/</id>
+        <id>https://samir.pages.dev/posts/databases-implemented-in-python/</id>
         <title>Databases implemented in Python</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/databases-implemented-in-python/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/databases-implemented-in-python/"/>
         <content type="html">&lt;p&gt;There are several databases that have been implemented in Python, including:&lt;/p&gt;
 &lt;p&gt;SQLite: SQLite is a lightweight, file-based database that is well-suited for small to medium-sized projects. It provides a simple and efficient SQL interface, and it is included as a standard library in many Python distributions.&lt;/p&gt;
 &lt;p&gt;PostgreSQL: PostgreSQL is a powerful, open-source relational database that is well-suited for large, complex projects. It provides a rich set of features, including transactions, stored procedures, and advanced indexing, and it is widely used in a variety of applications, from web applications to scientific research.&lt;/p&gt;
@@ -1197,9 +1197,9 @@
         <updated>2023-08-05T20:52:53.787Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/gaming-library-in-python/</id>
+        <id>https://samir.pages.dev/posts/gaming-library-in-python/</id>
         <title>gaming library in python</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/gaming-library-in-python/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/gaming-library-in-python/"/>
         <content type="html">&lt;p&gt;There are several libraries in Python that can be used for game development, including:&lt;/p&gt;
 &lt;p&gt;Pygame: This is a popular library for game development in Python. It provides a simple and easy-to-use set of tools for creating 2D games and other types of interactive applications.&lt;/p&gt;
 &lt;p&gt;Arcade: This is a library for creating 2D video games and other interactive applications in Python. It provides a high-level API for creating games and other interactive applications, making it a great choice for beginners.&lt;/p&gt;
@@ -1214,9 +1214,9 @@
         <updated>2023-08-05T20:52:53.787Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/how-does-sso-work/</id>
+        <id>https://samir.pages.dev/posts/how-does-sso-work/</id>
         <title>How does SSO work?</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/how-does-sso-work/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/how-does-sso-work/"/>
         <content type="html">&lt;p&gt;Single Sign-On (SSO) works by creating a central authentication service that is responsible for verifying the identity of a user. When a user attempts to access an application or service that is part of the SSO solution, they are redirected to the SSO service, which authenticates the user. If the user’s identity is verified, the SSO service generates a token that represents the user’s identity and includes information about the user’s session and the resources they are authorized to access.&lt;/p&gt;
 &lt;p&gt;The token is then sent back to the application or service the user was trying to access, and the application uses the information in the token to determine whether the user is authorized to access the requested resources. If the user is authorized, the application grants access to the resources, and the user can perform the tasks they need to do.&lt;/p&gt;
 &lt;p&gt;One of the key benefits of SSO is that once a user has logged in to the SSO service, they are automatically logged in to all of the other applications and services that are part of the SSO solution. This eliminates the need for the user to enter their credentials for each individual system, making it easier and more convenient for the user to access the resources they need.&lt;/p&gt;
@@ -1228,9 +1228,9 @@
         <updated>2023-08-05T20:52:53.787Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/best-static-site-generator-for-blog/</id>
+        <id>https://samir.pages.dev/posts/best-static-site-generator-for-blog/</id>
         <title>best static site generator for blog</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/best-static-site-generator-for-blog/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/best-static-site-generator-for-blog/"/>
         <content type="html">&lt;p&gt;The best static site generator for a blog will depend on your specific needs and preferences. However, some of the most popular and well-regarded static site generators for blogs include:&lt;/p&gt;
 &lt;p&gt;Jekyll: This is one of the most widely used static site generators and is well-suited for blogs and personal websites. Jekyll is built in Ruby and provides a simple and flexible way to create and manage a blog.&lt;/p&gt;
 &lt;p&gt;Hugo: This is a fast and flexible static site generator that is well-suited for blogs and other types of websites. It is built in Go and provides a large number of features and customization options.&lt;/p&gt;
@@ -1245,9 +1245,9 @@
         <updated>2023-08-05T20:52:53.785Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/benefits-of-design-patterns-implementation/</id>
+        <id>https://samir.pages.dev/posts/benefits-of-design-patterns-implementation/</id>
         <title>benefits of design patterns implementation</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/benefits-of-design-patterns-implementation/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/benefits-of-design-patterns-implementation/"/>
         <content type="html">&lt;p&gt;Implementing design patterns in software development has several benefits, including:&lt;/p&gt;
 &lt;p&gt;Reusability: Design patterns provide a common vocabulary and shared understanding for developers, allowing for more efficient and effective communication about design decisions. Additionally, design patterns can be reused across multiple projects, reducing the amount of time and effort required to design and build new systems.&lt;/p&gt;
 &lt;p&gt;Increased maintainability: Design patterns promote the separation of concerns, which makes the code easier to maintain and less prone to bugs. This also makes it easier for other developers to understand the code and make modifications, as they can easily identify which design pattern is being used and what it is intended to accomplish.&lt;/p&gt;
@@ -1262,9 +1262,9 @@
         <updated>2023-08-05T20:52:53.783Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/open-external-links-in-a-new-window-using-javascript/</id>
+        <id>https://samir.pages.dev/posts/open-external-links-in-a-new-window-using-javascript/</id>
         <title>Open External Links in a New Window Using JavaScript</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/open-external-links-in-a-new-window-using-javascript/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/open-external-links-in-a-new-window-using-javascript/"/>
         <content type="html">&lt;p&gt;This is a quick post showing how to use JavaScript to make links to external websites open in a new window (or tab) instead of in the current window. This is useful for &lt;code&gt;Jekyll&lt;/code&gt; blogs because the Markdown converters don’t do this for you. I included two versions: one that uses straight JavaScript, and one that requires &lt;code&gt;jQuery&lt;/code&gt; but is shorter.&lt;/p&gt;
 &lt;p&gt;Both versions work basically the same way: grab all anchor tags &lt;code&gt;&amp;lt;a href=&amp;quot;#&amp;quot;&amp;gt;&lt;/code&gt; that are linking to somewhere other than your development environment or a page on your site and then attribute &lt;code&gt;target=&amp;quot;_blank&amp;quot;&lt;/code&gt; to those tags. Because this is JavaScript, users with JavaScript disabled will still experience the old behavior, but otherwise won’t be adversely affected.&lt;/p&gt;
 &lt;h3 id=&#34;Straight-JavaScript&#34;&gt;&lt;a href=&#34;#Straight-JavaScript&#34; class=&#34;headerlink&#34; title=&#34;Straight JavaScript&#34;&gt;&lt;/a&gt;Straight JavaScript&lt;/h3&gt;&lt;p&gt;This version does not require any jQuery (or any other libraries):&lt;/p&gt;
@@ -1280,9 +1280,9 @@
         <updated>2023-08-05T20:52:53.780Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/some-of-my-online-courses-certificates/</id>
+        <id>https://samir.pages.dev/posts/some-of-my-online-courses-certificates/</id>
         <title>Some of My Online Courses Certificates</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/some-of-my-online-courses-certificates/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/some-of-my-online-courses-certificates/"/>
         <content type="html">&lt;h1 id=&#34;✅-Some-of-my-verified-skills-and-certifications&#34;&gt;&lt;a href=&#34;#✅-Some-of-my-verified-skills-and-certifications&#34; class=&#34;headerlink&#34; title=&#34;✅ Some of my verified skills and certifications:&#34;&gt;&lt;/a&gt;✅ Some of my verified skills and certifications:&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000757-d9920eef-d5bf-4ef9-a043-ef28d66cf2a2.jpg&#34; alt=&#34;Adobe Photoshop CC Fundamentals and Essentials Training Udemy UC-c9524150-649d-4ed2-bdcc-9fcfd284297a-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000775-21a04da5-4241-4d4d-a91f-fd32c1008a09.jpg&#34; alt=&#34;Advanced Algorithms and Complexity Coursera GLMMPEBLCU9Q-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000778-885a11c9-c3b0-40cd-86ca-a0cd016e100e.jpg&#34; alt=&#34;AI Fundamentals DataCamp Certificate-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000784-28a09b2d-cd63-4575-81c1-f1127d4ec6f5.jpg&#34; alt=&#34;AI ON JETSON NANO Nvidia-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000789-2a660c46-d8d1-4d07-9d09-b1df9882a63e.jpg&#34; alt=&#34;Algorithmic Toolbox Coursera MA4KKNFEU7MB-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000791-6763e718-6b72-4db4-a893-1f4d683e5d5f.jpg&#34; alt=&#34;C++ Programming Udemy UC-c58957c7-3ae3-4f83-b4b1-2f69b2df48fa-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000796-e5091489-1644-4aa0-b17c-95db71b158d4.jpg&#34; alt=&#34;Codegoda 2022 organised by Agoda-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000801-4f9cedc2-9e04-4d80-8766-2645dd3310ac.jpg&#34; alt=&#34;Data Analytics Real-World Projects in Python Udemy UC-75332da1-4725-4f60-80ab-41f640046e3e-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000807-5527fa2f-1812-4bdf-85af-b9b1c237580f.jpg&#34; alt=&#34;Data Science for Everyone DateCamp Certificate-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000814-229550c2-e13b-4377-a2ac-bdb101ab40d2.jpg&#34; alt=&#34;Data Structures Coursera 394N5RVDD2EU-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000819-7e707391-c1f8-44ac-9b1f-a41716c3c469.jpg&#34; alt=&#34;Database Foundations Database Management-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000823-1eff258f-483e-40cb-8b46-d4535960add6.jpg&#34; alt=&#34;Databases_ Relational Databases and SQL StanfordOnline SOE YDB-SQL0001 Certificate _ edX-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000825-fca0038a-1b87-44e0-ba5c-78219c7e9007.jpg&#34; alt=&#34;Divide and Conquer, Sorting and Searching, and Randomized Algorithms Coursera V58E5TWMYGTV-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000830-a24369f8-fbba-445b-908e-84024a1d03aa.jpg&#34; alt=&#34;Introduction to IoT_Cisco -certificate-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000834-fbb4181f-05b2-4ca5-a102-5ae0984edd9b.jpg&#34; alt=&#34;Introduction to Opensource, Git and Github Microsoft Learn Student  2102001215000100   Github-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000839-3f4158ba-3993-43f0-befa-65fd769060fb.jpg&#34; alt=&#34;Introduction to SQL Data Camp certificate-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000841-68c9007b-4e86-4892-9eb3-a38022703889.jpg&#34; alt=&#34;IoT Foundations Operating Systems Fundamentals-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000846-d0da3ea5-9d18-40b6-a4ac-7eecf8c0d95f.jpg&#34; alt=&#34;Linux Shells and Processes - LinkedIn learning-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000849-c222d1f0-3856-4fad-8f59-380a503665b5.jpg&#34; alt=&#34;Machine Learning Coursera VJHQ4C2F8LDA-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000857-a0b600ce-8063-47bf-84ea-204c1fdbbfa2.jpg&#34; alt=&#34;Microsoft SQL Server 2019_ For Beginners Udemy UC-93630ce4-c301-401f-a935-a38155ba79aa-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000863-558e99d7-c318-4e2a-b4be-b7ff04828f07.jpg&#34; alt=&#34;Networking Foundations Network Media LANs-1&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000865-807a964f-77d7-46e1-b05b-fc5ed76b39df.png&#34; alt=&#34;Python Assessment for skill HackerRank Certificate&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000868-12b8d203-0fb8-4b55-b09e-1ccb847a2e7b.png&#34; alt=&#34;Deep Learning Fundamentals TV ML0115EN Certificate Cognitive Class&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/77569653/207000869-a38af34d-a5f5-4eea-afe9-9b4fba238402.png&#34; alt=&#34;Problem Solving (Basic) HackerRank Certificate&#34;&gt;&lt;/p&gt;
 &lt;!-- 
 

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;computer-networks-notes&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-15T04:24:52.000Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/computer-networks-notes/</id>
+        <id>https://samir.pages.dev/posts/computer-networks-notes/</id>
         <title>Computer Networks Notes</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/computer-networks-notes/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/computer-networks-notes/"/>
         <content type="html">&lt;h1 id=&#34;Chapter-1-Computer-Networks-and-the-Internet&#34;&gt;&lt;a href=&#34;#Chapter-1-Computer-Networks-and-the-Internet&#34; class=&#34;headerlink&#34; title=&#34;Chapter 1: Computer Networks and the Internet&#34;&gt;&lt;/a&gt;Chapter 1: Computer Networks and the Internet&lt;/h1&gt;&lt;h2 id=&#34;1-1-What-is-the-Internet&#34;&gt;&lt;a href=&#34;#1-1-What-is-the-Internet&#34; class=&#34;headerlink&#34; title=&#34;1.1 What is the Internet?&#34;&gt;&lt;/a&gt;1.1 What is the Internet?&lt;/h2&gt;&lt;h3 id=&#34;1-1-1-A-nuts-and-bolts-description&#34;&gt;&lt;a href=&#34;#1-1-1-A-nuts-and-bolts-description&#34; class=&#34;headerlink&#34; title=&#34;1.1.1 A nuts-and-bolts description&#34;&gt;&lt;/a&gt;1.1.1 A nuts-and-bolts description&lt;/h3&gt;&lt;p&gt;The Internet is a computer networks that interconnects hundreds of millions of computing devices through the world. Today not only computers and workstation are being connected to the network, therefore the term &lt;em&gt;computer network&lt;/em&gt; may sound a bit dated.&lt;/p&gt;
 &lt;p&gt;All the devices connected to the Internet are called &lt;strong&gt;hosts&lt;/strong&gt; or &lt;strong&gt;end systems&lt;/strong&gt;. End systems are connected together by a network of &lt;strong&gt;communication links&lt;/strong&gt; and &lt;strong&gt;packets switches&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Different links can transmit data at different rates, with the &lt;strong&gt;transmission rate&lt;/strong&gt; of a link measured in bits&amp;#x2F;second.&lt;/p&gt;

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;greedy&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.905Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/leetcode-greedy-for-beginners/</id>
+        <id>https://samir.pages.dev/posts/leetcode-greedy-for-beginners/</id>
         <title>LeetCode Greedy for Beginners</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/leetcode-greedy-for-beginners/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/leetcode-greedy-for-beginners/"/>
         <content type="html">&lt;p&gt;Greedy for practice:&lt;/p&gt;
 &lt;p&gt;Sharing good Greedy problems for practice:&lt;br&gt;List: &lt;a href=&#34;https://leetcode.com/list/xyehq5j6&#34;&gt;https://leetcode.com/list/xyehq5j6&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sort&amp;#x2F;Array&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/jump-game/&#34;&gt;https://leetcode.com/problems/jump-game/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/jump-game-ii/&#34;&gt;https://leetcode.com/problems/jump-game-ii/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/gas-station/&#34;&gt;https://leetcode.com/problems/gas-station/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/candy/&#34;&gt;https://leetcode.com/problems/candy/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/remove-k-digits/&#34;&gt;https://leetcode.com/problems/remove-k-digits/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/wiggle-subsequence/&#34;&gt;https://leetcode.com/problems/wiggle-subsequence/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/assign-cookies/&#34;&gt;https://leetcode.com/problems/assign-cookies/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/boats-to-save-people/&#34;&gt;https://leetcode.com/problems/boats-to-save-people/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/&#34;&gt;https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/queue-reconstruction-by-height/&#34;&gt;https://leetcode.com/problems/queue-reconstruction-by-height/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/play-with-chips/&#34;&gt;https://leetcode.com/problems/play-with-chips/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/previous-permutation-with-one-swap/&#34;&gt;https://leetcode.com/problems/previous-permutation-with-one-swap/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/lemonade-change/&#34;&gt;https://leetcode.com/problems/lemonade-change/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://leetcode.com/problems/bag-of-tokens/&#34;&gt;https://leetcode.com/problems/bag-of-tokens/&lt;/a&gt;&lt;/p&gt;

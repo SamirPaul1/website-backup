@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;operating system&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.913Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/operating-system-notes-for-placement/</id>
+        <id>https://samir.pages.dev/posts/operating-system-notes-for-placement/</id>
         <title>Operating System Notes For Placement</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/operating-system-notes-for-placement/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/operating-system-notes-for-placement/"/>
         <content type="html">&lt;h1 id=&#34;Operating-Systems-Overview&#34;&gt;&lt;a href=&#34;#Operating-Systems-Overview&#34; class=&#34;headerlink&#34; title=&#34;Operating Systems Overview&#34;&gt;&lt;/a&gt;Operating Systems Overview&lt;/h1&gt;&lt;hr&gt;
 
 &lt;p&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt; :&lt;/p&gt;

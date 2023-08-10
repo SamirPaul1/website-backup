@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Samir Paul • Posts by &#34;blog&#34; tag</title>
-        <link>https://samirpaul.in</link>
+        <link>https://samir.pages.dev</link>
         <description>Software Engineer</description>
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
@@ -40,11 +40,11 @@
         <category>distributed-systems</category>
         <category>two pointers problems</category>
         <category>Greedy</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -53,11 +53,11 @@
         <category>pdf-compression</category>
         <category>online-pdf-compressor</category>
         <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
-        <category>open-external-links</category>
-        <category>javascript</category>
         <category>project</category>
         <category>pygame</category>
         <category>python-game</category>
@@ -83,9 +83,9 @@
         <category>url-shortner</category>
         <category>networking</category>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/operating-system-notes-for-placement/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/operating-system-notes-for-placement/</guid>
             <title>Operating System Notes For Placement</title>
-            <link>https://samirpaul.in/posts/operating-system-notes-for-placement/</link>
+            <link>https://samir.pages.dev/posts/operating-system-notes-for-placement/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -2863,9 +2863,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/sql-joins-inner-left-right-and-full-joins/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/sql-joins-inner-left-right-and-full-joins/</guid>
             <title>SQL Joins - Inner, Left, Right and Full Joins</title>
-            <link>https://samirpaul.in/posts/sql-joins-inner-left-right-and-full-joins/</link>
+            <link>https://samir.pages.dev/posts/sql-joins-inner-left-right-and-full-joins/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -2883,9 +2883,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-cheat-sheet-for-leetcode/</guid>
             <title>Python Cheat Sheet for LeetCode</title>
-            <link>https://samirpaul.in/posts/python-cheat-sheet-for-leetcode/</link>
+            <link>https://samir.pages.dev/posts/python-cheat-sheet-for-leetcode/</link>
             <category>LeetCode</category>
             <category>blog</category>
             <category>coding</category>
@@ -3043,9 +3043,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/leetcode-greedy-for-beginners/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/leetcode-greedy-for-beginners/</guid>
             <title>LeetCode Greedy for Beginners</title>
-            <link>https://samirpaul.in/posts/leetcode-greedy-for-beginners/</link>
+            <link>https://samir.pages.dev/posts/leetcode-greedy-for-beginners/</link>
             <category>LeetCode</category>
             <category>blog</category>
             <category>coding</category>
@@ -3074,9 +3074,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/graph-for-beginners/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/graph-for-beginners/</guid>
             <title>Graph For Beginners</title>
-            <link>https://samirpaul.in/posts/graph-for-beginners/</link>
+            <link>https://samir.pages.dev/posts/graph-for-beginners/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -3193,9 +3193,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/leetcode-all-two-pointers-problems/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/leetcode-all-two-pointers-problems/</guid>
             <title>LeetCode all two pointers problems</title>
-            <link>https://samirpaul.in/posts/leetcode-all-two-pointers-problems/</link>
+            <link>https://samir.pages.dev/posts/leetcode-all-two-pointers-problems/</link>
             <category>LeetCode</category>
             <category>blog</category>
             <category>coding</category>
@@ -3285,9 +3285,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/binary-search-template/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/binary-search-template/</guid>
             <title>Binary Search Template</title>
-            <link>https://samirpaul.in/posts/binary-search-template/</link>
+            <link>https://samir.pages.dev/posts/binary-search-template/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -3442,9 +3442,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/dp-for-beginners/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/dp-for-beginners/</guid>
             <title>DP for Beginners</title>
-            <link>https://samirpaul.in/posts/dp-for-beginners/</link>
+            <link>https://samir.pages.dev/posts/dp-for-beginners/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -3505,9 +3505,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/dynamic-programming-patterns/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/dynamic-programming-patterns/</guid>
             <title>Dynamic Programming Patterns</title>
-            <link>https://samirpaul.in/posts/dynamic-programming-patterns/</link>
+            <link>https://samir.pages.dev/posts/dynamic-programming-patterns/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -3689,9 +3689,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/embed-music/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/embed-music/</guid>
             <title>Embed MusicApp</title>
-            <link>https://samirpaul.in/posts/embed-music/</link>
+            <link>https://samir.pages.dev/posts/embed-music/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -3700,8 +3700,8 @@
             <category>embeded</category>
             <category>music-player</category>
             <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
-            <description><![CDATA[ &lt;p&gt;Embed &lt;a href=&#34;https://samirpaul.in/music/embed&#34;&gt;&lt;b&gt;samirpaul.in&amp;#x2F;music&amp;#x2F;embed&lt;/b&gt;&lt;/a&gt; music player(Lofi Study Music) to any website:&lt;/p&gt;
-&lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;iframe src=&#34;https://samirpaul.in/music/embed/index.html&#34;
+            <description><![CDATA[ &lt;p&gt;Embed &lt;a href=&#34;https://samir.pages.dev/music/embed&#34;&gt;&lt;b&gt;samir.pages.dev&amp;#x2F;music&amp;#x2F;embed&lt;/b&gt;&lt;/a&gt; music player(Lofi Study Music) to any website:&lt;/p&gt;
+&lt;h3 id=&#34;Demo&#34;&gt;&lt;a href=&#34;#Demo&#34; class=&#34;headerlink&#34; title=&#34;Demo:&#34;&gt;&lt;/a&gt;Demo:&lt;/h3&gt;&lt;iframe src=&#34;https://samir.pages.dev/music/embed/index.html&#34;
   title=&#34;Embed MusicApp&#34;
     frameborder=&#34;0&#34;
     loading=&#34;lazy&#34;
@@ -3713,13 +3713,13 @@
 &lt;/iframe&gt;
 
 
-&lt;h3 id=&#34;Code&#34;&gt;&lt;a href=&#34;#Code&#34; class=&#34;headerlink&#34; title=&#34;Code:&#34;&gt;&lt;/a&gt;Code:&lt;/h3&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;https://samirpaul.in/music/embed&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Embed MusicApp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;loading&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;lazy&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginheight&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginwidth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;223&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;Code&#34;&gt;&lt;a href=&#34;#Code&#34; class=&#34;headerlink&#34; title=&#34;Code:&#34;&gt;&lt;/a&gt;Code:&lt;/h3&gt;&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;https://samir.pages.dev/music/embed&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Embed MusicApp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;loading&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;lazy&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginheight&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;marginwidth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;223&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;	&lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/url-shortening-service/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/url-shortening-service/</guid>
             <title>URL Shortening Service</title>
-            <link>https://samirpaul.in/posts/url-shortening-service/</link>
+            <link>https://samir.pages.dev/posts/url-shortening-service/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4080,9 +4080,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/system-design-interview-for-it-companies/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/system-design-interview-for-it-companies/</guid>
             <title>System design interview for IT companies</title>
-            <link>https://samirpaul.in/posts/system-design-interview-for-it-companies/</link>
+            <link>https://samir.pages.dev/posts/system-design-interview-for-it-companies/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4330,9 +4330,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/sql-vs-nosql/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/sql-vs-nosql/</guid>
             <title>SQL vs. NoSQL</title>
-            <link>https://samirpaul.in/posts/sql-vs-nosql/</link>
+            <link>https://samir.pages.dev/posts/sql-vs-nosql/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4439,9 +4439,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</guid>
             <title>Steps how to approach the system design questions in interviews</title>
-            <link>https://samirpaul.in/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</link>
+            <link>https://samir.pages.dev/posts/steps-how-to-approach-the-system-design-questions-in-interviews/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4496,9 +4496,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/sharding-or-data-partitioning/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/sharding-or-data-partitioning/</guid>
             <title>Sharding or Data Partitioning</title>
-            <link>https://samirpaul.in/posts/sharding-or-data-partitioning/</link>
+            <link>https://samir.pages.dev/posts/sharding-or-data-partitioning/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4598,9 +4598,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/pyshooter/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/pyshooter/</guid>
             <title>PyShooter Python Game</title>
-            <link>https://samirpaul.in/posts/pyshooter/</link>
+            <link>https://samir.pages.dev/posts/pyshooter/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4649,9 +4649,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/key-characteristics-of-distributed-systems/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/</guid>
             <title>Key Characteristics of Distributed Systems</title>
-            <link>https://samirpaul.in/posts/key-characteristics-of-distributed-systems/</link>
+            <link>https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4690,9 +4690,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/high-level-design/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/high-level-design/</guid>
             <title>High-level design</title>
-            <link>https://samirpaul.in/posts/high-level-design/</link>
+            <link>https://samir.pages.dev/posts/high-level-design/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4726,9 +4726,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/consistent-hashing/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/consistent-hashing/</guid>
             <title>Consistent Hashing</title>
-            <link>https://samirpaul.in/posts/consistent-hashing/</link>
+            <link>https://samir.pages.dev/posts/consistent-hashing/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4760,9 +4760,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/company-engineering-blog-links/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/company-engineering-blog-links/</guid>
             <title>Company engineering blog links</title>
-            <link>https://samirpaul.in/posts/company-engineering-blog-links/</link>
+            <link>https://samir.pages.dev/posts/company-engineering-blog-links/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4811,9 +4811,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/common-design-questions/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/common-design-questions/</guid>
             <title>Common Design questions</title>
-            <link>https://samirpaul.in/posts/common-design-questions/</link>
+            <link>https://samir.pages.dev/posts/common-design-questions/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4845,9 +4845,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/client-server-communication/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/client-server-communication/</guid>
             <title>Client-Server Communication</title>
-            <link>https://samirpaul.in/posts/client-server-communication/</link>
+            <link>https://samir.pages.dev/posts/client-server-communication/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -4901,9 +4901,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/caching/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/caching/</guid>
             <title>Caching</title>
-            <link>https://samirpaul.in/posts/caching/</link>
+            <link>https://samir.pages.dev/posts/caching/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5022,9 +5022,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/google-programmable-search-engine/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/google-programmable-search-engine/</guid>
             <title>Google Programmable Search Engine</title>
-            <link>https://samirpaul.in/posts/google-programmable-search-engine/</link>
+            <link>https://samir.pages.dev/posts/google-programmable-search-engine/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5051,9 +5051,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/why-is-system-design-so-important/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/why-is-system-design-so-important/</guid>
             <title>Why is System Design So Important?</title>
-            <link>https://samirpaul.in/posts/why-is-system-design-so-important/</link>
+            <link>https://samir.pages.dev/posts/why-is-system-design-so-important/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5076,9 +5076,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/why-does-the-osi-model-matter/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/why-does-the-osi-model-matter/</guid>
             <title>Why Does The OSI Model Matter?</title>
-            <link>https://samirpaul.in/posts/why-does-the-osi-model-matter/</link>
+            <link>https://samir.pages.dev/posts/why-does-the-osi-model-matter/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5098,9 +5098,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/what-is-system-design/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/what-is-system-design/</guid>
             <title>What is System Design?</title>
-            <link>https://samirpaul.in/posts/what-is-system-design/</link>
+            <link>https://samir.pages.dev/posts/what-is-system-design/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5112,9 +5112,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/virtualization-vs-containerization/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/virtualization-vs-containerization/</guid>
             <title>Virtualization vs Containerization</title>
-            <link>https://samirpaul.in/posts/virtualization-vs-containerization/</link>
+            <link>https://samir.pages.dev/posts/virtualization-vs-containerization/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5128,9 +5128,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/tcp-vs-udp/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/tcp-vs-udp/</guid>
             <title>TCP vs UDP</title>
-            <link>https://samirpaul.in/posts/tcp-vs-udp/</link>
+            <link>https://samir.pages.dev/posts/tcp-vs-udp/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5142,9 +5142,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/ssl-tls-mtls/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/ssl-tls-mtls/</guid>
             <title>SSL TLS mTLS</title>
-            <link>https://samirpaul.in/posts/ssl-tls-mtls/</link>
+            <link>https://samir.pages.dev/posts/ssl-tls-mtls/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5156,9 +5156,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/slo-or-service-level-objective/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/slo-or-service-level-objective/</guid>
             <title>SLO or Service Level Objective</title>
-            <link>https://samirpaul.in/posts/slo-or-service-level-objective/</link>
+            <link>https://samir.pages.dev/posts/slo-or-service-level-objective/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5170,9 +5170,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/sla-or-service-level-agreement/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/sla-or-service-level-agreement/</guid>
             <title>SLA or Service Level Agreement</title>
-            <link>https://samirpaul.in/posts/sla-or-service-level-agreement/</link>
+            <link>https://samir.pages.dev/posts/sla-or-service-level-agreement/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5189,9 +5189,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/single-sign-on-sso/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/single-sign-on-sso/</guid>
             <title>Single Sign-On SSO</title>
-            <link>https://samirpaul.in/posts/single-sign-on-sso/</link>
+            <link>https://samir.pages.dev/posts/single-sign-on-sso/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5203,9 +5203,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</guid>
             <title>SAML vs OAuth 2.0 and OpenID Connect</title>
-            <link>https://samirpaul.in/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</link>
+            <link>https://samir.pages.dev/posts/saml-vs-oauth-2-dot-0-and-openid-connect/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5218,9 +5218,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-vs-r-for-data-science/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-vs-r-for-data-science/</guid>
             <title>Python vs R for data science</title>
-            <link>https://samirpaul.in/posts/python-vs-r-for-data-science/</link>
+            <link>https://samir.pages.dev/posts/python-vs-r-for-data-science/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5232,9 +5232,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-libraries-to-automate-web-scraping/</guid>
             <title>Python libraries to automate web scraping</title>
-            <link>https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/</link>
+            <link>https://samir.pages.dev/posts/python-libraries-to-automate-web-scraping/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5249,9 +5249,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</guid>
             <title>Python libraries for validating data. Used for forms in many cases</title>
-            <link>https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</link>
+            <link>https://samir.pages.dev/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5266,9 +5266,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-for-parsing-urls/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-libraries-for-parsing-urls/</guid>
             <title>Python libraries for parsing URLs</title>
-            <link>https://samirpaul.in/posts/python-libraries-for-parsing-urls/</link>
+            <link>https://samir.pages.dev/posts/python-libraries-for-parsing-urls/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5283,9 +5283,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-for-manipulating-audio-and-its-metadata/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-libraries-for-manipulating-audio-and-its-metadata/</guid>
             <title>Python libraries for manipulating audio and its metadata</title>
-            <link>https://samirpaul.in/posts/python-libraries-for-manipulating-audio-and-its-metadata/</link>
+            <link>https://samir.pages.dev/posts/python-libraries-for-manipulating-audio-and-its-metadata/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5307,9 +5307,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-for-implementing-authentication-schemes/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-libraries-for-implementing-authentication-schemes/</guid>
             <title>Python libraries for implementing authentication schemes</title>
-            <link>https://samirpaul.in/posts/python-libraries-for-implementing-authentication-schemes/</link>
+            <link>https://samir.pages.dev/posts/python-libraries-for-implementing-authentication-schemes/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5324,9 +5324,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-for-caching-data/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-libraries-for-caching-data/</guid>
             <title>Python libraries for caching data</title>
-            <link>https://samirpaul.in/posts/python-libraries-for-caching-data/</link>
+            <link>https://samir.pages.dev/posts/python-libraries-for-caching-data/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5341,9 +5341,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-content-management-systems/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-content-management-systems/</guid>
             <title>Python Content Management Systems</title>
-            <link>https://samirpaul.in/posts/python-content-management-systems/</link>
+            <link>https://samir.pages.dev/posts/python-content-management-systems/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5358,9 +5358,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/python-libraries-for-administrative-interfaces/</guid>
             <title>Python libraries for administrative interfaces</title>
-            <link>https://samirpaul.in/posts/python-libraries-for-administrative-interfaces/</link>
+            <link>https://samir.pages.dev/posts/python-libraries-for-administrative-interfaces/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5380,9 +5380,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/oauth-2-dot-0-and-openid-connect/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/oauth-2-dot-0-and-openid-connect/</guid>
             <title>OAuth 2.0 and OpenID Connect</title>
-            <link>https://samirpaul.in/posts/oauth-2-dot-0-and-openid-connect/</link>
+            <link>https://samir.pages.dev/posts/oauth-2-dot-0-and-openid-connect/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5394,9 +5394,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/libraries-for-visualizing-data/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/libraries-for-visualizing-data/</guid>
             <title>Libraries for visualizing data</title>
-            <link>https://samirpaul.in/posts/libraries-for-visualizing-data/</link>
+            <link>https://samir.pages.dev/posts/libraries-for-visualizing-data/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5411,9 +5411,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/how-to-learn-object-oriented-programming-in-python/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/how-to-learn-object-oriented-programming-in-python/</guid>
             <title>how to learn object oriented programming in python</title>
-            <link>https://samirpaul.in/posts/how-to-learn-object-oriented-programming-in-python/</link>
+            <link>https://samir.pages.dev/posts/how-to-learn-object-oriented-programming-in-python/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5430,9 +5430,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/databases-implemented-in-python/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/databases-implemented-in-python/</guid>
             <title>Databases implemented in Python</title>
-            <link>https://samirpaul.in/posts/databases-implemented-in-python/</link>
+            <link>https://samir.pages.dev/posts/databases-implemented-in-python/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5447,9 +5447,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/gaming-library-in-python/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/gaming-library-in-python/</guid>
             <title>gaming library in python</title>
-            <link>https://samirpaul.in/posts/gaming-library-in-python/</link>
+            <link>https://samir.pages.dev/posts/gaming-library-in-python/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5464,9 +5464,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/how-does-sso-work/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/how-does-sso-work/</guid>
             <title>How does SSO work?</title>
-            <link>https://samirpaul.in/posts/how-does-sso-work/</link>
+            <link>https://samir.pages.dev/posts/how-does-sso-work/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>
@@ -5478,9 +5478,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://samirpaul.in/posts/best-static-site-generator-for-blog/</guid>
+            <guid isPermalink="true">https://samir.pages.dev/posts/best-static-site-generator-for-blog/</guid>
             <title>best static site generator for blog</title>
-            <link>https://samirpaul.in/posts/best-static-site-generator-for-blog/</link>
+            <link>https://samir.pages.dev/posts/best-static-site-generator-for-blog/</link>
             <category>blog</category>
             <category>coding</category>
             <category>computer-science</category>

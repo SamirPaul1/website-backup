@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;geeksforgeeks&#34; category</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2020-08-31T04:24:52.000Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/1-Absolute-Value---GFG/</id>
+        <id>https://samir.pages.dev/posts/1-Absolute-Value---GFG/</id>
         <title>1. Absolute Value   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/1-Absolute-Value---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/1-Absolute-Value---GFG/"/>
         <content type="html">&lt;h1 id=&#34;1-Absolute-Value&#34;&gt;&lt;a href=&#34;#1-Absolute-Value&#34; class=&#34;headerlink&#34; title=&#34;1. Absolute Value&#34;&gt;&lt;/a&gt;1. Absolute Value&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;You are given an interger &lt;strong&gt;I&lt;/strong&gt;, find&amp;nbsp;the absolute value of the interger &lt;strong&gt;I&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
 
@@ -130,9 +130,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Addition-of-Two-Numbers---GFG/</id>
+        <id>https://samir.pages.dev/posts/Addition-of-Two-Numbers---GFG/</id>
         <title>Addition of Two Numbers   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Addition-of-Two-Numbers---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Addition-of-Two-Numbers---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Addition-of-Two-Numbers&#34;&gt;&lt;a href=&#34;#Addition-of-Two-Numbers&#34; class=&#34;headerlink&#34; title=&#34;Addition of Two Numbers&#34;&gt;&lt;/a&gt;Addition of Two Numbers&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two numbers &lt;strong&gt;A&amp;nbsp;&lt;/strong&gt;and &lt;strong&gt;B&lt;/strong&gt;. Your task is to return the sum of A and B.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -181,9 +181,9 @@ Addition os 10 and 20 is 30.&lt;/span&gt;&lt;/pre&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Aggressive-Cows---GFG/</id>
+        <id>https://samir.pages.dev/posts/Aggressive-Cows---GFG/</id>
         <title>Aggressive Cows   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Aggressive-Cows---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Aggressive-Cows---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Aggressive-Cows&#34;&gt;&lt;a href=&#34;#Aggressive-Cows&#34; class=&#34;headerlink&#34; title=&#34;Aggressive Cows&#34;&gt;&lt;/a&gt;Aggressive Cows&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;You are given an &lt;strong&gt;array&lt;/strong&gt;&amp;nbsp;consisting of &lt;strong&gt;n&amp;nbsp;integers&lt;/strong&gt; which denote the position of a &lt;strong&gt;stall&lt;/strong&gt;. You are also given an &lt;strong&gt;integer&lt;/strong&gt; &lt;strong&gt;k&lt;/strong&gt; which denotes the number of aggressive cows. You are given the task of &lt;strong&gt;assigning stalls to k&amp;nbsp;cows&lt;/strong&gt; such that the &lt;strong&gt;minimum distance between any two of them is the maximum possible&lt;/strong&gt;.&lt;br&gt;
 The first line of input contains two&amp;nbsp;space-separated integers &lt;strong&gt;n&lt;/strong&gt; and &lt;strong&gt;k&lt;/strong&gt;.&lt;br&gt;
 The second line contains &lt;strong&gt;n&lt;/strong&gt; space-separated integers denoting the position of the stalls.&lt;/p&gt;
@@ -238,9 +238,9 @@ Complete the function int solve(), which takes integer n, k, and a vector&amp;nb
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Allocate-minimum-number-of-pages---GFG/</id>
+        <id>https://samir.pages.dev/posts/Allocate-minimum-number-of-pages---GFG/</id>
         <title>Allocate minimum number of pages   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Allocate-minimum-number-of-pages---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Allocate-minimum-number-of-pages---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Allocate-minimum-number-of-pages&#34;&gt;&lt;a href=&#34;#Allocate-minimum-number-of-pages&#34; class=&#34;headerlink&#34; title=&#34;Allocate minimum number of pages&#34;&gt;&lt;/a&gt;Allocate minimum number of pages&lt;/h1&gt;&lt;h2 id=&#34;Hard&#34;&gt;&lt;a href=&#34;#Hard&#34; class=&#34;headerlink&#34; title=&#34;Hard&#34;&gt;&lt;/a&gt;Hard&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;You are given &lt;strong&gt;N &lt;/strong&gt;number of books. Every &lt;strong&gt;ith&lt;/strong&gt; book has&lt;strong&gt; Ai&lt;/strong&gt; number of pages.&amp;nbsp;The books are arranged in ascending order.&lt;/span&gt;&lt;br&gt;
 &lt;br&gt;
 &lt;span style=&#34;font-size:18px&#34;&gt;You have to allocate contiguous&amp;nbsp;books to &lt;strong&gt;M &lt;/strong&gt;number of students. There can be many ways or permutations to do so. In each permutation, one of the M students will be allocated the maximum number of pages. Out of all these permutations, the task is to find that particular permutation in which the maximum number of pages allocated to a student is the minimum of those in all the other permutations and print this minimum value.&lt;/span&gt;&lt;/p&gt;
@@ -300,9 +300,55 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Binary-Array-Sorting---GFG/</id>
+        <id>https://samir.pages.dev/posts/Array-Pair-Sum-Divisibility-Problem---GFG/</id>
+        <title>Array Pair Sum Divisibility Problem   GFG</title>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Array-Pair-Sum-Divisibility-Problem---GFG/"/>
+        <content type="html">&lt;h1 id=&#34;Array-Pair-Sum-Divisibility-Problem&#34;&gt;&lt;a href=&#34;#Array-Pair-Sum-Divisibility-Problem&#34; class=&#34;headerlink&#34; title=&#34;Array Pair Sum Divisibility Problem&#34;&gt;&lt;/a&gt;Array Pair Sum Divisibility Problem&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array of integers and a number k, write a function that returns true if given array can be divided into pairs such that sum of every pair is divisible by k.&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1 :&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input : &lt;/strong&gt;arr = [9, 5, 7, 3], k = 6
+&lt;strong&gt;Output: &lt;/strong&gt;True
+&lt;strong&gt;Explanation: &lt;/strong&gt;{(9, 3), (5, 7)} is a 
+possible solution. 9 + 3 = 12 is divisible
+by 6 and 7 + 5 = 12 is also divisible by 6.
+
+&lt;/span&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input : &lt;/strong&gt;arr = [2, 4, 1, 3], k = 4
+&lt;strong&gt;Output: &lt;/strong&gt;False
+&lt;strong&gt;Explanation: &lt;/strong&gt;There is no possible solution.&lt;/span&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Your Task:&lt;/strong&gt;&lt;br&gt;
+You don&#39;t need to read or print anything. Your task is to complete the function&amp;nbsp;&lt;strong&gt;canPair()&lt;/strong&gt;&amp;nbsp;which takes array and k as input parameter and returns true if array can be divided into pairs such that sum of every pair is divisible by k otherwise returns false.&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Expected Time Complexity:&amp;nbsp;&lt;/strong&gt;O(n)&lt;br&gt;
+&lt;strong&gt;Expected Space Complexity :&amp;nbsp;&lt;/strong&gt;O(n)&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;br&gt;
+1 &amp;lt;= length of array &amp;lt;= 10^5&lt;br&gt;
+1 &amp;lt;= elements of array &amp;lt;= 10^5&lt;br&gt;
+1 &amp;lt;= k &amp;lt;= 10^5&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;namespace&lt;/span&gt; std;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;bool&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;canPair&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(vector&amp;lt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;&amp;gt; nums, &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; k)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// Code here.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;         &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(nums.&lt;span class=&#34;built_in&#34;&gt;size&lt;/span&gt;()%&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;==&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;function&#34;&gt;vector&amp;lt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;&amp;gt; &lt;span class=&#34;title&#34;&gt;fre&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;number&#34;&gt;100001&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; num : nums) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; num1 = num%k;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(fre[(k-num1)%k]!=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                fre[(k-num1)%k]--;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                fre[num1]++;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; f : fre) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(f&amp;gt;&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; tc;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    cin &amp;gt;&amp;gt; tc;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (tc--) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; n, k;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cin &amp;gt;&amp;gt; n &amp;gt;&amp;gt; k;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;function&#34;&gt;vector&amp;lt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;&amp;gt; &lt;span class=&#34;title&#34;&gt;nums&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(n)&lt;/span&gt;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; (&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; i = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;; i &amp;lt; nums.&lt;span class=&#34;built_in&#34;&gt;size&lt;/span&gt;(); i++) cin &amp;gt;&amp;gt; nums[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Solution ob;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;type&#34;&gt;bool&lt;/span&gt; ans = ob.&lt;span class=&#34;built_in&#34;&gt;canPair&lt;/span&gt;(nums, k);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (ans)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cout &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;quot;True\n&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cout &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;quot;False\n&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+        <category term="geeksforgeeks" />
+        <updated>2020-08-31T04:24:52.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://samir.pages.dev/posts/Binary-Array-Sorting---GFG/</id>
         <title>Binary Array Sorting   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Binary-Array-Sorting---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Binary-Array-Sorting---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Binary-Array-Sorting&#34;&gt;&lt;a href=&#34;#Binary-Array-Sorting&#34; class=&#34;headerlink&#34; title=&#34;Binary Array Sorting&#34;&gt;&lt;/a&gt;Binary Array Sorting&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a binary array &lt;strong&gt;A[]&lt;/strong&gt; of size &lt;strong&gt;N&lt;/strong&gt;. The task is to arrange the array in increasing order.&lt;/span&gt;&lt;br&gt;
 &lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Note:&lt;/strong&gt; The binary array contains only 0&amp;nbsp; and 1.&lt;/span&gt;&lt;br&gt;
@@ -356,55 +402,9 @@ increasing order, elements will be
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Array-Pair-Sum-Divisibility-Problem---GFG/</id>
-        <title>Array Pair Sum Divisibility Problem   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Array-Pair-Sum-Divisibility-Problem---GFG/"/>
-        <content type="html">&lt;h1 id=&#34;Array-Pair-Sum-Divisibility-Problem&#34;&gt;&lt;a href=&#34;#Array-Pair-Sum-Divisibility-Problem&#34; class=&#34;headerlink&#34; title=&#34;Array Pair Sum Divisibility Problem&#34;&gt;&lt;/a&gt;Array Pair Sum Divisibility Problem&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array of integers and a number k, write a function that returns true if given array can be divided into pairs such that sum of every pair is divisible by k.&lt;/span&gt;&lt;br&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1 :&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input : &lt;/strong&gt;arr = [9, 5, 7, 3], k = 6
-&lt;strong&gt;Output: &lt;/strong&gt;True
-&lt;strong&gt;Explanation: &lt;/strong&gt;{(9, 3), (5, 7)} is a 
-possible solution. 9 + 3 = 12 is divisible
-by 6 and 7 + 5 = 12 is also divisible by 6.
-
-&lt;/span&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input : &lt;/strong&gt;arr = [2, 4, 1, 3], k = 4
-&lt;strong&gt;Output: &lt;/strong&gt;False
-&lt;strong&gt;Explanation: &lt;/strong&gt;There is no possible solution.&lt;/span&gt;
-&lt;/pre&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Your Task:&lt;/strong&gt;&lt;br&gt;
-You don&#39;t need to read or print anything. Your task is to complete the function&amp;nbsp;&lt;strong&gt;canPair()&lt;/strong&gt;&amp;nbsp;which takes array and k as input parameter and returns true if array can be divided into pairs such that sum of every pair is divisible by k otherwise returns false.&lt;/span&gt;&lt;br&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Expected Time Complexity:&amp;nbsp;&lt;/strong&gt;O(n)&lt;br&gt;
-&lt;strong&gt;Expected Space Complexity :&amp;nbsp;&lt;/strong&gt;O(n)&lt;/span&gt;&lt;br&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;br&gt;
-1 &amp;lt;= length of array &amp;lt;= 10^5&lt;br&gt;
-1 &amp;lt;= elements of array &amp;lt;= 10^5&lt;br&gt;
-1 &amp;lt;= k &amp;lt;= 10^5&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;namespace&lt;/span&gt; std;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;bool&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;canPair&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(vector&amp;lt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;&amp;gt; nums, &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; k)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// Code here.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;         &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(nums.&lt;span class=&#34;built_in&#34;&gt;size&lt;/span&gt;()%&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;==&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;function&#34;&gt;vector&amp;lt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;&amp;gt; &lt;span class=&#34;title&#34;&gt;fre&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;number&#34;&gt;100001&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; num : nums) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; num1 = num%k;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(fre[(k-num1)%k]!=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                fre[(k-num1)%k]--;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                fre[num1]++;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; f : fre) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(f&amp;gt;&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; tc;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    cin &amp;gt;&amp;gt; tc;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (tc--) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; n, k;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cin &amp;gt;&amp;gt; n &amp;gt;&amp;gt; k;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;function&#34;&gt;vector&amp;lt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;&amp;gt; &lt;span class=&#34;title&#34;&gt;nums&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(n)&lt;/span&gt;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; (&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; i = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;; i &amp;lt; nums.&lt;span class=&#34;built_in&#34;&gt;size&lt;/span&gt;(); i++) cin &amp;gt;&amp;gt; nums[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Solution ob;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;type&#34;&gt;bool&lt;/span&gt; ans = ob.&lt;span class=&#34;built_in&#34;&gt;canPair&lt;/span&gt;(nums, k);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (ans)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cout &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;quot;True\n&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cout &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;quot;False\n&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-</content>
-        <category term="geeksforgeeks" />
-        <updated>2020-08-31T04:24:52.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://samirpaul.in/posts/Bitwise-Operators---GFG/</id>
+        <id>https://samir.pages.dev/posts/Bitwise-Operators---GFG/</id>
         <title>Bitwise Operators   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Bitwise-Operators---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Bitwise-Operators---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Bitwise-Operators&#34;&gt;&lt;a href=&#34;#Bitwise-Operators&#34; class=&#34;headerlink&#34; title=&#34;Bitwise Operators&#34;&gt;&lt;/a&gt;Bitwise Operators&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Bitwise operators are useful when we want to work with bits. Here, we&#39;ll take a look at them.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given three positive integers &lt;strong&gt;a&lt;/strong&gt;, &lt;strong&gt;b&lt;/strong&gt; and &lt;strong&gt;c&lt;/strong&gt;. Your task is to perform some bitwise operations on them as given below:&lt;br&gt;
@@ -445,9 +445,9 @@ c = 2&lt;br&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Black-and-White---GFG/</id>
+        <id>https://samir.pages.dev/posts/Black-and-White---GFG/</id>
         <title>Black and White   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Black-and-White---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Black-and-White---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Black-and-White&#34;&gt;&lt;a href=&#34;#Black-and-White&#34; class=&#34;headerlink&#34; title=&#34;Black and White&#34;&gt;&lt;/a&gt;Black and White&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given&amp;nbsp;the chessboard dimensions. Find out the number of ways we can place a black and a white Knight on this chessboard such that they cannot attack each other.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;br&gt;
@@ -487,9 +487,9 @@ Your task is to complete the function &lt;strong&gt;numOfWays()&amp;nbsp;&lt;/st
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/C++-Data-Types---GFG/</id>
+        <id>https://samir.pages.dev/posts/C++-Data-Types---GFG/</id>
         <title>C++ Data Types   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/C++-Data-Types---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/C++-Data-Types---GFG/"/>
         <content type="html">&lt;h1 id=&#34;C-Data-Types&#34;&gt;&lt;a href=&#34;#C-Data-Types&#34; class=&#34;headerlink&#34; title=&#34;C++ Data Types&#34;&gt;&lt;/a&gt;C++ Data Types&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Read a value and store it in the appropriate C++ Data Type.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -526,9 +526,9 @@ cppFloatType() :&amp;nbsp;&lt;/strong&gt;read a float&amp;nbsp;input, store it i
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/C++-Strings---GFG/</id>
+        <id>https://samir.pages.dev/posts/C++-Strings---GFG/</id>
         <title>C++ Strings   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/C++-Strings---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/C++-Strings---GFG/"/>
         <content type="html">&lt;h1 id=&#34;C-Strings&#34;&gt;&lt;a href=&#34;#C-Strings&#34; class=&#34;headerlink&#34; title=&#34;C++ Strings&#34;&gt;&lt;/a&gt;C++ Strings&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two strings&amp;nbsp; S1 and S2 .&amp;nbsp;You have to concatenate both the strings and print the concatenated string.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -572,9 +572,9 @@ where N is the length of a&amp;nbsp;String&lt;/span&gt;&lt;/p&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/C++-Switch-Case-Statement---GFG/</id>
+        <id>https://samir.pages.dev/posts/C++-Switch-Case-Statement---GFG/</id>
         <title>C++ Switch Case Statement   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/C++-Switch-Case-Statement---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/C++-Switch-Case-Statement---GFG/"/>
         <content type="html">&lt;h1 id=&#34;C-Switch-Case-Statement&#34;&gt;&lt;a href=&#34;#C-Switch-Case-Statement&#34; class=&#34;headerlink&#34; title=&#34;C++ Switch Case Statement&#34;&gt;&lt;/a&gt;C++ Switch Case Statement&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a number N, if the number is between 1 and 10 both inclusive then return the number in words (Lower case English Alphabets) otherwise return&amp;nbsp;&#34;not in range&#34;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -623,9 +623,9 @@ where N is the length of a&amp;nbsp;String&lt;/span&gt;&lt;/p&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/C++-if-else-(Decision-Making)---GFG/</id>
+        <id>https://samir.pages.dev/posts/C++-if-else-(Decision-Making)---GFG/</id>
         <title>C++ if else (Decision Making)   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/C++-if-else-(Decision-Making)---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/C++-if-else-(Decision-Making)---GFG/"/>
         <content type="html">&lt;h1 id=&#34;C-if-else-Decision-Making&#34;&gt;&lt;a href=&#34;#C-if-else-Decision-Making&#34; class=&#34;headerlink&#34; title=&#34;C++ if-else (Decision Making)&#34;&gt;&lt;/a&gt;C++ if-else (Decision Making)&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an integer N.&amp;nbsp;Your task is to check if the integer is greater than, less than or equal to 5.&lt;br&gt;
 If the integer is greater than 5, then print &#34;Greater than 5&#34; (without quotes).&lt;br&gt;
 If the integer is less than 5, then print &#34;Less than 5&#34;.&lt;br&gt;
@@ -677,9 +677,9 @@ If the integer is equal to 5, then print &#34;Equal&amp;nbsp;to 5&#34;.&lt;/span
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Check-if-Linked-List-is-Palindrome---GFG/</id>
+        <id>https://samir.pages.dev/posts/Check-if-Linked-List-is-Palindrome---GFG/</id>
         <title>Check if Linked List is Palindrome   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Check-if-Linked-List-is-Palindrome---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Check-if-Linked-List-is-Palindrome---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Check-if-Linked-List-is-Palindrome&#34;&gt;&lt;a href=&#34;#Check-if-Linked-List-is-Palindrome&#34; class=&#34;headerlink&#34; title=&#34;Check if Linked List is Palindrome&#34;&gt;&lt;/a&gt;Check if Linked List is Palindrome&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list of size &lt;strong&gt;N&lt;/strong&gt; of integers. The task is to check if the given linked list is palindrome or not.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -720,9 +720,9 @@ The task is to complete the function&amp;nbsp;&lt;strong&gt;isPalindrome&lt;/str
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Check-if-array-is-sorted---GFG/</id>
+        <id>https://samir.pages.dev/posts/Check-if-array-is-sorted---GFG/</id>
         <title>Check if array is sorted   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Check-if-array-is-sorted---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Check-if-array-is-sorted---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Check-if-array-is-sorted&#34;&gt;&lt;a href=&#34;#Check-if-array-is-sorted&#34; class=&#34;headerlink&#34; title=&#34;Check if array is sorted&#34;&gt;&lt;/a&gt;Check if array is sorted&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array &lt;strong&gt;arr[]&amp;nbsp;&lt;/strong&gt;of size &lt;strong&gt;N&lt;/strong&gt;, check if it is sorted in non-decreasing order or not.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -765,56 +765,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Check-if-two-arrays-are-equal-or-not---GFG/</id>
-        <title>Check if two arrays are equal or not   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Check-if-two-arrays-are-equal-or-not---GFG/"/>
-        <content type="html">&lt;h1 id=&#34;Check-if-two-arrays-are-equal-or-not&#34;&gt;&lt;a href=&#34;#Check-if-two-arrays-are-equal-or-not&#34; class=&#34;headerlink&#34; title=&#34;Check if two arrays are equal or not&#34;&gt;&lt;/a&gt;Check if two arrays are equal or not&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two arrays &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; of equal size &lt;strong&gt;N&lt;/strong&gt;, the task is to find if given arrays are equal or not. Two arrays are said to be equal if both of them contain same set of elements, arrangements (or permutation) of elements may be different though.&lt;br&gt;
-&lt;strong&gt;Note :&lt;/strong&gt;&amp;nbsp;If there are repetitions, then counts of repeated elements must also be same for two array to be equal.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input:
-&lt;/strong&gt;N = 5
-A[] = {1,2,5,4,0}
-B[] = {2,4,5,0,1}
-&lt;strong&gt;Output: &lt;/strong&gt;1&lt;strong&gt;
-Explanation: &lt;/strong&gt;Both the array can be 
-rearranged to {0,1,2,4,5}&lt;/span&gt;
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input:
-&lt;/strong&gt;N = 3
-A[] = {1,2,5}
-B[] = {2,4,15}
-&lt;strong&gt;Output: &lt;/strong&gt;0&lt;strong&gt;
-Explanation: &lt;/strong&gt;A[] and B[] have only 
-one common value.&lt;/span&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Your Task:&lt;/strong&gt;&lt;br&gt;
-Complete&amp;nbsp;&lt;strong&gt;check() &lt;/strong&gt;function which takes both the given array and their size as function arguments and returns &lt;strong&gt;true&lt;/strong&gt; if the arrays are equal else &lt;strong&gt;returns false&lt;/strong&gt;.The 0 and 1 printing is done by the driver code.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Expected Time Complexity &lt;/strong&gt;: O(N)&lt;br&gt;
-&lt;strong&gt;Expected Auxilliary Space&lt;/strong&gt; : O(N)&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;br&gt;
-1&amp;lt;=N&amp;lt;=10&lt;sup&gt;7&lt;/sup&gt;&lt;br&gt;
-1&amp;lt;=A[],B[]&amp;lt;=10&lt;sup&gt;18&lt;/sup&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//Initial function template for C++&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;namespace&lt;/span&gt; std;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;define&lt;/span&gt; ll long long &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//User function template for C++&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;//Function to check if two arrays are equal or not.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;bool&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;check&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(vector&amp;lt;ll&amp;gt; A, vector&amp;lt;ll&amp;gt; B, &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; N)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;//code here&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;built_in&#34;&gt;sort&lt;/span&gt;(A.&lt;span class=&#34;built_in&#34;&gt;begin&lt;/span&gt;(), A.&lt;span class=&#34;built_in&#34;&gt;end&lt;/span&gt;());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;built_in&#34;&gt;sort&lt;/span&gt;(B.&lt;span class=&#34;built_in&#34;&gt;begin&lt;/span&gt;(), B.&lt;span class=&#34;built_in&#34;&gt;end&lt;/span&gt;());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; i = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;; i &amp;lt; N; i++)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(A[i] != B[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; t;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    cin&amp;gt;&amp;gt;t;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(t--) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; n;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cin&amp;gt;&amp;gt;n;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;function&#34;&gt;vector&amp;lt;ll&amp;gt; &lt;span class=&#34;title&#34;&gt;arr&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(n,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;,&lt;span class=&#34;title&#34;&gt;brr&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(n,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// increase the count of elements in first array&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(ll i=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;i&amp;lt;n;i++)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cin &amp;gt;&amp;gt; arr[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// iterate through another array&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// and decrement the count of elements&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// in the map in which frequency of elements&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// is stored for first array&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(ll i=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;i&amp;lt;n;i++)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cin &amp;gt;&amp;gt; brr[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Solution ob;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cout &amp;lt;&amp;lt; ob.&lt;span class=&#34;built_in&#34;&gt;check&lt;/span&gt;(arr,brr,n) &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;quot;\n&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-</content>
-        <category term="geeksforgeeks" />
-        <updated>2020-08-31T04:24:52.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://samirpaul.in/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/</id>
+        <id>https://samir.pages.dev/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/</id>
         <title>Check if it is possible to convert one string into another with given constraints   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints&#34;&gt;&lt;a href=&#34;#Check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints&#34; class=&#34;headerlink&#34; title=&#34;Check if it is possible to convert one string into another with given constraints&#34;&gt;&lt;/a&gt;Check if it is possible to convert one string into another with given constraints&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;Given two strings S and T, which&amp;nbsp;contains three characters i.e &lt;strong&gt;&#39;A&#39;, &#39;B&#39;&lt;/strong&gt; and &lt;strong&gt;&#39;#&#39;&amp;nbsp;&lt;/strong&gt;only. Check&amp;nbsp;whether it is possible to convert the first string into another string by performing following operations on string first.&lt;br&gt;
 1- A can move towards Left only&lt;br&gt;
 2- B can move towards Right only&lt;br&gt;
@@ -873,9 +826,56 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Check-whether-K-th-bit-is-set-or-not---GFG/</id>
+        <id>https://samir.pages.dev/posts/Check-if-two-arrays-are-equal-or-not---GFG/</id>
+        <title>Check if two arrays are equal or not   GFG</title>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Check-if-two-arrays-are-equal-or-not---GFG/"/>
+        <content type="html">&lt;h1 id=&#34;Check-if-two-arrays-are-equal-or-not&#34;&gt;&lt;a href=&#34;#Check-if-two-arrays-are-equal-or-not&#34; class=&#34;headerlink&#34; title=&#34;Check if two arrays are equal or not&#34;&gt;&lt;/a&gt;Check if two arrays are equal or not&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two arrays &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; of equal size &lt;strong&gt;N&lt;/strong&gt;, the task is to find if given arrays are equal or not. Two arrays are said to be equal if both of them contain same set of elements, arrangements (or permutation) of elements may be different though.&lt;br&gt;
+&lt;strong&gt;Note :&lt;/strong&gt;&amp;nbsp;If there are repetitions, then counts of repeated elements must also be same for two array to be equal.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input:
+&lt;/strong&gt;N = 5
+A[] = {1,2,5,4,0}
+B[] = {2,4,5,0,1}
+&lt;strong&gt;Output: &lt;/strong&gt;1&lt;strong&gt;
+Explanation: &lt;/strong&gt;Both the array can be 
+rearranged to {0,1,2,4,5}&lt;/span&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Input:
+&lt;/strong&gt;N = 3
+A[] = {1,2,5}
+B[] = {2,4,15}
+&lt;strong&gt;Output: &lt;/strong&gt;0&lt;strong&gt;
+Explanation: &lt;/strong&gt;A[] and B[] have only 
+one common value.&lt;/span&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Your Task:&lt;/strong&gt;&lt;br&gt;
+Complete&amp;nbsp;&lt;strong&gt;check() &lt;/strong&gt;function which takes both the given array and their size as function arguments and returns &lt;strong&gt;true&lt;/strong&gt; if the arrays are equal else &lt;strong&gt;returns false&lt;/strong&gt;.The 0 and 1 printing is done by the driver code.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Expected Time Complexity &lt;/strong&gt;: O(N)&lt;br&gt;
+&lt;strong&gt;Expected Auxilliary Space&lt;/strong&gt; : O(N)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;br&gt;
+1&amp;lt;=N&amp;lt;=10&lt;sup&gt;7&lt;/sup&gt;&lt;br&gt;
+1&amp;lt;=A[],B[]&amp;lt;=10&lt;sup&gt;18&lt;/sup&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//Initial function template for C++&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;namespace&lt;/span&gt; std;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;define&lt;/span&gt; ll long long &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//User function template for C++&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;//Function to check if two arrays are equal or not.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;bool&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;check&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(vector&amp;lt;ll&amp;gt; A, vector&amp;lt;ll&amp;gt; B, &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; N)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;//code here&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;built_in&#34;&gt;sort&lt;/span&gt;(A.&lt;span class=&#34;built_in&#34;&gt;begin&lt;/span&gt;(), A.&lt;span class=&#34;built_in&#34;&gt;end&lt;/span&gt;());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;built_in&#34;&gt;sort&lt;/span&gt;(B.&lt;span class=&#34;built_in&#34;&gt;begin&lt;/span&gt;(), B.&lt;span class=&#34;built_in&#34;&gt;end&lt;/span&gt;());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; i = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;; i &amp;lt; N; i++)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(A[i] != B[i])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//&amp;#123; Driver Code Starts.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; t;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    cin&amp;gt;&amp;gt;t;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(t--) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; n;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cin&amp;gt;&amp;gt;n;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;function&#34;&gt;vector&amp;lt;ll&amp;gt; &lt;span class=&#34;title&#34;&gt;arr&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(n,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;,&lt;span class=&#34;title&#34;&gt;brr&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(n,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// increase the count of elements in first array&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(ll i=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;i&amp;lt;n;i++)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cin &amp;gt;&amp;gt; arr[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// iterate through another array&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// and decrement the count of elements&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// in the map in which frequency of elements&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;// is stored for first array&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(ll i=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;i&amp;lt;n;i++)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            cin &amp;gt;&amp;gt; brr[i];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Solution ob;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        cout &amp;lt;&amp;lt; ob.&lt;span class=&#34;built_in&#34;&gt;check&lt;/span&gt;(arr,brr,n) &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;quot;\n&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// &amp;#125; Driver Code Ends&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+        <category term="geeksforgeeks" />
+        <updated>2020-08-31T04:24:52.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://samir.pages.dev/posts/Check-whether-K-th-bit-is-set-or-not---GFG/</id>
         <title>Check whether K th bit is set or not   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Check-whether-K-th-bit-is-set-or-not---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Check-whether-K-th-bit-is-set-or-not---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Check-whether-K-th-bit-is-set-or-not&#34;&gt;&lt;a href=&#34;#Check-whether-K-th-bit-is-set-or-not&#34; class=&#34;headerlink&#34; title=&#34;Check whether K-th bit is set or not&#34;&gt;&lt;/a&gt;Check whether K-th bit is set or not&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a number &lt;strong&gt;N &lt;/strong&gt;and a bit number &lt;strong&gt;K&lt;/strong&gt;, check if &lt;strong&gt;K&lt;sup&gt;th&lt;/sup&gt;&lt;/strong&gt; bit of N is &lt;strong&gt;set or not&lt;/strong&gt;. A bit is called set if it is 1. Position of set bit&amp;nbsp;&#39;1&#39; should be &lt;strong&gt;indexed starting with 0&lt;/strong&gt;&amp;nbsp;from &lt;strong&gt;LSB &lt;/strong&gt;side in&amp;nbsp;binary representation of the number.&lt;/span&gt;&lt;br&gt;
 &lt;br&gt;
@@ -924,9 +924,9 @@ So, return false.&lt;/span&gt;&lt;/pre&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Complete-Binary-Tree---GFG/</id>
+        <id>https://samir.pages.dev/posts/Complete-Binary-Tree---GFG/</id>
         <title>Complete Binary Tree   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Complete-Binary-Tree---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Complete-Binary-Tree---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Complete-Binary-Tree&#34;&gt;&lt;a href=&#34;#Complete-Binary-Tree&#34; class=&#34;headerlink&#34; title=&#34;Complete Binary Tree&#34;&gt;&lt;/a&gt;Complete Binary Tree&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a Binary Tree, write a function to check whether the given Binary Tree is Complete Binary Tree or not. A complete binary tree&amp;nbsp;is a binary tree in which every level, except possibly the last, is completely filled, and all nodes should be as much close to left as possible&lt;/span&gt;&lt;span style=&#34;font-size:18px&#34;&gt;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;span style=&#34;font-size:18px&#34;&gt;
@@ -969,9 +969,9 @@ You don&#39;t need to take input. Just complete the function&lt;strong&gt; isCom
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Convert-String-to-LowerCase---GFG/</id>
+        <id>https://samir.pages.dev/posts/Convert-String-to-LowerCase---GFG/</id>
         <title>Convert String to LowerCase   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Convert-String-to-LowerCase---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Convert-String-to-LowerCase---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Convert-String-to-LowerCase&#34;&gt;&lt;a href=&#34;#Convert-String-to-LowerCase&#34; class=&#34;headerlink&#34; title=&#34;Convert String to LowerCase&#34;&gt;&lt;/a&gt;Convert String to LowerCase&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a string &lt;strong&gt;S&lt;/strong&gt;. The task is to convert characters of string to &lt;strong&gt;lowercase&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1010,9 +1010,9 @@ You dont need to read input or print anything. Complete the function &lt;strong&
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Count-Leaves-in-Binary-Tree---GFG/</id>
+        <id>https://samir.pages.dev/posts/Count-Leaves-in-Binary-Tree---GFG/</id>
         <title>Count Leaves in Binary Tree   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Count-Leaves-in-Binary-Tree---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Count-Leaves-in-Binary-Tree---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Count-Leaves-in-Binary-Tree&#34;&gt;&lt;a href=&#34;#Count-Leaves-in-Binary-Tree&#34; class=&#34;headerlink&#34; title=&#34;Count Leaves in Binary Tree&#34;&gt;&lt;/a&gt;Count Leaves in Binary Tree&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a Binary Tree of size &lt;strong&gt;N&lt;/strong&gt; , You have to count leaves in it. For example, there are two leaves in following&amp;nbsp;tree&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1&lt;br&gt;
@@ -1061,9 +1061,9 @@ You don&#39;t have to take input. Complete the function &lt;strong&gt;countLeave
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Count-Odd-Even---GFG/</id>
+        <id>https://samir.pages.dev/posts/Count-Odd-Even---GFG/</id>
         <title>Count Odd Even   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Count-Odd-Even---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Count-Odd-Even---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Count-Odd-Even&#34;&gt;&lt;a href=&#34;#Count-Odd-Even&#34; class=&#34;headerlink&#34; title=&#34;Count Odd Even&#34;&gt;&lt;/a&gt;Count Odd Even&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array &lt;strong&gt;A[]&amp;nbsp;&lt;/strong&gt;of &lt;strong&gt;N &lt;/strong&gt;elements. The task is to count number of &lt;strong&gt;even &lt;/strong&gt;and &lt;strong&gt;odd &lt;/strong&gt;elements in the array.&lt;/span&gt;&lt;/p&gt;
 
@@ -1095,9 +1095,9 @@ Print a newline at the end of output.&lt;/span&gt;&lt;/p&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Count-Odd-Factors---GFG/</id>
+        <id>https://samir.pages.dev/posts/Count-Odd-Factors---GFG/</id>
         <title>Count Odd Factors   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Count-Odd-Factors---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Count-Odd-Factors---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Count-Odd-Factors&#34;&gt;&lt;a href=&#34;#Count-Odd-Factors&#34; class=&#34;headerlink&#34; title=&#34;Count Odd Factors&#34;&gt;&lt;/a&gt;Count Odd Factors&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an integer &lt;strong&gt;N&lt;/strong&gt;, count the numbers having&lt;strong&gt;&amp;nbsp;an odd number of factors from 1 to N&lt;/strong&gt; (inclusive).&lt;/span&gt;&lt;br&gt;
 &amp;nbsp;&lt;/p&gt;
@@ -1146,9 +1146,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Count-nodes-of-linked-list---GFG/</id>
+        <id>https://samir.pages.dev/posts/Count-nodes-of-linked-list---GFG/</id>
         <title>Count nodes of linked list   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Count-nodes-of-linked-list---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Count-nodes-of-linked-list---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Count-nodes-of-linked-list&#34;&gt;&lt;a href=&#34;#Count-nodes-of-linked-list&#34; class=&#34;headerlink&#34; title=&#34;Count nodes of linked list&#34;&gt;&lt;/a&gt;Count nodes of linked list&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list. The task is to find the length of the linked list, where length is defined as the number of nodes in the linked list.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Example 1:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1189,9 +1189,9 @@ Your task is to complete the given function &lt;strong&gt;getCount&lt;/strong&gt
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Count-of-camel-case-characters---GFG/</id>
+        <id>https://samir.pages.dev/posts/Count-of-camel-case-characters---GFG/</id>
         <title>Count of camel case characters   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Count-of-camel-case-characters---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Count-of-camel-case-characters---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Count-of-camel-case-characters&#34;&gt;&lt;a href=&#34;#Count-of-camel-case-characters&#34; class=&#34;headerlink&#34; title=&#34;Count of camel case characters&#34;&gt;&lt;/a&gt;Count of camel case characters&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a string. Count the number of Camel Case characters in it.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1235,9 +1235,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Count-total-set-bits---GFG/</id>
+        <id>https://samir.pages.dev/posts/Count-total-set-bits---GFG/</id>
         <title>Count total set bits   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Count-total-set-bits---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Count-total-set-bits---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Count-total-set-bits&#34;&gt;&lt;a href=&#34;#Count-total-set-bits&#34; class=&#34;headerlink&#34; title=&#34;Count total set bits&#34;&gt;&lt;/a&gt;Count total set bits&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;You are given a number&lt;strong&gt; N&lt;/strong&gt;. Find the &lt;strong&gt;total count of set bits &lt;/strong&gt;for all numbers from 1 to N(both inclusive).&lt;/span&gt;&lt;br&gt;
 &lt;br&gt;
@@ -1279,9 +1279,9 @@ the total number of set bits is 35.&lt;/span&gt;&lt;/pre&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/</id>
+        <id>https://samir.pages.dev/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/</id>
         <title>Cumulative frequency of count of each element in an unsorted array   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array&#34;&gt;&lt;a href=&#34;#Cumulative-frequency-of-count-of-each-element-in-an-unsorted-array&#34; class=&#34;headerlink&#34; title=&#34;Cumulative frequency of count of each element in an unsorted array&#34;&gt;&lt;/a&gt;Cumulative frequency of count of each element in an unsorted array&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array of elements. The task is to calculate the cumulative frequency of each element of the array.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1324,9 +1324,9 @@ This is a function problem. The input is already taken care of by the driver cod
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Data-Type---GFG/</id>
+        <id>https://samir.pages.dev/posts/Data-Type---GFG/</id>
         <title>Data Type   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Data-Type---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Data-Type---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Data-Type&#34;&gt;&lt;a href=&#34;#Data-Type&#34; class=&#34;headerlink&#34; title=&#34;Data Type&#34;&gt;&lt;/a&gt;Data Type&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Geek is learning a new programming language. As data type forms the most fundamental part of a language, Geek is learning them with focus and needs your help. Given a data type, help Geek in finding the size of it in byte.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Data Type - &lt;strong&gt;Character, Integer, Long, Float and Double&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1356,9 +1356,9 @@ This is a function problem. The input is already taken care of by the driver cod
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Delete-Middle-of-Linked-List---GFG/</id>
+        <id>https://samir.pages.dev/posts/Delete-Middle-of-Linked-List---GFG/</id>
         <title>Delete Middle of Linked List   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Delete-Middle-of-Linked-List---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Delete-Middle-of-Linked-List---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Delete-Middle-of-Linked-List&#34;&gt;&lt;a href=&#34;#Delete-Middle-of-Linked-List&#34; class=&#34;headerlink&#34; title=&#34;Delete Middle of Linked List&#34;&gt;&lt;/a&gt;Delete Middle of Linked List&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list, delete &lt;strong&gt;middle&amp;nbsp;&lt;/strong&gt;of the linked list. For example, if given linked list is 1-&amp;gt;2-&amp;gt;&lt;strong&gt;3&lt;/strong&gt;-&amp;gt;4-&amp;gt;5 then linked list should be modified to 1-&amp;gt;2-&amp;gt;4-&amp;gt;5.&lt;br&gt;
 If there are &lt;strong&gt;even&lt;/strong&gt; nodes, then there would be &lt;strong&gt;two middle &lt;/strong&gt;nodes, we need to delete the second middle element. For example, if given linked list is 1-&amp;gt;2-&amp;gt;3-&amp;gt;4-&amp;gt;5-&amp;gt;6 then it should be modified to 1-&amp;gt;2-&amp;gt;3-&amp;gt;5-&amp;gt;6.&lt;/span&gt;&lt;br&gt;
 &lt;span style=&#34;font-size:18px&#34;&gt;If the input linked list is NULL or has 1 node, then it should return NULL&lt;/span&gt;&lt;/p&gt;
@@ -1394,9 +1394,9 @@ The task is to complete the function &lt;strong&gt;deleteMid&lt;/strong&gt;() wh
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Delete-a-Node-in-Single-Linked-List---GFG/</id>
+        <id>https://samir.pages.dev/posts/Delete-a-Node-in-Single-Linked-List---GFG/</id>
         <title>Delete a Node in Single Linked List   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Delete-a-Node-in-Single-Linked-List---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Delete-a-Node-in-Single-Linked-List---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Delete-a-Node-in-Single-Linked-List&#34;&gt;&lt;a href=&#34;#Delete-a-Node-in-Single-Linked-List&#34; class=&#34;headerlink&#34; title=&#34;Delete a Node in Single Linked List&#34;&gt;&lt;/a&gt;Delete a Node in Single Linked List&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list and an integer x.Delete x&lt;sup&gt;th&lt;/sup&gt; node from the&amp;nbsp;singly&amp;nbsp;linked list. &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1438,9 +1438,9 @@ Output: &lt;/strong&gt;1 -&amp;gt; 2 -&amp;gt; 9
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Delete-without-head-pointer---GFG/</id>
+        <id>https://samir.pages.dev/posts/Delete-without-head-pointer---GFG/</id>
         <title>Delete without head pointer   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Delete-without-head-pointer---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Delete-without-head-pointer---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Delete-without-head-pointer&#34;&gt;&lt;a href=&#34;#Delete-without-head-pointer&#34; class=&#34;headerlink&#34; title=&#34;Delete without head pointer&#34;&gt;&lt;/a&gt;Delete without head pointer&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;You are given a pointer/ reference to the node which is to be deleted from the&amp;nbsp;linked list of &lt;strong&gt;N&amp;nbsp;&lt;/strong&gt;nodes. The task is to delete the node. Pointer/ reference to head node is not given.&amp;nbsp;&lt;/span&gt;&lt;br&gt;
 &lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Note:&lt;/strong&gt; No head reference is given to you. It is&amp;nbsp;guaranteed&amp;nbsp;that the node to be deleted is&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;not a tail node&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;in the linked list.&lt;/span&gt;&lt;/p&gt;
 
@@ -1484,9 +1484,9 @@ You only need to complete the &lt;strong&gt;function deleteNode &lt;/strong&gt;t
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Display-longest-name---GFG/</id>
+        <id>https://samir.pages.dev/posts/Display-longest-name---GFG/</id>
         <title>Display longest name   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Display-longest-name---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Display-longest-name---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Display-longest-name&#34;&gt;&lt;a href=&#34;#Display-longest-name&#34; class=&#34;headerlink&#34; title=&#34;Display longest name&#34;&gt;&lt;/a&gt;Display longest name&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a list of names, display the longest name.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
@@ -1525,9 +1525,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Factorial---GFG/</id>
+        <id>https://samir.pages.dev/posts/Factorial---GFG/</id>
         <title>Factorial   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Factorial---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Factorial---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Factorial&#34;&gt;&lt;a href=&#34;#Factorial&#34; class=&#34;headerlink&#34; title=&#34;Factorial&#34;&gt;&lt;/a&gt;Factorial&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a positive integer,&amp;nbsp;&lt;strong&gt;N&lt;/strong&gt;. Find the factorial of &lt;strong&gt;N&lt;/strong&gt;.&lt;/span&gt;&lt;br&gt;
 &amp;nbsp;&lt;/p&gt;
@@ -1572,9 +1572,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Find-minimum-and-maximum-element-in-an-array---GFG/</id>
+        <id>https://samir.pages.dev/posts/Find-minimum-and-maximum-element-in-an-array---GFG/</id>
         <title>Find minimum and maximum element in an array   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Find-minimum-and-maximum-element-in-an-array---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Find-minimum-and-maximum-element-in-an-array---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Find-minimum-and-maximum-element-in-an-array&#34;&gt;&lt;a href=&#34;#Find-minimum-and-maximum-element-in-an-array&#34; class=&#34;headerlink&#34; title=&#34;Find minimum and maximum element in an array&#34;&gt;&lt;/a&gt;Find minimum and maximum element in an array&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array&lt;strong&gt; A&lt;/strong&gt; of size &lt;strong&gt;N&lt;/strong&gt; of integers. Your task is to find the &lt;strong&gt;minimum and maximum &lt;/strong&gt;elements in the&amp;nbsp;array.&lt;/span&gt;&lt;/p&gt;
 
@@ -1623,9 +1623,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Find-patterns---GFG/</id>
+        <id>https://samir.pages.dev/posts/Find-patterns---GFG/</id>
         <title>Find patterns   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Find-patterns---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Find-patterns---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Find-patterns&#34;&gt;&lt;a href=&#34;#Find-patterns&#34; class=&#34;headerlink&#34; title=&#34;Find patterns&#34;&gt;&lt;/a&gt;Find patterns&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two&amp;nbsp;strings S and&amp;nbsp;W. Find the number of times W appears as a subsequence of&amp;nbsp;string S where every character of string S can be included in forming at most one subsequence.&lt;/span&gt;&lt;br&gt;
 &amp;nbsp;&lt;/p&gt;
 
@@ -1678,9 +1678,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Find-the-Frequency---GFG/</id>
+        <id>https://samir.pages.dev/posts/Find-the-Frequency---GFG/</id>
         <title>Find the Frequency   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Find-the-Frequency---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Find-the-Frequency---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Find-the-Frequency&#34;&gt;&lt;a href=&#34;#Find-the-Frequency&#34; class=&#34;headerlink&#34; title=&#34;Find the Frequency&#34;&gt;&lt;/a&gt;Find the Frequency&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a vector of &lt;strong&gt;N&lt;/strong&gt; positive integers and an integer &lt;strong&gt;X&lt;/strong&gt;. The task is to find the &lt;strong&gt;frequency &lt;/strong&gt;of X in vector.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -1707,9 +1707,9 @@ Your task is to complete the function &lt;strong&gt;findFrequency&lt;/strong&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Find-the-element-that-appears-once---GFG/</id>
+        <id>https://samir.pages.dev/posts/Find-the-element-that-appears-once---GFG/</id>
         <title>Find the element that appears once   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Find-the-element-that-appears-once---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Find-the-element-that-appears-once---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Find-the-element-that-appears-once&#34;&gt;&lt;a href=&#34;#Find-the-element-that-appears-once&#34; class=&#34;headerlink&#34; title=&#34;Find the element that appears once&#34;&gt;&lt;/a&gt;Find the element that appears once&lt;/h1&gt;&lt;h2 id=&#34;Medium&#34;&gt;&lt;a href=&#34;#Medium&#34; class=&#34;headerlink&#34; title=&#34;Medium&#34;&gt;&lt;/a&gt;Medium&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a sorted array &lt;strong&gt;A[]&lt;/strong&gt; of &lt;strong&gt;N&amp;nbsp;&lt;/strong&gt;positive integers having all the numbers occurring exactly twice, except&amp;nbsp;for one number which will occur only once. Find the number occurring only once.&lt;/span&gt;&lt;/p&gt;
 
@@ -1754,9 +1754,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Find-the-element-that-appears-once-in-sorted-array---GFG/</id>
+        <id>https://samir.pages.dev/posts/Find-the-element-that-appears-once-in-sorted-array---GFG/</id>
         <title>Find the element that appears once in sorted array   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Find-the-element-that-appears-once-in-sorted-array---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Find-the-element-that-appears-once-in-sorted-array---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Find-the-element-that-appears-once-in-sorted-array&#34;&gt;&lt;a href=&#34;#Find-the-element-that-appears-once-in-sorted-array&#34; class=&#34;headerlink&#34; title=&#34;Find the element that appears once in sorted array&#34;&gt;&lt;/a&gt;Find the element that appears once in sorted array&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a sorted array arr[] of size N. Find the element that appears only once in the array. All other elements appear exactly twice.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Example 1:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1793,9 +1793,9 @@ You don&#39;t need to read input or print anything. Complete the function&lt;str
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Find-the-median---GFG/</id>
+        <id>https://samir.pages.dev/posts/Find-the-median---GFG/</id>
         <title>Find the median   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Find-the-median---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Find-the-median---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Find-the-median&#34;&gt;&lt;a href=&#34;#Find-the-median&#34; class=&#34;headerlink&#34; title=&#34;Find the median&#34;&gt;&lt;/a&gt;Find the median&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array arr[] of N integers, calculate the median&lt;/span&gt;&lt;br&gt;
 &amp;nbsp;&lt;/p&gt;
 
@@ -1842,9 +1842,9 @@ You don&#39;t need to read or print anything. Your task is to complete the funct
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Find-triplets-with-zero-sum---GFG/</id>
+        <id>https://samir.pages.dev/posts/Find-triplets-with-zero-sum---GFG/</id>
         <title>Find triplets with zero sum   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Find-triplets-with-zero-sum---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Find-triplets-with-zero-sum---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Find-triplets-with-zero-sum&#34;&gt;&lt;a href=&#34;#Find-triplets-with-zero-sum&#34; class=&#34;headerlink&#34; title=&#34;Find triplets with zero sum&#34;&gt;&lt;/a&gt;Find triplets with zero sum&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size: 18px;&#34;&gt;Given an array &lt;strong&gt;arr[]&amp;nbsp;&lt;/strong&gt;of&amp;nbsp;&lt;strong&gt;n&lt;/strong&gt; integers. Check whether it contains a triplet that sums up to zero.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;font-size: 18px;&#34;&gt;&lt;strong&gt;Note: &lt;/strong&gt;Return 1, if there is at least one triplet following the condition else return 0.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;font-size: 18px;&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1864,9 +1864,9 @@ with sum equal to 0.&lt;/span&gt;&lt;/pre&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Finding-middle-element-in-a-linked-list---GFG/</id>
+        <id>https://samir.pages.dev/posts/Finding-middle-element-in-a-linked-list---GFG/</id>
         <title>Finding middle element in a linked list   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Finding-middle-element-in-a-linked-list---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Finding-middle-element-in-a-linked-list---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Finding-middle-element-in-a-linked-list&#34;&gt;&lt;a href=&#34;#Finding-middle-element-in-a-linked-list&#34; class=&#34;headerlink&#34; title=&#34;Finding middle element in a linked list&#34;&gt;&lt;/a&gt;Finding middle element in a linked list&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a singly linked list of &lt;strong&gt;N&lt;/strong&gt; nodes.&lt;br&gt;
 The task is to find the &lt;strong&gt;middle&lt;/strong&gt;&amp;nbsp;of the linked list. For example, if the&amp;nbsp;linked list is&lt;br&gt;
 &lt;strong&gt;1-&amp;gt; 2-&amp;gt;3-&amp;gt;4-&amp;gt;5&lt;/strong&gt;,&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;then the middle node of the list is&amp;nbsp;&lt;strong&gt;3&lt;/strong&gt;.&lt;br&gt;
@@ -1908,9 +1908,9 @@ The task is to complete the function&lt;span style=&#34;font-size:18px&#34;&gt; 
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/First-and-last-occurrences-of-x---GFG/</id>
+        <id>https://samir.pages.dev/posts/First-and-last-occurrences-of-x---GFG/</id>
         <title>First and last occurrences of x   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/First-and-last-occurrences-of-x---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/First-and-last-occurrences-of-x---GFG/"/>
         <content type="html">&lt;h1 id=&#34;First-and-last-occurrences-of-x&#34;&gt;&lt;a href=&#34;#First-and-last-occurrences-of-x&#34; class=&#34;headerlink&#34; title=&#34;First and last occurrences of x&#34;&gt;&lt;/a&gt;First and last occurrences of x&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a sorted array &lt;strong&gt;arr&lt;/strong&gt; containing &lt;strong&gt;n&lt;/strong&gt; elements with possibly duplicate elements, the task is to find indexes of first and last occurrences of an element &lt;strong&gt;x&lt;/strong&gt; in the given array.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1958,9 +1958,9 @@ Since, this is a function problem. You don&#39;t need to take any input, as it i
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/GCD-of-two-numbers---GFG/</id>
+        <id>https://samir.pages.dev/posts/GCD-of-two-numbers---GFG/</id>
         <title>GCD of two numbers   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/GCD-of-two-numbers---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/GCD-of-two-numbers---GFG/"/>
         <content type="html">&lt;h1 id=&#34;GCD-of-two-numbers&#34;&gt;&lt;a href=&#34;#GCD-of-two-numbers&#34; class=&#34;headerlink&#34; title=&#34;GCD of two numbers&#34;&gt;&lt;/a&gt;GCD of two numbers&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given two positive integers A and B, find GCD of A and B.&lt;/span&gt;&lt;/p&gt;
 
@@ -1999,9 +1999,9 @@ You don&#39;t need to read input or print anything. Complete the function &lt;st
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Generate-IP-Addresses---GFG/</id>
+        <id>https://samir.pages.dev/posts/Generate-IP-Addresses---GFG/</id>
         <title>Generate IP Addresses   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Generate-IP-Addresses---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Generate-IP-Addresses---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Generate-IP-Addresses&#34;&gt;&lt;a href=&#34;#Generate-IP-Addresses&#34; class=&#34;headerlink&#34; title=&#34;Generate IP Addresses&#34;&gt;&lt;/a&gt;Generate IP Addresses&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a string &lt;strong&gt;S&lt;/strong&gt;&amp;nbsp;containing only digits, Your task is to complete the function &lt;strong&gt;genIp()&amp;nbsp;&lt;/strong&gt;which returns a vector containing all possible combinations&amp;nbsp;of &lt;strong&gt;valid&lt;/strong&gt; IPv4 IP addresses and takes only a string &lt;strong&gt;S&lt;/strong&gt;&amp;nbsp;as its only argument.&lt;br&gt;
 &lt;strong&gt;Note: &lt;/strong&gt;Order doesn&#39;t matter. A &lt;strong&gt;valid&lt;/strong&gt; IP address must be in the form of A.B.C.D, where A, B, C, and D are numbers from 0-255. The numbers cannot be 0 prefixed unless they are 0.&lt;br&gt;
 &lt;br&gt;
@@ -2046,9 +2046,9 @@ S only contains digits(i.e. 0-9)&lt;/span&gt;&lt;/p&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Inorder-Traversal---GFG/</id>
+        <id>https://samir.pages.dev/posts/Inorder-Traversal---GFG/</id>
         <title>Inorder Traversal   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Inorder-Traversal---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Inorder-Traversal---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Inorder-Traversal&#34;&gt;&lt;a href=&#34;#Inorder-Traversal&#34; class=&#34;headerlink&#34; title=&#34;Inorder Traversal&#34;&gt;&lt;/a&gt;Inorder Traversal&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a Binary Tree, find the In-Order Traversal of it.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -2092,9 +2092,9 @@ You don&#39;t need to read input or print anything. Your task is to complete the
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/K-largest-elements---GFG/</id>
+        <id>https://samir.pages.dev/posts/K-largest-elements---GFG/</id>
         <title>K largest elements   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/K-largest-elements---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/K-largest-elements---GFG/"/>
         <content type="html">&lt;h1 id=&#34;K-largest-elements&#34;&gt;&lt;a href=&#34;#K-largest-elements&#34; class=&#34;headerlink&#34; title=&#34;K largest elements&#34;&gt;&lt;/a&gt;K largest elements&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problem-statement&#34;&gt;
                 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array of N positive integers, print k largest elements from the array.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 
@@ -2138,9 +2138,9 @@ K ≤ N&lt;br&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Largest-Element-in-Array---GFG/</id>
+        <id>https://samir.pages.dev/posts/Largest-Element-in-Array---GFG/</id>
         <title>Largest Element in Array   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Largest-Element-in-Array---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Largest-Element-in-Array---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Largest-Element-in-Array&#34;&gt;&lt;a href=&#34;#Largest-Element-in-Array&#34; class=&#34;headerlink&#34; title=&#34;Largest Element in Array&#34;&gt;&lt;/a&gt;Largest Element in Array&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array &lt;strong&gt;A[] &lt;/strong&gt;of size &lt;strong&gt;n&lt;/strong&gt;. The task is to find the largest element in it.&lt;/span&gt;&lt;br&gt;
 &amp;nbsp;&lt;/p&gt;
 
@@ -2191,9 +2191,9 @@ Array may contain duplicate elements.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Leaders-in-an-array---GFG/</id>
+        <id>https://samir.pages.dev/posts/Leaders-in-an-array---GFG/</id>
         <title>Leaders in an array   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Leaders-in-an-array---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Leaders-in-an-array---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Leaders-in-an-array&#34;&gt;&lt;a href=&#34;#Leaders-in-an-array&#34; class=&#34;headerlink&#34; title=&#34;Leaders in an array&#34;&gt;&lt;/a&gt;Leaders in an array&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array A of positive integers. Your task is to find the leaders in the array.&amp;nbsp;An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -2246,9 +2246,9 @@ You don&#39;t need to read input or print anything.&amp;nbsp;The task is to comp
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Left-View-of-Binary-Tree---GFG/</id>
+        <id>https://samir.pages.dev/posts/Left-View-of-Binary-Tree---GFG/</id>
         <title>Left View of Binary Tree   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Left-View-of-Binary-Tree---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Left-View-of-Binary-Tree---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Left-View-of-Binary-Tree&#34;&gt;&lt;a href=&#34;#Left-View-of-Binary-Tree&#34; class=&#34;headerlink&#34; title=&#34;Left View of Binary Tree&#34;&gt;&lt;/a&gt;Left View of Binary Tree&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a Binary Tree, print Left view of it. Left view of a Binary Tree is set of nodes visible when tree is visited from Left side. The task is to complete the function &lt;strong&gt;leftView()&lt;/strong&gt;, which accepts root of the tree as argument.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Left view of following tree is 1 2 4 8.&lt;/span&gt;&lt;/p&gt;
@@ -2295,9 +2295,9 @@ You just have to &lt;strong&gt;complete &lt;/strong&gt;the function &lt;strong&g
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Left-most-and-right-most-index---GFG/</id>
+        <id>https://samir.pages.dev/posts/Left-most-and-right-most-index---GFG/</id>
         <title>Left most and right most index   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Left-most-and-right-most-index---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Left-most-and-right-most-index---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Left-most-and-right-most-index&#34;&gt;&lt;a href=&#34;#Left-most-and-right-most-index&#34; class=&#34;headerlink&#34; title=&#34;Left most and right most index&#34;&gt;&lt;/a&gt;Left most and right most index&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given a sorted array with possibly duplicate elements. The task is to find indexes of first and last occurrences of an element &lt;strong&gt;X&lt;/strong&gt; in the given array.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Note: &lt;/span&gt;&lt;/strong&gt;&lt;span style=&#34;font-size:18px&#34;&gt;If the element is not present in the array &lt;strong&gt;return {-1,-1} as pair&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
@@ -2349,9 +2349,9 @@ Can you solve the problem in expected time complexity?&lt;/span&gt;&lt;/p&gt;
         <updated>2020-08-31T04:24:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/Max-Sum-Subarray-of-size-K---GFG/</id>
+        <id>https://samir.pages.dev/posts/Max-Sum-Subarray-of-size-K---GFG/</id>
         <title>Max Sum Subarray of size K   GFG</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/Max-Sum-Subarray-of-size-K---GFG/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/Max-Sum-Subarray-of-size-K---GFG/"/>
         <content type="html">&lt;h1 id=&#34;Max-Sum-Subarray-of-size-K&#34;&gt;&lt;a href=&#34;#Max-Sum-Subarray-of-size-K&#34; class=&#34;headerlink&#34; title=&#34;Max Sum Subarray of size K&#34;&gt;&lt;/a&gt;Max Sum Subarray of size K&lt;/h1&gt;&lt;h2 id=&#34;Easy&#34;&gt;&lt;a href=&#34;#Easy&#34; class=&#34;headerlink&#34; title=&#34;Easy&#34;&gt;&lt;/a&gt;Easy&lt;/h2&gt;&lt;div class=&#34;problems_problem_content__Xm_eO&#34;&gt;&lt;p&gt;&lt;span style=&#34;font-size:18px&#34;&gt;Given an array of integers Arr of size &lt;strong&gt;N&lt;/strong&gt; and a number &lt;strong&gt;K&lt;/strong&gt;. Return&amp;nbsp;the maximum sum of a subarray of size K.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;

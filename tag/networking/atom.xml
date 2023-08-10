@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;networking&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-05T20:52:53.847Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/why-does-the-osi-model-matter/</id>
+        <id>https://samir.pages.dev/posts/why-does-the-osi-model-matter/</id>
         <title>Why Does The OSI Model Matter?</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/why-does-the-osi-model-matter/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/why-does-the-osi-model-matter/"/>
         <content type="html">&lt;p&gt;The OSI (Open Systems Interconnection) model matters because it provides a standard way of describing and understanding the different functions and components involved in a network communication. The OSI model is a seven-layer abstraction of the network communication process, and it defines the tasks and responsibilities of each layer.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Standardization: The OSI model provides a standard reference model that is widely used and accepted in the industry. This standardization helps to ensure that different systems and components can communicate with each other, even if they were developed by different vendors or organizations.&lt;/p&gt;

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;distributed-systems&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-15T04:24:59.000Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/system-design-course/</id>
+        <id>https://samir.pages.dev/posts/system-design-course/</id>
         <title>System Design Course</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/system-design-course/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/system-design-course/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Learn how to design systems at scale and prepare for system design interviews.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -3563,9 +3563,9 @@
         <updated>2023-08-15T04:24:59.000Z</updated>
     </entry>
     <entry>
-        <id>https://samirpaul.in/posts/key-characteristics-of-distributed-systems/</id>
+        <id>https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/</id>
         <title>Key Characteristics of Distributed Systems</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/key-characteristics-of-distributed-systems/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/key-characteristics-of-distributed-systems/"/>
         <content type="html">&lt;h1 id=&#34;Key-Characteristics-of-Distributed-Systems&#34;&gt;&lt;a href=&#34;#Key-Characteristics-of-Distributed-Systems&#34; class=&#34;headerlink&#34; title=&#34;Key Characteristics of Distributed Systems&#34;&gt;&lt;/a&gt;Key Characteristics of Distributed Systems&lt;/h1&gt;&lt;h2 id=&#34;Scalability&#34;&gt;&lt;a href=&#34;#Scalability&#34; class=&#34;headerlink&#34; title=&#34;Scalability&#34;&gt;&lt;/a&gt;Scalability&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;The capability of a system to grow and manage increased demand.&lt;/li&gt;
 &lt;li&gt;A system that can continuously evolve to support growing amount of work is scalable.&lt;/li&gt;

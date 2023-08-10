@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samirpaul.in</id>
+    <id>https://samir.pages.dev</id>
     <title>Samir Paul • Posts by &#34;list-of-project-based-tutorials&#34; tag</title>
-    <link href="https://samirpaul.in" />
+    <link href="https://samir.pages.dev" />
     <updated>2023-08-15T04:24:51.000Z</updated>
     <category term="interviewbit" />
     <category term="LeetCode" />
@@ -37,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="two pointers problems" />
     <category term="Greedy" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />
@@ -80,9 +80,9 @@
     <category term="url-shortner" />
     <category term="networking" />
     <entry>
-        <id>https://samirpaul.in/posts/curated-list-of-project-based-tutorials/</id>
+        <id>https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/</id>
         <title>Curated List of Project Based Tutorials</title>
-        <link rel="alternate" href="https://samirpaul.in/posts/curated-list-of-project-based-tutorials/"/>
+        <link rel="alternate" href="https://samir.pages.dev/posts/curated-list-of-project-based-tutorials/"/>
         <content type="html">&lt;h1 id=&#34;Project-Based-Learning&#34;&gt;&lt;a href=&#34;#Project-Based-Learning&#34; class=&#34;headerlink&#34; title=&#34;Project Based Learning&#34;&gt;&lt;/a&gt;Project Based Learning&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.&lt;/p&gt;
 &lt;/blockquote&gt;
