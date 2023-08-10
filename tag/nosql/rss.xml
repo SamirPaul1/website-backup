@@ -7,6 +7,7 @@
         <language>en</language>
         <pubDate>Sun, 06 Aug 2023 02:22:53 +0530</pubDate>
         <lastBuildDate>Sun, 06 Aug 2023 02:22:53 +0530</lastBuildDate>
+        <category>interviewbit</category>
         <category>LeetCode</category>
         <category>geeksforgeeks</category>
         <category>blog</category>
@@ -39,11 +40,11 @@
         <category>distributed-systems</category>
         <category>Greedy</category>
         <category>two pointers problems</category>
-        <category>technical-interview</category>
-        <category>interview-questions</category>
         <category>python</category>
         <category>python-frameworks</category>
         <category>python-libraries</category>
+        <category>technical-interview</category>
+        <category>interview-questions</category>
         <category>python3</category>
         <category>file-compressor</category>
         <category>flask-application</category>
@@ -52,6 +53,8 @@
         <category>pdf-compression</category>
         <category>online-pdf-compressor</category>
         <category>pdfnetpython</category>
+        <category>open-external-links</category>
+        <category>javascript</category>
         <category>Operating System</category>
         <category>Placements</category>
         <category>OS</category>
@@ -79,8 +82,6 @@
         <category>short-url</category>
         <category>url-shortner</category>
         <category>networking</category>
-        <category>open-external-links</category>
-        <category>javascript</category>
         <item>
             <guid isPermalink="true">https://samirpaul.in/posts/sql-vs-nosql/</guid>
             <title>SQL vs. NoSQL</title>

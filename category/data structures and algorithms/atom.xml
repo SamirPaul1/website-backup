@@ -4,6 +4,7 @@
     <title>Samir Paul • Posts by &#34;data structures and algorithms&#34; category</title>
     <link href="https://samirpaul.in" />
     <updated>2023-08-15T04:25:52.000Z</updated>
+    <category term="interviewbit" />
     <category term="LeetCode" />
     <category term="geeksforgeeks" />
     <category term="blog" />
@@ -36,11 +37,11 @@
     <category term="distributed-systems" />
     <category term="Greedy" />
     <category term="two pointers problems" />
-    <category term="technical-interview" />
-    <category term="interview-questions" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
+    <category term="technical-interview" />
+    <category term="interview-questions" />
     <category term="python3" />
     <category term="file-compressor" />
     <category term="flask-application" />
@@ -49,6 +50,8 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
@@ -76,8 +79,6 @@
     <category term="short-url" />
     <category term="url-shortner" />
     <category term="networking" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <entry>
         <id>https://samirpaul.in/posts/data-structures-and-algorithms-for-coding-interview/</id>
         <title>Data Structures and Algorithms for Coding Interview</title>
