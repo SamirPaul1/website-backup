@@ -35,8 +35,8 @@
     <category term="programmable-search" />
     <category term="Graph" />
     <category term="distributed-systems" />
-    <category term="Greedy" />
     <category term="two pointers problems" />
+    <category term="Greedy" />
     <category term="python" />
     <category term="python-frameworks" />
     <category term="python-libraries" />
@@ -50,11 +50,11 @@
     <category term="pdf-compression" />
     <category term="online-pdf-compressor" />
     <category term="pdfnetpython" />
-    <category term="open-external-links" />
-    <category term="javascript" />
     <category term="Operating System" />
     <category term="Placements" />
     <category term="OS" />
+    <category term="open-external-links" />
+    <category term="javascript" />
     <category term="project" />
     <category term="pygame" />
     <category term="python-game" />

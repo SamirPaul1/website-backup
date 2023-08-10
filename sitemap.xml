@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/ways-to-color-a-3xn-board/</loc>
+    <loc>https://samirpaul.in/posts/ways-to-decode/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/ways-to-decode/</loc>
+    <loc>https://samirpaul.in/posts/ways-to-color-a-3xn-board/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -488,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/sorted-insert-position/</loc>
+    <loc>https://samirpaul.in/posts/sorted-array-to-balanced-bst/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -497,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/sorted-array-to-balanced-bst/</loc>
+    <loc>https://samirpaul.in/posts/sorted-insert-position/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -1325,7 +1325,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/min-sum-path-in-triangle/</loc>
+    <loc>https://samirpaul.in/posts/min-sum-path-in-matrix/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -1334,7 +1334,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/min-sum-path-in-matrix/</loc>
+    <loc>https://samirpaul.in/posts/min-sum-path-in-triangle/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -2036,7 +2036,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/gray-code/</loc>
+    <loc>https://samirpaul.in/posts/greatest-common-divisor/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -2045,7 +2045,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/greatest-common-divisor/</loc>
+    <loc>https://samirpaul.in/posts/gray-code/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -2360,7 +2360,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/different-bits-sum-pairwise/</loc>
+    <loc>https://samirpaul.in/posts/diffk-ii/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -2369,7 +2369,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/diffk-ii/</loc>
+    <loc>https://samirpaul.in/posts/different-bits-sum-pairwise/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -2387,7 +2387,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/detect-and-remove-loop-from-a-linked-list/</loc>
+    <loc>https://samirpaul.in/posts/deterministic-finite-automaton/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -2396,7 +2396,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/deterministic-finite-automaton/</loc>
+    <loc>https://samirpaul.in/posts/detect-and-remove-loop-from-a-linked-list/</loc>
     
     <lastmod>2023-08-10</lastmod>
     
@@ -3152,7 +3152,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/Power-Of-Numbers---GFG/</loc>
+    <loc>https://samirpaul.in/posts/Peak-element---GFG/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -3161,7 +3161,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/Peak-element---GFG/</loc>
+    <loc>https://samirpaul.in/posts/Power-Of-Numbers---GFG/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -3467,7 +3467,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/Search-an-Element-in-an-array---GFG/</loc>
+    <loc>https://samirpaul.in/posts/Search-an-element-in-sorted-and-rotated-array---GFG/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -3476,7 +3476,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/Search-an-element-in-sorted-and-rotated-array---GFG/</loc>
+    <loc>https://samirpaul.in/posts/Search-an-Element-in-an-array---GFG/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4250,7 +4250,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/Tower-Of-Hanoi/</loc>
+    <loc>https://samirpaul.in/posts/Trapping-Rain-Water/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4259,7 +4259,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/Trapping-Rain-Water/</loc>
+    <loc>https://samirpaul.in/posts/Tower-Of-Hanoi/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4448,15 +4448,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/set-matrix-zeroes/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/serialize-and-deserialize-binary-tree/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -4466,7 +4457,25 @@
   </url>
   
   <url>
+    <loc>https://samirpaul.in/posts/set-matrix-zeroes/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://samirpaul.in/posts/shortest-common-supersequence/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/shortest-completing-word/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4493,15 +4502,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/shortest-completing-word/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/shortest-subarray-with-sum-at-least-k/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -4520,7 +4520,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/single-number-ii/</loc>
+    <loc>https://samirpaul.in/posts/single-element-in-a-sorted-array/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4529,7 +4529,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/single-element-in-a-sorted-array/</loc>
+    <loc>https://samirpaul.in/posts/single-number-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4781,7 +4781,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/surrounded-regions/</loc>
+    <loc>https://samirpaul.in/posts/sum-root-to-leaf-numbers/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4790,7 +4790,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/sum-root-to-leaf-numbers/</loc>
+    <loc>https://samirpaul.in/posts/surrounded-regions/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4817,7 +4817,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/task-scheduler/</loc>
+    <loc>https://samirpaul.in/posts/target-sum/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4826,7 +4826,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/target-sum/</loc>
+    <loc>https://samirpaul.in/posts/task-scheduler/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -4997,7 +4997,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/remove-all-adjacent-duplicates-in-string-ii/</loc>
+    <loc>https://samirpaul.in/posts/remove-all-adjacent-duplicates-in-string/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5006,7 +5006,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/remove-all-adjacent-duplicates-in-string/</loc>
+    <loc>https://samirpaul.in/posts/remove-all-adjacent-duplicates-in-string-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5195,7 +5195,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/next-greater-element-ii/</loc>
+    <loc>https://samirpaul.in/posts/network-delay-time/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5204,7 +5204,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/network-delay-time/</loc>
+    <loc>https://samirpaul.in/posts/next-greater-element-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5285,7 +5285,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/number-of-longest-increasing-subsequence/</loc>
+    <loc>https://samirpaul.in/posts/number-of-islands/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5294,7 +5294,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/number-of-islands/</loc>
+    <loc>https://samirpaul.in/posts/number-of-longest-increasing-subsequence/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5735,7 +5735,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/jump-game-v/</loc>
+    <loc>https://samirpaul.in/posts/jump-game-iii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5744,7 +5744,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/jump-game-iii/</loc>
+    <loc>https://samirpaul.in/posts/jump-game-v/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5897,7 +5897,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/longest-palindromic-substring/</loc>
+    <loc>https://samirpaul.in/posts/longest-palindromic-subsequence/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5906,7 +5906,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/longest-palindromic-subsequence/</loc>
+    <loc>https://samirpaul.in/posts/longest-palindromic-substring/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5934,15 +5934,6 @@
   
   <url>
     <loc>https://samirpaul.in/posts/longest-substring-without-repeating-characters/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/longest-valid-parentheses/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -5979,6 +5970,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/lru-cache/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/longest-valid-parentheses/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -6212,7 +6212,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/minimum-add-to-make-parentheses-valid/</loc>
+    <loc>https://samirpaul.in/posts/minimum-absolute-sum-difference/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -6221,7 +6221,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/minimum-absolute-sum-difference/</loc>
+    <loc>https://samirpaul.in/posts/minimum-add-to-make-parentheses-valid/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -6626,7 +6626,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/find-n-unique-integers-sum-up-to-zero/</loc>
+    <loc>https://samirpaul.in/posts/find-minimum-in-rotated-sorted-array/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -6635,7 +6635,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/find-minimum-in-rotated-sorted-array/</loc>
+    <loc>https://samirpaul.in/posts/find-n-unique-integers-sum-up-to-zero/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -6977,7 +6977,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/convert-sorted-array-to-binary-search-tree/</loc>
+    <loc>https://samirpaul.in/posts/convert-sorted-list-to-binary-search-tree/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -6986,7 +6986,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/convert-sorted-list-to-binary-search-tree/</loc>
+    <loc>https://samirpaul.in/posts/convert-sorted-array-to-binary-search-tree/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7301,15 +7301,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/beautiful-arrangement-ii/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/beautiful-array/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -7319,7 +7310,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/best-time-to-buy-and-sell-stock-with-cooldown/</loc>
+    <loc>https://samirpaul.in/posts/beautiful-arrangement-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7329,6 +7320,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/best-time-to-buy-and-sell-stock-iv/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/best-time-to-buy-and-sell-stock-with-cooldown/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7391,7 +7391,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/binary-tree-level-order-traversal-ii/</loc>
+    <loc>https://samirpaul.in/posts/binary-tree-maximum-path-sum/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7400,7 +7400,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/binary-tree-maximum-path-sum/</loc>
+    <loc>https://samirpaul.in/posts/binary-tree-level-order-traversal-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7508,15 +7508,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/check-if-a-string-can-break-another-string/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/cat-and-mouse-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -7526,7 +7517,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/check-if-binary-string-has-at-most-one-segment-of-ones/</loc>
+    <loc>https://samirpaul.in/posts/check-if-a-string-can-break-another-string/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7535,7 +7526,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/checking-existence-of-edge-length-limited-paths/</loc>
+    <loc>https://samirpaul.in/posts/check-if-binary-string-has-at-most-one-segment-of-ones/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7554,6 +7545,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/cherry-pickup/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/checking-existence-of-edge-length-limited-paths/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7679,7 +7679,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/add-two-numbers/</loc>
+    <loc>https://samirpaul.in/posts/advantage-shuffle/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7688,7 +7688,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/advantage-shuffle/</loc>
+    <loc>https://samirpaul.in/posts/add-two-numbers/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -7832,6 +7832,15 @@
   </url>
   
   <url>
+    <loc>https://samirpaul.in/posts/746-min-cost-climbing-stairs/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://samirpaul.in/posts/75-sort-colors/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -7851,15 +7860,6 @@
   
   <url>
     <loc>https://samirpaul.in/posts/763-partition-labels/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/746-min-cost-climbing-stairs/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8102,7 +8102,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/889-construct-binary-tree-from-preorder-and-postorder-traversal/</loc>
+    <loc>https://samirpaul.in/posts/90-subsets-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8111,7 +8111,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/90-subsets-ii/</loc>
+    <loc>https://samirpaul.in/posts/889-construct-binary-tree-from-preorder-and-postorder-traversal/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8147,7 +8147,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/91-decode-ways/</loc>
+    <loc>https://samirpaul.in/posts/912-sort-an-array/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8156,7 +8156,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/912-sort-an-array/</loc>
+    <loc>https://samirpaul.in/posts/91-decode-ways/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8255,7 +8255,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/974-subarray-sums-divisible-by-k/</loc>
+    <loc>https://samirpaul.in/posts/98-validate-binary-search-tree/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8264,7 +8264,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/98-validate-binary-search-tree/</loc>
+    <loc>https://samirpaul.in/posts/974-subarray-sums-divisible-by-k/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8345,15 +8345,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/37-sudoku-solver/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/371-sum-of-two-integers/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -8364,6 +8355,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/378-kth-smallest-element-in-a-sorted-matrix/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/37-sudoku-solver/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8390,7 +8390,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/389-find-the-difference/</loc>
+    <loc>https://samirpaul.in/posts/387-first-unique-character-in-a-string/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8399,7 +8399,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/387-first-unique-character-in-a-string/</loc>
+    <loc>https://samirpaul.in/posts/389-find-the-difference/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8525,7 +8525,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/43-multiply-strings/</loc>
+    <loc>https://samirpaul.in/posts/421-maximum-xor-of-two-numbers-in-an-array/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8534,7 +8534,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/421-maximum-xor-of-two-numbers-in-an-array/</loc>
+    <loc>https://samirpaul.in/posts/43-multiply-strings/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -8975,15 +8975,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/60-permutation-sequence/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/61-rotate-list/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -8993,7 +8984,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/611-valid-triangle-number/</loc>
+    <loc>https://samirpaul.in/posts/617-merge-two-binary-trees/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -9002,7 +8993,16 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/617-merge-two-binary-trees/</loc>
+    <loc>https://samirpaul.in/posts/60-permutation-sequence/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/611-valid-triangle-number/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -9047,6 +9047,15 @@
   </url>
   
   <url>
+    <loc>https://samirpaul.in/posts/647-palindromic-substrings/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://samirpaul.in/posts/64-minimum-path-sum/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -9057,15 +9066,6 @@
   
   <url>
     <loc>https://samirpaul.in/posts/646-maximum-length-of-pair-chain/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/647-palindromic-substrings/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -9533,7 +9533,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/2527-count-subarrays-with-fixed-bounds/</loc>
+    <loc>https://samirpaul.in/posts/2508-add-edges-to-make-degrees-of-all-nodes-even/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -9542,7 +9542,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/2508-add-edges-to-make-degrees-of-all-nodes-even/</loc>
+    <loc>https://samirpaul.in/posts/2527-count-subarrays-with-fixed-bounds/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -9605,15 +9605,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/2411-smallest-subarrays-with-maximum-bitwise-or/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/242-valid-anagram/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -9633,6 +9624,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/2444-count-subarrays-with-fixed-bounds/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/2411-smallest-subarrays-with-maximum-bitwise-or/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -9929,7 +9929,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/230-kth-smallest-element-in-a-bst/</loc>
+    <loc>https://samirpaul.in/posts/2300-successful-pairs-of-spells-and-potions/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -9938,7 +9938,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/2300-successful-pairs-of-spells-and-potions/</loc>
+    <loc>https://samirpaul.in/posts/230-kth-smallest-element-in-a-bst/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10577,7 +10577,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1968-array-with-elements-not-equal-to-average-of-neighbors/</loc>
+    <loc>https://samirpaul.in/posts/1971-find-if-path-exists-in-graph/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10586,7 +10586,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1971-find-if-path-exists-in-graph/</loc>
+    <loc>https://samirpaul.in/posts/1968-array-with-elements-not-equal-to-average-of-neighbors/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10613,15 +10613,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/198-house-robber/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/1980-find-unique-binary-string/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -10632,6 +10623,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/1984-minimum-difference-between-highest-and-lowest-of-k-scores/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/198-house-robber/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10712,7 +10712,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/</loc>
+    <loc>https://samirpaul.in/posts/134-gas-station/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10721,7 +10721,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/134-gas-station/</loc>
+    <loc>https://samirpaul.in/posts/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10757,7 +10757,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/135-candy/</loc>
+    <loc>https://samirpaul.in/posts/136-single-number/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10766,7 +10766,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/136-single-number/</loc>
+    <loc>https://samirpaul.in/posts/135-candy/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10865,7 +10865,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/140-word-break-ii/</loc>
+    <loc>https://samirpaul.in/posts/1402-reducing-dishes/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -10874,7 +10874,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1402-reducing-dishes/</loc>
+    <loc>https://samirpaul.in/posts/140-word-break-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11018,7 +11018,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/148-sort-list/</loc>
+    <loc>https://samirpaul.in/posts/1480-running-sum-of-1d-array/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11027,7 +11027,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1480-running-sum-of-1d-array/</loc>
+    <loc>https://samirpaul.in/posts/148-sort-list/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11063,7 +11063,16 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/</loc>
+    <loc>https://samirpaul.in/posts/15-3sum/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/1508-range-sum-of-sorted-subarray-sums/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11073,6 +11082,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/151-reverse-words-in-a-string/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11099,15 +11117,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/15-3sum/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/1527-patients-with-a-condition/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -11117,7 +11126,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1530-number-of-good-leaf-nodes-pairs/</loc>
+    <loc>https://samirpaul.in/posts/153-find-minimum-in-rotated-sorted-array/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11126,7 +11135,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/153-find-minimum-in-rotated-sorted-array/</loc>
+    <loc>https://samirpaul.in/posts/1530-number-of-good-leaf-nodes-pairs/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11162,24 +11171,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1508-range-sum-of-sorted-subarray-sums/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/1581-customer-who-visited-but-did-not-make-any-transactions/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/1584-min-cost-to-connect-all-points/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -11199,6 +11190,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/16-3sum-closest/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/1581-customer-who-visited-but-did-not-make-any-transactions/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11279,7 +11279,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/124-binary-tree-maximum-path-sum/</loc>
+    <loc>https://samirpaul.in/posts/126-word-ladder-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11288,7 +11288,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/126-word-ladder-ii/</loc>
+    <loc>https://samirpaul.in/posts/124-binary-tree-maximum-path-sum/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11369,15 +11369,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/130-surrounded-regions/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/1302-deepest-leaves-sum/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -11405,6 +11396,15 @@
   </url>
   
   <url>
+    <loc>https://samirpaul.in/posts/130-surrounded-regions/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://samirpaul.in/posts/1312-minimum-insertion-steps-to-make-a-string-palindrome/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -11423,7 +11423,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1321-get-equal-substrings-within-budget/</loc>
+    <loc>https://samirpaul.in/posts/1319-number-of-operations-to-make-network-connected/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11432,7 +11432,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1319-number-of-operations-to-make-network-connected/</loc>
+    <loc>https://samirpaul.in/posts/1321-get-equal-substrings-within-budget/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11522,15 +11522,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/1208-get-equal-substrings-within-budget/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/1209-remove-all-adjacent-duplicates-in-string-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -11540,7 +11531,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/121-best-time-to-buy-and-sell-stock/</loc>
+    <loc>https://samirpaul.in/posts/1208-get-equal-substrings-within-budget/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -11550,6 +11541,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/1219-path-with-maximum-gold/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/121-best-time-to-buy-and-sell-stock/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -12161,6 +12161,24 @@
   </url>
   
   <url>
+    <loc>https://samirpaul.in/posts/0790-domino-and-tromino-tiling/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/0797-all-paths-from-source-to-target/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://samirpaul.in/posts/0801-minimum-swaps-to-make-sequences-increasing/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -12180,24 +12198,6 @@
   
   <url>
     <loc>https://samirpaul.in/posts/0812-largest-triangle-area/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/0790-domino-and-tromino-tiling/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/0797-all-paths-from-source-to-target/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -12305,7 +12305,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0781-rabbits-in-forest/</loc>
+    <loc>https://samirpaul.in/posts/0787-cheapest-flights-within-k-stops/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -12314,7 +12314,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0787-cheapest-flights-within-k-stops/</loc>
+    <loc>https://samirpaul.in/posts/0781-rabbits-in-forest/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -12404,7 +12404,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0647-palindromic-substrings/</loc>
+    <loc>https://samirpaul.in/posts/0646-maximum-length-of-pair-chain/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -12413,7 +12413,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0646-maximum-length-of-pair-chain/</loc>
+    <loc>https://samirpaul.in/posts/0647-palindromic-substrings/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -12899,7 +12899,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0462-minimum-moves-to-equal-array-elements-ii/</loc>
+    <loc>https://samirpaul.in/posts/0467-unique-substrings-in-wraparound-string/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -12908,7 +12908,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0467-unique-substrings-in-wraparound-string/</loc>
+    <loc>https://samirpaul.in/posts/0462-minimum-moves-to-equal-array-elements-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13214,7 +13214,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0278-first-bad-version/</loc>
+    <loc>https://samirpaul.in/posts/0279-perfect-squares/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13223,7 +13223,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0279-perfect-squares/</loc>
+    <loc>https://samirpaul.in/posts/0278-first-bad-version/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13340,7 +13340,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0201-bitwise-and-of-numbers-range/</loc>
+    <loc>https://samirpaul.in/posts/0206-reverse-linked-list/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13349,7 +13349,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0206-reverse-linked-list/</loc>
+    <loc>https://samirpaul.in/posts/0201-bitwise-and-of-numbers-range/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13376,7 +13376,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0212-word-search-ii/</loc>
+    <loc>https://samirpaul.in/posts/0211-design-add-and-search-words-data-structure/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13385,7 +13385,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0211-design-add-and-search-words-data-structure/</loc>
+    <loc>https://samirpaul.in/posts/0212-word-search-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13412,7 +13412,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0223-rectangle-area/</loc>
+    <loc>https://samirpaul.in/posts/0222-count-complete-tree-nodes/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13421,7 +13421,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0222-count-complete-tree-nodes/</loc>
+    <loc>https://samirpaul.in/posts/0223-rectangle-area/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13493,7 +13493,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0263-ugly-number/</loc>
+    <loc>https://samirpaul.in/posts/0264-ugly-number-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13511,7 +13511,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0264-ugly-number-ii/</loc>
+    <loc>https://samirpaul.in/posts/0263-ugly-number/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13583,15 +13583,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0190-reverse-bits/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/0191-number-of-1-bits/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -13601,25 +13592,16 @@
   </url>
   
   <url>
+    <loc>https://samirpaul.in/posts/0190-reverse-bits/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://samirpaul.in/posts/0196-delete-duplicate-emails/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/0199-binary-tree-right-side-view/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/posts/0200-number-of-islands/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13638,6 +13620,24 @@
   
   <url>
     <loc>https://samirpaul.in/posts/0198-house-robber/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/0199-binary-tree-right-side-view/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/0200-number-of-islands/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13682,7 +13682,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0146-lru-cache/</loc>
+    <loc>https://samirpaul.in/posts/0147-insertion-sort-list/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13691,7 +13691,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0147-insertion-sort-list/</loc>
+    <loc>https://samirpaul.in/posts/0146-lru-cache/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13745,7 +13745,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0166-fraction-to-recurring-decimal/</loc>
+    <loc>https://samirpaul.in/posts/0169-majority-element/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -13754,7 +13754,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0169-majority-element/</loc>
+    <loc>https://samirpaul.in/posts/0166-fraction-to-recurring-decimal/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14132,15 +14132,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0051-n-queens/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/posts/0050-powx-n/</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -14150,7 +14141,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0052-n-queens-ii/</loc>
+    <loc>https://samirpaul.in/posts/0051-n-queens/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14160,6 +14151,15 @@
   
   <url>
     <loc>https://samirpaul.in/posts/0053-maximum-subarray/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/posts/0052-n-queens-ii/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14213,7 +14213,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0072-edit-distance/</loc>
+    <loc>https://samirpaul.in/posts/0070-climbing-stairs/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14222,7 +14222,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0070-climbing-stairs/</loc>
+    <loc>https://samirpaul.in/posts/0072-edit-distance/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14249,7 +14249,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0002-add-two-numbers/</loc>
+    <loc>https://samirpaul.in/posts/0003-longest-substring-without-repeating-characters/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14258,7 +14258,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0003-longest-substring-without-repeating-characters/</loc>
+    <loc>https://samirpaul.in/posts/0002-add-two-numbers/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14294,7 +14294,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0012-integer-to-roman/</loc>
+    <loc>https://samirpaul.in/posts/0010-regular-expression-matching/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14303,7 +14303,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0010-regular-expression-matching/</loc>
+    <loc>https://samirpaul.in/posts/0012-integer-to-roman/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14321,7 +14321,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0014-longest-common-prefix/</loc>
+    <loc>https://samirpaul.in/posts/0017-letter-combinations-of-a-phone-number/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14330,7 +14330,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/0017-letter-combinations-of-a-phone-number/</loc>
+    <loc>https://samirpaul.in/posts/0014-longest-common-prefix/</loc>
     
     <lastmod>2023-08-08</lastmod>
     
@@ -14420,7 +14420,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/what-is-system-design/</loc>
+    <loc>https://samirpaul.in/posts/why-does-the-osi-model-matter/</loc>
     
     <lastmod>2023-08-07</lastmod>
     
@@ -14429,7 +14429,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/why-does-the-osi-model-matter/</loc>
+    <loc>https://samirpaul.in/posts/what-is-system-design/</loc>
     
     <lastmod>2023-08-07</lastmod>
     
@@ -14582,7 +14582,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/</loc>
+    <loc>https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</loc>
     
     <lastmod>2023-08-07</lastmod>
     
@@ -14591,7 +14591,7 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/posts/python-libraries-for-validating-data-used-for-forms-in-many-cases/</loc>
+    <loc>https://samirpaul.in/posts/python-libraries-to-automate-web-scraping/</loc>
     
     <lastmod>2023-08-07</lastmod>
     
@@ -15141,14 +15141,14 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/tags/Greedy/</loc>
+    <loc>https://samirpaul.in/tags/two-pointers-problems/</loc>
     <lastmod>2023-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://samirpaul.in/tags/two-pointers-problems/</loc>
+    <loc>https://samirpaul.in/tags/Greedy/</loc>
     <lastmod>2023-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -15246,20 +15246,6 @@
   </url>
   
   <url>
-    <loc>https://samirpaul.in/tags/open-external-links/</loc>
-    <lastmod>2023-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://samirpaul.in/tags/javascript/</loc>
-    <lastmod>2023-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://samirpaul.in/tags/Operating-System/</loc>
     <lastmod>2023-08-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -15275,6 +15261,20 @@
   
   <url>
     <loc>https://samirpaul.in/tags/OS/</loc>
+    <lastmod>2023-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/tags/open-external-links/</loc>
+    <lastmod>2023-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirpaul.in/tags/javascript/</loc>
     <lastmod>2023-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
