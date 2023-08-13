@@ -7,8 +7,12 @@ tags: [blog, coding, computer-science, Operating System, Placements, OS]
 sticky: 98
 ---
 
-
 # Operating Systems Overview
+
+<hr>
+
+<h3>Notes PDF</h3> [OS-All-Notes.pdf](https://github.com/github/docs/files/12329707/OS-All-Notes.pdf)
+<iframe loading="lazy" src="https://scdn.web.app/books-pdfs/1-Placements-Notes/OS-All-Notes.pdf" width="100%" height="600"></iframe>
 
 <hr>
 
