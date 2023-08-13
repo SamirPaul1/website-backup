@@ -11,7 +11,7 @@ sticky: 98
 
 <hr>
 
-<h3>Notes PDF</h3> &nbsp; <a href="https://github.com/github/docs/files/12329707/OS-All-Notes.pdf" target="_blank"><b>Download</b></a>
+<h3><a href="https://github.com/github/docs/files/12329707/OS-All-Notes.pdf" target="_blank">Download PDF Notes➥</a></h3>
 <iframe loading="lazy" src="https://scdn.web.app/books-pdfs/1-Placements-Notes/OS-All-Notes.pdf" width="100%" height="600"></iframe>
 
 <hr>
