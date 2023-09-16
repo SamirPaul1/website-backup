@@ -1,4 +1,3 @@
-[submodule "themes/butterfly"]
-	path = themes/butterfly
-	url = https://github.com/samirpaulb/hexo-theme-butterfly.git
-	branch = master
+[submodule "assets/lib"]
+	path = assets/lib
+	url = https://github.com/cotes2020/chirpy-static-assets.git
