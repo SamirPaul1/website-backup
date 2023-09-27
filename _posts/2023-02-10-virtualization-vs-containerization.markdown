@@ -2,13 +2,8 @@
 layout: post
 title: "Virtualization vs Containerization"
 description: "Virtualization vs Containerization"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Virtualization vs Containerization"
 categories: [Blog]
-tags: [blog, coding, computer-science]
+tags: [blog]
 published: true
 sitemap: true
 pin: false

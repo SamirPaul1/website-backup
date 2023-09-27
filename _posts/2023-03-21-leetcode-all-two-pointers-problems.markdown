@@ -2,13 +2,8 @@
 layout: post
 title: "LeetCode all two pointers problems"
 description: "LeetCode all two pointers problems"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "LeetCode all two pointers problems"
-categories: [Blog]
-tags: [blog, coding, computer-science, LeetCode, two pointers problems]
+categories: [Problem Solving, LeetCode]
+tags: [LeetCode]
 published: true
 sitemap: true
 pin: false

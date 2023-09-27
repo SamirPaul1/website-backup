@@ -4,11 +4,9 @@ title: "Open External Links in a New Window Using JavaScript"
 description: "Open External Links in a New Window Using JavaScript"
 image:
   path: /assets/img/open-external-links-in-a-new-window-using-javascript.webp
-  width: 661
-  height: 132
   alt: "Open External Links in a New Window Using JavaScript"
 categories: [Blog]
-tags: [blog, coding, computer-science, external-links-in-a-new-tab, jekyll, hugo, external-links-in-a-new-tab-jekyll, external-links-in-a-new-tab-hugo, javascript, external-links-in-a-new-tab-using-javascript, target-blank, jekyll-target-blank, jekyll-target-blank-using-javascript, open-external-links, open-external-links-javascript]
+tags: [blog, external-links]
 published: true
 sitemap: true
 pin: false

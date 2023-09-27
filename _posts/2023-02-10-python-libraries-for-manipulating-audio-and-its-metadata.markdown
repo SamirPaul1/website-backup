@@ -2,11 +2,6 @@
 layout: post
 title: "Python libraries for manipulating audio and its metadata"
 description: "Python libraries for manipulating audio and its metadata"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python libraries for manipulating audio and its metadata"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

@@ -2,11 +2,6 @@
 layout: post
 title: "How does SSO work?"
 description: "How does SSO work?"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "How does SSO work"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

@@ -2,13 +2,8 @@
 layout: post
 title: "Why is System Design So Important?"
 description: "Why is System Design so important?"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Why is System Design so important"
 categories: [System Design]
-tags: [blog, coding, computer-science, system-design]
+tags: [blog, system-design]
 published: true
 sitemap: true
 pin: false

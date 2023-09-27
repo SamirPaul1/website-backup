@@ -2,11 +2,6 @@
 layout: post
 title: "Single Sign-On SSO"
 description: "Single Sign-On SSO"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Single Sign-On SSO"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

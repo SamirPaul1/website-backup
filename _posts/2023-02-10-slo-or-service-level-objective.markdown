@@ -2,11 +2,6 @@
 layout: post
 title: "SLO or Service Level Objective"
 description: "SLO or Service Level Objective"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "SLO or Service Level Objective"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

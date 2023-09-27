@@ -2,11 +2,6 @@
 layout: post
 title: "Python vs R for data science"
 description: "Python vs R for data science"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python vs R for data science"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

@@ -4,17 +4,13 @@ title: Online PDF Compression Tool
 description: Online PDF Compression Tool
 image:
   path: /assets/img/online-pdf-compression-tool-blog-banner.webp
-  width: 661
-  height: 132
   alt: Online PDF Compression Tool
 categories: [Projects]
-tags: [blog, coding, computer-science, javascript, css, python, c, shell, html, pdf, flask, nix, server, repl, python3, file-compressor, flask-application, python-server, pdfnet, pdf-compression, reple, online-pdf-compressor, pdfnetpython]
+tags: [project, online-pdf-compressor]
 published: true
 sitemap: true
 pin: false
 ---
-
-
 
 
 ### About The Project:

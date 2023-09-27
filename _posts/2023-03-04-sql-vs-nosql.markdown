@@ -2,13 +2,8 @@
 layout: post
 title: "SQL vs. NoSQL"
 description: "SQL vs. NoSQL"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "SQL vs. NoSQL"
 categories: [System Design]
-tags: [blog, coding, computer-science, system-design, design-interview, sql, nosql]
+tags: [blog, system-design]
 published: true
 sitemap: true
 pin: false

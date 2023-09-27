@@ -2,13 +2,8 @@
 layout: post
 title: "Caching"
 description: "Caching"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Caching"
 categories: [System Design]
-tags: [blog, coding, computer-science, caching, system-design, design-interview]
+tags: [blog, caching, system-design]
 published: true
 sitemap: true
 pin: false

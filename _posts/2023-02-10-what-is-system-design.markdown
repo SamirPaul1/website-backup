@@ -2,13 +2,8 @@
 layout: post
 title: "What is System Design?"
 description: "What is System Design?"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "What is System Design"
 categories: [System Design]
-tags: [blog, coding, computer-science, system-design]
+tags: [blog,  system-design]
 published: true
 sitemap: true
 pin: false

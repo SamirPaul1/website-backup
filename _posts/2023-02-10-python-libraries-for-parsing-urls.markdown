@@ -2,11 +2,6 @@
 layout: post
 title: "Python libraries for parsing URLs"
 description: "Python libraries for parsing URLs"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python libraries for parsing URLs"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

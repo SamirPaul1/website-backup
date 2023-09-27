@@ -2,13 +2,8 @@
 layout: post
 title: "Steps how to approach the system design questions in interviews"
 description: "Steps how to approach the system design questions in interviews"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Steps how to approach the system design questions in interviews"
 categories: [System Design]
-tags: [blog, coding, computer-science, system-design, design-interview, preparation]
+tags: [blog, system-design]
 published: true
 sitemap: true
 pin: false

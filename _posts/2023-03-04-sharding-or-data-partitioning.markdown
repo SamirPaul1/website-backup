@@ -2,13 +2,8 @@
 layout: post
 title: "Sharding or Data Partitioning"
 description: "Sharding or Data Partitioning"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Sharding or Data Partitioning"
 categories: [System Design]
-tags: [blog, coding, computer-science, system-design, design-interview, sql, nosql, sharding, data-partitioning]
+tags: [blog, system-design]
 published: true
 sitemap: true
 pin: false

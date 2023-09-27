@@ -2,13 +2,8 @@
 layout: post
 title: "benefits of design patterns implementation"
 description: "benefits of design patterns implementation"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "benefits of design patterns implementation"
 categories: [Blog]
-tags: [blog, coding, computer-science]
+tags: [blog]
 published: true
 sitemap: true
 pin: false

@@ -2,11 +2,6 @@
 layout: post
 title: "Python Content Management Systems"
 description: "Python Content Management Systems"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python Content Management Systems"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

@@ -2,13 +2,8 @@
 layout: post
 title: "Graph For Beginners"
 description: "Graph For Beginners"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Graph For Beginners"
-categories: [Blog]
-tags: [blog, coding, computer-science, Graph]
+categories: [Computer Science]
+tags: [computer-science, Graph]
 published: true
 sitemap: true
 pin: false

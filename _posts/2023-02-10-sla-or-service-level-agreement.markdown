@@ -2,11 +2,6 @@
 layout: post
 title: "SLA or Service Level Agreement"
 description: "SLA or Service Level Agreement"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "SLA or Service Level Agreement"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

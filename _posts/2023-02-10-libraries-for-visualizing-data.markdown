@@ -2,11 +2,6 @@
 layout: post
 title: "Libraries for visualizing data"
 description: "Libraries for visualizing data"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Libraries for visualizing data"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

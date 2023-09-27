@@ -2,13 +2,8 @@
 layout: post
 title: "Key Characteristics of Distributed Systems"
 description: "Key Characteristics of Distributed Systems"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Key Characteristics of Distributed Systems"
 categories: [System Design]
-tags: [blog, coding, computer-science, system-design, design-interview, distributed-systems]
+tags: [blog, system-design]
 published: true
 sitemap: true
 pin: false

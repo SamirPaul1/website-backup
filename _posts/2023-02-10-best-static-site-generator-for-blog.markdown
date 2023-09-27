@@ -2,13 +2,8 @@
 layout: post
 title: "best static site generator for blog"
 description: "best static site generator for blog"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "best static site generator for blog"
 categories: [Blog]
-tags: [blog, coding, computer-science]
+tags: [blog]
 published: true
 sitemap: true
 pin: false

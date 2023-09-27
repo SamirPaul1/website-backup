@@ -2,13 +2,8 @@
 layout: post
 title: "DP for Beginners"
 description: "DP for Beginners"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "DP for Beginners"
-categories: [Blog]
-tags: [blog, coding, computer-science, dp]
+categories: [Computer Science]
+tags: [computer-science, dsa]
 published: true
 sitemap: true
 pin: false

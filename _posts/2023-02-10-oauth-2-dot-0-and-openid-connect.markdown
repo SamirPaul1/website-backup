@@ -2,11 +2,6 @@
 layout: post
 title: "OAuth 2.0 and OpenID Connect"
 description: "OAuth 2.0 and OpenID Connect"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "OAuth 2.0 and OpenID Connect"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

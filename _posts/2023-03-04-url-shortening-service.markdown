@@ -2,13 +2,8 @@
 layout: post
 title: "URL Shortening Service"
 description: "URL Shortening Service"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "URL Shortening Service"
 categories: [System Design]
-tags: [blog, coding, computer-science, short-url, url-shortner, system-design, design-interview, preparation]
+tags: [blog, url-shortner, system-design]
 published: true
 sitemap: true
 pin: false

@@ -2,11 +2,6 @@
 layout: post
 title: "gaming library in python"
 description: "gaming library in python"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "gaming library in python"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

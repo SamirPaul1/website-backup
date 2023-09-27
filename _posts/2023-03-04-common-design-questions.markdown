@@ -2,13 +2,8 @@
 layout: post
 title: "Common Design questions"
 description: "Common Design questions"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Common Design questions"
 categories: [System Design]
-tags: [blog, coding, computer-science, system-design, design-interview, preparation]
+tags: [blog, system-design, design-interview, preparation]
 published: true
 sitemap: true
 pin: false

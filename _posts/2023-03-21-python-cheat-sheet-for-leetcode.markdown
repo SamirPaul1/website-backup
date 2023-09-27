@@ -2,13 +2,8 @@
 layout: post
 title: "Python Cheat Sheet for Leetcode"
 description: "Python Cheat Sheet for Leetcode"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python Cheat Sheet for Leetcode"
 categories: [Blog]
-tags: [blog, coding, computer-science, Python Cheat Sheet, Leetcode]
+tags: [blog, Python]
 published: true
 sitemap: true
 pin: false

@@ -2,11 +2,6 @@
 layout: post
 title: "SSL TLS mTLS"
 description: "SSL TLS mTLS"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "SSL TLS mTLS"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

@@ -2,11 +2,6 @@
 layout: post
 title: "Python libraries to automate web scraping"
 description: "Python libraries to automate web scraping"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python libraries to automate web scraping"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

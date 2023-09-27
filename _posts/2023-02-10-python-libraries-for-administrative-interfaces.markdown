@@ -2,11 +2,6 @@
 layout: post
 title: "Python libraries for administrative interfaces"
 description: "Python libraries for administrative interfaces"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python libraries for administrative interfaces"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

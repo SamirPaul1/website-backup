@@ -2,13 +2,8 @@
 layout: post
 title: "TCP vs UDP"
 description: "TCP vs UDP"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "TCP vs UDP"
 categories: [Blog]
-tags: [blog, coding, computer-science]
+tags: [blog]
 published: true
 sitemap: true
 pin: false

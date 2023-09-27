@@ -2,13 +2,8 @@
 layout: post
 title: "Embed MusicApp"
 description: "Embed MusicApp"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Embed MusicApp"
 categories: [Blog]
-tags: [blog, coding, computer-science, embed-musicapp, music, embeded, music-player]
+tags: [blog, music-player]
 published: true
 sitemap: true
 pin: false

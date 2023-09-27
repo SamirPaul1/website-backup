@@ -2,11 +2,6 @@
 layout: post
 title: "Databases implemented in Python"
 description: "Databases implemented in Python"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Databases implemented in Python"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

@@ -7,15 +7,15 @@ image:
   width: auto
   height: auto
   alt: Data Structures and Algorithms for Coding Interview
-categories: [Data Structures and Algorithms]
-tags: [blog, coding, dsa-in-python, computer-science, data-structures-and-algorithms-for-coding-interview,data-structures,algorithms,interview,coding-interview,dsalgo,leetcode,gfg,geeksforgeeks,dynamic-programming,sorting-algorithms,linkedList,object-oriented-programming,binary-trees,graph-algorithms,heap,matrix,trie,binary-search,backtracking,stack,queue,greedy,string,bit-manipulation,array,hashmap,dfs,bfs,two-pointers,math,recursion,codechef,codeforces,hackerrank,dsa,coding-solutions,problem-solving]
+categories: [Computer Science, DSAlgo]
+tags: [data-structures, algorithms]
 published: true
 sitemap: true
 pin: false
 ---
 
-<b> Repository Link: [https://github.com/SamirPaul1/DSAlgo](https://github.com/SamirPaul1/DSAlgo) </b>
-> In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python in a structured manner.
+<b>Repository Link: [https://github.com/SamirPaul1/DSAlgo](https://github.com/SamirPaul1/DSAlgo)</b>
+> In this repository, I have stored solutions to various problems and concepts of Data Structures and Algorithms in Python in a structured manner.
 
 <p align="center">
 <a href="https://github.com/SamirPaul1/DSAlgo"> 

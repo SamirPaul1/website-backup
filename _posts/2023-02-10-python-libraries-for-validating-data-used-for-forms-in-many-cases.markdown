@@ -2,11 +2,6 @@
 layout: post
 title: "Python libraries for validating data. Used for forms in many cases"
 description: "Python libraries for validating data. Used for forms in many cases"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python libraries for validating data. Used for forms in many cases"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

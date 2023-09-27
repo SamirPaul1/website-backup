@@ -2,13 +2,8 @@
 layout: post
 title: "Binary Search Template"
 description: "Binary Search Template"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Binary Search Template"
-categories: [Blog]
-tags: [blog, coding, computer-science, Binary Search]
+categories: [Computer Science]
+tags: [computer-science,]
 published: true
 sitemap: true
 pin: false

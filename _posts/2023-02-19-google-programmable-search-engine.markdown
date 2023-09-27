@@ -2,13 +2,8 @@
 layout: post
 title: "Google Programmable Search Engine"
 description: "Google Programmable Search Engine"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Google Programmable Search Engine"
 categories: [Blog]
-tags: [blog, coding, computer-science, google, google-search-withing-webpage, google-programmable-search-engine, programmable-search-engine]
+tags: [blog, google-search, programmable-search-engine]
 published: true
 sitemap: true
 pin: false

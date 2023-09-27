@@ -2,13 +2,8 @@
 layout: post
 title: "SQL Joins - Inner, Left, Right and Full Joins"
 description: "SQL Joins - Inner, Left, Right and Full Joins"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "SQL Joins - Inner, Left, Right and Full Joins"
 categories: [Blog]
-tags: [blog, coding, computer-science, INNER JOIN, RIGHT JOIN, FULL JOIN, SQL, SQL Joins]
+tags: [computer-science, sql]
 published: true
 sitemap: true
 pin: false

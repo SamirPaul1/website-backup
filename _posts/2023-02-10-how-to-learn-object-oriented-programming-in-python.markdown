@@ -2,11 +2,6 @@
 layout: post
 title: "how to learn object oriented programming in python"
 description: "how to learn object oriented programming in python"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "how to learn object oriented programming in python"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

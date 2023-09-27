@@ -2,11 +2,6 @@
 layout: post
 title: "Python libraries for implementing authentication schemes"
 description: "Python libraries for implementing authentication schemes"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python libraries for implementing authentication schemes"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

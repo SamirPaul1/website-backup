@@ -2,13 +2,8 @@
 layout: post
 title: "LeetCode Greedy for Beginners"
 description: "LeetCode Greedy for Beginners"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "LeetCode Greedy for Beginners"
-categories: [Blog]
-tags: [blog, coding, computer-science, LeetCode, Greedy]
+categories: [Problem Solving, LeetCode]
+tags: [LeetCode, Greedy]
 published: true
 sitemap: true
 pin: false

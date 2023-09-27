@@ -2,13 +2,8 @@
 layout: post
 title: "PyShooter Python Game"
 description: "PyShooter Python two-dimensional shooter game"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "PyShooter"
 categories: [Projects]
-tags: [blog, coding, computer-science, python, project, pygame, python-game, projects, pyshooter, shooter-game]
+tags: [python, projects, pyshooter]
 published: true
 sitemap: true
 pin: false

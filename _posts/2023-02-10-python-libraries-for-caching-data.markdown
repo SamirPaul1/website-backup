@@ -2,11 +2,6 @@
 layout: post
 title: "Python libraries for caching data"
 description: "Python libraries for caching data"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Python libraries for caching data"
 categories: [Blog]
 tags: [blog, coding, computer-science]
 published: true

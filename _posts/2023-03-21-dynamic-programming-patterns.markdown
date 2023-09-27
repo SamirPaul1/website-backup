@@ -2,13 +2,8 @@
 layout: post
 title: "Dynamic Programming Patterns"
 description: "Dynamic Programming Patterns"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Dynamic Programming Patterns"
-categories: [Blog]
-tags: [blog, coding, computer-science, Dynamic Programming, Patterns]
+categories: [Computer Science]
+tags: [Dynamic Programming, Patterns]
 published: true
 sitemap: true
 pin: false

@@ -2,13 +2,8 @@
 layout: post
 title: "Why Does The OSI Model Matter?"
 description: "Why does the OSI model matter?"
-image:
-  path: /assets/img/blog-featured-image.webp
-  width: 661
-  height: 132
-  alt: "Why does the OSI model matter"
 categories: [Blog]
-tags: [blog, coding, computer-science, networking]
+tags: [blog, networking]
 published: true
 sitemap: true
 pin: false
