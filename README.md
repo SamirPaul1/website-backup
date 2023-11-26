@@ -15,7 +15,7 @@ To fully use all the features of **Chirpy**, you need to copy the other critical
 Jekyll site. The following is a list of targets:
  
 ```shell
-.
+. 
 ├── _config.yml
 ├── _plugins
 ├── _tabs
