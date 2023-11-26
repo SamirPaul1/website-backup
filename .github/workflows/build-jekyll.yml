@@ -5,6 +5,11 @@ on:
     branches:
       - jekyll-theme-chirpy  # Here source code branch is `master`, it could be other branch
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
