@@ -1,0 +1,525 @@
+<!doctype html><html lang="en" ><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7"><meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover" ><meta name="generator" content="Jekyll v4.3.2" /><meta property="og:title" content="Binary Search Template" /><meta name="author" content="Samir Paul" /><meta property="og:locale" content="en" /><meta name="description" content="Binary Search Template" /><meta property="og:description" content="Binary Search Template" /><link rel="canonical" href="https://samir.pages.dev/posts/binary-search-template/" /><meta property="og:url" content="https://samir.pages.dev/posts/binary-search-template/" /><meta property="og:site_name" content="Samir Paul" /><meta property="og:type" content="article" /><meta property="article:published_time" content="2023-03-21T00:00:00+05:30" /><meta name="twitter:card" content="summary" /><meta property="twitter:title" content="Binary Search Template" /><meta name="twitter:site" content="@SamirPaulb" /><meta name="twitter:creator" content="@Samir Paul" /><meta property="fb:app_id" content="6800281970014175" /><meta name="google-site-verification" content="vJAOBxbJTCK2vXG-hLFeGsoC9hXgFlCpuJJ8AcJLROQ" /><meta name="msvalidate.01" content="1A92FC2EC113F8616A21D76DA684A133" /><meta name="yandex-verification" content="fe6a06c57be84984" /><meta name="facebook-domain-verification" content="3pkgruuk3kzlsn3jdfehgbd4sem1qb" /> <script type="application/ld+json"> {"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Samir Paul"},"dateModified":"2023-03-21T00:00:00+05:30","datePublished":"2023-03-21T00:00:00+05:30","description":"Binary Search Template","headline":"Binary Search Template","mainEntityOfPage":{"@type":"WebPage","@id":"https://samir.pages.dev/posts/binary-search-template/"},"url":"https://samir.pages.dev/posts/binary-search-template/"}</script><title>Binary Search Template | Samir Paul</title><link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png"><link rel="manifest" href="/assets/img/favicons/site.webmanifest"><link rel="shortcut icon" href="/assets/img/favicons/favicon.ico"><meta name="apple-mobile-web-app-title" content="Samir Paul"><meta name="application-name" content="Samir Paul"><meta name="msapplication-TileColor" content="#da532c"><meta name="msapplication-config" content="/assets/img/favicons/browserconfig.xml"><meta name="theme-color" content="#ffffff"><link rel="preconnect" href="https://fonts.googleapis.com" ><link rel="dns-prefetch" href="https://fonts.googleapis.com" ><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="dns-prefetch" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://fonts.googleapis.com" ><link rel="dns-prefetch" href="https://fonts.googleapis.com" ><link rel="preconnect" href="https://cdn.jsdelivr.net" ><link rel="dns-prefetch" href="https://cdn.jsdelivr.net" ><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;700;900&display=swap"><link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials"><link rel="dns-prefetch" href="https://www.google-analytics.com"><link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous"><link rel="dns-prefetch" href="https://www.googletagmanager.com"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/all.min.css"><link rel="stylesheet" href="/assets/css/jekyll-theme-chirpy.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4.21.2/dist/tocbot.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css"> <script type="text/javascript"> class ModeToggle { static get MODE_KEY() { return 'mode'; } static get MODE_ATTR() { return 'data-mode'; } static get DARK_MODE() { return 'dark'; } static get LIGHT_MODE() { return 'light'; } static get ID() { return 'mode-toggle'; } constructor() { if (this.hasMode) { if (this.isDarkMode) { if (!this.isSysDarkPrefer) { this.setDark(); } } else { if (this.isSysDarkPrefer) { this.setLight(); } } } let self = this; /* always follow the system prefers */ this.sysDarkPrefers.addEventListener('change', () => { if (self.hasMode) { if (self.isDarkMode) { if (!self.isSysDarkPrefer) { self.setDark(); } } else { if (self.isSysDarkPrefer) { self.setLight(); } } self.clearMode(); } self.notify(); }); } /* constructor() */ get sysDarkPrefers() { return window.matchMedia('(prefers-color-scheme: dark)'); } get isSysDarkPrefer() { return this.sysDarkPrefers.matches; } get isDarkMode() { return this.mode === ModeToggle.DARK_MODE; } get isLightMode() { return this.mode === ModeToggle.LIGHT_MODE; } get hasMode() { return this.mode != null; } get mode() { return sessionStorage.getItem(ModeToggle.MODE_KEY); } /* get the current mode on screen */ get modeStatus() { if (this.isDarkMode || (!this.hasMode && this.isSysDarkPrefer)) { return ModeToggle.DARK_MODE; } else { return ModeToggle.LIGHT_MODE; } } setDark() { document.documentElement.setAttribute(ModeToggle.MODE_ATTR, ModeToggle.DARK_MODE); sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE); } setLight() { document.documentElement.setAttribute(ModeToggle.MODE_ATTR, ModeToggle.LIGHT_MODE); sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE); } clearMode() { document.documentElement.removeAttribute(ModeToggle.MODE_ATTR); sessionStorage.removeItem(ModeToggle.MODE_KEY); } /* Notify another plugins that the theme mode has changed */ notify() { window.postMessage( { direction: ModeToggle.ID, message: this.modeStatus }, '*' ); } flipMode() { if (this.hasMode) { if (this.isSysDarkPrefer) { if (this.isLightMode) { this.clearMode(); } else { this.setLight(); } } else { if (this.isDarkMode) { this.clearMode(); } else { this.setDark(); } } } else { if (this.isSysDarkPrefer) { this.setLight(); } else { this.setDark(); } } this.notify(); } /* flipMode() */ } /* ModeToggle */ const modeToggle = new ModeToggle(); </script><body><aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end"><header class="profile-wrapper"> <a href="/" id="avatar" class="rounded-circle"> <img src="/assets/img/avatar.webp" width="112" height="112" alt="avatar" onerror="this.style.display='none'"> </a><h1 class="site-title"> <a href="/">Samir Paul</a></h1><p class="site-subtitle fst-italic mb-0">Software Engineer</p></header><nav class="flex-column flex-grow-1 w-100 ps-0"><ul class="nav"><li class="nav-item"> <a href="/" class="nav-link"> <i class="fa-fw fas fa-home"></i> <span>HOME</span> </a><li class="nav-item"> <a href="/about/" class="nav-link"> <i class="fa-fw fas fa-info-circle"></i> <span>ABOUT</span> </a><li class="nav-item"> <a href="/posts/" class="nav-link"> <i class="fa-fw fas fa-archive"></i> <span>ALL POSTS</span> </a><li class="nav-item"> <a href="/tags/" class="nav-link"> <i class="fa-fw fas fa-tags"></i> <span>TAGS</span> </a><li class="nav-item"> <a href="/categories/" class="nav-link"> <i class="fa-fw fas fa-stream"></i> <span>CATEGORIES</span> </a></ul></nav><div class="sidebar-bottom d-flex flex-wrap align-items-center w-100"> <button type="button" class="mode-toggle btn" aria-label="Switch Mode"> <i class="fas fa-adjust"></i> </button> <span class="icon-border"></span> <a href="https://github.com/SamirPaul1" aria-label="github" target="_blank" rel="noopener noreferrer" > <i class="fab fa-github"></i> </a> <a href="https://twitter.com/SamirPaulb" aria-label="twitter" target="_blank" rel="noopener noreferrer" > <i class="fa-brands fa-x-twitter"></i> </a> <a href="javascript:location.href = 'mailto:' + ['',''].join('@')" aria-label="email" > <i class="fas fa-envelope"></i> </a> <a href="/feed.xml" aria-label="rss" > <i class="fas fa-rss"></i> </a></div></aside><div id="main-wrapper" class="d-flex justify-content-center"><div class="container d-flex flex-column px-xxl-5"><header id="topbar-wrapper" aria-label="Top Bar"><div id="topbar" class="d-flex align-items-center justify-content-between px-lg-3 h-100" ><nav id="breadcrumb" aria-label="Breadcrumb"> <span> <a href="/"> Home </a> </span> <span>Binary Search Template</span></nav><button type="button" id="sidebar-trigger" class="btn btn-link"> <i class="fas fa-bars fa-fw"></i> </button><div id="topbar-title"> Post</div><button type="button" id="search-trigger" class="btn btn-link"> <i class="fas fa-search fa-fw"></i> </button> <search class="align-items-center ms-3 ms-lg-0"> <i class="fas fa-search fa-fw"></i> <input class="form-control" id="search-input" type="search" aria-label="search" autocomplete="off" placeholder="Search..." > </search> <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">Cancel</button></div></header><div class="row flex-grow-1"><main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4"><article class="px-1"><header><h1 data-toc-skip>Binary Search Template</h1><div class="post-meta text-muted"> <span> Posted <time data-ts="1679337000" data-df="ll" data-bs-toggle="tooltip" data-bs-placement="bottom" > Mar 21, 2023 </time> </span><div class="d-flex justify-content-between"> <span> By <em> <a href="https://twitter.com/SamirPaulb">Samir Paul</a> </em> </span> <span class="readtime" data-bs-toggle="tooltip" data-bs-placement="bottom" title="4800 words" > <em>26 min</em> read</span></div></div></header><div class="content"><p>Binary Search is quite easy to understand conceptually. Basically, it splits the search space into two halves and only keep the half that probably has the search target and throw away the other half that would not possibly have the answer. In this manner, we reduce the search space to half the size at every step, until we find the target. Binary Search helps us reduce the search time from linear O(n) to logarithmic O(log n). <strong>But when it comes to implementation, it’s rather difficult to write a bug-free code in just a few minutes</strong>. Some of the most common problems include:</p><ul><li>When to exit the loop? Should we use <code class="language-plaintext highlighter-rouge">left &lt; right</code> or <code class="language-plaintext highlighter-rouge">left &lt;= right</code> as the while loop condition?<li>How to initialize the boundary variable <code class="language-plaintext highlighter-rouge">left</code> and <code class="language-plaintext highlighter-rouge">right</code>?<li>How to update the boundary? How to choose the appropriate combination from <code class="language-plaintext highlighter-rouge">left = mid</code>, <code class="language-plaintext highlighter-rouge">left = mid + 1</code> and <code class="language-plaintext highlighter-rouge">right = mid</code>, <code class="language-plaintext highlighter-rouge">right = mid - 1</code>?</ul><p>A rather common misunderstanding of binary search is that people often think this technique could only be used in simple scenario like “Given a sorted array, find a specific value in it”. As a matter of fact, it can be applied to much more complicated situations.</p><p>After a lot of practice in LeetCode, I’ve made a powerful binary search template and solved many Hard problems by just slightly twisting this template. I’ll share the template with you guys in this post. <strong>I don’t want to just show off the code and leave. Most importantly, I want to share the logical thinking: how to apply this general template to all sorts of problems</strong>. Hopefully, after reading this post, people wouldn’t be pissed off any more when LeetCoding, “This problem could be solved with binary search! Why didn’t I think of that before!”</p><hr /><h1 id="-most-generalized-binary-search">&gt;&gt; Most Generalized Binary Search</h1><p>Suppose we have a <strong>search space</strong>. It could be an array, a range, etc. Usually it’s sorted in ascending order. For most tasks, we can transform the requirement into the following generalized form:</p><p><strong>Minimize k , s.t. condition(k) is True</strong></p><p>The following code is the most generalized binary search template:</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+</pre><td class="rouge-code"><pre>def binary_search(array) -&gt; int:
+    def condition(value) -&gt; bool:
+        pass
+
+    left, right = min(search_space), max(search_space) # could be [0, n], [1, n] etc. Depends on problem
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if condition(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><p>What’s really nice of this template is that, for most of the binary search problems, <strong>we only need to modify three parts after copy-pasting this template, and never need to worry about corner cases and bugs in code any more</strong>:</p><ul><li>Correctly initialize the boundary variables <code class="language-plaintext highlighter-rouge">left</code> and <code class="language-plaintext highlighter-rouge">right</code> to specify search space. Only one rule: set up the boundary to <strong>include all possible elements</strong>;<li>Decide return value. Is it <code class="language-plaintext highlighter-rouge">return left</code> or <code class="language-plaintext highlighter-rouge">return left - 1</code>? Remember this: <strong>after exiting the while loop, <code class="language-plaintext highlighter-rouge">left</code> is the minimal k​ satisfying the <code class="language-plaintext highlighter-rouge">condition</code> function</strong>;<li>Design the <code class="language-plaintext highlighter-rouge">condition</code> function. This is the most difficult and most beautiful part. Needs lots of practice.</ul><p>Below I’ll show you guys how to apply this powerful template to many LeetCode problems.</p><hr /><h1 id="-basic-application">&gt;&gt; Basic Application</h1><h2 id="278-first-bad-version-easy"><span class="me-2"><a href="https://leetcode.com/problems/first-bad-version/">278. First Bad Version [Easy]</a></span><a href="#278-first-bad-version-easy" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>You are a product manager and currently leading a team to develop a new product. Since each version is developed based on the previous version, all the versions after a bad version are also bad. Suppose you have <code class="language-plaintext highlighter-rouge">n</code> versions <code class="language-plaintext highlighter-rouge">[1, 2, ..., n]</code> and you want to find out the first bad one, which causes all the following ones to be bad. You are given an API <code class="language-plaintext highlighter-rouge">bool isBadVersion(version)</code> which will return whether <code class="language-plaintext highlighter-rouge">version</code> is bad.</p><p><strong>Example:</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre><td class="rouge-code"><pre>Given n = 5, and version = 4 is the first bad version.
+
+call isBadVersion(3) -&gt; false
+call isBadVersion(5) -&gt; true
+call isBadVersion(4) -&gt; true
+
+Then 4 is the first bad version. 
+</pre></table></code></div></div><p>First, we initialize <code class="language-plaintext highlighter-rouge">left = 1</code> and <code class="language-plaintext highlighter-rouge">right = n</code> to include all possible values. Then we notice that we don’t even need to design the <code class="language-plaintext highlighter-rouge">condition</code> function. It’s already given by the <code class="language-plaintext highlighter-rouge">isBadVersion</code> API. Finding the first bad version is equivalent to finding the minimal k satisfying <code class="language-plaintext highlighter-rouge">isBadVersion(k) is True</code>. Our template can fit in very nicely:</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+</pre><td class="rouge-code"><pre>class Solution:
+    def firstBadVersion(self, n) -&gt; int:
+        left, right = 1, n
+        while left &lt; right:
+            mid = left + (right - left) // 2
+            if isBadVersion(mid):
+                right = mid
+            else:
+                left = mid + 1
+        return left
+</pre></table></code></div></div><hr /><h2 id="69-sqrtx-easy"><span class="me-2"><a href="https://leetcode.com/problems/sqrtx/">69. Sqrt(x) [Easy]</a></span><a href="#69-sqrtx-easy" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Implement <code class="language-plaintext highlighter-rouge">int sqrt(int x)</code>. Compute and return the square root of <em>x</em>, where <em>x</em> is guaranteed to be a non-negative integer. Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.</p><p><strong>Example:</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre><td class="rouge-code"><pre>Input: 4
+Output: 2
+</pre></table></code></div></div><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre><td class="rouge-code"><pre>Input: 8
+Output: 2
+</pre></table></code></div></div><p>Easy one. First we need to search for minimal k satisfying condition <code class="language-plaintext highlighter-rouge">k^2 &gt; x</code>, then <code class="language-plaintext highlighter-rouge">k - 1</code> is the answer to the question. We can easily come up with the solution. Notice that I set <code class="language-plaintext highlighter-rouge">right = x + 1</code> instead of <code class="language-plaintext highlighter-rouge">right = x</code> to deal with special input cases like <code class="language-plaintext highlighter-rouge">x = 0</code> and <code class="language-plaintext highlighter-rouge">x = 1</code>.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre><td class="rouge-code"><pre>def mySqrt(x: int) -&gt; int:
+    left, right = 0, x + 1
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if mid * mid &gt; x:
+            right = mid
+        else:
+            left = mid + 1
+    return left - 1  # `left` is the minimum k value, `k - 1` is the answer
+</pre></table></code></div></div><hr /><h2 id="35-search-insert-position-easy"><span class="me-2"><a href="https://leetcode.com/problems/search-insert-position/">35. Search Insert Position [Easy]</a></span><a href="#35-search-insert-position-easy" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You may assume no duplicates in the array.</p><p><strong>Example:</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre><td class="rouge-code"><pre>Input: [1,3,5,6], 5
+Output: 2
+</pre></table></code></div></div><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre><td class="rouge-code"><pre>Input: [1,3,5,6], 2
+Output: 1
+</pre></table></code></div></div><p>Very classic application of binary search. We are looking for the minimal k value satisfying <code class="language-plaintext highlighter-rouge">nums[k] &gt;= target</code>, and we can just copy-paste our template. Notice that our solution is correct regardless of whether the input array <code class="language-plaintext highlighter-rouge">nums</code> has duplicates. Also notice that the input <code class="language-plaintext highlighter-rouge">target</code> might be larger than all elements in <code class="language-plaintext highlighter-rouge">nums</code> and therefore needs to placed at the end of the array. That’s why we should initialize <code class="language-plaintext highlighter-rouge">right = len(nums)</code> instead of <code class="language-plaintext highlighter-rouge">right = len(nums) - 1</code>.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+</pre><td class="rouge-code"><pre>class Solution:
+    def searchInsert(self, nums: List[int], target: int) -&gt; int:
+        left, right = 0, len(nums)
+        while left &lt; right:
+            mid = left + (right - left) // 2
+            if nums[mid] &gt;= target:
+                right = mid
+            else:
+                left = mid + 1
+        return left
+</pre></table></code></div></div><hr /><h1 id="-advanced-application">&gt;&gt; Advanced Application</h1><p>The above problems are quite easy to solve, because they already give us the array to be searched. We’d know that we should use binary search to solve them at first glance. However, <strong>more often are the situations where the search space and search target are not so readily available</strong>. Sometimes we won’t even realize that the problem should be solved with binary search – we might just turn to dynamic programming or DFS and get stuck for a very long time.</p><p>As for the question “When can we use binary search?”, my answer is that, <strong>If we can discover some kind of monotonicity, for example, if <code class="language-plaintext highlighter-rouge">condition(k) is True</code> then <code class="language-plaintext highlighter-rouge">condition(k + 1) is True</code>, then we can consider binary search</strong>.</p><h2 id="1011-capacity-to-ship-packages-within-d-days-medium"><span class="me-2"><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">1011. Capacity To Ship Packages Within D Days [Medium]</a></span><a href="#1011-capacity-to-ship-packages-within-d-days-medium" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>A conveyor belt has packages that must be shipped from one port to another within <code class="language-plaintext highlighter-rouge">D</code> days. The <code class="language-plaintext highlighter-rouge">i</code>-th package on the conveyor belt has a weight of <code class="language-plaintext highlighter-rouge">weights[i]</code>. Each day, we load the ship with packages on the conveyor belt (in the order given by <code class="language-plaintext highlighter-rouge">weights</code>). We may not load more weight than the maximum weight capacity of the ship.</p><p>Return the least weight capacity of the ship that will result in all the packages on the conveyor belt being shipped within <code class="language-plaintext highlighter-rouge">D</code> days.</p><p><strong>Example :</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+</pre><td class="rouge-code"><pre>Input: weights = [1,2,3,4,5,6,7,8,9,10], D = 5
+Output: 15
+Explanation: 
+A ship capacity of 15 is the minimum to ship all the packages in 5 days like this:
+1st day: 1, 2, 3, 4, 5
+2nd day: 6, 7
+3rd day: 8
+4th day: 9
+5th day: 10
+
+Note that the cargo must be shipped in the order given, so using a ship of capacity 14 and splitting the packages into parts like (2, 3, 4, 5), (1, 6, 7), (8), (9), (10) is not allowed. 
+</pre></table></code></div></div><p>Binary search probably would not come to our mind when we first meet this problem. We might automatically treat <code class="language-plaintext highlighter-rouge">weights</code> as search space and then realize we’ve entered a dead end after wasting lots of time. In fact, we are looking for the minimal one among all feasible capacities. We dig out the monotonicity of this problem: if we can successfully ship all packages within <code class="language-plaintext highlighter-rouge">D</code> days with capacity <code class="language-plaintext highlighter-rouge">m</code>, then we can definitely ship them all with any capacity larger than <code class="language-plaintext highlighter-rouge">m</code>. Now we can design a <code class="language-plaintext highlighter-rouge">condition</code> function, let’s call it <code class="language-plaintext highlighter-rouge">feasible</code>, given an input <code class="language-plaintext highlighter-rouge">capacity</code>, it returns whether it’s possible to ship all packages within <code class="language-plaintext highlighter-rouge">D</code> days. This can run in a greedy way: if there’s still room for the current package, we put this package onto the conveyor belt, otherwise we wait for the next day to place this package. If the total days needed exceeds <code class="language-plaintext highlighter-rouge">D</code>, we return <code class="language-plaintext highlighter-rouge">False</code>, otherwise we return <code class="language-plaintext highlighter-rouge">True</code>.</p><p>Next, we need to initialize our boundary correctly. Obviously <code class="language-plaintext highlighter-rouge">capacity</code> should be at least <code class="language-plaintext highlighter-rouge">max(weights)</code>, otherwise the conveyor belt couldn’t ship the heaviest package. On the other hand, <code class="language-plaintext highlighter-rouge">capacity</code> need not be more than<code class="language-plaintext highlighter-rouge">sum(weights)</code>, because then we can ship all packages in just one day.</p><p>Now we’ve got all we need to apply our binary search template:</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+</pre><td class="rouge-code"><pre>def shipWithinDays(weights: List[int], D: int) -&gt; int:
+    def feasible(capacity) -&gt; bool:
+        days = 1
+        total = 0
+        for weight in weights:
+            total += weight
+            if total &gt; capacity:  # too heavy, wait for the next day
+                total = weight
+                days += 1
+                if days &gt; D:  # cannot ship within D days
+                    return False
+        return True
+
+    left, right = max(weights), sum(weights)
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if feasible(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><hr /><h2 id="410-split-array-largest-sum-hard"><span class="me-2"><a href="https://leetcode.com/problems/split-array-largest-sum/">410. Split Array Largest Sum [Hard]</a></span><a href="#410-split-array-largest-sum-hard" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Given an array which consists of non-negative integers and an integer <em>m</em>, you can split the array into <em>m</em> non-empty continuous subarrays. Write an algorithm to minimize the largest sum among these <em>m</em> subarrays.</p><p><strong>Example:</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre><td class="rouge-code"><pre>Input:
+nums = [7,2,5,10,8]
+m = 2
+
+Output:
+18
+
+Explanation:
+There are four ways to split nums into two subarrays. The best way is to split it into [7,2,5] and [10,8], where the largest sum among the two subarrays is only 18.
+</pre></table></code></div></div><p>If you take a close look, you would probably see how similar this problem is with LC 1011 above. Similarly, we can design a <code class="language-plaintext highlighter-rouge">feasible</code> function: given an input <code class="language-plaintext highlighter-rouge">threshold</code>, then decide if we can split the array into several subarrays such that every subarray-sum is less than or equal to <code class="language-plaintext highlighter-rouge">threshold</code>. In this way, we discover the monotonicity of the problem: if <code class="language-plaintext highlighter-rouge">feasible(m)</code> is <code class="language-plaintext highlighter-rouge">True</code>, then all inputs larger than <code class="language-plaintext highlighter-rouge">m</code> can satisfy <code class="language-plaintext highlighter-rouge">feasible</code> function. You can see that the solution code is exactly the same as LC 1011.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+</pre><td class="rouge-code"><pre>def splitArray(nums: List[int], m: int) -&gt; int:        
+    def feasible(threshold) -&gt; bool:
+        count = 1
+        total = 0
+        for num in nums:
+            total += num
+            if total &gt; threshold:
+                total = num
+                count += 1
+                if count &gt; m:
+                    return False
+        return True
+
+    left, right = max(nums), sum(nums)
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if feasible(mid):
+            right = mid     
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><p>But we probably would have doubts: It’s true that <code class="language-plaintext highlighter-rouge">left</code> returned by our solution is the minimal value satisfying <code class="language-plaintext highlighter-rouge">feasible</code>, but how can we know that we can split the original array to <strong>actually get this subarray-sum</strong>? For example, let’s say <code class="language-plaintext highlighter-rouge">nums = [7,2,5,10,8]</code> and <code class="language-plaintext highlighter-rouge">m = 2</code>. We have 4 different ways to split the array to get 4 different largest subarray-sum correspondingly: <code class="language-plaintext highlighter-rouge">25:[[7], [2,5,10,8]]</code>, <code class="language-plaintext highlighter-rouge">23:[[7,2], [5,10,8]]</code>, <code class="language-plaintext highlighter-rouge">18:[[7,2,5], [10,8]]</code>, <code class="language-plaintext highlighter-rouge">24:[[7,2,5,10], [8]]</code>. Only 4 values. But our search space <code class="language-plaintext highlighter-rouge">[max(nums), sum(nums)] = [10, 32]</code> has much more that just 4 values. That is, no matter how we split the input array, we cannot get most of the values in our search space.</p><p>Let’s say <code class="language-plaintext highlighter-rouge">k</code> is the minimal value satisfying <code class="language-plaintext highlighter-rouge">feasible</code> function. We can prove the correctness of our solution with <strong>proof by contradiction</strong>. Assume that no subarray’s sum is equal to <code class="language-plaintext highlighter-rouge">k</code>, that is, every subarray sum is less than <code class="language-plaintext highlighter-rouge">k</code>. The variable <code class="language-plaintext highlighter-rouge">total</code> inside <code class="language-plaintext highlighter-rouge">feasible</code> function keeps track of the total weights of current load. If our assumption is correct, then <code class="language-plaintext highlighter-rouge">total</code> would always be less than <code class="language-plaintext highlighter-rouge">k</code>. As a result, <code class="language-plaintext highlighter-rouge">feasible(k - 1)</code> must be <code class="language-plaintext highlighter-rouge">True</code>, because <code class="language-plaintext highlighter-rouge">total</code> would at most be equal to <code class="language-plaintext highlighter-rouge">k - 1</code> and would never trigger the if-clause <code class="language-plaintext highlighter-rouge">if total &gt; threshold</code>, <strong>therefore <code class="language-plaintext highlighter-rouge">feasible(k - 1)</code> must have the same output as <code class="language-plaintext highlighter-rouge">feasible(k)</code>, which is <code class="language-plaintext highlighter-rouge">True</code></strong>. But we already know that <code class="language-plaintext highlighter-rouge">k</code> is the minimal value satisfying <code class="language-plaintext highlighter-rouge">feasible</code> function, <strong>so <code class="language-plaintext highlighter-rouge">feasible(k - 1)</code> has to be <code class="language-plaintext highlighter-rouge">False</code>, which is a contradiction</strong>. So our assumption is incorrect. Now we’ve proved that our algorithm is correct.</p><hr /><h2 id="875-koko-eating-bananas-medium"><span class="me-2"><a href="https://leetcode.com/problems/koko-eating-bananas/">875. Koko Eating Bananas [Medium]</a></span><a href="#875-koko-eating-bananas-medium" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Koko loves to eat bananas. There are <code class="language-plaintext highlighter-rouge">N</code> piles of bananas, the <code class="language-plaintext highlighter-rouge">i</code>-th pile has <code class="language-plaintext highlighter-rouge">piles[i]</code> bananas. The guards have gone and will come back in <code class="language-plaintext highlighter-rouge">H</code> hours. Koko can decide her bananas-per-hour eating speed of <code class="language-plaintext highlighter-rouge">K</code>. Each hour, she chooses some pile of bananas, and eats K bananas from that pile. If the pile has less than <code class="language-plaintext highlighter-rouge">K</code> bananas, she eats all of them instead, and won’t eat any more bananas during this hour.</p><p>Koko likes to eat slowly, but still wants to finish eating all the bananas before the guards come back. <strong>Return the minimum integer <code class="language-plaintext highlighter-rouge">K</code> such that she can eat all the bananas within <code class="language-plaintext highlighter-rouge">H</code> hours</strong>.</p><p><strong>Example :</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre><td class="rouge-code"><pre>Input: piles = [3,6,7,11], H = 8
+Output: 4
+</pre></table></code></div></div><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre><td class="rouge-code"><pre>Input: piles = [30,11,23,4,20], H = 5
+Output: 30
+</pre></table></code></div></div><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre><td class="rouge-code"><pre>Input: piles = [30,11,23,4,20], H = 6
+Output: 23
+</pre></table></code></div></div><p>Very similar to LC 1011 and LC 410 mentioned above. Let’s design a <code class="language-plaintext highlighter-rouge">feasible</code> function, given an input <code class="language-plaintext highlighter-rouge">speed</code>, determine whether Koko can finish all bananas within <code class="language-plaintext highlighter-rouge">H</code> hours with hourly eating speed <code class="language-plaintext highlighter-rouge">speed</code>. Obviously, the lower bound of the search space is 1, and upper bound is <code class="language-plaintext highlighter-rouge">max(piles)</code>, because Koko can only choose one pile of bananas to eat every hour.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+</pre><td class="rouge-code"><pre>def minEatingSpeed(piles: List[int], H: int) -&gt; int:
+    def feasible(speed) -&gt; bool:
+        # return sum(math.ceil(pile / speed) for pile in piles) &lt;= H  # slower        
+        return sum((pile - 1) // speed + 1 for pile in piles) &lt;= H  # faster
+
+    left, right = 1, max(piles)
+    while left &lt; right:
+        mid = left  + (right - left) // 2
+        if feasible(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><hr /><h2 id="1482-minimum-number-of-days-to-make-m-bouquets-medium"><span class="me-2"><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">1482. Minimum Number of Days to Make m Bouquets [Medium]</a></span><a href="#1482-minimum-number-of-days-to-make-m-bouquets-medium" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Given an integer array <code class="language-plaintext highlighter-rouge">bloomDay</code>, an integer <code class="language-plaintext highlighter-rouge">m</code> and an integer <code class="language-plaintext highlighter-rouge">k</code>. We need to make <code class="language-plaintext highlighter-rouge">m</code> bouquets. To make a bouquet, you need to use <code class="language-plaintext highlighter-rouge">k</code> <strong>adjacent flowers</strong> from the garden. The garden consists of <code class="language-plaintext highlighter-rouge">n</code> flowers, the <code class="language-plaintext highlighter-rouge">ith</code> flower will bloom in the <code class="language-plaintext highlighter-rouge">bloomDay[i]</code> and then can be used in <strong>exactly one</strong> bouquet. Return <em>the minimum number of days</em> you need to wait to be able to make <code class="language-plaintext highlighter-rouge">m</code> bouquets from the garden. If it is impossible to make <code class="language-plaintext highlighter-rouge">m</code> bouquets return <strong>-1</strong>.</p><p><strong>Examples:</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre><td class="rouge-code"><pre>Input: bloomDay = [1,10,3,10,2], m = 3, k = 1
+Output: 3
+Explanation: Let's see what happened in the first three days. x means flower bloomed and _ means flower didn't bloom in the garden.
+We need 3 bouquets each should contain 1 flower.
+After day 1: [x, _, _, _, _]   // we can only make one bouquet.
+After day 2: [x, _, _, _, x]   // we can only make two bouquets.
+After day 3: [x, _, x, _, x]   // we can make 3 bouquets. The answer is 3.
+</pre></table></code></div></div><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre><td class="rouge-code"><pre>Input: bloomDay = [1,10,3,10,2], m = 3, k = 2
+Output: -1
+Explanation: We need 3 bouquets each has 2 flowers, that means we need 6 flowers. We only have 5 flowers so it is impossible to get the needed bouquets and we return -1.
+</pre></table></code></div></div><p>Now that we’ve solved three advanced problems above, this one should be pretty easy to do. The monotonicity of this problem is very clear: if we can make <code class="language-plaintext highlighter-rouge">m</code> bouquets after waiting for <code class="language-plaintext highlighter-rouge">d</code> days, then we can definitely finish that as well if we wait for more than <code class="language-plaintext highlighter-rouge">d</code> days.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+</pre><td class="rouge-code"><pre>def minDays(bloomDay: List[int], m: int, k: int) -&gt; int:
+    def feasible(days) -&gt; bool:
+        bonquets, flowers = 0, 0
+        for bloom in bloomDay:
+            if bloom &gt; days:
+                flowers = 0
+            else:
+                bonquets += (flowers + 1) // k
+                flowers = (flowers + 1) % k
+        return bonquets &gt;= m
+
+    if len(bloomDay) &lt; m * k:
+        return -1
+    left, right = 1, max(bloomDay)
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if feasible(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><hr /><h2 id="668-kth-smallest-number-in-multiplication-table-hard"><span class="me-2"><a href="https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/">668. Kth Smallest Number in Multiplication Table [Hard]</a></span><a href="#668-kth-smallest-number-in-multiplication-table-hard" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Nearly every one have used the <a href="https://en.wikipedia.org/wiki/Multiplication_table">Multiplication Table</a>. But could you find out the <code class="language-plaintext highlighter-rouge">k-th</code> smallest number quickly from the multiplication table? Given the height <code class="language-plaintext highlighter-rouge">m</code> and the length <code class="language-plaintext highlighter-rouge">n</code> of a <code class="language-plaintext highlighter-rouge">m * n</code> Multiplication Table, and a positive integer <code class="language-plaintext highlighter-rouge">k</code>, you need to return the <code class="language-plaintext highlighter-rouge">k-th</code> smallest number in this table.</p><p><strong>Example :</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre><td class="rouge-code"><pre>Input: m = 3, n = 3, k = 5
+Output: 3
+Explanation: 
+The Multiplication Table:
+1	2	3
+2	4	6
+3	6	9
+
+The 5-th smallest number is 3 (1, 2, 2, 3, 3).
+</pre></table></code></div></div><p>For Kth-Smallest problems like this, what comes to our mind first is Heap. Usually we can maintain a Min-Heap and just pop the top of the Heap for k times. However, that doesn’t work out in this problem. We don’t have every single number in the entire Multiplication Table, instead, we only have the height and the length of the table. If we are to apply Heap method, we need to explicitly calculate these <code class="language-plaintext highlighter-rouge">m * n</code> values and save them to a heap. The time complexity and space complexity of this process are both O(mn), which is quite inefficient. This is when binary search comes in. Remember we say that designing <code class="language-plaintext highlighter-rouge">condition</code> function is the most difficult part? In order to find the k-th smallest value in the table, we can design an <code class="language-plaintext highlighter-rouge">enough</code> function, given an input <code class="language-plaintext highlighter-rouge">num</code>, determine whether there’re at least k values less than or equal to <code class="language-plaintext highlighter-rouge">num</code>. <strong>The minimal <code class="language-plaintext highlighter-rouge">num</code> satisfying <code class="language-plaintext highlighter-rouge">enough</code> function is the answer we’re looking for</strong>. Recall that the key to binary search is discovering monotonicity. In this problem, if <code class="language-plaintext highlighter-rouge">num</code> satisfies <code class="language-plaintext highlighter-rouge">enough</code>, then of course any value larger than <code class="language-plaintext highlighter-rouge">num</code> can satisfy. This monotonicity is the fundament of our binary search algorithm.</p><p>Let’s consider search space. Obviously the lower bound should be 1, and the upper bound should be the largest value in the Multiplication Table, which is <code class="language-plaintext highlighter-rouge">m * n</code>, then we have search space <code class="language-plaintext highlighter-rouge">[1, m * n]</code>. The overwhelming advantage of binary search solution to heap solution is that it doesn’t need to explicitly calculate all numbers in that table, all it needs is just picking up one value out of the search space and apply <code class="language-plaintext highlighter-rouge">enough</code> function to this value, to determine should we keep the left half or the right half of the search space. In this way, binary search solution only requires constant space complexity, much better than heap solution.</p><p>Next let’s consider how to implement <code class="language-plaintext highlighter-rouge">enough</code> function. It can be observed that every row in the Multiplication Table is just multiples of its index. For example, all numbers in 3rd row <code class="language-plaintext highlighter-rouge">[3,6,9,12,15...]</code> are multiples of 3. Therefore, we can just go row by row to count the total number of entries less than or equal to input <code class="language-plaintext highlighter-rouge">num</code>. Following is the complete solution.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+</pre><td class="rouge-code"><pre>def findKthNumber(m: int, n: int, k: int) -&gt; int:
+    def enough(num) -&gt; bool:
+        count = 0
+        for val in range(1, m + 1):  # count row by row
+            add = min(num // val, n)
+            if add == 0:  # early exit
+                break
+            count += add
+        return count &gt;= k                
+
+    left, right = 1, n * m
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if enough(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left 
+</pre></table></code></div></div><p>In LC 410 above, we have doubt “Is the result from binary search actually a subarray sum?”. Here we have a similar doubt: “<strong>Is the result from binary search actually in the Multiplication Table?</strong>”. The answer is yes, and we also can apply proof by contradiction. Denote <code class="language-plaintext highlighter-rouge">num</code> as the minimal input that satisfies <code class="language-plaintext highlighter-rouge">enough</code> function. Let’s assume that <code class="language-plaintext highlighter-rouge">num</code> is not in the table, which means that <code class="language-plaintext highlighter-rouge">num</code> is not divisible by any <code class="language-plaintext highlighter-rouge">val</code> in <code class="language-plaintext highlighter-rouge">[1, m]</code>, that is, <code class="language-plaintext highlighter-rouge">num % val &gt; 0</code>. Therefore, changing the input from <code class="language-plaintext highlighter-rouge">num</code> to <code class="language-plaintext highlighter-rouge">num - 1</code> doesn’t have any effect on the expression <code class="language-plaintext highlighter-rouge">add = min(num // val, n)</code>. So <code class="language-plaintext highlighter-rouge">enough(num - 1)</code> would also return <code class="language-plaintext highlighter-rouge">True</code>, same as <code class="language-plaintext highlighter-rouge">enough(num)</code>. But we already know <code class="language-plaintext highlighter-rouge">num</code> is the minimal input satisfying <code class="language-plaintext highlighter-rouge">enough</code> function, so <code class="language-plaintext highlighter-rouge">enough(num - 1)</code> has to be <code class="language-plaintext highlighter-rouge">False</code>. Contradiction! The opposite of our original assumption is true: <code class="language-plaintext highlighter-rouge">num</code> is actually in the table.</p><hr /><h2 id="719-find-k-th-smallest-pair-distance-hard"><span class="me-2"><a href="https://leetcode.com/problems/find-k-th-smallest-pair-distance/">719. Find K-th Smallest Pair Distance [Hard]</a></span><a href="#719-find-k-th-smallest-pair-distance-hard" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Given an integer array, return the k-th smallest <strong>distance</strong> among all the pairs. The distance of a pair (A, B) is defined as the absolute difference between A and B.</p><p><strong>Example :</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre><td class="rouge-code"><pre>Input:
+nums = [1,3,1]
+k = 1
+Output: 0 
+Explanation:
+Following are all the pairs. The 1st smallest distance pair is (1,1), and its distance is 0.
+(1,3) -&gt; 2
+(1,1) -&gt; 0
+(3,1) -&gt; 2
+</pre></table></code></div></div><p>Very similar to LC 668 above, both are about finding Kth-Smallest. Just like LC 668, We can design an <code class="language-plaintext highlighter-rouge">enough</code> function, given an input <code class="language-plaintext highlighter-rouge">distance</code>, determine whether there’re at least k pairs whose distances are less than or equal to <code class="language-plaintext highlighter-rouge">distance</code>. We can sort the input array and use two pointers (fast pointer and slow pointer, pointed at a pair) to scan it. Both pointers go from leftmost end. If the current pair pointed at has a distance less than or equal to <code class="language-plaintext highlighter-rouge">distance</code>, all pairs between these pointers are valid (since the array is already sorted), we move forward the fast pointer. Otherwise, we move forward the slow pointer. By the time both pointers reach the rightmost end, we finish our scan and see if total counts exceed k. Here is the implementation:</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+</pre><td class="rouge-code"><pre>def enough(distance) -&gt; bool:  # two pointers
+    count, i, j = 0, 0, 0
+    while i &lt; n or j &lt; n:
+        while j &lt; n and nums[j] - nums[i] &lt;= distance:  # move fast pointer
+            j += 1
+        count += j - i - 1  # count pairs
+        i += 1  # move slow pointer
+    return count &gt;= k
+</pre></table></code></div></div><p>Obviously, our search space should be <code class="language-plaintext highlighter-rouge">[0, max(nums) - min(nums)]</code>. Now we are ready to copy-paste our template:</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+</pre><td class="rouge-code"><pre>def smallestDistancePair(nums: List[int], k: int) -&gt; int:
+    nums.sort()
+    n = len(nums)
+    left, right = 0, nums[-1] - nums[0]
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if enough(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><hr /><h2 id="1201-ugly-number-iii-medium"><span class="me-2"><a href="https://leetcode.com/problems/ugly-number-iii/">1201. Ugly Number III [Medium]</a></span><a href="#1201-ugly-number-iii-medium" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Write a program to find the <code class="language-plaintext highlighter-rouge">n</code>-th ugly number. Ugly numbers are <strong>positive integers</strong> which are divisible by <code class="language-plaintext highlighter-rouge">a</code> <strong>or</strong> <code class="language-plaintext highlighter-rouge">b</code> <strong>or</strong> <code class="language-plaintext highlighter-rouge">c</code>.</p><p><strong>Example :</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre><td class="rouge-code"><pre>Input: n = 3, a = 2, b = 3, c = 5
+Output: 4
+Explanation: The ugly numbers are 2, 3, 4, 5, 6, 8, 9, 10... The 3rd is 4.
+</pre></table></code></div></div><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre><td class="rouge-code"><pre>Input: n = 4, a = 2, b = 3, c = 4
+Output: 6
+Explanation: The ugly numbers are 2, 3, 4, 6, 8, 9, 10, 12... The 4th is 6.
+</pre></table></code></div></div><p>Nothing special. Still finding the Kth-Smallest. We need to design an <code class="language-plaintext highlighter-rouge">enough</code> function, given an input <code class="language-plaintext highlighter-rouge">num</code>, determine whether there are at least n ugly numbers less than or equal to <code class="language-plaintext highlighter-rouge">num</code>. Since <code class="language-plaintext highlighter-rouge">a</code> might be a multiple of <code class="language-plaintext highlighter-rouge">b</code> or <code class="language-plaintext highlighter-rouge">c</code>, or the other way round, we need the help of greatest common divisor to avoid counting duplicate numbers.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+</pre><td class="rouge-code"><pre>def nthUglyNumber(n: int, a: int, b: int, c: int) -&gt; int:
+    def enough(num) -&gt; bool:
+        total = num//a + num//b + num//c - num//ab - num//ac - num//bc + num//abc
+        return total &gt;= n
+
+    ab = a * b // math.gcd(a, b)
+    ac = a * c // math.gcd(a, c)
+    bc = b * c // math.gcd(b, c)
+    abc = a * bc // math.gcd(a, bc)
+    left, right = 1, 10 ** 10
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if enough(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><hr /><h2 id="1283-find-the-smallest-divisor-given-a-threshold-medium"><span class="me-2"><a href="https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/">1283. Find the Smallest Divisor Given a Threshold [Medium]</a></span><a href="#1283-find-the-smallest-divisor-given-a-threshold-medium" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Given an array of integers <code class="language-plaintext highlighter-rouge">nums</code> and an integer <code class="language-plaintext highlighter-rouge">threshold</code>, we will choose a positive integer divisor and divide all the array by it and sum the result of the division. Find the <strong>smallest</strong> divisor such that the result mentioned above is less than or equal to <code class="language-plaintext highlighter-rouge">threshold</code>.</p><p>Each result of division is rounded to the nearest integer greater than or equal to that element. (For example: 7/3 = 3 and 10/2 = 5). It is guaranteed that there will be an answer.</p><p><strong>Example :</strong></p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre><td class="rouge-code"><pre>Input: nums = [1,2,5,9], threshold = 6
+Output: 5
+Explanation: We can get a sum to 17 (1+2+5+9) if the divisor is 1. 
+If the divisor is 4 we can get a sum to 7 (1+1+2+3) and if the divisor is 5 the sum will be 5 (1+1+1+2). 
+</pre></table></code></div></div><p>After so many problems introduced above, this one should be a piece of cake. We don’t even need to bother to design a <code class="language-plaintext highlighter-rouge">condition</code> function, because the problem has already told us explicitly what condition we need to satisfy.</p><div class="language-plaintext highlighter-rouge"><div class="code-header"> <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+</pre><td class="rouge-code"><pre>def smallestDivisor(nums: List[int], threshold: int) -&gt; int:
+    def condition(divisor) -&gt; bool:
+        return sum((num - 1) // divisor + 1 for num in nums) &lt;= threshold
+
+    left, right = 1, max(nums)
+    while left &lt; right:
+        mid = left + (right - left) // 2
+        if condition(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+</pre></table></code></div></div><hr /><h1 id="end">End</h1><p>Wow, thank you so much for making it to the end! Really appreciate that. As you can see from the python codes above, they all look very similar to each other. That’s because I copy-pasted my own template all the time. No exception. This is the strong proof of my template’s powerfulness and adaptability. I believe everyone can acquire this binary search template to solve many problems. All we need is just more practice to build up our ability to discover the monotonicity of the problem and to design a beautiful <code class="language-plaintext highlighter-rouge">condition</code> function.</p><p>Hope this helps.</p><p><strong>Reference</strong></p><ul><li><a href="https://leetcode.com/problems/split-array-largest-sum/discuss/89819/C%2B%2B-Fast-Very-clear-explanation-Clean-Code-Solution-with-Greedy-Algorithm-and-Binary-Search">[C++ / Fast / Very clear explanation / Clean Code] Solution with Greedy Algorithm and Binary Search</a><li><a href="https://leetcode.com/problems/find-k-th-smallest-pair-distance/discuss/109082/Approach-the-problem-using-the-%22trial-and-error%22-algorithm">Approach the problem using the “trial and error” algorithm</a><li><a href="https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook">Binary Search 101 The-Ultimate-Binary-Search-Handbook - LeetCode</a><li><a href="https://leetcode.com/problems/ugly-number-iii/discuss/387539/cpp-Binary-Search-with-picture-and-Binary-Search-Template">ugly-number-iii Binary Search with picture &amp; Binary Search Template - LeetCode</a></ul></div><div class="post-tail-wrapper text-muted"><div class="post-meta mb-3"> <i class="far fa-folder-open fa-fw me-1"></i> <a href="/categories/computer-science/">Computer Science</a></div><div class="post-tags"> <i class="fa fa-tags fa-fw me-1"></i> <a href="/tags/computer-science/" class="post-tag no-text-decoration" >computer-science</a></div><div class=" post-tail-bottom d-flex justify-content-between align-items-center mt-5 pb-2 " ><div class="license-wrapper"> This post is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"> CC BY 4.0 </a> by the author.</div><div class="share-wrapper d-flex align-items-center"> <span class="share-label text-muted me-1">Share</span> <span class="share-icons"> <a href="https://twitter.com/intent/tweet?text=Binary%20Search%20Template%20-%20Samir%20Paul&url=https%3A%2F%2Fsamir.pages.dev%2Fposts%2Fbinary-search-template%2F" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter" target="_blank" rel="noopener" aria-label="Twitter" > <i class="fa-fw fa-brands fa-square-x-twitter"></i> </a> <a href="https://www.facebook.com/sharer/sharer.php?title=Binary%20Search%20Template%20-%20Samir%20Paul&u=https%3A%2F%2Fsamir.pages.dev%2Fposts%2Fbinary-search-template%2F" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook" target="_blank" rel="noopener" aria-label="Facebook" > <i class="fa-fw fab fa-facebook-square"></i> </a> <a href="https://t.me/share/url?url=https%3A%2F%2Fsamir.pages.dev%2Fposts%2Fbinary-search-template%2F&text=Binary%20Search%20Template%20-%20Samir%20Paul" data-bs-toggle="tooltip" data-bs-placement="top" title="Telegram" target="_blank" rel="noopener" aria-label="Telegram" > <i class="fa-fw fab fa-telegram"></i> </a> <button id="copy-link" aria-label="Copy link" class="btn small" data-bs-toggle="tooltip" data-bs-placement="top" title="Copy link" data-title-succeed="Link copied successfully!" > <i class="fa-fw fas fa-link pe-none"></i> </button> </span></div></div></div></article></main><aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 mb-5 text-muted"><div class="access"><section><h2 class="panel-heading">Trending Tags</h2><div class="d-flex flex-wrap mt-3 mb-1 me-3"> <a class="post-tag btn btn-outline-primary" href="/tags/blog/">blog</a> <a class="post-tag btn btn-outline-primary" href="/tags/computer-science/">computer-science</a> <a class="post-tag btn btn-outline-primary" href="/tags/coding/">coding</a> <a class="post-tag btn btn-outline-primary" href="/tags/system-design/">system-design</a> <a class="post-tag btn btn-outline-primary" href="/tags/design-interview/">design-interview</a> <a class="post-tag btn btn-outline-primary" href="/tags/preparation/">preparation</a> <a class="post-tag btn btn-outline-primary" href="/tags/leetcode/">LeetCode</a> <a class="post-tag btn btn-outline-primary" href="/tags/project/">project</a> <a class="post-tag btn btn-outline-primary" href="/tags/projects/">projects</a> <a class="post-tag btn btn-outline-primary" href="/tags/python/">python</a></div></section></div><section id="toc-wrapper" class="ps-0 pe-4"><h2 class="panel-heading ps-3 pt-2 mb-2">Contents</h2><nav id="toc"></nav></section></aside></div><div class="row"><div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4"><aside id="related-posts" aria-labelledby="related-label"><h3 class="mb-4" id="related-label">Further Reading</h3><nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4"><article class="col"> <a href="/posts/databases-implemented-in-python/" class="post-preview card h-100"><div class="card-body"> <time data-ts="1675967400" data-df="ll" > Feb 10, 2023 </time><h4 class="pt-0 my-2">Databases implemented in Python</h4><div class="text-muted"><p> There are several databases that have been implemented in Python, including: SQLite: SQLite is a lightweight, file-based database that is well-suited for small to medium-sized projects. It provide...</p></div></div></a></article><article class="col"> <a href="/posts/gaming-library-in-python/" class="post-preview card h-100"><div class="card-body"> <time data-ts="1675967400" data-df="ll" > Feb 10, 2023 </time><h4 class="pt-0 my-2">gaming library in python</h4><div class="text-muted"><p> There are several libraries in Python that can be used for game development, including: Pygame: This is a popular library for game development in Python. It provides a simple and easy-to-use set o...</p></div></div></a></article><article class="col"> <a href="/posts/how-does-sso-work/" class="post-preview card h-100"><div class="card-body"> <time data-ts="1675967400" data-df="ll" > Feb 10, 2023 </time><h4 class="pt-0 my-2">How does SSO work?</h4><div class="text-muted"><p> Single Sign-On (SSO) works by creating a central authentication service that is responsible for verifying the identity of a user. When a user attempts to access an application or service that is pa...</p></div></div></a></article></nav></aside><nav class="post-navigation d-flex justify-content-between" aria-label="Post Navigation"> <a href="/posts/embed-music/" class="btn btn-outline-primary" aria-label="Older" ><p>Embed MusicApp</p></a> <a href="/posts/dp-for-beginners/" class="btn btn-outline-primary" aria-label="Newer" ><p>DP for Beginners</p></a></nav><div id="disqus_thread"><p class="text-center text-muted small">Comments powered by <a href="https://disqus.com/">Disqus</a>.</p></div><script type="text/javascript"> var disqus_config = function () { this.page.url = 'https://samir.pages.dev/posts/binary-search-template/'; this.page.identifier = '/posts/binary-search-template/'; }; /* Lazy loading */ var disqus_observer = new IntersectionObserver( function (entries) { if (entries[0].isIntersecting) { (function () { var d = document, s = d.createElement('script'); s.src = 'https://samirpaul.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); disqus_observer.disconnect(); } }, { threshold: [0] } ); disqus_observer.observe(document.querySelector('#disqus_thread')); /* Auto switch theme */ function reloadDisqus() { if (event.source === window && event.data && event.data.direction === ModeToggle.ID) { /* Disqus hasn't been loaded */ if (typeof DISQUS === 'undefined') { return; } if (document.readyState == 'complete') { DISQUS.reset({ reload: true, config: disqus_config }); } } } if (document.querySelector('.mode-toggle')) { window.addEventListener('message', reloadDisqus); } </script><footer aria-label="Site Info" class=" d-flex flex-column justify-content-center text-muted flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3 " ><p> © <time>2023</time> <a href="https://twitter.com/SamirPaulb">Samir Paul</a>. <span data-bs-toggle="tooltip" data-bs-placement="top" title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author." >Some rights reserved.</span></p><p>Using the <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a> theme for <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a></p></footer></div></div><div id="search-result-wrapper" class="d-flex justify-content-center unloaded"><div class="col-11 content"><div id="search-hints"><section><h2 class="panel-heading">Trending Tags</h2><div class="d-flex flex-wrap mt-3 mb-1 me-3"> <a class="post-tag btn btn-outline-primary" href="/tags/blog/">blog</a> <a class="post-tag btn btn-outline-primary" href="/tags/computer-science/">computer-science</a> <a class="post-tag btn btn-outline-primary" href="/tags/coding/">coding</a> <a class="post-tag btn btn-outline-primary" href="/tags/system-design/">system-design</a> <a class="post-tag btn btn-outline-primary" href="/tags/design-interview/">design-interview</a> <a class="post-tag btn btn-outline-primary" href="/tags/preparation/">preparation</a> <a class="post-tag btn btn-outline-primary" href="/tags/leetcode/">LeetCode</a> <a class="post-tag btn btn-outline-primary" href="/tags/project/">project</a> <a class="post-tag btn btn-outline-primary" href="/tags/projects/">projects</a> <a class="post-tag btn btn-outline-primary" href="/tags/python/">python</a></div></section></div><div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div></div></div></div><aside aria-label="Scroll to Top"> <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow"> <i class="fas fa-angle-up"></i> </button></aside></div><div id="mask"></div><aside id="notification" class="toast" role="alert" aria-live="assertive" aria-atomic="true" data-bs-animation="true" data-bs-autohide="false" ><div class="toast-header"> <button type="button" class="btn-close ms-auto" data-bs-dismiss="toast" aria-label="Close" ></button></div><div class="toast-body text-center pt-0"><p class="px-2 mb-3">A new version of content is available.</p><button type="button" class="btn btn-primary" aria-label="Update"> Update </button></div></aside><script src="https://cdn.jsdelivr.net/combine/npm/jquery@3.7.1/dist/jquery.min.js,npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js,npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.10/dayjs.min.js,npm/dayjs@1.11.10/locale/en.min.js,npm/dayjs@1.11.10/plugin/relativeTime.min.js,npm/dayjs@1.11.10/plugin/localizedFormat.min.js,npm/tocbot@4.21.2/dist/tocbot.min.js"></script> <script defer src="/assets/js/dist/post.min.js"></script> <script defer src="/app.js"></script> <script defer src="https://www.googletagmanager.com/gtag/js?id=G-CP4QE6ZEV0"></script> <script> document.addEventListener("DOMContentLoaded", function(event) { window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CP4QE6ZEV0'); }); </script> <script> /* Note: dependent library will be loaded in `js-selector.html` */ SimpleJekyllSearch({ searchInput: document.getElementById('search-input'), resultsContainer: document.getElementById('search-results'), json: '/assets/js/data/search.json', searchResultTemplate: '<article class="px-1 px-sm-2 px-lg-4 px-xl-0"><header><h2><a href="{url}">{title}</a></h2><div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1"> {categories} {tags}</div></header><p>{snippet}</p></article>', noResultsText: '<p class="mt-5"></p>', templateMiddleware: function(prop, value, template) { if (prop === 'categories') { if (value === '') { return `${value}`; } else { return `<div class="me-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`; } } if (prop === 'tags') { if (value === '') { return `${value}`; } else { return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`; } } } }); </script>
